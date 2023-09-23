@@ -67,6 +67,6 @@ with open('NEWS.md', 'w', encoding='utf-8') as f:
     rule_position = [5, 10, 13]
     for i in range(len(ctkt_titles)):
         if i in rule_position:
-            f.writelines(f'---\n - [{ctkt_titles[i]}]({ctkt_links[i][:-2]})\n')  # [:-2] to remove unnecessary characters (" )
+            f.writelines(f'\n***\n\n - [{ctkt_titles[i]}]({ctkt_links[i][:-2]})\n')  # [:-2] to remove unnecessary characters (" )
         else:    
             f.writelines(f' - [{ctkt_titles[i]}]({ctkt_links[i][:-2]})\n')
