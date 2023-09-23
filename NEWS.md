@@ -108,17 +108,23 @@
  - [Thông báo phúc khảo HK3/22-23 CT đề án khoa Sinh-CNSH, ĐTVT và Môi trường](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/749-thong-bao-phuc-kh-o-hk3-22-23-ct-d-an-khoa-sinh-cnsh-dtvt-va-moi-tru-ng)
  - [Thông báo thay đổi phòng thi HK3/22-23 ngày 28/08](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/748-thong-bao-thay-d-i-phong-thi-hk3-22-23-ngay-28-08)
  - [Thông báo phúc khảo HK3/22-23 CT đề án khoa Hóa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/746-thong-bao-phuc-kh-o-hk3-22-23-ct-d-an-khoa-hoa)
----
+
+***
+
  - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 HCĐH lớp 22B](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/747-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-hcdh-l-p-22b)
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 hệ ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/744-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-h-dhcq)
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 các lớp đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/743-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-cac-l-p-d-an-khoa-cntt)
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 CT ĐA khoa Sinh bổ sung môn BTE10023](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/742-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-ct-da-khoa-sinh-b-sung-mon-bte10023)
  - [Lịch thi HK2/22-23 (HCĐH 22HCB)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/741-l-ch-thi-hk2-22-23-hcdh-22hcb)
----
+
+***
+
  - [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
  - [Kết quả thi giữa kỳ HK2/22-23 CLC (CẬP NHẬT 8/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/671-k-t-qu-thi-gi-a-ky-hk2-22-23-clc)
----
+
+***
+
  - [Kết quả phúc khảo HK2/22-23 CT Đề án khoa Hóa, Sinh-CNSH, ĐTVT và Môi trường](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/726-k-t-qu-phuc-kh-o-hk2-22-23-ct-d-an-khoa-hoa-sinh-cnsh-dtvt-va-moi-tru-ng)
  - [Kết quả phúc khảo HK1/22-23 HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/723-k-t-qu-phuc-kh-o-hk1-22-23-hcdh-22hcb)
  - [Kết quả phúc khảo HK1/22-23_Hệ CQ_Đợt cuối](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/691-k-t-qu-phuc-kh-o-hk1-22-23-h-cq-d-t-cu-i)
