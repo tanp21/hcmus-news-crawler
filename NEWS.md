@@ -1,6 +1,7 @@
 # All news
 ## APCS
 ### Kế hoạch học tập
+ - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
  - 07/08/2023: [[CTĐA] Kế hoạch năm học 2023 – 2024](https://www.ctda.hcmus.edu.vn/vi/2023/08/ctda-ke-hoach-nam-hoc-2023-2024/)
  - 09/05/2023: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2023-2024/)
  - 30/09/2022: [[CTĐA] Kế hoạch mở học phần năm học 2022-2023 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2022-2023-du-kien/)
@@ -10,7 +11,6 @@
  - 17/02/2021: [Thông báo về kế hoạch học tập sau kì nghỉ Tết Nguyên Đán năm 2021](https://www.ctda.hcmus.edu.vn/vi/2021/02/thong-bao-ve-ke-hoach-hoc-tap-sau-ki-nghi-tet-nguyen-dan-nam-2021/)
  - 07/02/2020: [Về việc thay đổi kế hoạch học tập học kỳ 2 năm học 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/02/ve-viec-thay-doi-ke-hoach-hoc-tap-hoc-ky-2-nam-hoc-2019-2020/)
  - 06/12/2017: [CTĐB – Kế hoạch năm học 2017-2018](https://www.ctda.hcmus.edu.vn/vi/2017/12/ctdb-ke-hoach-nam-hoc-2017-2018/)
- - 01/12/2015: [CTĐB_Kế hoạch năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/12/ke-hoach-nam-hoc-cttt-2015-2016/)
 ### Giáo vụ
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
  - 21/09/2023: [[CLC] Thông báo đăng ký chuyên ngành chính thức ĐỢT BỔ SUNG dành cho SV CHƯA CÓ TÊN trong danh sách được xét chuyên ngành đã thông báo  – Năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2023/09/clc-thong-bao-dang-ky-chuyen-nganh-chinh-thuc-dot-bo-sung-danh-cho-sv-chuong-trinh-chat-luong-cao-nam-hoc-2022-2023/)
@@ -43,6 +43,7 @@
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 24-9-2023: [Danh sách sinh viên tham quan công ty FPT Telecom ngày 3/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15604)
  - 21-9-2023: [Đăng ký tham quan công ty FPT Telecom ngày 3/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15599)
  - 21-9-2023: [[CQ] DSSV chính thức thực hiện KLTN/TTTN/TTDATN Khóa 2020-đợt 1 (bảo vệ T3/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15598)
  - 20-9-2023: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15597)
@@ -52,7 +53,6 @@
  - 18-9-2023: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15588)
  - 15-9-2023: [[CQ] Đổi phòng lớp Xử lý phân tích dữ liệu trực tuyến 20_1 HK1/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15583)
  - 15-9-2023: [[CQ] Thời khóa biểu Lý thuyết học kỳ 1 năm học 2023-2024 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15578)
- - 15-9-2023: [Hội thảo trực tuyến "Giới thiệu các chương trình đào tạo Sau đại học" ngày 23/9/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15576)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 22-09-2023: [Danh sách sinh viên Cao đẳng ngành CNTT dự kiến tốt nghiệp đợt tháng 9/2023](https://www.hcmus.edu.vn/component/content/article/202-phong-dao-tao/thong-bao-he-cao-dang/tot-nghiep_cd/5205-danh-sach-sinh-vien-cao-dang-nganh-cntt-du-kien-tot-nghiep-dot-thang-9-2023?Itemid=437)
