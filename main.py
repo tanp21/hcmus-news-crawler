@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup as bs
 import requests
 import re
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 ctda_page = requests.get("https://www.ctda.hcmus.edu.vn/vi/")
 ctda_soup = bs(ctda_page.content, features='lxml')
@@ -36,7 +38,7 @@ thong_bao = ['Các thông báo về Đào Tạo',
              'Các thông báo về Khảo thí']
 
 with open('NEWS.md', 'w', encoding='utf-8') as f:
-    f.write('# All news\n## APCS\n')
+    f.write(f'# All news\n_Last update: **{datetime.now(tz=ZoneInfo('Asia/Ho_Chi_Minh')))}**_\n## APCS\n')
     for i, section in enumerate(ctda_sections):
         f.write(f'### {ctda_section_titles[i]}\n')
         news = [[el.contents[0].text, el.contents[0].attrs['href'], el.contents[-1].text] for el in section.find_all(class_='listing-item')]
