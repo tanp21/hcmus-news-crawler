@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-09-26 10:48:30.643897+07:00**_
+_Last update: **2023-09-27 07:44:23.946414+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -13,6 +13,7 @@ _Last update: **2023-09-26 10:48:30.643897+07:00**_
  - 07/02/2020: [Về việc thay đổi kế hoạch học tập học kỳ 2 năm học 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/02/ve-viec-thay-doi-ke-hoach-hoc-tap-hoc-ky-2-nam-hoc-2019-2020/)
  - 06/12/2017: [CTĐB – Kế hoạch năm học 2017-2018](https://www.ctda.hcmus.edu.vn/vi/2017/12/ctdb-ke-hoach-nam-hoc-2017-2018/)
 ### Giáo vụ
+ - 26/09/2023: [[CTĐA] – Thông báo phúc khảo HK3/2022-2023](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-thong-bao-phuc-khao-hk3-2022-2023/)
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
  - 21/09/2023: [[CLC] Thông báo đăng ký chuyên ngành chính thức ĐỢT BỔ SUNG dành cho SV CHƯA CÓ TÊN trong danh sách được xét chuyên ngành đã thông báo  – Năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2023/09/clc-thong-bao-dang-ky-chuyen-nganh-chinh-thuc-dot-bo-sung-danh-cho-sv-chuong-trinh-chat-luong-cao-nam-hoc-2022-2023/)
  - 21/09/2023: [[CLC] Kết quả xét chuyên ngành khóa 2021](https://www.ctda.hcmus.edu.vn/vi/2023/09/clc-ket-qua-xet-chuyen-nganh-khoa-2021/)
@@ -22,7 +23,6 @@ _Last update: **2023-09-26 10:48:30.643897+07:00**_
  - 13/09/2023: [[23CTĐA] – Thông báo nộp chứng chỉ ngoại ngữ ONLINE để miễn kiểm tra trình độ ngoại ngữ đầu vào](https://www.ctda.hcmus.edu.vn/vi/2023/09/23ctda-thong-bao-nop-chung-chi-ngoai-ngu-online-de-mien-kiem-tra-trinh-do-ngoai-ngu-dau-vao/)
  - 25/08/2023: [CTTT_HK3/2223_Thông báo khảo sát môn học cuối kỳ](https://www.ctda.hcmus.edu.vn/vi/2023/08/cttt_hk3-2223_thong-bao-khao-sat-mon-hoc-cuoi-ky/)
  - 25/08/2023: [VP_HK3/2223_Thông báo khảo sát môn học cuối kỳ](https://www.ctda.hcmus.edu.vn/vi/2023/08/vp_hk3-2223_thong-bao-khao-sat-mon-hoc-cuoi-ky-2/)
- - 25/08/2023: [CLC_HK3/2223_Thông báo khảo sát môn học cuối kỳ](https://www.ctda.hcmus.edu.vn/vi/2023/08/vp_hk3-2223_thong-bao-khao-sat-mon-hoc-cuoi-ky/)
 ### Trợ lí sinh viên
  - 23/09/2023: [Cẩm nang Tân sinh viên khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2023/09/cam-nang-tan-sinh-vien-khoa-2023/)
  - 20/09/2023: [Thông báo kiểm tra anh văn đối với khoá 2023](https://www.ctda.hcmus.edu.vn/vi/2023/09/thong-bao-kiem-tra-anh-van-doi-voi-khoa-2023/)
@@ -50,10 +50,10 @@ _Last update: **2023-09-26 10:48:30.643897+07:00**_
  - 21-9-2023: [[CQ] DSSV chính thức thực hiện KLTN/TTTN/TTDATN Khóa 2020-đợt 1 (bảo vệ T3/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15598)
  - 20-9-2023: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15597)
  - 19-9-2023: [Thông báo thời gian điều chỉnh Đăng ký học phần HK1/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15596)
+ - 19-9-2023: [Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 9/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15620)
  - 18-9-2023: [[CQ] Đổi phòng lớp Lập trình song song 20KDL1 và 20_21 HK1/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15591)
  - 18-9-2023: [[CQ] Danh sách các lớp đổi phòng từ 19/9/2023 HK1/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15590)
  - 18-9-2023: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15588)
- - 15-9-2023: [[CQ] Đổi phòng lớp Xử lý phân tích dữ liệu trực tuyến 20_1 HK1/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15583)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 25-09-2023: [Danh sách sinh viên dự kiến tốt nghiệp đợt tháng 9/2023 - hệ Đào tạo từ xa ](https://www.hcmus.edu.vn/component/content/article/207-phong-dao-tao/thong-bao-he-dao-tao-tu-xa/tot-nghiep_tx/5208-danh-sach-sinh-vien-du-kien-tot-nghiep-dot-thang-9-2023-he-dao-tao-tu-xa?Itemid=437)
