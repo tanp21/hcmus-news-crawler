@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-09-27 07:44:23.946414+07:00**_
+_Last update: **2023-09-28 07:43:50.600433+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -44,6 +44,8 @@ _Last update: **2023-09-27 07:44:23.946414+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 27-9-2023: [Đăng ký tham quan công ty FAST ngày 12/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15623)
+ - 27-9-2023: [Chương trình thực tập sinh ALGOTRADE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15622)
  - 25-9-2023: [Đăng ký tham quan công ty KMS Technology ngày 5/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15611)
  - 24-9-2023: [Danh sách sinh viên tham quan công ty FPT Telecom ngày 3/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15604)
  - 21-9-2023: [Đăng ký tham quan công ty FPT Telecom ngày 3/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15599)
@@ -52,10 +54,9 @@ _Last update: **2023-09-27 07:44:23.946414+07:00**_
  - 19-9-2023: [Thông báo thời gian điều chỉnh Đăng ký học phần HK1/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15596)
  - 19-9-2023: [Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 9/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15620)
  - 18-9-2023: [[CQ] Đổi phòng lớp Lập trình song song 20KDL1 và 20_21 HK1/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15591)
- - 18-9-2023: [[CQ] Danh sách các lớp đổi phòng từ 19/9/2023 HK1/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15590)
- - 18-9-2023: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15588)
 ## HCMUS
 ### Các thông báo về Đào Tạo
+ - 27-09-2023: [Thông báo về việc hủy, mở bổ sung và cập nhật phòng học các lớp Khóa 2022 trong HK1/2023-2024 cho SV bậc đại học hệ chính quy – đợt 3)](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5213-thong-bao-ve-viec-huy-mo-bo-sung-va-cap-nhat-phong-hoc-cac-lop-khoa-2022-trong-hk1-2023-2024-cho-sv-bac-dai-hoc-he-chinh-quy-dot-3?Itemid=437)
  - 25-09-2023: [Danh sách sinh viên dự kiến tốt nghiệp đợt tháng 9/2023 - hệ Đào tạo từ xa ](https://www.hcmus.edu.vn/component/content/article/207-phong-dao-tao/thong-bao-he-dao-tao-tu-xa/tot-nghiep_tx/5208-danh-sach-sinh-vien-du-kien-tot-nghiep-dot-thang-9-2023-he-dao-tao-tu-xa?Itemid=437)
  - 22-09-2023: [Danh sách sinh viên Cao đẳng ngành CNTT dự kiến tốt nghiệp đợt tháng 9/2023](https://www.hcmus.edu.vn/component/content/article/202-phong-dao-tao/thong-bao-he-cao-dang/tot-nghiep_cd/5205-danh-sach-sinh-vien-cao-dang-nganh-cntt-du-kien-tot-nghiep-dot-thang-9-2023?Itemid=437)
  - 22-09-2023: [Danh sách sinh viên Liên thông đại học dự kiến tốt nghiệp đợt tháng 9/2023](https://www.hcmus.edu.vn/component/content/article/195-phong-dao-tao/thong-bao-lien-thong-dai-hoc/tot-nghiep_lt/5204-danh-sach-sinh-vien-lien-thong-dai-hoc-du-kien-tot-nghiep-dot-thang-9-2023?Itemid=437)
@@ -70,8 +71,8 @@ _Last update: **2023-09-27 07:44:23.946414+07:00**_
  - 14-09-2023: [Kết quả kiểm tra năng lực tiếng Anh Khóa 2023 ](https://www.hcmus.edu.vn/component/content/article/277-phong-dao-tao/thong-bao-tan-sinh-vien/tan-sv-thong-bao-quan-trong/5185-ket-qua-kiem-tra-nang-luc-tieng-anh-khoa-2023?Itemid=437)
  - 12-09-2023: [Danh sách kiểm tra trình độ Anh văn đầu khóa 2023](https://www.hcmus.edu.vn/component/content/article/277-phong-dao-tao/thong-bao-tan-sinh-vien/tan-sv-thong-bao-quan-trong/5183-danh-sach-kiem-tra-trinh-do-anh-van-dau-khoa-2023?Itemid=437)
  - 06-09-2023: [Thông báo đăng ký học phần học kỳ 1 năm học 2023-2024 cho sinh viên bậc cao đẳng Khóa 2018](https://www.hcmus.edu.vn/component/content/article/200-phong-dao-tao/thong-bao-he-cao-dang/dang-ky-hoc-phan_cd/5172-thong-bao-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2023-2024-cho-sinh-vien-bac-cao-dang-khoa-2018?Itemid=437)
- - 30-08-2023: [Kế hoạch học tập và các mốc thời gian cần chú ý đối với sinh viên K2023](https://www.hcmus.edu.vn/component/content/article/277-phong-dao-tao/thong-bao-tan-sinh-vien/tan-sv-thong-bao-quan-trong/5163-ke-hoach-hoc-tap-va-cac-moc-thoi-gian-can-chu-y-doi-voi-sinh-vien-k2023?Itemid=437)
 ### Các thông báo về Công tác sinh viên
+ - 27-09-2023: [THÔNG BÁO  Tổ chức Đường chạy sinh viên “S-UPRACExHCMUS” năm 2023   ](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5212-thong-bao-to-chuc-duong-chay-sinh-vien-s-upracexhcmus-nam-2023?Itemid=437)
  - 26-09-2023: [TB V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm  sau Tuần lễ Sinh hoạt Công dân đầu khóa năm học 2023-2024   ](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5209-tb-v-v-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoat-cong-dan-dau-khoa-nam-hoc-2023-2024?Itemid=437)
  - 21-09-2023: [Chương trình trao tặng hỗ trợ tài chính của Tổng công ty PTSC cho các sinh viên năm học 2023 - 2024 Đợt 2](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5203-chuong-trinh-trao-tang-ho-tro-tai-chinh-cua-tong-cong-ty-ptsc-cho-cac-sinh-vien-nam-hoc-2023-2024-dot-2?Itemid=437)
  - 19-09-2023: [TB Triển khai Cuộc thi “Học sinh, sinh viên với ý tưởng khởi nghiệp” lần VI](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5200-tb-trien-khai-cuoc-thi-hoc-sinh-sinh-vien-voi-y-tuong-khoi-nghiep-lan-vi?Itemid=437)
@@ -86,7 +87,6 @@ _Last update: **2023-09-27 07:44:23.946414+07:00**_
  - 05-09-2023: [Sổ tay Sinh viên online Năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/124-cong-tac-sinh-vien/thong-tin-danh-cho-tan-sinh-vien/5171-so-tay-sinh-vien-online-nam-hoc-2023-2024?Itemid=437)
  - 31-08-2023: [TB Chương trình học bổng Mitsubishi UFJ Foundation năm 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5169-tb-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-2023?Itemid=437)
  - 31-08-2023: [Chương trình học bổng Pony Chung 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5168-chuong-trinh-hoc-bong-pony-chung-2023?Itemid=437)
- - 31-08-2023: [THÔNG BÁO Chương trình Học bổng POSCO TJ Park Foundation năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5167-thong-bao-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2023-2024?Itemid=437)
 ### Thông báo khác
  - 19-09-2023: [Hội nghị các nhà Khoa học trẻ toàn quốc trong lĩnh vực Khoa học Tự nhiên và Công nghệ lần thứ V](https://www.hcmus.edu.vn/component/content/article?id=5199:hoi-nghi-cac-nha-khoa-hoc-tre-toan-quoc-trong-linh-vuc-khoa-hoc-tu-nhien-va-cong-nghe-lan-thu-v&catid=100&Itemid=437)
  - 24-08-2023: [Giải thưởng Sáng tạo tương lai - VietFuture 2023](https://www.hcmus.edu.vn/component/content/article?id=5148:giai-thuong-sang-tao-tuong-lai-vietfuture-2023&catid=100&Itemid=437)
@@ -112,11 +112,11 @@ _Last update: **2023-09-27 07:44:23.946414+07:00**_
 
 ***
 
+ - [Lịch thi cuối kỳ sớm HK1/23-24 CT đề án khoa Hóa 2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/754-l-ch-thi-cu-i-ky-s-m-hk1-23-24-ct-d-an-khoa-hoa-2021)
+ - [Lịch thi giữa kỳ HK1/23-24 CT đề án khoa Hóa khóa 2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/753-l-ch-thi-gi-a-ky-hk1-23-24-ct-d-an-khoa-hoa-khoa-2021)
  - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 HCĐH lớp 22B](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/747-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-hcdh-l-p-22b)
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 hệ ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/744-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-h-dhcq)
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 các lớp đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/743-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-cac-l-p-d-an-khoa-cntt)
- - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 CT ĐA khoa Sinh bổ sung môn BTE10023](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/742-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-ct-da-khoa-sinh-b-sung-mon-bte10023)
- - [Lịch thi HK2/22-23 (HCĐH 22HCB)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/741-l-ch-thi-hk2-22-23-hcdh-22hcb)
 
 ***
 
