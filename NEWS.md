@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-09-30 07:42:50.227867+07:00**_
+_Last update: **2023-10-01 07:51:32.709243+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -44,6 +44,7 @@ _Last update: **2023-09-30 07:42:50.227867+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 30-9-2023: [Danh sách sinh viên tham quan công ty KMS Technology ngày 5/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15630)
  - 29-9-2023: [[CQ] TKB lý thuyết và thực hành chính thức HK1/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15628)
  - 27-9-2023: [Đăng ký tham quan công ty FAST ngày 12/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15623)
  - 27-9-2023: [Chương trình thực tập sinh ALGOTRADE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15622)
@@ -53,7 +54,6 @@ _Last update: **2023-09-30 07:42:50.227867+07:00**_
  - 21-9-2023: [[CQ] DSSV chính thức thực hiện KLTN/TTTN/TTDATN Khóa 2020-đợt 1 (bảo vệ T3/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15598)
  - 20-9-2023: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15597)
  - 19-9-2023: [Thông báo thời gian điều chỉnh Đăng ký học phần HK1/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15596)
- - 19-9-2023: [Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 9/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15620)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 27-09-2023: [Thông báo về việc hủy, mở bổ sung và cập nhật phòng học các lớp Khóa 2022 trong HK1/2023-2024 cho SV bậc đại học hệ chính quy – đợt 3)](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5213-thong-bao-ve-viec-huy-mo-bo-sung-va-cap-nhat-phong-hoc-cac-lop-khoa-2022-trong-hk1-2023-2024-cho-sv-bac-dai-hoc-he-chinh-quy-dot-3?Itemid=437)
