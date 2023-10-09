@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-10-08 07:48:20.353022+07:00**_
+_Last update: **2023-10-09 07:44:29.407420+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -44,16 +44,16 @@ _Last update: **2023-10-08 07:48:20.353022+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
- - 6-10-2023: [Let's Run! UPRACE 2023 has officially started!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15661)
- - 6-10-2023: [Postgraduate Scholarships and New Zealand Education Fair 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15660)
+ - 8-10-2023: [Khoa Công nghệ thông tin tham gia hoạt động kiểm định theo Bộ tiêu chuẩn ASIIN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15695)
  - 5-10-2023: [Danh sách sinh viên tham quan công ty FPT Software ngày 17/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15642)
  - 4-10-2023: [Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15640)
  - 4-10-2023: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 27/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15638)
- - 3-10-2023: [Registration for the Workshop - CV Writing and Networking Skills for Technology Students](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15658)
  - 2-10-2023: [Đăng ký tham dự Talkshow "Kiến thức nền tảng về Công nghệ Blockchain, Web3 và The Metaverse: Cơ hội nghề nghiệp và thách thức cho giới trẻ"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15633)
- - 2-10-2023: [Talkshow "Fundamental Knowledge about Blockchain Technology, Web3, and The Metaverse: Career Opportunities and Challenges for the Youth"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15657)
  - 1-10-2023: [Danh sách tham quan công ty FAST ngày 12/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15632)
  - 1-10-2023: [Đăng ký tham quan công ty FPT Software ngày 17/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15631)
+ - 30-9-2023: [Danh sách sinh viên tham quan công ty KMS Technology ngày 5/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15630)
+ - 29-9-2023: [[CQ] TKB lý thuyết và thực hành chính thức HK1/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15628)
+ - 27-9-2023: [Đăng ký tham quan công ty FAST ngày 12/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15623)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 04-10-2023: [Lịch học môn Thực tập sinh hóa, lớp 22CSH](https://www.hcmus.edu.vn/component/content/article/191-phong-dao-tao/thong-bao-he-chinh-quy/thong-bao-khac/5222-lich-hoc-mon-thuc-tap-sinh-hoa-lop-22csh?Itemid=437)
