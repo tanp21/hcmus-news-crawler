@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-10-18 07:44:28.261100+07:00**_
+_Last update: **2023-10-19 07:44:14.599532+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -72,7 +72,7 @@ _Last update: **2023-10-18 07:44:28.261100+07:00**_
  - 18-09-2023: [Thời khóa biểu, tên giảng viên và địa điểm học môn Thể dục 1 HK1/2023-2024](https://www.hcmus.edu.vn/component/content/article/277-phong-dao-tao/thong-bao-tan-sinh-vien/tan-sv-thong-bao-quan-trong/5195-thoi-khoa-bieu-ten-giang-vien-va-dia-diem-hoc-mon-the-duc-1-hk1-2023-2024?Itemid=437)
  - 17-09-2023: [Thông báo thời gian học môn Lịch sử Đảng Cộng sản Việt Nam](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5194-thong-bao-thoi-gian-hoc-mon-lich-su-dang-cong-san-viet-nam?Itemid=437)
 ### Các thông báo về Công tác sinh viên
- - 16-10-2023: [Thông báo Chương trình học bổng “ Chắp cánh ước mơ” tài trợ SV của Công ty Dương Nhật Đợt 2 năm 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5249-thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sv-cua-cong-ty-duong-nhat-dot-2-nam-2023?Itemid=437)
+ - 16-10-2023: [TB Chương trình học bổng “ Chắp cánh ước mơ” của Công ty Dương Nhật Đợt 2 năm 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5249-tb-chuong-trinh-hoc-bong-chap-canh-uoc-mo-cua-cong-ty-duong-nhat-dot-2-nam-2023?Itemid=437)
  - 12-10-2023: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2022-2023 ](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5242-thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2022-2023?Itemid=437)
  - 06-10-2023: [THÔNG BÁO Lịch đăng ký Sinh hoạt Công dân Đầu năm, năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5226-thong-bao-lich-dang-ky-sinh-hoat-cong-dan-dau-nam-nam-hoc-2023-2024?Itemid=437)
  - 05-10-2023: [Thông báo học bổng từ nguồn tài trợ của Tập đoàn Novaland 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5224-thong-bao-hoc-bong-tu-nguon-tai-tro-cua-tap-doan-novaland-2023?Itemid=437)
@@ -104,11 +104,11 @@ _Last update: **2023-10-18 07:44:28.261100+07:00**_
  - 17-11-2022: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ I NĂM HỌC 2022-2023](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4718-thong-bao-thu-hoc-phi-hoc-ky-i-nam-hoc-2022-2023?Itemid=437)
  - 21-09-2022: [[Thông báo] Học bổng Nữ sinh Công nghệ dành cho sinh viên thuộc khối ngành kỹ thuật](https://www.hcmus.edu.vn/component/content/article/104-quan-he-doi-ngoai/thông-tin-dành-cho-sinh-viên/4591-thong-bao-hoc-bong-nu-sinh-cong-nghe-danh-cho-sinh-vien-thuoc-khoi-nganh-ky-thuat?Itemid=437)
 ### Các thông báo về Khảo thí
+ - [Thông báo thay đổi phòng thi HK1/23-24 ngày 21/10 tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/760-thong-bao-thay-d-i-phong-thi-hk1-23-24-ngay-21-10)
  - [Thông báo phúc khảo HK2/22-23 HCĐH lớp 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/752-thong-bao-phuc-kh-o-hk2-22-23-hcdh-l-p-22hcb)
  - [Thông báo phúc khảo HK3/22-23 ct đề án CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/751-thong-bao-phuc-kh-o-hk3-22-23-ct-d-an-cntt)
  - [Thông báo phúc khảo HK3/22-23 ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/750-thong-bao-phuc-kh-o-hk3-22-23-dhcq)
  - [Thông báo phúc khảo HK3/22-23 CT đề án khoa Sinh-CNSH, ĐTVT và Môi trường](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/749-thong-bao-phuc-kh-o-hk3-22-23-ct-d-an-khoa-sinh-cnsh-dtvt-va-moi-tru-ng)
- - [Thông báo thay đổi phòng thi HK3/22-23 ngày 28/08](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/748-thong-bao-thay-d-i-phong-thi-hk3-22-23-ngay-28-08)
 
 ***
 
