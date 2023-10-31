@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-10-31 18:08:03.459302+07:00**_
+_Last update: **2023-10-31 19:17:13.671010+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -76,7 +76,7 @@ _Last update: **2023-10-31 18:08:03.459302+07:00**_
  - 31-10-2023: [TB Chương trình học bổng sinh viên tài năng – The sponsorship program for talented students – Never give up](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5237-tb-chuong-trinh-hoc-bong-sinh-vien-tai-nang-the-sponsorship-program-for-talented-students-never-give-up?Itemid=437)
  - 27-10-2023: [THÔNG BÁO  Kết quả đăng ký Sinh hoạt Công dân Đầu năm, năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5231-thong-bao-ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-nam-hoc-2023-2024?Itemid=437)
  - 27-10-2023: [Thông báo cung cấp thông tin lưu trú năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5230-thong-bao-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024?Itemid=437)
- - 27-10-2023: [Thông báo kết quả dự kiến HBKK HK2/22-23 dành cho sinh viên các CTĐA ](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5229-thong-bao-ket-qua-du-kien-hbkk-hk2-22-23-danh-cho-sinh-vien-cac-ctda?Itemid=437)
+ - 27-10-2023: [Thông báo kết quả dự kiến HBKK HK2/22-23 dành cho sinh viên các CTĐA (có thêm Khoa CNTT)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5229-thong-bao-ket-qua-du-kien-hbkk-hk2-22-23-danh-cho-sinh-vien-cac-ctda-co-them-khoa-cntt?Itemid=437)
  - 27-10-2023: [Thông báo Ứng tuyển hồ sơ chương trình học bổng “Ước mơ cho em” của Đài truyền hình TP.HCM (HTV)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5225-thong-bao-ung-tuyen-ho-so-chuong-trinh-hoc-bong-uoc-mo-cho-em-cua-dai-truyen-hinh-tphcm-htv?Itemid=437)
  - 23-10-2023: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2/2022-2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5234-thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-2022-2023?Itemid=437)
  - 12-10-2023: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2022-2023 ](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5233-thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2022-2023?Itemid=437)
