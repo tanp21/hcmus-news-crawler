@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-01 14:09:21.124571+07:00**_
+_Last update: **2023-11-01 15:12:06.965385+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -72,6 +72,7 @@ _Last update: **2023-11-01 14:09:21.124571+07:00**_
  - 15-09-2023: [Thông báo đăng ký học lại học phần Lý thuyết đồ thị, Thống kê máy tinh và ứng dụng trong HK1/2023-2024 cho SV Liên thông đại học](https://www.hcmus.edu.vn/component/content/article/193-phong-dao-tao/thong-bao-lien-thong-dai-hoc/dang-ky-hoc-phan_lt/5192-thong-bao-dang-ky-hoc-lai-hoc-phan-ly-thuyet-do-thi-thong-ke-may-tinh-va-ung-dung-trong-hk1-2023-2024-cho-sv-lien-thong-dai-hoc?Itemid=437)
  - 15-09-2023: [Danh sách sinh viên dự kiến tốt nghiệp đại học (update) _ đợt tháng 8 và 9/2023](https://www.hcmus.edu.vn/component/content/article/189-phong-dao-tao/thong-bao-he-chinh-quy/tot-nghiep/5187-danh-sach-sinh-vien-du-kien-tot-nghiep-dai-hoc-update-dot-thang-8-va-9-2023?Itemid=437)
 ### Các thông báo về Công tác sinh viên
+ - 01-11-2023: [Thông báo v/v thu phí bảo hiểm y tế năm 2024 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2023)](https://www.hcmus.edu.vn/component/content/article/128-cong-tac-sinh-vien/thong-bao-bao-hiem-sinh-vien/5239-thong-bao-v-v-thu-phi-bao-hiem-y-te-nam-2024-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2023?Itemid=437)
  - 31-10-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 28 và 29/10/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5238-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-28-va-29-10-2023?Itemid=437)
  - 31-10-2023: [TB Chương trình học bổng sinh viên tài năng – The sponsorship program for talented students – Never give up](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5237-tb-chuong-trinh-hoc-bong-sinh-vien-tai-nang-the-sponsorship-program-for-talented-students-never-give-up?Itemid=437)
  - 31-10-2023: [Thông tin chương trình KIT Bio Tech & IT Spring School 2024](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5236-thong-tin-chuong-trinh-kit-bio-tech-it-spring-school-2024?Itemid=437)
@@ -86,7 +87,6 @@ _Last update: **2023-11-01 14:09:21.124571+07:00**_
  - 29-09-2023: [Thông báo về việc nộp hồ sơ  học bổng tài năng Christina Noble (Christina Noble Education Programme) của CNCF](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5216-thong-bao-ve-viec-nop-ho-so-hoc-bong-tai-nang-christina-noble-christina-noble-education-programme-cua-cncf?Itemid=437)
  - 28-09-2023: [THÔNG BÁO  Triển khai Cuộc thi “Ý tưởng Khởi nghiệp Sáng tạo Công nghệ Quốc gia” năm 2023](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5215-thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sang-tao-cong-nghe-quoc-gia-nam-2023?Itemid=437)
  - 27-09-2023: [THÔNG BÁO  Tổ chức Đường chạy sinh viên “S-UPRACExHCMUS” năm 2023   ](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5212-thong-bao-to-chuc-duong-chay-sinh-vien-s-upracexhcmus-nam-2023?Itemid=437)
- - 26-09-2023: [TB V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm  sau Tuần lễ Sinh hoạt Công dân đầu khóa năm học 2023-2024   ](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5209-tb-v-v-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoat-cong-dan-dau-khoa-nam-hoc-2023-2024?Itemid=437)
 ### Thông báo khác
  - 19-09-2023: [Hội nghị các nhà Khoa học trẻ toàn quốc trong lĩnh vực Khoa học Tự nhiên và Công nghệ lần thứ V](https://www.hcmus.edu.vn/component/content/article?id=5199:hoi-nghi-cac-nha-khoa-hoc-tre-toan-quoc-trong-linh-vuc-khoa-hoc-tu-nhien-va-cong-nghe-lan-thu-v&catid=100&Itemid=437)
  - 24-08-2023: [Giải thưởng Sáng tạo tương lai - VietFuture 2023](https://www.hcmus.edu.vn/component/content/article?id=5148:giai-thuong-sang-tao-tuong-lai-vietfuture-2023&catid=100&Itemid=437)
