@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-01 10:10:04.800043+07:00**_
+_Last update: **2023-11-01 11:11:07.060498+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -44,6 +44,7 @@ _Last update: **2023-11-01 10:10:04.800043+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 1-11-2023: [Đăng ký tham gia Hội thảo "Ứng dụng công nghệ trong chuyển đổi số"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15744)
  - 31-10-2023: [Đăng ký tham quan công ty TMA Tech Group ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15743)
  - 31-10-2023: [Khoa Công nghệ thông tin, ĐHKHTN - ĐHQG-HCM, vinh dự tham gia BTC của Hội nghị IUKM 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15741)
  - 30-10-2023: [Đăng ký tham dự buổi Trao đổi các phương thức thực hiện đề tài dành cho học viên cao học khóa 32/2022 ngày 01/11/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15740)
@@ -53,7 +54,6 @@ _Last update: **2023-11-01 10:10:04.800043+07:00**_
  - 19-10-2023: [Chúc mừng thành tích của các sinh viên tại hội thi “Thử thách trí tuệ nhân tạo"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15725)
  - 17-10-2023: [Đăng ký tham quan công ty VNG ngày 23/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15716)
  - 17-10-2023: [Buỗi lễ trao tặng học bổng của ASQ Team cho Quỹ học bổng ASF](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15717)
- - 16-10-2023: [Danh sách sinh viên tham quan công ty Netcompany ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15712)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 27-10-2023: [Thông báo nộp học phí HK1/2023-2024 đối với sinh viên hệ chính quy, chương trình đại trà](https://www.hcmus.edu.vn/component/content/article/187-phong-dao-tao/thong-bao-he-chinh-quy/hoc-phi/5227-thong-bao-nop-hoc-phi-hk1-2023-2024-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra?Itemid=437)
@@ -74,6 +74,7 @@ _Last update: **2023-11-01 10:10:04.800043+07:00**_
 ### Các thông báo về Công tác sinh viên
  - 31-10-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 28 và 29/10/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5238-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-28-va-29-10-2023?Itemid=437)
  - 31-10-2023: [TB Chương trình học bổng sinh viên tài năng – The sponsorship program for talented students – Never give up](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5237-tb-chuong-trinh-hoc-bong-sinh-vien-tai-nang-the-sponsorship-program-for-talented-students-never-give-up?Itemid=437)
+ - 31-10-2023: [Thông tin chương trình KIT Bio Tech & IT Spring School 2024](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5236-thong-tin-chuong-trinh-kit-bio-tech-it-spring-school-2024?Itemid=437)
  - 27-10-2023: [THÔNG BÁO  Kết quả đăng ký Sinh hoạt Công dân Đầu năm, năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5231-thong-bao-ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-nam-hoc-2023-2024?Itemid=437)
  - 27-10-2023: [Thông báo cung cấp thông tin lưu trú năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5230-thong-bao-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024?Itemid=437)
  - 27-10-2023: [Thông báo kết quả dự kiến HBKK HK2/22-23 dành cho sinh viên các CTĐA (có thêm Khoa CNTT)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5229-thong-bao-ket-qua-du-kien-hbkk-hk2-22-23-danh-cho-sinh-vien-cac-ctda-co-them-khoa-cntt?Itemid=437)
@@ -86,7 +87,6 @@ _Last update: **2023-11-01 10:10:04.800043+07:00**_
  - 28-09-2023: [THÔNG BÁO  Triển khai Cuộc thi “Ý tưởng Khởi nghiệp Sáng tạo Công nghệ Quốc gia” năm 2023](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5215-thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sang-tao-cong-nghe-quoc-gia-nam-2023?Itemid=437)
  - 27-09-2023: [THÔNG BÁO  Tổ chức Đường chạy sinh viên “S-UPRACExHCMUS” năm 2023   ](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5212-thong-bao-to-chuc-duong-chay-sinh-vien-s-upracexhcmus-nam-2023?Itemid=437)
  - 26-09-2023: [TB V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm  sau Tuần lễ Sinh hoạt Công dân đầu khóa năm học 2023-2024   ](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5209-tb-v-v-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoat-cong-dan-dau-khoa-nam-hoc-2023-2024?Itemid=437)
- - 21-09-2023: [Chương trình trao tặng hỗ trợ tài chính của Tổng công ty PTSC cho các sinh viên năm học 2023 - 2024 Đợt 2](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5203-chuong-trinh-trao-tang-ho-tro-tai-chinh-cua-tong-cong-ty-ptsc-cho-cac-sinh-vien-nam-hoc-2023-2024-dot-2?Itemid=437)
 ### Thông báo khác
  - 19-09-2023: [Hội nghị các nhà Khoa học trẻ toàn quốc trong lĩnh vực Khoa học Tự nhiên và Công nghệ lần thứ V](https://www.hcmus.edu.vn/component/content/article?id=5199:hoi-nghi-cac-nha-khoa-hoc-tre-toan-quoc-trong-linh-vuc-khoa-hoc-tu-nhien-va-cong-nghe-lan-thu-v&catid=100&Itemid=437)
  - 24-08-2023: [Giải thưởng Sáng tạo tương lai - VietFuture 2023](https://www.hcmus.edu.vn/component/content/article?id=5148:giai-thuong-sang-tao-tuong-lai-vietfuture-2023&catid=100&Itemid=437)
