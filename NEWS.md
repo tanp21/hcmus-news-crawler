@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-02 17:09:47.993697+07:00**_
+_Last update: **2023-11-02 18:08:03.674012+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -112,7 +112,7 @@ _Last update: **2023-11-02 17:09:47.993697+07:00**_
 
 ***
 
- - [Lịch thi cuối kỳ (sớm) HK1/23-24 chính quy tại LT và NVC](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/775-l-ch-thi-cu-i-ky-s-m-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
+ - [Lịch thi cuối kỳ (sớm) HK1/23-24 chính quy tại LT và NVC (CẬP NHẬT 2/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/775-l-ch-thi-cu-i-ky-s-m-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi HK1/23-24 HCĐH lớp 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/774-l-ch-thi-hk1-23-24-hcdh-l-p-22hcb)
  - [Lịch thi HK1/23-24 CT đề án khoa Hóa K2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/772-l-ch-thi-hk1-23-24-ct-d-an-khoa-hoa-k2021)
  - [Lịch thi (chi tiết) giữa kỳ HK1/23-24 môn 'CSC14003' và 'BTE10305'](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/771-l-ch-thi-chi-ti-t-gi-a-ky-hk1-23-24-mon-csc14003-va-bte10305)
