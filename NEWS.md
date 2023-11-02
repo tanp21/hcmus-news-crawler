@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-02 08:43:38.329207+07:00**_
+_Last update: **2023-11-02 09:16:59.827807+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -47,7 +47,7 @@ _Last update: **2023-11-02 08:43:38.329207+07:00**_
  - 1-11-2023: [Sinh viên khoa Công nghệ thông tin đạt hạng nhất thế giới lần thứ hai liên tiếp trong cuộc thi lập trình sinh viên IEEExtreme năm 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15745)
  - 1-11-2023: [Đăng ký tham gia Hội thảo "Ứng dụng công nghệ trong chuyển đổi số"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15744)
  - 31-10-2023: [Đăng ký tham quan công ty TMA Tech Group ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15743)
- - 31-10-2023: [Khoa Công nghệ thông tin, ĐHKHTN - ĐHQG-HCM, vinh dự tham gia BTC của Hội nghị IUKM 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15741)
+ - 31-10-2023: [Khoa Công nghệ thông tin, ĐHKHTN - ĐHQG-HCM, vinh dự tham gia tổ chức Hội nghị IUKM 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15741)
  - 30-10-2023: [Đăng ký tham dự buổi Trao đổi các phương thức thực hiện đề tài dành cho học viên cao học khóa 32/2022 ngày 01/11/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15740)
  - 25-10-2023: [Đăng ký tham quan công ty LIFULL Tech Vietnam ngày 14/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15734)
  - 23-10-2023: [[CQ] Nghỉ học các lớp tại cơ sở Linh Trung dãy nhà F ngày 26/10/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15731)
