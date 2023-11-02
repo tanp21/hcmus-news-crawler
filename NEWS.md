@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-02 12:09:07.201038+07:00**_
+_Last update: **2023-11-02 13:12:11.566491+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -56,6 +56,7 @@ _Last update: **2023-11-02 12:09:07.201038+07:00**_
  - 19-10-2023: [Chúc mừng thành tích của các sinh viên tại hội thi “Thử thách trí tuệ nhân tạo"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15725)
 ## HCMUS
 ### Các thông báo về Đào Tạo
+ - 02-11-2023: [Thông báo nộp học phí HK1/2023-2024 đối với sinh viên chương trình Tiên tiến, Chất lượng cao và Việt-Pháp](https://www.hcmus.edu.vn/component/content/article/187-phong-dao-tao/thong-bao-he-chinh-quy/hoc-phi/5242-thong-bao-nop-hoc-phi-hk1-2023-2024-doi-voi-sinh-vien-chuong-trinh-tien-tien-chat-luong-cao-va-viet-phap?Itemid=437)
  - 02-11-2023: [Danh sách sinh viên tốt nghiệp đại học Tháng 10/2023 - hệ chính quy](https://www.hcmus.edu.vn/component/content/article/189-phong-dao-tao/thong-bao-he-chinh-quy/tot-nghiep/5241-danh-sach-sinh-vien-tot-nghiep-dai-hoc-thang-10-2023-he-chinh-quy?Itemid=437)
  - 27-10-2023: [Thông báo nộp học phí HK1/2023-2024 đối với sinh viên hệ chính quy, chương trình đại trà](https://www.hcmus.edu.vn/component/content/article/187-phong-dao-tao/thong-bao-he-chinh-quy/hoc-phi/5227-thong-bao-nop-hoc-phi-hk1-2023-2024-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra?Itemid=437)
  - 27-10-2023: [Thông báo cảnh báo học tập và buộc thôi học  đối với sinh viên hệ chính quy tại học kỳ 1 năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/191-phong-dao-tao/thong-bao-he-chinh-quy/thong-bao-khac/5226-thong-bao-canh-bao-hoc-tap-va-buoc-thoi-hoc-doi-voi-sinh-vien-he-chinh-quy-tai-hoc-ky-1-nam-hoc-2023-2024?Itemid=437)
@@ -70,7 +71,6 @@ _Last update: **2023-11-02 12:09:07.201038+07:00**_
  - 18-09-2023: [Thời khóa biểu, tên giảng viên và địa điểm học môn Thể dục 1 HK1/2023-2024](https://www.hcmus.edu.vn/component/content/article/277-phong-dao-tao/thong-bao-tan-sinh-vien/tan-sv-thong-bao-quan-trong/5195-thoi-khoa-bieu-ten-giang-vien-va-dia-diem-hoc-mon-the-duc-1-hk1-2023-2024?Itemid=437)
  - 17-09-2023: [Thông báo thời gian học môn Lịch sử Đảng Cộng sản Việt Nam](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5194-thong-bao-thoi-gian-hoc-mon-lich-su-dang-cong-san-viet-nam?Itemid=437)
  - 17-09-2023: [Thông báo thời gian bắt đầu học môn Anh văn đối với Khóa 2023](https://www.hcmus.edu.vn/component/content/article/277-phong-dao-tao/thong-bao-tan-sinh-vien/tan-sv-thong-bao-quan-trong/5193-thong-bao-thoi-gian-bat-dau-hoc-mon-anh-van-doi-voi-khoa-2023?Itemid=437)
- - 15-09-2023: [Thông báo đăng ký học lại học phần Lý thuyết đồ thị, Thống kê máy tinh và ứng dụng trong HK1/2023-2024 cho SV Liên thông đại học](https://www.hcmus.edu.vn/component/content/article/193-phong-dao-tao/thong-bao-lien-thong-dai-hoc/dang-ky-hoc-phan_lt/5192-thong-bao-dang-ky-hoc-lai-hoc-phan-ly-thuyet-do-thi-thong-ke-may-tinh-va-ung-dung-trong-hk1-2023-2024-cho-sv-lien-thong-dai-hoc?Itemid=437)
 ### Các thông báo về Công tác sinh viên
  - 01-11-2023: [Thông báo v/v thu phí bảo hiểm y tế năm 2024 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2023)](https://www.hcmus.edu.vn/component/content/article/128-cong-tac-sinh-vien/thong-bao-bao-hiem-sinh-vien/5239-thong-bao-v-v-thu-phi-bao-hiem-y-te-nam-2024-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2023?Itemid=437)
  - 31-10-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 28 và 29/10/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5238-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-28-va-29-10-2023?Itemid=437)
