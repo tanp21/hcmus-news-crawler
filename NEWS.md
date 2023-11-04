@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-04 10:09:32.299594+07:00**_
+_Last update: **2023-11-04 11:10:55.150573+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -72,6 +72,7 @@ _Last update: **2023-11-04 10:09:32.299594+07:00**_
  - 17-09-2023: [Thông báo thời gian học môn Lịch sử Đảng Cộng sản Việt Nam](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5194-thong-bao-thoi-gian-hoc-mon-lich-su-dang-cong-san-viet-nam?Itemid=437)
  - 17-09-2023: [Thông báo thời gian bắt đầu học môn Anh văn đối với Khóa 2023](https://www.hcmus.edu.vn/component/content/article/277-phong-dao-tao/thong-bao-tan-sinh-vien/tan-sv-thong-bao-quan-trong/5193-thong-bao-thoi-gian-bat-dau-hoc-mon-anh-van-doi-voi-khoa-2023?Itemid=437)
 ### Các thông báo về Công tác sinh viên
+ - 03-11-2023: [[TB] Lịch đăng ký Sinh hoạt Công dân Đầu năm, năm học 2023-2024  (đợt bổ sung)](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5245-tb-lich-dang-ky-sinh-hoat-cong-dan-dau-nam-nam-hoc-2023-2024-dot-bo-sung?Itemid=437)
  - 01-11-2023: [Thông báo v/v thu phí bảo hiểm y tế năm 2024 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2023)](https://www.hcmus.edu.vn/component/content/article/128-cong-tac-sinh-vien/thong-bao-bao-hiem-sinh-vien/5239-thong-bao-v-v-thu-phi-bao-hiem-y-te-nam-2024-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2023?Itemid=437)
  - 31-10-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 28 và 29/10/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5238-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-28-va-29-10-2023?Itemid=437)
  - 31-10-2023: [TB Chương trình học bổng sinh viên tài năng – The sponsorship program for talented students – Never give up](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5237-tb-chuong-trinh-hoc-bong-sinh-vien-tai-nang-the-sponsorship-program-for-talented-students-never-give-up?Itemid=437)
@@ -86,7 +87,6 @@ _Last update: **2023-11-04 10:09:32.299594+07:00**_
  - 03-10-2023: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2022-2023](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5220-thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2022-2023?Itemid=437)
  - 29-09-2023: [Thông báo về việc nộp hồ sơ  học bổng tài năng Christina Noble (Christina Noble Education Programme) của CNCF](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5216-thong-bao-ve-viec-nop-ho-so-hoc-bong-tai-nang-christina-noble-christina-noble-education-programme-cua-cncf?Itemid=437)
  - 28-09-2023: [THÔNG BÁO  Triển khai Cuộc thi “Ý tưởng Khởi nghiệp Sáng tạo Công nghệ Quốc gia” năm 2023](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5215-thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sang-tao-cong-nghe-quoc-gia-nam-2023?Itemid=437)
- - 27-09-2023: [THÔNG BÁO  Tổ chức Đường chạy sinh viên “S-UPRACExHCMUS” năm 2023   ](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5212-thong-bao-to-chuc-duong-chay-sinh-vien-s-upracexhcmus-nam-2023?Itemid=437)
 ### Thông báo khác
  - 02-11-2023: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ I NĂM HỌC 2023-2024](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/5240-thong-bao-thu-hoc-phi-hoc-ky-i-nam-hoc-2023-2024?Itemid=437)
  - 19-09-2023: [Hội nghị các nhà Khoa học trẻ toàn quốc trong lĩnh vực Khoa học Tự nhiên và Công nghệ lần thứ V](https://www.hcmus.edu.vn/component/content/article?id=5199:hoi-nghi-cac-nha-khoa-hoc-tre-toan-quoc-trong-linh-vuc-khoa-hoc-tu-nhien-va-cong-nghe-lan-thu-v&catid=100&Itemid=437)
