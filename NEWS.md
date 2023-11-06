@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-06 14:09:25.808095+07:00**_
+_Last update: **2023-11-06 15:13:12.046761+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -44,6 +44,7 @@ _Last update: **2023-11-06 14:09:25.808095+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 6-11-2023: [Danh sách sinh viên tham gia hội thảo "Ứng dụng công nghệ trong chuyển đổi số"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15757)
  - 6-11-2023: [Danh sách sinh viên tham quan TMA Tech Group ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15753)
  - 3-11-2023: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15752)
  - 2-11-2023: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15750)
@@ -53,7 +54,6 @@ _Last update: **2023-11-06 14:09:25.808095+07:00**_
  - 2-11-2023: [Nữ sinh viên Khoa Công nghệ thông tin xuất sắc đạt giải thưởng "Nữ sinh Khoa học Công nghệ Việt Nam năm 2023"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15746)
  - 1-11-2023: [Sinh viên khoa Công nghệ thông tin đạt hạng nhất thế giới lần thứ hai liên tiếp trong cuộc thi lập trình sinh viên IEEExtreme năm 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15745)
  - 1-11-2023: [Đăng ký tham gia Hội thảo "Ứng dụng công nghệ trong chuyển đổi số"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15744)
- - 31-10-2023: [Đăng ký tham quan công ty TMA Tech Group ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15743)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 02-11-2023: [Thông báo nộp học phí HK1/2023-2024 đối với sinh viên chương trình Tiên tiến, Chất lượng cao và Việt-Pháp](https://www.hcmus.edu.vn/component/content/article/187-phong-dao-tao/thong-bao-he-chinh-quy/hoc-phi/5242-thong-bao-nop-hoc-phi-hk1-2023-2024-doi-voi-sinh-vien-chuong-trinh-tien-tien-chat-luong-cao-va-viet-phap?Itemid=437)
@@ -83,10 +83,10 @@ _Last update: **2023-11-06 14:09:25.808095+07:00**_
  - 27-10-2023: [Thông báo cung cấp thông tin lưu trú năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5230-thong-bao-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024?Itemid=437)
  - 27-10-2023: [Thông báo kết quả dự kiến HBKK HK2/22-23 dành cho sinh viên các CTĐA (có thêm Khoa CNTT)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5229-thong-bao-ket-qua-du-kien-hbkk-hk2-22-23-danh-cho-sinh-vien-cac-ctda-co-them-khoa-cntt?Itemid=437)
  - 26-10-2023: [Thông báo Ứng tuyển hồ sơ chương trình học bổng “Ước mơ cho em” của Đài truyền hình TP.HCM (HTV)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5225-thong-bao-ung-tuyen-ho-so-chuong-trinh-hoc-bong-uoc-mo-cho-em-cua-dai-truyen-hinh-tphcm-htv?Itemid=437)
+ - 24-10-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 21 và 22/10/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5252-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-21-va-22-10-2023?Itemid=437)
  - 23-10-2023: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2/2022-2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5234-thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-2022-2023?Itemid=437)
+ - 18-10-2023: [Thông tin chương trình Học bổng Thường niên AmCham lần thứ 22](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5246-thong-tin-chuong-trinh-hoc-bong-thuong-nien-amcham-lan-thu-22?Itemid=437)
  - 12-10-2023: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2022-2023 ](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5233-thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2022-2023?Itemid=437)
- - 05-10-2023: [Thông báo học bổng từ nguồn tài trợ của Tập đoàn Novaland 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5224-thong-bao-hoc-bong-tu-nguon-tai-tro-cua-tap-doan-novaland-2023?Itemid=437)
- - 03-10-2023: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2022-2023](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5220-thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2022-2023?Itemid=437)
 ### Thông báo khác
  - 06-11-2023: [QUY ĐỊNH GIA HẠN THỜI GIAN NỘP HỌC PHÍ ĐỐI VỚI SINH VIÊN, HỌC VIÊN SAU ĐẠI HỌC](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/5247-quy-dinh-gia-han-thoi-gian-nop-hoc-phi-doi-voi-sinh-vien-hoc-vien-sau-dai-hoc?Itemid=437)
  - 02-11-2023: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ I NĂM HỌC 2023-2024](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/5240-thong-bao-thu-hoc-phi-hoc-ky-i-nam-hoc-2023-2024?Itemid=437)
