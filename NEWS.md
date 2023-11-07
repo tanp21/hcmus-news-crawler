@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-07 12:09:09.479750+07:00**_
+_Last update: **2023-11-07 13:12:18.818907+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -72,6 +72,7 @@ _Last update: **2023-11-07 12:09:09.479750+07:00**_
  - 17-09-2023: [Thông báo thời gian học môn Lịch sử Đảng Cộng sản Việt Nam](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5194-thong-bao-thoi-gian-hoc-mon-lich-su-dang-cong-san-viet-nam?Itemid=437)
  - 17-09-2023: [Thông báo thời gian bắt đầu học môn Anh văn đối với Khóa 2023](https://www.hcmus.edu.vn/component/content/article/277-phong-dao-tao/thong-bao-tan-sinh-vien/tan-sv-thong-bao-quan-trong/5193-thong-bao-thoi-gian-bat-dau-hoc-mon-anh-van-doi-voi-khoa-2023?Itemid=437)
 ### Các thông báo về Công tác sinh viên
+ - 07-11-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 04 và 05/11/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5254-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-04-va-05-11-2023?Itemid=437)
  - 06-11-2023: [Thông báo kết quả cung cấp thông tin lưu trú năm học 2023-2024 (tính đến 15h00 ngày 06/11/2023)](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5253-thong-bao-ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024-tinh-den-15h00-ngay-06-11-2023?Itemid=437)
  - 06-11-2023: [Thông báo v/v tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2023](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5249-thong-bao-v-v-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2023?Itemid=437)
  - 06-11-2023: [Đăng ký tham gia Cuộc thi VIETNAM DATATHON 2023](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5248-dang-ky-tham-gia-cuoc-thi-vietnam-datathon-2023?Itemid=437)
@@ -86,7 +87,6 @@ _Last update: **2023-11-07 12:09:09.479750+07:00**_
  - 26-10-2023: [Thông báo Ứng tuyển hồ sơ chương trình học bổng “Ước mơ cho em” của Đài truyền hình TP.HCM (HTV)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5225-thong-bao-ung-tuyen-ho-so-chuong-trinh-hoc-bong-uoc-mo-cho-em-cua-dai-truyen-hinh-tphcm-htv?Itemid=437)
  - 24-10-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 21 và 22/10/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5252-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-21-va-22-10-2023?Itemid=437)
  - 23-10-2023: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2/2022-2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5234-thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-2022-2023?Itemid=437)
- - 18-10-2023: [Thông tin chương trình Học bổng Thường niên AmCham lần thứ 22](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5246-thong-tin-chuong-trinh-hoc-bong-thuong-nien-amcham-lan-thu-22?Itemid=437)
 ### Thông báo khác
  - 06-11-2023: [QUY ĐỊNH GIA HẠN THỜI GIAN NỘP HỌC PHÍ ĐỐI VỚI SINH VIÊN, HỌC VIÊN SAU ĐẠI HỌC](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/5247-quy-dinh-gia-han-thoi-gian-nop-hoc-phi-doi-voi-sinh-vien-hoc-vien-sau-dai-hoc?Itemid=437)
  - 02-11-2023: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ I NĂM HỌC 2023-2024](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/5240-thong-bao-thu-hoc-phi-hoc-ky-i-nam-hoc-2023-2024?Itemid=437)
