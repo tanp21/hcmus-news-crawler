@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-07 15:12:12.203026+07:00**_
+_Last update: **2023-11-07 16:09:32.415111+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -35,6 +35,7 @@ _Last update: **2023-11-07 15:12:12.203026+07:00**_
  - 20/09/2023: [Thông báo kiểm tra anh văn đối với khoá 2023](https://www.ctda.hcmus.edu.vn/vi/2023/09/thong-bao-kiem-tra-anh-van-doi-voi-khoa-2023/)
  - 17/09/2023: [Thông tin học bổng tháng 09/2023](https://www.ctda.hcmus.edu.vn/vi/2023/09/thong-tin-hoc-bong-thang-09-2023/)
 ### Kế toán - Tài chính
+ - 07/11/2023: [Thông báo học phí học kỳ 1 năm học 2023-2024 và Quy định thời gian gia hạn nộp học phí](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-hoc-phi-hoc-ky-1-nam-hoc-2023-2024-va-quy-dinh-thoi-gian-gia-han-nop-hoc-phi/)
  - 29/10/2021: [CTĐA – Về việc gia hạn học phí](https://www.ctda.hcmus.edu.vn/vi/2021/10/ctda-ve-viec-gia-han-hoc-phi/)
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
