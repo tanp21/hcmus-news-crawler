@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-10 08:46:23.766152+07:00**_
+_Last update: **2023-11-10 09:19:08.242691+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -45,6 +45,7 @@ _Last update: **2023-11-10 08:46:23.766152+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 10-11-2023: [Thông báo về việc tính học phí và thu học phí trình độ đại học hệ chính quy chương trình chuẩn, HK1/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15788)
  - 9-11-2023: [Webinar "Highlight your Future. Study in Austria" - Đại sứ quán Áo](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15787)
  - 9-11-2023: [Chương trình "Người trong nghề" với chủ đề Cyber Security](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15785)
  - 9-11-2023: [Quy trình bảo vệ luận văn Thạc sĩ đợt cuối tháng 12/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15784)
@@ -54,7 +55,6 @@ _Last update: **2023-11-10 08:46:23.766152+07:00**_
  - 7-11-2023: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15770)
  - 6-11-2023: [Đăng ký tham quan công ty ELCA ngày 27/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15758)
  - 6-11-2023: [Danh sách sinh viên tham gia hội thảo "Ứng dụng công nghệ trong chuyển đổi số"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15757)
- - 6-11-2023: [Danh sách sinh viên tham quan TMA Tech Group ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15753)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 02-11-2023: [Thông báo nộp học phí HK1/2023-2024 đối với sinh viên chương trình Tiên tiến, Chất lượng cao và Việt-Pháp](https://www.hcmus.edu.vn/component/content/article/187-phong-dao-tao/thong-bao-he-chinh-quy/hoc-phi/5242-thong-bao-nop-hoc-phi-hk1-2023-2024-doi-voi-sinh-vien-chuong-trinh-tien-tien-chat-luong-cao-va-viet-phap?Itemid=437)
