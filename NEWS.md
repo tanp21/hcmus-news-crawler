@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-10 16:09:19.413601+07:00**_
+_Last update: **2023-11-10 17:09:52.290896+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -57,6 +57,7 @@ _Last update: **2023-11-10 16:09:19.413601+07:00**_
  - 7-11-2023: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15770)
 ## HCMUS
 ### Các thông báo về Đào Tạo
+ - 10-11-2023: [Thông báo nhận Bằng tốt nghiệp Đại học hệ chính quy, hệ ĐTTX, LTĐH và Cao đẳng - đợt tốt nghiệp tháng 8 đến tháng 10/2023](https://www.hcmus.edu.vn/component/content/article/189-phong-dao-tao/thong-bao-he-chinh-quy/tot-nghiep/5258-thong-bao-nhan-bang-tot-nghiep-dai-hoc-he-chinh-quy-he-dttx-ltdh-va-cao-dang-dot-tot-nghiep-thang-8-den-thang-10-2023?Itemid=437)
  - 02-11-2023: [Thông báo nộp học phí HK1/2023-2024 đối với sinh viên chương trình Tiên tiến, Chất lượng cao và Việt-Pháp](https://www.hcmus.edu.vn/component/content/article/187-phong-dao-tao/thong-bao-he-chinh-quy/hoc-phi/5242-thong-bao-nop-hoc-phi-hk1-2023-2024-doi-voi-sinh-vien-chuong-trinh-tien-tien-chat-luong-cao-va-viet-phap?Itemid=437)
  - 02-11-2023: [Danh sách sinh viên tốt nghiệp đại học Tháng 10/2023 - hệ chính quy](https://www.hcmus.edu.vn/component/content/article/189-phong-dao-tao/thong-bao-he-chinh-quy/tot-nghiep/5241-danh-sach-sinh-vien-tot-nghiep-dai-hoc-thang-10-2023-he-chinh-quy?Itemid=437)
  - 27-10-2023: [Thông báo nộp học phí HK1/2023-2024 đối với sinh viên hệ chính quy, chương trình đại trà](https://www.hcmus.edu.vn/component/content/article/187-phong-dao-tao/thong-bao-he-chinh-quy/hoc-phi/5227-thong-bao-nop-hoc-phi-hk1-2023-2024-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra?Itemid=437)
@@ -71,7 +72,6 @@ _Last update: **2023-11-10 16:09:19.413601+07:00**_
  - 18-09-2023: [Thông báo thời gian điều chỉnh Đăng ký học phần HK1/2023-2024](https://www.hcmus.edu.vn/component/content/article/277-phong-dao-tao/thong-bao-tan-sinh-vien/tan-sv-thong-bao-quan-trong/5196-thong-bao-thoi-gian-dieu-chinh-dang-ky-hoc-phan-hk1-2023-2024?Itemid=437)
  - 18-09-2023: [Thời khóa biểu, tên giảng viên và địa điểm học môn Thể dục 1 HK1/2023-2024](https://www.hcmus.edu.vn/component/content/article/277-phong-dao-tao/thong-bao-tan-sinh-vien/tan-sv-thong-bao-quan-trong/5195-thoi-khoa-bieu-ten-giang-vien-va-dia-diem-hoc-mon-the-duc-1-hk1-2023-2024?Itemid=437)
  - 17-09-2023: [Thông báo thời gian học môn Lịch sử Đảng Cộng sản Việt Nam](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5194-thong-bao-thoi-gian-hoc-mon-lich-su-dang-cong-san-viet-nam?Itemid=437)
- - 17-09-2023: [Thông báo thời gian bắt đầu học môn Anh văn đối với Khóa 2023](https://www.hcmus.edu.vn/component/content/article/277-phong-dao-tao/thong-bao-tan-sinh-vien/tan-sv-thong-bao-quan-trong/5193-thong-bao-thoi-gian-bat-dau-hoc-mon-anh-van-doi-voi-khoa-2023?Itemid=437)
 ### Các thông báo về Công tác sinh viên
  - 07-11-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 04 và 05/11/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5254-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-04-va-05-11-2023?Itemid=437)
  - 06-11-2023: [Thông báo kết quả cung cấp thông tin lưu trú năm học 2023-2024 (tính đến 15h00 ngày 06/11/2023)](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5253-thong-bao-ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024-tinh-den-15h00-ngay-06-11-2023?Itemid=437)
