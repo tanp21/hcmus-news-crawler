@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-14 15:12:02.435455+07:00**_
+_Last update: **2023-11-14 16:09:28.349057+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -45,6 +45,7 @@ _Last update: **2023-11-14 15:12:02.435455+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 14-11-2023: [[CQ] Thông báo nộp đề cương đề tài Khóa luận/ Thực tập/ Thực tập dự án tốt nghiệp Khóa 2020 Đợt 1 (bảo vệ T3/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15795)
  - 13-11-2023: [Danh sách sinh viên tham gia Hội thảo "Hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15792)
  - 13-11-2023: [GÓC SẺ CHIA - WE TALK 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15791)
  - 10-11-2023: [Đăng ký tham quan công ty Fujinet Systems ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15790)
@@ -54,7 +55,6 @@ _Last update: **2023-11-14 15:12:02.435455+07:00**_
  - 9-11-2023: [Chương trình "Người trong nghề" với chủ đề Cyber Security](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15785)
  - 9-11-2023: [Quy trình bảo vệ luận văn Thạc sĩ đợt cuối tháng 12/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15784)
  - 9-11-2023: [Danh sách dự kiến cấp xét học bổng tân sinh viên HK3 năm học 2022-2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15783)
- - 8-11-2023: [Thông báo đăng ký tham dự Lễ trao bằng tốt nghiệp Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15781)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 14-11-2023: [Thông báo tạm dừng trang chủ Moodle](https://www.hcmus.edu.vn/component/content/article/191-phong-dao-tao/thong-bao-he-chinh-quy/thong-bao-khac/5269-thong-bao-tam-dung-trang-chu-moodle?Itemid=437)
