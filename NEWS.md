@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-14 10:10:03.070133+07:00**_
+_Last update: **2023-11-14 11:11:17.961411+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -89,7 +89,6 @@ _Last update: **2023-11-14 10:10:03.070133+07:00**_
  - 24-10-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 21 và 22/10/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5252-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-21-va-22-10-2023?Itemid=437)
  - 23-10-2023: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2/2022-2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5234-thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-2022-2023?Itemid=437)
 ### Thông báo khác
- - 10-11-2023: [TỜ TRÌNH MỨC THU HỌC PHÍ NĂM HỌC 2023-2024 CHƯƠNG TRÌNH ĐỀ ÁN KHOA CÔNG NGHỆ THÔNG TIN VÀ KHOA HÓA HỌC](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/5256-to-trinh-muc-thu-hoc-phi-nam-hoc-2023-2024-chuong-trinh-de-an-khoa-cong-nghe-thong-tin-va-khoa-hoa-hoc?Itemid=437)
  - 08-11-2023: [MẪU ĐƠN GIA HẠN NỘP HỌC PHÍ](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/5255-mau-don-gia-han-nop-hoc-phi?Itemid=437)
  - 06-11-2023: [QUY ĐỊNH GIA HẠN THỜI GIAN NỘP HỌC PHÍ ĐỐI VỚI SINH VIÊN, HỌC VIÊN SAU ĐẠI HỌC](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/5247-quy-dinh-gia-han-thoi-gian-nop-hoc-phi-doi-voi-sinh-vien-hoc-vien-sau-dai-hoc?Itemid=437)
  - 02-11-2023: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ I NĂM HỌC 2023-2024](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/5240-thong-bao-thu-hoc-phi-hoc-ky-i-nam-hoc-2023-2024?Itemid=437)
@@ -104,6 +103,7 @@ _Last update: **2023-11-14 10:10:03.070133+07:00**_
  - 19-01-2023: [Thông báo của Sở KH&CN tỉnh Tây Ninh về việc đề xuất, đặt hàng nhiệm vụ KH&CN cấp tỉnh năm 2024](https://www.hcmus.edu.vn/component/content/article?id=4825:thong-bao-cua-so-kh-cn-tinh-tay-ninh-ve-viec-de-xuat-dat-hang-nhiem-vu-kh-cn-cap-tinh-nam-2024&catid=100&Itemid=437)
  - 24-11-2022: [Hội thảo khoa học "Nhà máy thực vật: công nghệ sinh học ứng dụng trong sản xuất sinh khối thực vật" - Bước tiến trong nông nghiệp công nghệ cao](https://www.hcmus.edu.vn/component/content/article?id=4730:hoi-thao-khoa-hoc-nha-may-thuc-vat-cong-nghe-sinh-hoc-ung-dung-trong-san-xuat-sinh-khoi-thuc-vat-buoc-tien-trong-nong-nghiep-cong-nghe-cao&catid=100&Itemid=437)
  - 19-11-2022: [Thông báo Kết quả Giải thưởng Lê Văn Thới năm 2022](https://www.hcmus.edu.vn/component/content/article?id=4722:thong-bao-ket-qua-giai-thuong-le-van-thoi-nam-2022&catid=100&Itemid=437)
+ - 17-11-2022: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ I NĂM HỌC 2022-2023](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4718-thong-bao-thu-hoc-phi-hoc-ky-i-nam-hoc-2022-2023?Itemid=437)
 ### Các thông báo về Khảo thí
  - [Thông báo SV đánh giá khóa học HK1/23-24 (SV khóa 2020)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/773-thong-bao-sv-danh-gia-khoa-h-c-hk1-23-24-sv-khoa-2020)
  - [Thông báo bổ sung lịch thi giữa kỳ HK1/23-24 tại Linh trung](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/769-thong-bao-b-sung-l-ch-thi-gi-a-ky-hk1-23-24-t-i-linh-trung)
