@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-15 15:12:20.005254+07:00**_
+_Last update: **2023-11-15 16:10:12.125148+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -13,6 +13,7 @@ _Last update: **2023-11-15 15:12:20.005254+07:00**_
  - 07/02/2020: [Về việc thay đổi kế hoạch học tập học kỳ 2 năm học 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/02/ve-viec-thay-doi-ke-hoach-hoc-tap-hoc-ky-2-nam-hoc-2019-2020/)
  - 06/12/2017: [CTĐB – Kế hoạch năm học 2017-2018](https://www.ctda.hcmus.edu.vn/vi/2017/12/ctdb-ke-hoach-nam-hoc-2017-2018/)
 ### Giáo vụ
+ - 15/11/2023: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2019 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2023/11/ctda-thong-bao-nop-de-cuong-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2019-dot-2/)
  - 03/11/2023: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1](https://www.ctda.hcmus.edu.vn/vi/2023/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-1/)
  - 27/10/2023: [CTĐA_Thông báo kết quả phúc khảo HK3/2223](https://www.ctda.hcmus.edu.vn/vi/2023/10/ctda_thong-bao-ket-qua-phuc-khao-hk3-2223/)
  - 25/10/2023: [[CTĐA] Mời họp phổ biến các quy định về hình thức tốt nghiệp, năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/10/ctda-moi-hop-pho-bien-cac-quy-dinh-ve-hinh-thuc-tot-nghiep-nam-hoc-2023-2024/)
@@ -22,7 +23,6 @@ _Last update: **2023-11-15 15:12:20.005254+07:00**_
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
  - 21/09/2023: [[CLC] Thông báo đăng ký chuyên ngành chính thức ĐỢT BỔ SUNG dành cho SV CHƯA CÓ TÊN trong danh sách được xét chuyên ngành đã thông báo  – Năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2023/09/clc-thong-bao-dang-ky-chuyen-nganh-chinh-thuc-dot-bo-sung-danh-cho-sv-chuong-trinh-chat-luong-cao-nam-hoc-2022-2023/)
  - 21/09/2023: [[CLC] Kết quả xét chuyên ngành khóa 2021](https://www.ctda.hcmus.edu.vn/vi/2023/09/clc-ket-qua-xet-chuyen-nganh-khoa-2021/)
- - 20/09/2023: [CLC_Thông báo về việc sử dụng tài khoản học vụ Khoá 2023](https://www.ctda.hcmus.edu.vn/vi/2023/09/clc_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2023/)
 ### Trợ lí sinh viên
  - 08/11/2023: [Thông báo đăng ký tham dự Lễ trao bằng tốt nghiệp Khoa Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-dang-ky-tham-du-le-trao-bang-tot-nghiep-khoa-cong-nghe-thong-tin/)
  - 02/11/2023: [Thông báo_Chương trình học bổng sinh viên tài năng – The sponsorship program for talented students – Never give up](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao_chuong-trinh-hoc-bong-sinh-vien-tai-nang-the-sponsorship-program-for-talented-students-never-give-up/)
