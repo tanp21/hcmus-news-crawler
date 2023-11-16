@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-16 15:12:41.551104+07:00**_
+_Last update: **2023-11-16 16:09:47.348554+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -45,6 +45,7 @@ _Last update: **2023-11-16 15:12:41.551104+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 16-11-2023: [Chương trình Người trình Người trong nghề với chủ để "Thách thức và cơ hội với xử ký ngôn ngữ tự nhiên"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15804)
  - 16-11-2023: [Buổi lễ trao tặng học bổng của Cựu sinh viên Lê Phú Khánh Huy dành cho Quỹ học bổng ASF](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15802)
  - 16-11-2023: [Đăng ký tham quan công ty OPSWAT ngày 5/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15801)
  - 16-11-2023: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15800)
@@ -54,7 +55,6 @@ _Last update: **2023-11-16 15:12:41.551104+07:00**_
  - 13-11-2023: [GÓC SẺ CHIA - WE TALK 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15791)
  - 10-11-2023: [Đăng ký tham quan công ty Fujinet Systems ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15790)
  - 10-11-2023: [Danh sách sinh viên tham quan công ty ELCA ngày 27/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15789)
- - 10-11-2023: [Thông báo về việc tính học phí và thu học phí trình độ đại học hệ chính quy chương trình chuẩn, HK1/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15788)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 16-11-2023: [Thông báo nộp học phí HK1/2023-2024 đối với sinh viên đại học ngành Công nghệ thông tin và Khoa học máy tính chương trình Tiên tiến, Liên kết Việt – Pháp và Chất lượng cao (cập nhật)](https://www.hcmus.edu.vn/component/content/article/187-phong-dao-tao/thong-bao-he-chinh-quy/hoc-phi/5276-thong-bao-nop-hoc-phi-hk1-2023-2024-doi-voi-sinh-vien-dai-hoc-nganh-cong-nghe-thong-tin-va-khoa-hoc-may-tinh-chuong-trinh-tien-tien-lien-ket-viet-phap-va-chat-luong-cao-cap-nhat?Itemid=437)
@@ -73,6 +73,7 @@ _Last update: **2023-11-16 15:12:41.551104+07:00**_
  - 20-09-2023: [Thông báo về việc hủy, mở bổ sung và cập nhật phòng học các lớp trong HK1/2023-2024  sinh viên bậc đại học hệ chính quy – đợt 2](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5201-thong-bao-ve-viec-huy-mo-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2023-2024-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-2?Itemid=437)
  - 18-09-2023: [Thông báo về việc hủy, mở bổ sung và cập nhật phòng học các lớp trong HK1/2023-2024 cơ sở Linh Trung](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5197-thong-bao-ve-viec-huy-mo-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2023-2024-co-so-linh-trung?Itemid=437)
 ### Các thông báo về Công tác sinh viên
+ - 16-11-2023: [Thông báo chuyển tiền học bổng khuyến khích học tập HK2/2022-2023 ](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5277-thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hoc-tap-hk2-2022-2023?Itemid=437)
  - 15-11-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 11 và 12/11/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5271-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-11-va-12-11-2023?Itemid=437)
  - 14-11-2023: [Thông báo gia hạn thời gian cung cấp thông tin lưu trú năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5270-thong-bao-gia-han-thoi-gian-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024?Itemid=437)
  - 07-11-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 04 và 05/11/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5254-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-04-va-05-11-2023?Itemid=437)
@@ -87,7 +88,6 @@ _Last update: **2023-11-16 15:12:41.551104+07:00**_
  - 27-10-2023: [THÔNG BÁO  Kết quả đăng ký Sinh hoạt Công dân Đầu năm, năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5231-thong-bao-ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-nam-hoc-2023-2024?Itemid=437)
  - 27-10-2023: [Thông báo cung cấp thông tin lưu trú năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5230-thong-bao-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024?Itemid=437)
  - 27-10-2023: [Thông báo kết quả dự kiến HBKK HK2/22-23 dành cho sinh viên các CTĐA (có thêm Khoa CNTT)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5229-thong-bao-ket-qua-du-kien-hbkk-hk2-22-23-danh-cho-sinh-vien-cac-ctda-co-them-khoa-cntt?Itemid=437)
- - 26-10-2023: [Thông báo Ứng tuyển hồ sơ chương trình học bổng “Ước mơ cho em” của Đài truyền hình TP.HCM (HTV)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5225-thong-bao-ung-tuyen-ho-so-chuong-trinh-hoc-bong-uoc-mo-cho-em-cua-dai-truyen-hinh-tphcm-htv?Itemid=437)
 ### Thông báo khác
  - 15-11-2023: [THÔNG BÁO KẾT QUẢ GIẢI THƯỞNG LÊ VĂN THỚI 2023](https://www.hcmus.edu.vn/component/content/article?id=5273:thong-bao-ket-qua-giai-thuong-le-van-thoi-2023&catid=100&Itemid=437)
  - 08-11-2023: [MẪU ĐƠN GIA HẠN NỘP HỌC PHÍ](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/5255-mau-don-gia-han-nop-hoc-phi?Itemid=437)
