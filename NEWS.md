@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-16 16:09:47.348554+07:00**_
+_Last update: **2023-11-16 17:10:26.143440+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -57,6 +57,7 @@ _Last update: **2023-11-16 16:09:47.348554+07:00**_
  - 10-11-2023: [Danh sách sinh viên tham quan công ty ELCA ngày 27/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15789)
 ## HCMUS
 ### Các thông báo về Đào Tạo
+ - 16-11-2023: [Danh sách sinh viên dự kiến tốt nghiệp đại học, cao đẳng hệ chính quy - Đợt tháng 11/2023](https://www.hcmus.edu.vn/component/content/article/189-phong-dao-tao/thong-bao-he-chinh-quy/tot-nghiep/5278-danh-sach-sinh-vien-du-kien-tot-nghiep-dai-hoc-cao-dang-he-chinh-quy-dot-thang-11-2023?Itemid=437)
  - 16-11-2023: [Thông báo nộp học phí HK1/2023-2024 đối với sinh viên đại học ngành Công nghệ thông tin và Khoa học máy tính chương trình Tiên tiến, Liên kết Việt – Pháp và Chất lượng cao (cập nhật)](https://www.hcmus.edu.vn/component/content/article/187-phong-dao-tao/thong-bao-he-chinh-quy/hoc-phi/5276-thong-bao-nop-hoc-phi-hk1-2023-2024-doi-voi-sinh-vien-dai-hoc-nganh-cong-nghe-thong-tin-va-khoa-hoc-may-tinh-chuong-trinh-tien-tien-lien-ket-viet-phap-va-chat-luong-cao-cap-nhat?Itemid=437)
  - 14-11-2023: [Thông báo tạm dừng trang chủ Moodle](https://www.hcmus.edu.vn/component/content/article/191-phong-dao-tao/thong-bao-he-chinh-quy/thong-bao-khac/5269-thong-bao-tam-dung-trang-chu-moodle?Itemid=437)
  - 10-11-2023: [Thông báo thay đổi phòng học trong tuần lễ (13 - 18/11/2023)](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5259-thong-bao-thay-doi-phong-hoc-trong-tuan-le-13-18-11-2023?Itemid=437)
@@ -71,7 +72,6 @@ _Last update: **2023-11-16 16:09:47.348554+07:00**_
  - 22-09-2023: [Danh sách sinh viên Cao đẳng ngành CNTT dự kiến tốt nghiệp đợt tháng 9/2023](https://www.hcmus.edu.vn/component/content/article/202-phong-dao-tao/thong-bao-he-cao-dang/tot-nghiep_cd/5205-danh-sach-sinh-vien-cao-dang-nganh-cntt-du-kien-tot-nghiep-dot-thang-9-2023?Itemid=437)
  - 22-09-2023: [Danh sách sinh viên Liên thông đại học dự kiến tốt nghiệp đợt tháng 9/2023](https://www.hcmus.edu.vn/component/content/article/195-phong-dao-tao/thong-bao-lien-thong-dai-hoc/tot-nghiep_lt/5204-danh-sach-sinh-vien-lien-thong-dai-hoc-du-kien-tot-nghiep-dot-thang-9-2023?Itemid=437)
  - 20-09-2023: [Thông báo về việc hủy, mở bổ sung và cập nhật phòng học các lớp trong HK1/2023-2024  sinh viên bậc đại học hệ chính quy – đợt 2](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5201-thong-bao-ve-viec-huy-mo-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2023-2024-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-2?Itemid=437)
- - 18-09-2023: [Thông báo về việc hủy, mở bổ sung và cập nhật phòng học các lớp trong HK1/2023-2024 cơ sở Linh Trung](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5197-thong-bao-ve-viec-huy-mo-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2023-2024-co-so-linh-trung?Itemid=437)
 ### Các thông báo về Công tác sinh viên
  - 16-11-2023: [Thông báo chuyển tiền học bổng khuyến khích học tập HK2/2022-2023 ](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5277-thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hoc-tap-hk2-2022-2023?Itemid=437)
  - 15-11-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 11 và 12/11/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5271-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-11-va-12-11-2023?Itemid=437)
