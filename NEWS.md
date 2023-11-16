@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-16 10:10:19.996864+07:00**_
+_Last update: **2023-11-16 11:11:57.571336+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -45,6 +45,8 @@ _Last update: **2023-11-16 10:10:19.996864+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 16-11-2023: [Đăng ký tham quan công ty OPSWAT ngày 5/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15801)
+ - 16-11-2023: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15800)
  - 15-11-2023: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 1, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15798)
  - 14-11-2023: [[CQ] Thông báo nộp đề cương đề tài Khóa luận/ Thực tập/ Thực tập dự án tốt nghiệp Khóa 2020 Đợt 1 (bảo vệ T3/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15795)
  - 13-11-2023: [Danh sách sinh viên tham gia Hội thảo "Hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15792)
@@ -53,8 +55,6 @@ _Last update: **2023-11-16 10:10:19.996864+07:00**_
  - 10-11-2023: [Danh sách sinh viên tham quan công ty ELCA ngày 27/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15789)
  - 10-11-2023: [Thông báo về việc tính học phí và thu học phí trình độ đại học hệ chính quy chương trình chuẩn, HK1/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15788)
  - 9-11-2023: [Webinar "Highlight your Future. Study in Austria" - Đại sứ quán Áo](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15787)
- - 9-11-2023: [Chương trình "Người trong nghề" với chủ đề Cyber Security](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15785)
- - 9-11-2023: [Quy trình bảo vệ luận văn Thạc sĩ đợt cuối tháng 12/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15784)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 16-11-2023: [Thông báo nộp học phí HK1/2023-2024 đối với sinh viên đại học ngành Công nghệ thông tin và Khoa học máy tính chương trình Tiên tiến, Liên kết Việt – Pháp và Chất lượng cao (cập nhật)](https://www.hcmus.edu.vn/component/content/article/187-phong-dao-tao/thong-bao-he-chinh-quy/hoc-phi/5276-thong-bao-nop-hoc-phi-hk1-2023-2024-doi-voi-sinh-vien-dai-hoc-nganh-cong-nghe-thong-tin-va-khoa-hoc-may-tinh-chuong-trinh-tien-tien-lien-ket-viet-phap-va-chat-luong-cao-cap-nhat?Itemid=437)
