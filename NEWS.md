@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-17 09:23:26.339926+07:00**_
+_Last update: **2023-11-17 10:10:11.294722+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -73,6 +73,7 @@ _Last update: **2023-11-17 09:23:26.339926+07:00**_
  - 22-09-2023: [Danh sách sinh viên Liên thông đại học dự kiến tốt nghiệp đợt tháng 9/2023](https://www.hcmus.edu.vn/component/content/article/195-phong-dao-tao/thong-bao-lien-thong-dai-hoc/tot-nghiep_lt/5204-danh-sach-sinh-vien-lien-thong-dai-hoc-du-kien-tot-nghiep-dot-thang-9-2023?Itemid=437)
  - 20-09-2023: [Thông báo về việc hủy, mở bổ sung và cập nhật phòng học các lớp trong HK1/2023-2024  sinh viên bậc đại học hệ chính quy – đợt 2](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/5201-thong-bao-ve-viec-huy-mo-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2023-2024-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-2?Itemid=437)
 ### Các thông báo về Công tác sinh viên
+ - 17-11-2023: [Thông báo kết quả cung cấp thông tin lưu trú năm học 2023-2024 (tính đến 8h00 ngày 17/11/2023)](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5280-thong-bao-ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024-tinh-den-8h00-ngay-17-11-2023?Itemid=437)
  - 16-11-2023: [Thông báo chuyển tiền học bổng khuyến khích học tập HK2/2022-2023 ](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5277-thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hoc-tap-hk2-2022-2023?Itemid=437)
  - 15-11-2023: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 11 và 12/11/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5271-dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-11-va-12-11-2023?Itemid=437)
  - 14-11-2023: [Thông báo gia hạn thời gian cung cấp thông tin lưu trú năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5270-thong-bao-gia-han-thoi-gian-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024?Itemid=437)
@@ -87,7 +88,6 @@ _Last update: **2023-11-17 09:23:26.339926+07:00**_
  - 31-10-2023: [Thông tin chương trình KIT Bio Tech & IT Spring School 2024](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5236-thong-tin-chuong-trinh-kit-bio-tech-it-spring-school-2024?Itemid=437)
  - 27-10-2023: [THÔNG BÁO  Kết quả đăng ký Sinh hoạt Công dân Đầu năm, năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/5231-thong-bao-ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-nam-hoc-2023-2024?Itemid=437)
  - 27-10-2023: [Thông báo cung cấp thông tin lưu trú năm học 2023-2024](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5230-thong-bao-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024?Itemid=437)
- - 27-10-2023: [Thông báo kết quả dự kiến HBKK HK2/22-23 dành cho sinh viên các CTĐA (có thêm Khoa CNTT)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5229-thong-bao-ket-qua-du-kien-hbkk-hk2-22-23-danh-cho-sinh-vien-cac-ctda-co-them-khoa-cntt?Itemid=437)
 ### Thông báo khác
  - 15-11-2023: [THÔNG BÁO KẾT QUẢ GIẢI THƯỞNG LÊ VĂN THỚI 2023](https://www.hcmus.edu.vn/component/content/article?id=5273:thong-bao-ket-qua-giai-thuong-le-van-thoi-2023&catid=100&Itemid=437)
  - 08-11-2023: [MẪU ĐƠN GIA HẠN NỘP HỌC PHÍ](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/5255-mau-don-gia-han-nop-hoc-phi?Itemid=437)
