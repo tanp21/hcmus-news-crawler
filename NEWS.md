@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-17 08:52:23.267078+07:00**_
+_Last update: **2023-11-17 09:23:26.339926+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -45,6 +45,7 @@ _Last update: **2023-11-17 08:52:23.267078+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 17-11-2023: [Thông báo đăng ký bổ sung tham dự Lễ trao bằng tốt nghiệp Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15806)
  - 16-11-2023: [Chương trình Người trình Người trong nghề với chủ để "Thách thức và cơ hội với xử ký ngôn ngữ tự nhiên"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15804)
  - 16-11-2023: [Buổi lễ trao tặng học bổng của Cựu sinh viên Lê Phú Khánh Huy dành cho Quỹ học bổng ASF](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15802)
  - 16-11-2023: [Đăng ký tham quan công ty OPSWAT ngày 5/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15801)
@@ -54,7 +55,6 @@ _Last update: **2023-11-17 08:52:23.267078+07:00**_
  - 13-11-2023: [Danh sách sinh viên tham gia Hội thảo "Hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15792)
  - 13-11-2023: [GÓC SẺ CHIA - WE TALK 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15791)
  - 10-11-2023: [Đăng ký tham quan công ty Fujinet Systems ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15790)
- - 10-11-2023: [Danh sách sinh viên tham quan công ty ELCA ngày 27/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15789)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 16-11-2023: [Danh sách sinh viên dự kiến tốt nghiệp đại học, cao đẳng hệ chính quy - Đợt tháng 11/2023](https://www.hcmus.edu.vn/component/content/article/189-phong-dao-tao/thong-bao-he-chinh-quy/tot-nghiep/5278-danh-sach-sinh-vien-du-kien-tot-nghiep-dai-hoc-cao-dang-he-chinh-quy-dot-thang-11-2023?Itemid=437)
