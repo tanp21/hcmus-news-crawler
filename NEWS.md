@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-20 07:44:25.465759+07:00**_
+_Last update: **2023-11-20 08:53:08.086462+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -121,9 +121,9 @@ _Last update: **2023-11-20 07:44:25.465759+07:00**_
 
 ***
 
+ - [Kết quả thi giữa kỳ HK1/23-24](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
  - [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
- - [Kết quả thi giữa kỳ HK2/22-23 CLC (CẬP NHẬT 8/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/671-k-t-qu-thi-gi-a-ky-hk2-22-23-clc)
 
 ***
 
