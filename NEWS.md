@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-23 10:10:08.066504+07:00**_
+_Last update: **2023-11-23 11:12:09.065831+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -46,6 +46,7 @@ _Last update: **2023-11-23 10:10:08.066504+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 23-11-2023: [Thông báo số 225 về quy định nộp học phí từ HK1/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15818)
  - 22-11-2023: [Đăng ký tham gia hội thảo Generative AI ngày 30/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15817)
  - 22-11-2023: [Bảng vàng thành tích Khoa Công nghệ thông tin năm học 2022 - 2023 (dự kiến)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15816)
  - 22-11-2023: [Thông báo danh sách tham dự và các thông tin cần lưu ý về Lễ tốt nghiệp Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15815)
@@ -55,6 +56,5 @@ _Last update: **2023-11-23 10:10:08.066504+07:00**_
  - 20-11-2023: [Chương trình NTU PEAK ASEAN năm 2023 - Đại học Công nghệ Nanyang, Singapore](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15809)
  - 17-11-2023: [Chương Trình "Người Trong Nghề" - Phát Triển Ứng Dụng Web Nâng Cao](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15807)
  - 17-11-2023: [Thông báo đăng ký bổ sung tham dự Lễ trao bằng tốt nghiệp Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15806)
- - 16-11-2023: [Chương trình Người trình Người trong nghề với chủ để "Thách thức và cơ hội với xử ký ngôn ngữ tự nhiên"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15804)
 ## HCMUS
 ### Các thông báo về Đào Tạo
