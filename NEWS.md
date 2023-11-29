@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-11-29 16:09:57.864925+07:00**_
+_Last update: **2023-11-29 17:10:55.832047+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -46,6 +46,7 @@ _Last update: **2023-11-29 16:09:57.864925+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 29-11-2023: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức lần 4/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15837)
  - 28-11-2023: [Lịch học toàn lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15835)
  - 28-11-2023: [Thông báo về việc sinh hoạt đầu khóa dành cho HV và NCS khóa tuyển 2023 (đợt 1 + đợt 2)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15834)
  - 27-11-2023: [Bảng vàng thành tích Khoa Công nghệ thông tin năm học 2022 - 2023 (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15816)
@@ -55,6 +56,5 @@ _Last update: **2023-11-29 16:09:57.864925+07:00**_
  - 24-11-2023: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức lần 3/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15824)
  - 24-11-2023: [V/v thực hiện khảo sát lĩnh vực/ hướng thực hiện đề tài đối với HV K32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15821)
  - 23-11-2023: [Thông báo số 225 về quy định nộp học phí từ HK1/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15818)
- - 22-11-2023: [Đăng ký tham gia hội thảo Generative AI ngày 30/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15817)
 ## HCMUS
 ### Các thông báo về Đào Tạo
