@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-12-07 10:10:30.722430+07:00**_
+_Last update: **2023-12-07 11:12:09.667813+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -50,7 +50,7 @@ _Last update: **2023-12-07 10:10:30.722430+07:00**_
  - 4-12-2023: [Đăng ký tham dự Seminar “Vai trò các kho ngữ liệu huấn luyện trong Xử lý ngôn ngữ tự nhiên tiếng Việt"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15849)
  - 4-12-2023: [Đăng ký tham gia chương trình "Microsoft Information Session"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15848)
  - 4-12-2023: [Đăng ký tham dự Seminar Bộ môn Khoa học Máy tính năm 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15847)
- - 4-12-2023: [[Cập nhật] Thông báo v/v sinh hoạt đầu khóa dành cho HV và NCS khóa tuyển 2023 (đợt 1 + đợt 2)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15846)
+ - 4-12-2023: [[Cập nhật] Thông báo v/v sinh hoạt đầu khóa dành cho HV và NCS khóa tuyển 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15846)
  - 4-12-2023: [“Hội thảo kết nối Doanh nghiệp lần thứ 13 - năm 2023"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15844)
  - 29-11-2023: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức lần 4/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15837)
  - 28-11-2023: [Lịch học toàn khóa lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15835)
