@@ -18,7 +18,7 @@ fit_page = requests.get("https://www.fit.hcmus.edu.vn/vn/")
 fit_soup = bs(fit_page.content, features='lxml')
 fit_news_raw = fit_soup.select('#dnn_ctr989_ModuleContent > table')
 
-page = requests.get("https://www.hcmus.edu.vn/sinh-vien")
+page = requests.get("https://old.hcmus.edu.vn/sinh-vien")
 soup = bs(page.content, features="lxml")
 
 news_titles = [el.text for el in soup.find_all(class_='mod-articles-category-title')]
@@ -63,7 +63,7 @@ with open('NEWS.md', 'w', encoding='utf-8') as f:
         current_news_count += 1
         if current_news_count == 15:
             current_news_count = 0
-        f.write(f' - {news_dates[i]}: [{news_titles[i]}](https://www.hcmus.edu.vn{news_links[i]})\n')
+        f.write(f' - {news_dates[i]}: [{news_titles[i]}](https://old.hcmus.edu.vn{news_links[i]})\n')
     
     f.write(f'### {thong_bao[current_section]}\n')
     rule_position = [5, 10, 13]
