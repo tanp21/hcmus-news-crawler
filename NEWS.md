@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-12-13 11:11:52.652960+07:00**_
+_Last update: **2023-12-13 12:09:38.303192+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -46,7 +46,7 @@ _Last update: **2023-12-13 11:11:52.652960+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
- - 13-12-2023: [DS các đề tài bảo vệ luận văn thạc sĩ đợt tháng 12/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15866)
+ - 13-12-2023: [Danh sách đề tài bảo vệ luận văn thạc sĩ đợt tháng 12/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15866)
  - 13-12-2023: [Thông báo kết quả học bổng Hành trang hướng nghiệp HK1 năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15865)
  - 11-12-2023: [Buổi lễ trao học bổng Cựu sinh viên Khoa Công nghệ thông tin (ASF) năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15862)
  - 11-12-2023: [Danh sách sinh viên tham dự "Microsoft Information Session"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15861)
