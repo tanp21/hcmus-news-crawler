@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-12-20 15:10:27.411107+07:00**_
+_Last update: **2023-12-20 16:08:24.534116+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -106,19 +106,19 @@ _Last update: **2023-12-20 15:10:27.411107+07:00**_
  - 24-11-2022: [Hội thảo khoa học "Nhà máy thực vật: công nghệ sinh học ứng dụng trong sản xuất sinh khối thực vật" - Bước tiến trong nông nghiệp công nghệ cao](https://old.hcmus.edu.vn/component/content/article?id=4730:hoi-thao-khoa-hoc-nha-may-thuc-vat-cong-nghe-sinh-hoc-ung-dung-trong-san-xuat-sinh-khoi-thuc-vat-buoc-tien-trong-nong-nghiep-cong-nghe-cao&catid=100&Itemid=437)
  - 19-11-2022: [Thông báo Kết quả Giải thưởng Lê Văn Thới năm 2022](https://old.hcmus.edu.vn/component/content/article?id=4722:thong-bao-ket-qua-giai-thuong-le-van-thoi-nam-2022&catid=100&Itemid=437)
 ### Các thông báo về Khảo thí
+ - [Thông báo thay đổi phòng thi HK1/23-24 tại NVC môn Hóa phân tích 1 ngày 29/12](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/794-thong-bao-thay-d-i-phong-thi-hk1-23-24-t-i-nvc-mon-hoa-phan-tich-1-ngay-29-12)
  - [Thông báo thay đổi phòng thi HK1/23-24 môn Vi tích phân 1C tại NVC ngày 14/12](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/792-thong-bao-thay-d-i-phong-thi-hk1-23-24-mon-vi-tich-phan-1c-t-i-nvc-ngay-14-12)
  - [Thông báo sinh viên đánh giá Môn học và Giảng viên HK1/2023-2024](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/790-thong-bao-sinh-vien-danh-gia-mon-h-c-va-gi-ng-vien-hk1-2023-2024)
  - [Thông báo thay đổi phòng thi HK1/23-24 ngày 06/12/2023](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/787-thong-bao-thay-d-i-phong-thi-hk1-23-24-ngay-06-12-2023)
  - [Thông báo thay đổi phòng thi HK1/23-24 hệ ĐTTX ngày 16/11](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/785-thong-bao-thay-d-i-phong-thi-hk1-23-24-h-dttx-ngay-16-11)
- - [Thông báo SV đánh giá khóa học HK1/23-24 (SV khóa 2020)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/773-thong-bao-sv-danh-gia-khoa-h-c-hk1-23-24-sv-khoa-2020)
 
 ***
 
+ - [Lịch thi (chi tiết) cuối kỳ HK1/23-24 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/795-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-ct-d-an-khoa-cntt)
  - [Lịch thi (chi tiết) cuối kỳ HK1/23-24 chính quy tại LT và NVC](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/793-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi (chi tiết) cuối kỳ sớm HK1/23-24 ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/789-l-ch-thi-chi-ti-t-cu-i-ky-s-m-hk1-23-24-dhcq)
  - [Lịch thi (chi tiết) cuối kỳ HK1/23-24 hệ HCĐH](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/788-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-h-hcdh)
  - [Lịch thi (chi tiết) cuối kỳ HK1/23-24 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/786-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-ct-d-an-cac-khoa)
- - [Lịch thi cuối kỳ HK1/23-24 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/784-l-ch-thi-cu-i-ky-hk1-23-24-ct-d-an-khoa-cntt)
 
 ***
 
