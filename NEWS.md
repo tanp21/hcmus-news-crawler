@@ -1,5 +1,5 @@
 # All news
-_Last update: **2023-12-20 16:08:24.534116+07:00**_
+_Last update: **2023-12-20 17:08:55.223504+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -13,6 +13,7 @@ _Last update: **2023-12-20 16:08:24.534116+07:00**_
  - 07/02/2020: [Về việc thay đổi kế hoạch học tập học kỳ 2 năm học 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/02/ve-viec-thay-doi-ke-hoach-hoc-tap-hoc-ky-2-nam-hoc-2019-2020/)
  - 06/12/2017: [CTĐB – Kế hoạch năm học 2017-2018](https://www.ctda.hcmus.edu.vn/vi/2017/12/ctdb-ke-hoach-nam-hoc-2017-2018/)
 ### Giáo vụ
+ - 20/12/2023: [CTĐA_Lịch thi chi tiết cuối kỳ HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2023/12/ctda_lich-thi-chi-tiet-cuoi-ky-hk1-2324/)
  - 20/12/2023: [VP_HK1/2324_Thông báo khảo sát môn học cuối kỳ](https://www.ctda.hcmus.edu.vn/vi/2023/12/vp_hk1-2324_thong-bao-khao-sat-mon-hoc-cuoi-ky/)
  - 20/12/2023: [CLC_HK1/2324_Thông báo khảo sát môn học cuối kỳ](https://www.ctda.hcmus.edu.vn/vi/2023/12/clc_hk1-2324_thong-bao-khao-sat-mon-hoc-cuoi-ky/)
  - 20/12/2023: [CTTT_HK1/2324_Thông báo khảo sát môn học cuối kỳ](https://www.ctda.hcmus.edu.vn/vi/2023/12/cttt_hk1-2324_thong-bao-khao-sat-mon-hoc-cuoi-ky/)
@@ -22,7 +23,6 @@ _Last update: **2023-12-20 16:08:24.534116+07:00**_
  - 15/11/2023: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2019 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2023/11/ctda-thong-bao-nop-de-cuong-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2019-dot-2/)
  - 03/11/2023: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1](https://www.ctda.hcmus.edu.vn/vi/2023/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-1/)
  - 27/10/2023: [CTĐA_Thông báo kết quả phúc khảo HK3/2223](https://www.ctda.hcmus.edu.vn/vi/2023/10/ctda_thong-bao-ket-qua-phuc-khao-hk3-2223/)
- - 25/10/2023: [[CTĐA] Mời họp phổ biến các quy định về hình thức tốt nghiệp, năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/10/ctda-moi-hop-pho-bien-cac-quy-dinh-ve-hinh-thuc-tot-nghiep-nam-hoc-2023-2024/)
 ### Trợ lí sinh viên
  - 13/12/2023: [Thông báo kết quả cung cấp thông tin lưu trú năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/12/thong-bao-ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024/)
  - 17/11/2023: [Thông báo đăng ký bổ sung tham dự Lễ trao bằng tốt nghiệp Khoa Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-dang-ky-bo-sung-tham-du-le-trao-bang-tot-nghiep-khoa-cong-nghe-thong-tin/)
@@ -115,14 +115,14 @@ _Last update: **2023-12-20 16:08:24.534116+07:00**_
 ***
 
  - [Lịch thi (chi tiết) cuối kỳ HK1/23-24 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/795-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-ct-d-an-khoa-cntt)
- - [Lịch thi (chi tiết) cuối kỳ HK1/23-24 chính quy tại LT và NVC](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/793-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
+ - [Lịch thi (chi tiết) cuối kỳ HK1/23-24 chính quy tại LT và NVC (CẬP NHẬT 20/12)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/793-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi (chi tiết) cuối kỳ sớm HK1/23-24 ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/789-l-ch-thi-chi-ti-t-cu-i-ky-s-m-hk1-23-24-dhcq)
  - [Lịch thi (chi tiết) cuối kỳ HK1/23-24 hệ HCĐH](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/788-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-h-hcdh)
  - [Lịch thi (chi tiết) cuối kỳ HK1/23-24 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/786-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-ct-d-an-cac-khoa)
 
 ***
 
- - [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 13/12)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
+ - [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 20/12)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
  - [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
 
