@@ -26,7 +26,6 @@ jobs:
           python-version: '3.9.18' 
           cache: 'pip' # caching pip dependencies
       - run: pip install -r requirements.txt
-      - run: pip install lxml
       - run: python main.py
       - run: |
           git config user.name github-actions
