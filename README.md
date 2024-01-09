@@ -5,4 +5,4 @@ Sources of information:
 1. https://hcmus.edu.vn/sinh-vien
 2. https://www.ctda.hcmus.edu.vn/vi/
 
-See [NEWS.md](https://huytrinhm.tech/hcmus-news-crawler/NEWS)
+See [NEWS.md](https://huytrinhm.github.io/hcmus-news-crawler/NEWS)
