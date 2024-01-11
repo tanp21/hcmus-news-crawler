@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-01-11 09:25:09.675498+07:00**_
+_Last update: **2024-01-11 10:10:28.015581+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -46,6 +46,7 @@ _Last update: **2024-01-11 09:25:09.675498+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
  - 23/09/2015: [Thông báo về việc tham gia Bảo hiểm Y tế năm học 2015 – 2016 của sinh viên](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-dong-bao-hiem/)
 ## FIT
+ - 11-1-2024: [CQ]Thông báo đăng ký học phần dành cho sinh viên ĐHCQ Chương trình Chuẩn HK2/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15903)
  - 10-1-2024: [Thêm nhóm sinh viên của khoa Công nghệ thông tin công bố bài báo tại tạp chí SCIE-Q1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15900)
  - 5-1-2024: [Tổng kết Seminar Plumbing the Breadth and Depth of LLM Evaluation](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15899)
  - 4-1-2024: [[CQ] Nghỉ học thực hành lớp Cấu trúc dữ liệu và giải thuật 22CTT4  nhóm 1, nhóm 3 ngày 5/1/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15896)
@@ -55,7 +56,6 @@ _Last update: **2024-01-11 09:25:09.675498+07:00**_
  - 29-12-2023: [Chúc mừng Khoa Công nghệ thông tin được Bộ Giáo dục và Đào tạo trao Cờ thi đua năm học 2022-2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15890)
  - 29-12-2023: [Thông báo V/v Cập nhật thành tích sinh viên HK1/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15889)
  - 29-12-2023: [[SĐH] V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T12/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15887)
- - 27-12-2023: [Nghỉ học lớp Phương pháp nghiên cứu khoa học (HP1 lớp cao học Khóa 33/2023) ngày 31/12/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15886)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 23-11-2023: [Thông báo đóng học phí HK 1 / 2023-2024 đối với  sinh viên cao đẳng hệ chính quy](https://old.hcmus.edu.vn/component/content/article/201-phong-dao-tao/thong-bao-he-cao-dang/hoc-phi_cd/5284-thong-bao-dong-hoc-phi-hk-1-2023-2024-doi-voi-sinh-vien-cao-dang-he-chinh-quy?Itemid=437)
