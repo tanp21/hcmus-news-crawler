@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-01-26 08:43:40.506324+07:00**_
+_Last update: **2024-01-26 09:17:55.930712+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -106,11 +106,11 @@ _Last update: **2024-01-26 08:43:40.506324+07:00**_
  - 24-11-2022: [Hội thảo khoa học "Nhà máy thực vật: công nghệ sinh học ứng dụng trong sản xuất sinh khối thực vật" - Bước tiến trong nông nghiệp công nghệ cao](https://old.hcmus.edu.vn/component/content/article?id=4730:hoi-thao-khoa-hoc-nha-may-thuc-vat-cong-nghe-sinh-hoc-ung-dung-trong-san-xuat-sinh-khoi-thuc-vat-buoc-tien-trong-nong-nghiep-cong-nghe-cao&catid=100&Itemid=437)
  - 19-11-2022: [Thông báo Kết quả Giải thưởng Lê Văn Thới năm 2022](https://old.hcmus.edu.vn/component/content/article?id=4722:thong-bao-ket-qua-giai-thuong-le-van-thoi-nam-2022&catid=100&Itemid=437)
 ### Các thông báo về Khảo thí
+ - [Thông báo thay đổi phòng thi giữa kỳ HK2/23-24 ngày 30/1 tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/801-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk2-23-24-ngay-30-1-t-i-nvc)
  - [Thông báo phúc khảo HK1/23-24 HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/800-thong-bao-phuc-kh-o-hk1-23-24-hcdh-22hcb)
  - [Thông báo phúc khảo HK1/23-24 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/799-thong-bao-phuc-kh-o-hk1-23-24-ct-d-an-cac-khoa)
  - [Thông báo phúc khảo HK1/23-24 ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/796-thong-bao-phuc-kh-o-hk1-23-24-dttx)
  - [Thông báo thay đổi phòng thi HK1/23-24 tại NVC môn Hóa phân tích 1 ngày 29/12](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/794-thong-bao-thay-d-i-phong-thi-hk1-23-24-t-i-nvc-mon-hoa-phan-tich-1-ngay-29-12)
- - [Thông báo thay đổi phòng thi HK1/23-24 môn Vi tích phân 1C tại NVC ngày 14/12](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/792-thong-bao-thay-d-i-phong-thi-hk1-23-24-mon-vi-tich-phan-1c-t-i-nvc-ngay-14-12)
 
 ***
 
