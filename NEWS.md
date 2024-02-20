@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-02-20 09:14:24.183321+07:00**_
+_Last update: **2024-02-20 10:10:25.336310+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -24,6 +24,8 @@ _Last update: **2024-02-20 09:14:24.183321+07:00**_
  - 18/12/2023: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2020 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2023/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2020-dot-1/)
  - 21/11/2023: [Lịch thi cuối kỳ HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2023/11/lich-thi-cuoi-ky-hk1-2324/)
 ### Trợ lí sinh viên
+ - 20/02/2024: [Đăng ký tham quan công ty FPT Software ngày 5/3](https://www.ctda.hcmus.edu.vn/vi/2024/02/dang-ky-tham-quan-cong-ty-fpt-software-ngay-5-3/)
+ - 20/02/2024: [Thông báo lịch làm việc của Cố vấn học tập HK2/ NH 2023 – 2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-bao-lich-lam-viec-cua-co-van-hoc-tap-hk2-nh-2023-2024/)
  - 13/12/2023: [Thông báo kết quả cung cấp thông tin lưu trú năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/12/thong-bao-ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024/)
  - 17/11/2023: [Thông báo đăng ký bổ sung tham dự Lễ trao bằng tốt nghiệp Khoa Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-dang-ky-bo-sung-tham-du-le-trao-bang-tot-nghiep-khoa-cong-nghe-thong-tin/)
  - 08/11/2023: [Thông báo đăng ký tham dự Lễ trao bằng tốt nghiệp Khoa Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-dang-ky-tham-du-le-trao-bang-tot-nghiep-khoa-cong-nghe-thong-tin/)
@@ -32,8 +34,6 @@ _Last update: **2024-02-20 09:14:24.183321+07:00**_
  - 02/11/2023: [Thông báo đóng phí Bảo hiểm y tế năm 2024](https://www.ctda.hcmus.edu.vn/vi/2023/11/8849/)
  - 02/11/2023: [THÔNG BÁO Kết quả đăng ký Sinh hoạt Công dân Đầu năm, năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-nam-hoc-2023-2024/)
  - 05/10/2023: [THÔNG BÁO Triển khai Cuộc thi “Ý tưởng Khởi nghiệp Sáng tạo Công nghệ Quốc gia” năm 2023](https://www.ctda.hcmus.edu.vn/vi/2023/10/thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sang-tao-cong-nghe-quoc-gia-nam-2023/)
- - 04/10/2023: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2022-2023](https://www.ctda.hcmus.edu.vn/vi/2023/10/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2022-2023/)
- - 01/10/2023: [[SHCD]_ Thực hiện bài thu hoạch đợt sinh hoạt công dân đầu khóa sinh viên khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2023/10/shcd_-thu%cc%a3c-hie%cc%a3n-bai-thu-hoa%cc%a3ch-do%cc%a3t-sinh-hoa%cc%a3t-cong-dan-dau-khoa-sinh-vien-khoa-2023/)
 ### Kế toán - Tài chính
  - 31/01/2024: [Thông báo về quy định đóng học phí học kỳ 2 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/01/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-2-nam-hoc-2023-2024/)
  - 23/11/2023: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2023-2024/)
