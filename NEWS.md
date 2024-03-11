@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-03-11 14:10:04.827359+07:00**_
+_Last update: **2024-03-11 15:12:51.008138+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -46,16 +46,16 @@ _Last update: **2024-03-11 14:10:04.827359+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
 ## FIT
+ - 11-3-2024: [Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 2, lớp 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16023)
+ - 11-3-2024: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 1 - lớp 3)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16022)
+ - 11-3-2024: [V/v thực hiện khảo sát các môn mở trong Học phần 2 lớp cao học K33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16021)
+ - 11-3-2024: [DSSV Khóa 2021 đăng ký xét tuyển chương trình liên thông ĐH-ThS năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16020)
  - 9-3-2024: [Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 1 - lớp 3)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16017)
  - 8-3-2024: [Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16016)
  - 8-3-2024: [Đăng ký tham quan công ty Fujinet Systems ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16015)
  - 8-3-2024: [Danh sách tham quan công ty TMA Technology Group ngày 26/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16014)
  - 8-3-2024: [Danh sách tham quan công ty TecAlliance Việt Nam ngày 29/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16013)
  - 7-3-2024: [[CQ] Hủy lớp Xử lý phân tích dữ liệu trực tuyến HK2/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16011)
- - 6-3-2024: [Talk show: The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16009)
- - 6-3-2024: [[CQ] Nhắc thời gian học thực hành HT1 - bắt đầu học từ tuần 11/3/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16010)
- - 6-3-2024: [Danh sách sinh viên tham quan công ty FPT Telecom](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16007)
- - 5-3-2024: [Đăng ký tham quan công ty TMA Technology Group ngày 26/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16006)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 23-11-2023: [Thông báo đóng học phí HK 1 / 2023-2024 đối với  sinh viên cao đẳng hệ chính quy](https://old.hcmus.edu.vn/component/content/article/201-phong-dao-tao/thong-bao-he-cao-dang/hoc-phi_cd/5284-thong-bao-dong-hoc-phi-hk-1-2023-2024-doi-voi-sinh-vien-cao-dang-he-chinh-quy?Itemid=437)
