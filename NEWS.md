@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-03-19 02:08:24.057993+07:00**_
+_Last update: **2024-03-19 03:10:22.200720+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -106,28 +106,3 @@ _Last update: **2024-03-19 02:08:24.057993+07:00**_
  - 24-11-2022: [Hội thảo khoa học "Nhà máy thực vật: công nghệ sinh học ứng dụng trong sản xuất sinh khối thực vật" - Bước tiến trong nông nghiệp công nghệ cao](https://old.hcmus.edu.vn/component/content/article?id=4730:hoi-thao-khoa-hoc-nha-may-thuc-vat-cong-nghe-sinh-hoc-ung-dung-trong-san-xuat-sinh-khoi-thuc-vat-buoc-tien-trong-nong-nghiep-cong-nghe-cao&catid=100&Itemid=437)
  - 19-11-2022: [Thông báo Kết quả Giải thưởng Lê Văn Thới năm 2022](https://old.hcmus.edu.vn/component/content/article?id=4722:thong-bao-ket-qua-giai-thuong-le-van-thoi-nam-2022&catid=100&Itemid=437)
 ### Các thông báo về Khảo thí
- - [Thông báo phúc khảo HK1/23-24 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/805-thong-bao-hk1-23-24-h-chinh-quy)
- - [Thông báo thay đổi phòng thi giữa kỳ HK2/23-24 ngày 30/1 tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/801-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk2-23-24-ngay-30-1-t-i-nvc)
- - [Thông báo phúc khảo HK1/23-24 HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/800-thong-bao-phuc-kh-o-hk1-23-24-hcdh-22hcb)
- - [Thông báo phúc khảo HK1/23-24 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/799-thong-bao-phuc-kh-o-hk1-23-24-ct-d-an-cac-khoa)
- - [Thông báo phúc khảo HK1/23-24 ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/796-thong-bao-phuc-kh-o-hk1-23-24-dttx)
-
-***
-
- - [Lịch thi HK2/23-24 hệ HCĐH khóa 22](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/808-l-ch-thi-hk2-23-24-h-hcdh-khoa-22)
- - [Lịch thi cuối kỳ HK2/23-24 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/807-l-ch-thi-cu-i-ky-hk2-23-24-ct-d-an-cac-khoa)
- - [Lịch thi cuối kỳ HK2/23-24 CTĐA khoa Hóa khóa K2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/806-l-ch-thi-cu-i-ky-hk2-23-24-ctda-khoa-hoa-khoa-k2021)
- - [Lịch thi cuối kỳ sớm HK2/23-24 CT đề án khoa Hóa, Sinh-CNSH](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/804-l-ch-thi-cu-i-ky-s-m-hk2-23-24-ct-d-an-khoa-hoa-sinh-cnsh)
- - [Lịch thi giữa kỳ HK2/23-24 CT đề án khoa Sinh, DTVT, Môi trường (CẬP NHẬT 04/03)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/803-l-ch-thi-gi-a-ky-hk2-23-24-ct-d-an-khoa-sinh-dtvt-moi-tru-ng)
-
-***
-
- - [Thông báo về việc Tra cứu Kết quả học tập](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/798-thong-bao-v-vi-c-tra-c-u-k-t-qu-h-c-t-p)
- - [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 20/12)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
- - [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
-
-***
-
- - [Kết quả phúc khảo HK2/22-23 CT Đề án khoa Hóa, Sinh-CNSH, ĐTVT và Môi trường](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/726-k-t-qu-phuc-kh-o-hk2-22-23-ct-d-an-khoa-hoa-sinh-cnsh-dtvt-va-moi-tru-ng)
- - [Kết quả phúc khảo HK1/22-23 HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/723-k-t-qu-phuc-kh-o-hk1-22-23-hcdh-22hcb)
- - [Kết quả phúc khảo HK1/22-23_Hệ CQ_Đợt cuối](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/691-k-t-qu-phuc-kh-o-hk1-22-23-h-cq-d-t-cu-i)
