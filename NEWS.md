@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-03-20 10:10:59.053716+07:00**_
+_Last update: **2024-03-20 11:13:07.113284+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -46,6 +46,7 @@ _Last update: **2024-03-20 10:10:59.053716+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
 ## FIT
+ - 20-3-2024: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16046)
  - 19-3-2024: [DSHV đăng ký đề tài luận văn Thạc sĩ khóa 32/2022 - đợt 1 (tháng 3/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16045)
  - 19-3-2024: [Đăng ký tham quan công ty GeoComply ngày 4/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16044)
  - 19-3-2024: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 5,6,7)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16043)
@@ -55,7 +56,6 @@ _Last update: **2024-03-20 10:10:59.053716+07:00**_
  - 14-3-2024: [Tổng kết Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16038)
  - 14-3-2024: [Thời gian, địa điểm phỏng vấn chương trình liên thông ĐH-ThS năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16037)
  - 13-3-2024: [Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16035)
- - 13-3-2024: [Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16034)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 23-11-2023: [Thông báo đóng học phí HK 1 / 2023-2024 đối với  sinh viên cao đẳng hệ chính quy](https://old.hcmus.edu.vn/component/content/article/201-phong-dao-tao/thong-bao-he-cao-dang/hoc-phi_cd/5284-thong-bao-dong-hoc-phi-hk-1-2023-2024-doi-voi-sinh-vien-cao-dang-he-chinh-quy?Itemid=437)
