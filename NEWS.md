@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-03-26 08:41:51.700392+07:00**_
+_Last update: **2024-03-26 09:15:33.790140+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -46,16 +46,16 @@ _Last update: **2024-03-26 08:41:51.700392+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
 ## FIT
+ - 26-3-2024: [[CQ] Nghỉ học lớp Lý thuyết số 22_6 ngày 29/3/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16066)
+ - 26-3-2024: [Danh sách sinh viên tham quan công ty GeoComply ngày 4/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16062)
  - 25-3-2024: [Đăng ký tham dự Seminar về AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16065)
  - 25-3-2024: [Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 33/2023 đối với sinh viên liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16064)
  - 25-3-2024: [Thông báo danh sách tham dự Talkshow The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16063)
- - 25-3-2024: [Danh sách sinh viên tham quan công ty GeoComply ngày 4/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16062)
  - 25-3-2024: [DSSV đạt yêu cầu tham gia học liên thông ĐH-ThS năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16061)
  - 25-3-2024: [[CQ] Thông báo nộp đề cương đề tài Khóa luận/ Thực tập dự án tốt nghiệp Khóa 2020 Đợt 2 (bảo vệ T7/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16060)
  - 25-3-2024: [Danh sách sinh viên tham gia hội thảo Large Language Model (LLM) ngày 2/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16059)
  - 25-3-2024: [Thông báo đăng ký tín chỉ học phần 2 chương trình cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16058)
  - 22-3-2024: [Triển khai Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục Đại học năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16056)
- - 21-3-2024: [[CQ] Quy trình nộp cuốn SAU bảo vệ KLTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 3/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16055)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 23-11-2023: [Thông báo đóng học phí HK 1 / 2023-2024 đối với  sinh viên cao đẳng hệ chính quy](https://old.hcmus.edu.vn/component/content/article/201-phong-dao-tao/thong-bao-he-cao-dang/hoc-phi_cd/5284-thong-bao-dong-hoc-phi-hk-1-2023-2024-doi-voi-sinh-vien-cao-dang-he-chinh-quy?Itemid=437)
