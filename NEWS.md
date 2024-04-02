@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-04-03 05:12:50.748021+07:00**_
+_Last update: **2024-04-03 06:11:47.152860+07:00**_
 ## APCS
 ## FIT
  - 2-4-2024: [Danh sách sinh viên tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16088)
