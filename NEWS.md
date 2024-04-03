@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-04-03 15:12:39.454931+07:00**_
+_Last update: **2024-04-03 16:10:44.031782+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -46,6 +46,7 @@ _Last update: **2024-04-03 15:12:39.454931+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
 ## FIT
+ - 3-4-2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16099)
  - 2-4-2024: [Danh sách sinh viên tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16088)
  - 2-4-2024: [Thông báo thay đổi thời gian và địa điểm tổ chức Seminar về AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16087)
  - 1-4-2024: [DSSV đăng ký môn học ĐH-ThS cùng HP2 cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16085)
@@ -55,7 +56,6 @@ _Last update: **2024-04-03 15:12:39.454931+07:00**_
  - 27-3-2024: [Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16075)
  - 26-3-2024: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16073)
  - 26-3-2024: [Gặp gỡ đại diện Pohang University of Science and Technology (POSTECH) và POSCO Group 05/4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16072)
- - 26-3-2024: [Chương trình hè 2024 - Pohang University of Science and Technology (POSTECH)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16071)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 23-11-2023: [Thông báo đóng học phí HK 1 / 2023-2024 đối với  sinh viên cao đẳng hệ chính quy](https://old.hcmus.edu.vn/component/content/article/201-phong-dao-tao/thong-bao-he-cao-dang/hoc-phi_cd/5284-thong-bao-dong-hoc-phi-hk-1-2023-2024-doi-voi-sinh-vien-cao-dang-he-chinh-quy?Itemid=437)
@@ -117,7 +117,7 @@ _Last update: **2024-04-03 15:12:39.454931+07:00**_
  - [Lịch thi HK2/23-24 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/814-l-ch-thi-hk2-23-24-h-dttx)
  - [Lịch thi cuối kỳ HK2/23-24 CT đề án khoa CNTT (CẬP NHẬT 03/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/813-l-ch-thi-cu-i-ky-hk2-23-24-ct-d-an-khoa-cntt)
  - [Lịch thi cuối kỳ sớm HK2/23-24 Chính quy khoa Hóa, Sinh, ĐTVT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/812-l-ch-thi-cu-i-ky-s-m-hk2-23-24-chinh-quy-khoa-hoa-sinh-dtvt)
- - [Lịch thi giữa kỳ HK2/23-24 CT đề án khoa Lý](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/811-l-ch-thi-gi-a-ky-hk2-23-24-ct-d-an-khoa-ly)
+ - [Lịch thi giữa kỳ HK2/23-24 CT đề án khoa Lý(CẬP NHẬT 03/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/811-l-ch-thi-gi-a-ky-hk2-23-24-ct-d-an-khoa-ly)
  - [Lịch thi giữa kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 29/03)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/810-l-ch-thi-gi-a-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
 
 ***
