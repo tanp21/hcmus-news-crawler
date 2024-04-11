@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-04-11 15:12:33.713597+07:00**_
+_Last update: **2024-04-11 16:10:32.373790+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -13,6 +13,7 @@ _Last update: **2024-04-11 15:12:33.713597+07:00**_
  - 07/02/2020: [Về việc thay đổi kế hoạch học tập học kỳ 2 năm học 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/02/ve-viec-thay-doi-ke-hoach-hoc-tap-hoc-ky-2-nam-hoc-2019-2020/)
  - 06/12/2017: [CTĐB – Kế hoạch năm học 2017-2018](https://www.ctda.hcmus.edu.vn/vi/2017/12/ctdb-ke-hoach-nam-hoc-2017-2018/)
 ### Giáo vụ
+ - 11/04/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên cuối HK2/2324](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda-thong-bao-sinh-vien-danh-gia-mon-hoc-giang-vien-cuoi-hk2-2324/)
  - 02/04/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda-thong-bao-nop-de-cuong-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-1/)
  - 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
  - 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
@@ -22,7 +23,6 @@ _Last update: **2024-04-11 15:12:33.713597+07:00**_
  - 16/01/2024: [MỜI THAM GIA SINH HOẠT VỀ KẾ HOẠCH TỔ CHỨC HỌC PHẦN THỰC TẬP THỰC TẾ – HỌC KỲ 3 NĂM HỌC 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2023-2024/)
  - 09/01/2024: [[CTĐA] DSSV đăng ký thực hiện KLTN/TTTN/TTDATN chính thức khóa 2020, đợt 1 (bảo vệ tháng 8/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/01/ctda-dssv-nop-don-dang-ky-thuc-hien-kltn-tttn-ttdatn-khoa-2020-dot-1-bao-ve-thang-8-2024/)
  - 20/12/2023: [CTĐA_Lịch thi chi tiết cuối kỳ HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2023/12/ctda_lich-thi-chi-tiet-cuoi-ky-hk1-2324/)
- - 20/12/2023: [VP_HK1/2324_Thông báo khảo sát môn học cuối kỳ](https://www.ctda.hcmus.edu.vn/vi/2023/12/vp_hk1-2324_thong-bao-khao-sat-mon-hoc-cuoi-ky/)
 ### Trợ lí sinh viên
  - 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
  - 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
