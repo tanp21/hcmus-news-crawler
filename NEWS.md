@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-05-03 08:52:09.753177+07:00**_
+_Last update: **2024-05-03 09:23:03.429186+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -24,6 +24,7 @@ _Last update: **2024-05-03 08:52:09.753177+07:00**_
  - 18/01/2024: [[CTĐA] Thời khóa biểu HK2/2324](https://www.ctda.hcmus.edu.vn/vi/2024/01/ctda-thoi-khoa-bieu-hk2-2324/)
  - 16/01/2024: [MỜI THAM GIA SINH HOẠT VỀ KẾ HOẠCH TỔ CHỨC HỌC PHẦN THỰC TẬP THỰC TẾ – HỌC KỲ 3 NĂM HỌC 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2023-2024/)
 ### Trợ lí sinh viên
+ - 03/05/2024: [[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.](https://www.ctda.hcmus.edu.vn/vi/2024/05/shcd_-thong-bao-dang-ky-bo-sung-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-danh-cho-khoa-2020-tro-ve-truoc/)
  - 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
  - 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
  - 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
@@ -33,7 +34,6 @@ _Last update: **2024-05-03 08:52:09.753177+07:00**_
  - 20/02/2024: [Thông tin về một số chương trình tài trợ nghiên cứu, học bổng nghiên cứu của Chính phủ Anh](https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-tin-ve-mot-so-chuong-trinh-tai-tro-nghien-cuu-hoc-bong-nghien-cuu-cua-chinh-phu-anh/)
  - 20/02/2024: [Học bổng Chính phủ Ý “Invest your talent in Italy” năm học 2024 – 2025](https://www.ctda.hcmus.edu.vn/vi/2024/02/hoc-bong-chinh-phu-y-invest-your-talent-in-italy-nam-hoc-2024-2025/)
  - 20/02/2024: [Đăng ký tham quan công ty FPT Software ngày 5/3](https://www.ctda.hcmus.edu.vn/vi/2024/02/dang-ky-tham-quan-cong-ty-fpt-software-ngay-5-3/)
- - 20/02/2024: [Thông báo lịch làm việc của Cố vấn học tập HK2/ NH 2023 – 2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-bao-lich-lam-viec-cua-co-van-hoc-tap-hk2-nh-2023-2024/)
 ### Kế toán - Tài chính
  - 31/01/2024: [Thông báo về quy định đóng học phí học kỳ 2 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/01/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-2-nam-hoc-2023-2024/)
  - 23/11/2023: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2023-2024/)
@@ -46,6 +46,8 @@ _Last update: **2024-05-03 08:52:09.753177+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
 ## FIT
+ - 3-5-2024: [[HTTT] Các chương trình học bổng đào tạo do Quỹ VinIF tài trợ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16165)
+ - 3-5-2024: [[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16166)
  - 2-5-2024: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16164)
  - 26-4-2024: [Đăng ký tham quan công ty VNG ngày 20/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16163)
  - 26-4-2024: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2023 - 2024 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16162)
@@ -54,8 +56,6 @@ _Last update: **2024-05-03 08:52:09.753177+07:00**_
  - 25-4-2024: [Gần 1000 sinh viên đến với Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16158)
  - 24-4-2024: [Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16156)
  - 23-4-2024: [Danh sách sinh viên tham gia hội thảo Low code ngày 6/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16152)
- - 23-4-2024: [Thông báo đăng ký sinh hoạt công dân cuối khóa năm học 2023 - 2024 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16151)
- - 22-4-2024: [[Phỏng vấn thử - việc thật] V/v Nộp giấy xác nhận phỏng vấn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16150)
 ## HCMUS
 ### Các thông báo về Đào Tạo
  - 23-11-2023: [Thông báo đóng học phí HK 1 / 2023-2024 đối với  sinh viên cao đẳng hệ chính quy](https://old.hcmus.edu.vn/component/content/article/201-phong-dao-tao/thong-bao-he-cao-dang/hoc-phi_cd/5284-thong-bao-dong-hoc-phi-hk-1-2023-2024-doi-voi-sinh-vien-cao-dang-he-chinh-quy?Itemid=437)
