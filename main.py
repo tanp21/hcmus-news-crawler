@@ -22,6 +22,7 @@ def crawl_ctda():
         news = [[el.contents[0].text, el.contents[0].attrs['href'], el.contents[-1].text] for el in section.find_all(class_='listing-item')]
         for n in news:
             result += f' - {n[2]}: [{n[0]}]({n[1]})\n'
+        result += '\n'
 
     return result
 
@@ -38,6 +39,8 @@ def crawl_fit():
         title = news.select_one('a').text.strip()
         href = news.select_one('a').attrs['href']
         result += f' - {day}-{month}-{year}: [{title}](https://www.fit.hcmus.edu.vn/vn/{href})\n'
+
+    result += '\n'
 
     return result
 
@@ -97,6 +100,8 @@ def crawl_hcmus():
         pub_date = item.find('pubDate').text
         pub_date = datetime.strptime(pub_date, "%a, %d %b %Y %H:%M:%S %z").strftime('%d/%m/%Y')
         result += f"- {pub_date}: [{title}]({link})\n"
+
+    result += '\n'
 
     return result
 
