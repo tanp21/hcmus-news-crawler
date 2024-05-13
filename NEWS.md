@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-05-13 21:09:27.763295+07:00**_
+_Last update: **2024-05-13 22:11:13.685306+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-05-13 21:09:27.763295+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
 
 ## FIT
+ - 13-5-2024: [Tổng kết Seminar Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16187)
  - 13-5-2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16186)
  - 10-5-2024: [Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181)
  - 8-5-2024: [Công bố đề án tuyển sinh trình độ đại học tại trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16177)
@@ -59,7 +60,6 @@ _Last update: **2024-05-13 21:09:27.763295+07:00**_
  - 7-5-2024: [GÓC SẺ CHIA - WE TALK 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16172)
  - 6-5-2024: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16171)
  - 4-5-2024: [[CQ] Kế hoạch giảng dạy ĐHCQ chương trình Chuẩn học kỳ 3, năm học 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16169)
- - 3-5-2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16168)
 
 ## Thông tin dành cho sinh viên
 - 13/05/2024: [Thông báo địa điểm học cho sinh viên đại học hệ chính quy chương trình đại trà từ khóa tuyển 2021 trở về sau](https://hcmus.edu.vn/thong-bao-dia-diem-hoc-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra-tu-khoa-tuyen-2021-tro-ve-sau/)
