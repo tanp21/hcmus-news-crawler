@@ -45,34 +45,35 @@ def crawl_old_hcmus():
     page = requests.get("https://old.hcmus.edu.vn/sinh-vien")
     soup = bs(page.content, features="lxml")
 
-    news_titles = [el.text for el in soup.find_all(class_='mod-articles-category-title')]
-    raw_links = [el.attrs['href'] for el in soup.find_all(class_='mod-articles-category-title')]
-    news_links = [''.join(url) for url in raw_links]
+    # news_titles = [el.text for el in soup.find_all(class_='mod-articles-category-title')]
+    # raw_links = [el.attrs['href'] for el in soup.find_all(class_='mod-articles-category-title')]
+    # news_links = [''.join(url) for url in raw_links]
 
-    raw_dates = [el.text for el in soup.find_all(class_='mod-articles-category-date')]
-    news_dates = [''.join(re.findall('([\d-])', date)) for date in raw_dates]
+    # raw_dates = [el.text for el in soup.find_all(class_='mod-articles-category-date')]
+    # news_dates = [''.join(re.findall('([\d-])', date)) for date in raw_dates]
 
     ctkt = [el for el in soup.find_all(class_='feed-link')]
     ctkt_titles = [''.join(re.sub(r'(\t|\n)', '', news.text)) for news in ctkt]
     ctkt_links = [''.join(re.findall('http.*" ', str(news))) for news in ctkt]
 
-    thong_bao = ['Các thông báo về Đào Tạo',
-                'Các thông báo về Công tác sinh viên',
-                'Thông báo khác',
-                'Các thông báo về Khảo thí']
+    # thong_bao = ['Các thông báo về Đào Tạo',
+    #             'Các thông báo về Công tác sinh viên',
+    #             'Thông báo khác',
+    #             'Các thông báo về Khảo thí']
 
-    result = '## HCMUS\n'
-    current_section = current_news_count = 0
-    for i in range(len(news_dates)):
-        if current_news_count == 0:
-            result += f'### {thong_bao[current_section]}\n'
-            current_section += 1
-        current_news_count += 1
-        if current_news_count == 15:
-            current_news_count = 0
-        result += f' - {news_dates[i]}: [{news_titles[i]}](https://old.hcmus.edu.vn{news_links[i]})\n'
+    # result = '## HCMUS\n'
+    # current_section = current_news_count = 0
+    # for i in range(len(news_dates)):
+    #     if current_news_count == 0:
+    #         result += f'### {thong_bao[current_section]}\n'
+    #         current_section += 1
+    #     current_news_count += 1
+    #     if current_news_count == 15:
+    #         current_news_count = 0
+    #     result += f' - {news_dates[i]}: [{news_titles[i]}](https://old.hcmus.edu.vn{news_links[i]})\n'
 
-    result += f'### {thong_bao[current_section]}\n'
+    # result += f'### {thong_bao[current_section]}\n'
+    result = '## Các thông báo về Khảo thí\n'
     rule_position = [5, 10, 13]
     for i in range(len(ctkt_titles)):
         if i in rule_position:
@@ -83,6 +84,21 @@ def crawl_old_hcmus():
 
     return result
 
+def crawl_hcmus():
+    page = requests.get("https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/feed/")
+    soup = bs(page.content, features="xml")
+    items = soup.find_all('item')
+
+    result = "## Thông tin dành cho sinh viên\n"
+
+    for item in items:
+        title = item.find('title').text
+        link = item.find('link').text
+        pub_date = item.find('pubDate').text
+        pub_date = datetime.strptime(pub_date, "%a, %d %b %Y %H:%M:%S %z").strftime('%d/%m/%Y')
+        result += f"- {pub_date}: [{title}]({link})\n"
+
+    return result
 
 if __name__ == '__main__':
     with open('NEWS.md', 'w', encoding='utf-8') as f:
@@ -90,4 +106,5 @@ if __name__ == '__main__':
         f.write(f'_Last update: **{datetime.now(tz=ZoneInfo("Asia/Ho_Chi_Minh"))}**_\n')
         f.write(crawl_ctda())
         f.write(crawl_fit())
+        f.write(crawl_hcmus())
         f.write(crawl_old_hcmus())
