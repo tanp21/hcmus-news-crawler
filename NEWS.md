@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-05-13 09:25:58.064478+07:00**_
+_Last update: **2024-05-13 10:11:09.491314+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -24,6 +24,7 @@ _Last update: **2024-05-13 09:25:58.064478+07:00**_
  - 19/02/2024: [[CTĐA] – Thông báo phúc khảo HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-thong-bao-phuc-khao-hk1-2023-2024/)
  - 18/01/2024: [[CTĐA] Thời khóa biểu HK2/2324](https://www.ctda.hcmus.edu.vn/vi/2024/01/ctda-thoi-khoa-bieu-hk2-2324/)
 ### Trợ lí sinh viên
+ - 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
  - 03/05/2024: [[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.](https://www.ctda.hcmus.edu.vn/vi/2024/05/shcd_-thong-bao-dang-ky-bo-sung-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-danh-cho-khoa-2020-tro-ve-truoc/)
  - 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
  - 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
@@ -33,7 +34,6 @@ _Last update: **2024-05-13 09:25:58.064478+07:00**_
  - 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
  - 20/02/2024: [Thông tin về một số chương trình tài trợ nghiên cứu, học bổng nghiên cứu của Chính phủ Anh](https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-tin-ve-mot-so-chuong-trinh-tai-tro-nghien-cuu-hoc-bong-nghien-cuu-cua-chinh-phu-anh/)
  - 20/02/2024: [Học bổng Chính phủ Ý “Invest your talent in Italy” năm học 2024 – 2025](https://www.ctda.hcmus.edu.vn/vi/2024/02/hoc-bong-chinh-phu-y-invest-your-talent-in-italy-nam-hoc-2024-2025/)
- - 20/02/2024: [Đăng ký tham quan công ty FPT Software ngày 5/3](https://www.ctda.hcmus.edu.vn/vi/2024/02/dang-ky-tham-quan-cong-ty-fpt-software-ngay-5-3/)
 ### Kế toán - Tài chính
  - 31/01/2024: [Thông báo về quy định đóng học phí học kỳ 2 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/01/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-2-nam-hoc-2023-2024/)
  - 23/11/2023: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2023-2024/)
