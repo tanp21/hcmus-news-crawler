@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-05-14 11:11:33.042253+07:00**_
+_Last update: **2024-05-14 12:10:48.477584+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -51,7 +51,6 @@ _Last update: **2024-05-14 11:11:33.042253+07:00**_
 
 ## FIT
  - 14-5-2024: [Danh sách sinh viên tham quan công ty KMS Technology](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16189)
- - 14-5-2024: [Thông báo địa điểm học cho sinh viên đại học hệ chính quy Khóa tuyển 2021 trở về sau](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16188)
  - 13-5-2024: [Tổng kết Seminar Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16187)
  - 13-5-2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16186)
  - 10-5-2024: [Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181)
@@ -60,6 +59,7 @@ _Last update: **2024-05-14 11:11:33.042253+07:00**_
  - 7-5-2024: [Đăng ký tham quan công ty KMS Technology ngày 21/05](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16174)
  - 7-5-2024: [Danh sách sinh viên tham quan công ty VNG ngày 20/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16173)
  - 7-5-2024: [GÓC SẺ CHIA - WE TALK 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16172)
+ - 6-5-2024: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16171)
 
 ## Thông tin dành cho sinh viên
 - 13/05/2024: [Thông báo địa điểm học cho sinh viên đại học hệ chính quy chương trình đại trà từ khóa tuyển 2021 trở về sau](https://hcmus.edu.vn/thong-bao-dia-diem-hoc-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra-tu-khoa-tuyen-2021-tro-ve-sau/)
