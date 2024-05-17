@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-05-17 16:11:55.994393+07:00**_
+_Last update: **2024-05-17 17:10:21.199479+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-05-17 16:11:55.994393+07:00**_
  - 7-5-2024: [Danh sách sinh viên tham quan công ty VNG ngày 20/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16173)
 
 ## Thông tin dành cho sinh viên
+- 17/05/2024: [TB Chương trình Workshop tháng 5, chuyên đề “Ảnh hưởng của mạng xã hội đến sức khỏe tinh thần sinh viên”](https://hcmus.edu.vn/tb-chuong-trinh-workshop-thang-5-chuyen-de-a%cc%89nh-huong-cua-mang-xa-hoi-den-suc-khoe-tinh-than-sinh-vien/)
 - 16/05/2024: [Danh sách sinh viên tốt nghiệp Đại học, Liên thông đại học và Cao đẳng – đợt tháng 5/2024 (tất cả chương trình)](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-lien-thong-dai-hoc-va-cao-dang-dot-thang-5-2024-tat-ca-chuong-trinh/)
 - 16/05/2024: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2024](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2024/)
 - 15/05/2024: [Thông báo tham gia Giải Taekwondo sinh viên HUTECH mở rộng lần 2 năm 2024](https://hcmus.edu.vn/thong-bao-tham-gia-giai-taekwondo-sinh-vien-hutech-mo-rong-lan-2-nam-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-05-17 16:11:55.994393+07:00**_
 - 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
 - 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
 - 06/05/2024: [TB Về phương án tổ chức đợt sinh hoạt Công dân – sinh viên đầu năm, năm học 2024-2025](https://hcmus.edu.vn/tb-ve-phuong-an-to%cc%89-chuc-do%cc%a3t-sinh-hoa%cc%a3t-cong-san-sinh-vien-dau-nam-nam-ho%cc%a3c-2024-2025/)
-- 04/05/2024: [Thông báo Chương trình Talkshow “ Kỹ năng ứng dụng AI trong học tập hiệu quả”](https://hcmus.edu.vn/thong-bao-chuong-trinh-talkshow-ky-nang-ung-dung-ai-trong-hoc-tap-hieu-qua/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2023-2024 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/809-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2023-2024-chuong-trinh-d-an-cac-khoa)
