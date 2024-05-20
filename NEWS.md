@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-05-20 16:13:24.252116+07:00**_
+_Last update: **2024-05-20 17:10:45.455244+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-05-20 16:13:24.252116+07:00**_
  - 7-5-2024: [Danh sách sinh viên tham quan công ty VNG ngày 20/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16173)
 
 ## Thông tin dành cho sinh viên
+- 20/05/2024: [Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên](https://hcmus.edu.vn/chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc-tai-truong-dai-hoc-khoa-hoc-tu-nhien/)
 - 17/05/2024: [TB Chương trình Workshop tháng 5, chuyên đề “Ảnh hưởng của mạng xã hội đến sức khỏe tinh thần sinh viên”](https://hcmus.edu.vn/tb-chuong-trinh-workshop-thang-5-chuyen-de-a%cc%89nh-huong-cua-mang-xa-hoi-den-suc-khoe-tinh-than-sinh-vien/)
 - 16/05/2024: [Danh sách sinh viên tốt nghiệp Đại học, Liên thông đại học và Cao đẳng – đợt tháng 5/2024 (tất cả chương trình)](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-lien-thong-dai-hoc-va-cao-dang-dot-thang-5-2024-tat-ca-chuong-trinh/)
 - 16/05/2024: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2024](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-05-20 16:13:24.252116+07:00**_
 - 13/05/2024: [TB Lịch đăng ký các lớp tập huấn “Kỹ năng nhận thức và chăm sóc sức khoẻ tinh thần cho bản thân trên môi trường Đại học”](https://hcmus.edu.vn/tb-lich-dang-ky-cac-lop-tap-huan-ky%cc%83-nang-nha%cc%a3n-thuc-va-cham-soc-suc-khoe%cc%89-tinh-than-cho-ba%cc%89n-than-tren-moi-truong-da%cc%a3i-ho%cc%a3c/)
 - 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
 - 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
-- 06/05/2024: [TB Về phương án tổ chức đợt sinh hoạt Công dân – sinh viên đầu năm, năm học 2024-2025](https://hcmus.edu.vn/tb-ve-phuong-an-to%cc%89-chuc-do%cc%a3t-sinh-hoa%cc%a3t-cong-san-sinh-vien-dau-nam-nam-ho%cc%a3c-2024-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2023-2024 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/809-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2023-2024-chuong-trinh-d-an-cac-khoa)
