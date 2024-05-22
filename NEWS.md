@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-05-22 14:09:39.980292+07:00**_
+_Last update: **2024-05-22 15:13:38.306495+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2024-05-22 14:09:39.980292+07:00**_
  - 06/12/2017: [CTĐB – Kế hoạch năm học 2017-2018](https://www.ctda.hcmus.edu.vn/vi/2017/12/ctdb-ke-hoach-nam-hoc-2017-2018/)
 
 ### Giáo vụ
+ - 22/05/2024: [Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/)
  - 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
  - 15/04/2024: [CTĐA_Lịch thi chi tiết cuối kỳ HK2/2324](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda_lich-thi-chi-tiet-cuoi-ky-hk2-2324/)
  - 12/04/2024: [Kế hoạch tổ chức Thực tập thực tế cho sinh viên CTĐA HK3 năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ke-hoach-to-chuc-thuc-tap-thuc-te-cho-sinh-vien-ctda-hk3-nam-hoc-2023-2024/)
@@ -23,7 +24,6 @@ _Last update: **2024-05-22 14:09:39.980292+07:00**_
  - 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
  - 23/02/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-khoa-2019-dot-2-bao-ve-thang-4-2024/)
  - 19/02/2024: [[CTĐA] – Thông báo phúc khảo HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-thong-bao-phuc-khao-hk1-2023-2024/)
- - 18/01/2024: [[CTĐA] Thời khóa biểu HK2/2324](https://www.ctda.hcmus.edu.vn/vi/2024/01/ctda-thoi-khoa-bieu-hk2-2324/)
 
 ### Trợ lí sinh viên
  - 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
