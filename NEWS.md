@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-05-23 14:09:33.876196+07:00**_
+_Last update: **2024-05-23 15:12:55.246855+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-05-23 14:09:33.876196+07:00**_
  - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
 
 ## FIT
+ - 23-5-2024: [ĐHCQ - Thông báo về việc đăng ký nguyện vọng học lớp Khởi nghiệp học kỳ 3 NH 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16206)
  - 23-5-2024: [Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205)
  - 23-5-2024: [⚡️Đội bóng Khoa Công nghệ thông tin gặt hái nhiều giải thưởng tại Giải bóng đá Cựu sinh viên HCMUS Alumni League 2024.⚡️](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16204)
  - 21-5-2024: [Thông báo về việc tổ chức lễ tốt nghiệp thạc sĩ, tiến sĩ năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16198)
@@ -59,7 +60,6 @@ _Last update: **2024-05-23 14:09:33.876196+07:00**_
  - 14-5-2024: [Danh sách sinh viên tham quan công ty KMS Technology](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16189)
  - 13-5-2024: [Tổng kết Seminar Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16187)
  - 13-5-2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16186)
- - 10-5-2024: [Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181)
 
 ## Thông tin dành cho sinh viên
 - 23/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
