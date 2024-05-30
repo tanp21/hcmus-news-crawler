@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-05-30 06:10:13.292964+07:00**_
+_Last update: **2024-05-30 08:55:05.785963+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -74,11 +74,11 @@ _Last update: **2024-05-30 06:10:13.292964+07:00**_
 - 17/05/2024: [TB Chương trình Workshop tháng 5, chuyên đề “Ảnh hưởng của mạng xã hội đến sức khỏe tinh thần sinh viên”](https://hcmus.edu.vn/tb-chuong-trinh-workshop-thang-5-chuyen-de-a%cc%89nh-huong-cua-mang-xa-hoi-den-suc-khoe-tinh-than-sinh-vien/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo phúc khảo HK2/23-24 Chương trình đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/819-thong-bao-phuc-kh-o-hk2-23-24-chuong-trinh-d-an-khoa-cntt)
+ - [Thông báo phúc khảo HK2/23-24 lớp HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/818-thong-bao-phuc-kh-o-hk2-23-24-l-p-hcdh-22hcb)
+ - [Thông báo phúc khảo HK2/23-24 Chương trình đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/817-thong-bao-phuc-kh-o-hk2-23-24-chuong-trinh-d-an-cac-khoa)
  - [Thông báo SV đánh giá môn học - GV HK2/2023-2024 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/809-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2023-2024-chuong-trinh-d-an-cac-khoa)
  - [Thông báo phúc khảo HK1/23-24 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/805-thong-bao-hk1-23-24-h-chinh-quy)
- - [Thông báo thay đổi phòng thi giữa kỳ HK2/23-24 ngày 30/1 tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/801-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk2-23-24-ngay-30-1-t-i-nvc)
- - [Thông báo phúc khảo HK1/23-24 HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/800-thong-bao-phuc-kh-o-hk1-23-24-hcdh-22hcb)
- - [Thông báo phúc khảo HK1/23-24 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/799-thong-bao-phuc-kh-o-hk1-23-24-ct-d-an-cac-khoa)
 
 ***
 
