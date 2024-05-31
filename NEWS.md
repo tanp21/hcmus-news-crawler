@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-05-31 07:47:18.220320+07:00**_
+_Last update: **2024-05-31 08:54:41.687364+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -38,6 +38,7 @@ _Last update: **2024-05-31 07:47:18.220320+07:00**_
  - 20/02/2024: [Thông tin về một số chương trình tài trợ nghiên cứu, học bổng nghiên cứu của Chính phủ Anh](https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-tin-ve-mot-so-chuong-trinh-tai-tro-nghien-cuu-hoc-bong-nghien-cuu-cua-chinh-phu-anh/)
 
 ### Kế toán - Tài chính
+ - 31/05/2024: [Thông báo về quy định đóng học phí học kỳ 3 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-3-nam-hoc-2023-2024/)
  - 31/01/2024: [Thông báo về quy định đóng học phí học kỳ 2 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/01/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-2-nam-hoc-2023-2024/)
  - 23/11/2023: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2023-2024/)
  - 07/11/2023: [Thông báo học phí học kỳ 1 năm học 2023-2024 và Quy định thời gian gia hạn nộp học phí](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-hoc-phi-hoc-ky-1-nam-hoc-2023-2024-va-quy-dinh-thoi-gian-gia-han-nop-hoc-phi/)
@@ -47,7 +48,6 @@ _Last update: **2024-05-31 07:47:18.220320+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
- - 30/09/2015: [Thông báo v/v đóng học phí của sinh viên chương trình đặc biệt khóa tuyển 2015](https://www.ctda.hcmus.edu.vn/vi/2015/09/thong-bao-vv/)
 
 ## FIT
  - 29-5-2024: [Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2021 trở về trước](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16214)
