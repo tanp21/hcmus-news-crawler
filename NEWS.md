@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-06-03 12:11:57.616878+07:00**_
+_Last update: **2024-06-03 13:14:20.855084+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -50,16 +50,6 @@ _Last update: **2024-06-03 12:11:57.616878+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
- - 31-5-2024: [Đăng ký tham dự Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218)
- - 29-5-2024: [Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2021 trở về trước](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16214)
- - 28-5-2024: [Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208)
- - 27-5-2024: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16207)
- - 23-5-2024: [ĐHCQ - Thông báo về việc đăng ký nguyện vọng học lớp Khởi nghiệp học kỳ 3 NH 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16206)
- - 23-5-2024: [Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205)
- - 23-5-2024: [⚡️Đội bóng Khoa Công nghệ thông tin gặt hái nhiều giải thưởng tại Giải bóng đá Cựu sinh viên HCMUS Alumni League 2024.⚡️](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16204)
- - 21-5-2024: [Thông báo về việc tổ chức lễ tốt nghiệp thạc sĩ, tiến sĩ năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16198)
- - 21-5-2024: [Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197)
- - 16-5-2024: [Những lưu ý ở giai đoạn chuyên ngành - Dành cho khóa 2022 (ĐHCQ - Chương trình Chuẩn)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16195)
 
 ## Thông tin dành cho sinh viên
 - 31/05/2024: [THÔNG BÁO Triển khai Cuộc thi Ý tưởng Khởi nghiệp sinh viên – UNIV.STAR 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sinh-vien-univ-star-2024/)
