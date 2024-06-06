@@ -4,8 +4,12 @@ import re
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0"
+}
+
 def crawl_ctda():
-    page = requests.get("https://www.ctda.hcmus.edu.vn/vi/")
+    page = requests.get("https://www.ctda.hcmus.edu.vn/vi/", headers=headers)
     soup = bs(page.content, features='lxml')
     sections = soup.find_all(class_='display-posts-listing')[:4]
     section_titles = [
@@ -27,7 +31,7 @@ def crawl_ctda():
     return result
 
 def crawl_fit():
-    page = requests.get("https://www.fit.hcmus.edu.vn/vn/")
+    page = requests.get("https://www.fit.hcmus.edu.vn/vn/", headers=headers)
     soup = bs(page.content, features='lxml')
     news_raw = soup.select('#dnn_ctr989_ModuleContent > table')
 
@@ -45,7 +49,7 @@ def crawl_fit():
     return result
 
 def crawl_old_hcmus():
-    page = requests.get("https://old.hcmus.edu.vn/sinh-vien")
+    page = requests.get("https://old.hcmus.edu.vn/sinh-vien", headers=headers)
     soup = bs(page.content, features="lxml")
 
     # news_titles = [el.text for el in soup.find_all(class_='mod-articles-category-title')]
@@ -88,7 +92,7 @@ def crawl_old_hcmus():
     return result
 
 def crawl_hcmus():
-    page = requests.get("https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/feed/")
+    page = requests.get("https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/feed/", headers=headers)
     soup = bs(page.content, features="xml")
     items = soup.find_all('item')
 
