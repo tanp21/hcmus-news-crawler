@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-06-07 08:56:54.662600+07:00**_
+_Last update: **2024-06-07 09:30:24.796194+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-06-07 08:56:54.662600+07:00**_
  - 27-5-2024: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16207)
 
 ## Thông tin dành cho sinh viên
+- 07/06/2024: [Thông báo Đăng ký học phần Học kỳ 3/2023-2024, hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-2023-2024-he-chinh-quy-chuong-trinh-dai-tra/)
 - 06/06/2024: [Kế hoạch mở học phần giai đoạn đại cương trong học kỳ 3/2023-2024 – cơ sở Linh Trung](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-giai-doan-dai-cuong-trong-hoc-ky-3-2023-2024-co-so-linh-trung/)
 - 05/06/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 1, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-1-nam-hoc-2023-2024/)
 - 31/05/2024: [THÔNG BÁO Triển khai Cuộc thi Ý tưởng Khởi nghiệp sinh viên – UNIV.STAR 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sinh-vien-univ-star-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-06-07 08:56:54.662600+07:00**_
 - 27/05/2024: [TB Chương trình Học bổng Vừ A Dính năm học 2023-2024](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-vu-a-dinh-nam-hoc-2023-2024/)
 - 25/05/2024: [Danh sách sinh viên Hoàn tất chương trình đào tạo đại học – Đợt tháng 5/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-hoan-tat-chuong-trinh-dao-tao-dai-hoc-dot-thang-5-2024/)
 - 24/05/2024: [Thông báo phát bằng tốt nghiệp – đợt tháng 3/2024](https://hcmus.edu.vn/thong-bao-phat-bang-tot-nghiep-dot-thang-3-2024-2/)
-- 23/05/2024: [THÔNG BÁO V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://hcmus.edu.vn/thong-bao-v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/23-24 Chương trình đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/819-thong-bao-phuc-kh-o-hk2-23-24-chuong-trinh-d-an-khoa-cntt)
