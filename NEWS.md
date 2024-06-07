@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-06-07 11:13:23.691408+07:00**_
+_Last update: **2024-06-07 12:10:57.501512+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-06-07 11:13:23.691408+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 7-6-2024: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ Chương trình Chuẩn HK3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16230)
  - 6-6-2024: [Danh sách sinh viên tham dự chương trình Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16229)
  - 6-6-2024: [Thông báo về việc đăng ký đề tài luận văn thạc sĩ khoá 32/2022 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16228)
  - 6-6-2024: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Lê Ngọc Thành ngày 06/6/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16227)
@@ -59,7 +60,6 @@ _Last update: **2024-06-07 11:13:23.691408+07:00**_
  - 31-5-2024: [Đăng ký tham dự Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218)
  - 29-5-2024: [Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2021 trở về trước](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16214)
  - 28-5-2024: [Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208)
- - 27-5-2024: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16207)
 
 ## Thông tin dành cho sinh viên
 - 07/06/2024: [Thông báo Đăng ký học phần Học kỳ 3/2023-2024, hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-2023-2024-he-chinh-quy-chuong-trinh-dai-tra/)
