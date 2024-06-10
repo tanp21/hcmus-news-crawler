@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-06-10 16:12:32.336788+07:00**_
+_Last update: **2024-06-10 17:12:09.369902+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-06-10 16:12:32.336788+07:00**_
  - 28-5-2024: [Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208)
 
 ## Thông tin dành cho sinh viên
+- 10/06/2024: [Thông báo kết quả chính thức HBKK HK1/23-24 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-23-24-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
 - 07/06/2024: [Thông báo Đăng ký học phần Học kỳ 3/2023-2024, hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-2023-2024-he-chinh-quy-chuong-trinh-dai-tra/)
 - 06/06/2024: [Kế hoạch mở học phần giai đoạn đại cương trong học kỳ 3/2023-2024 – cơ sở Linh Trung](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-giai-doan-dai-cuong-trong-hoc-ky-3-2023-2024-co-so-linh-trung/)
 - 05/06/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 1, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-1-nam-hoc-2023-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-06-10 16:12:32.336788+07:00**_
 - 28/05/2024: [THÔNG BÁO HỌC BỔNG VALLET 2024  (Dành cho sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2024-danh-cho-sinh-vien-dai-hoc/)
 - 27/05/2024: [TB Chương trình Học bổng Vừ A Dính năm học 2023-2024](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-vu-a-dinh-nam-hoc-2023-2024/)
 - 25/05/2024: [Danh sách sinh viên Hoàn tất chương trình đào tạo đại học – Đợt tháng 5/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-hoan-tat-chuong-trinh-dao-tao-dai-hoc-dot-thang-5-2024/)
-- 24/05/2024: [Thông báo phát bằng tốt nghiệp – đợt tháng 3/2024](https://hcmus.edu.vn/thong-bao-phat-bang-tot-nghiep-dot-thang-3-2024-2/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/23-24 Chương trình đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/819-thong-bao-phuc-kh-o-hk2-23-24-chuong-trinh-d-an-khoa-cntt)
