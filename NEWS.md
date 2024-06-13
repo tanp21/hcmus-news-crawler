@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-06-13 13:14:15.511248+07:00**_
+_Last update: **2024-06-13 14:10:02.917872+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-06-13 13:14:15.511248+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 13-6-2024: [Thông báo SV đánh giá môn học - Giảng viên HK2/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16244)
  - 11-6-2024: [[Hỗ trợ truyền thông] Mở đăng ký TikTok TechJam 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16236)
  - 7-6-2024: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ Chương trình Chuẩn HK3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16230)
  - 6-6-2024: [Danh sách sinh viên tham dự chương trình Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16229)
@@ -59,7 +60,6 @@ _Last update: **2024-06-13 13:14:15.511248+07:00**_
  - 4-6-2024: [Mời tham dự buổi bảo vệ LATS cấp cơ sở đào tạo của NCS Lê Ngọc Thành (6/6/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16223)
  - 4-6-2024: [[CQ] Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ KLTN/TTDATN khóa 2020, đợt 2 (T7, T8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16221)
  - 31-5-2024: [Đăng ký tham dự Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218)
- - 29-5-2024: [Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2021 trở về trước](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16214)
 
 ## Thông tin dành cho sinh viên
 - 10/06/2024: [Thông báo kết quả chính thức HBKK HK1/23-24 Khoa Hóa học, Công nghệ Thông tin, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-23-24-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
