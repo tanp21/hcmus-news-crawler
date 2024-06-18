@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-06-18 10:12:36.388757+07:00**_
+_Last update: **2024-06-18 11:12:26.375610+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -17,13 +17,13 @@ _Last update: **2024-06-18 10:12:36.388757+07:00**_
  - 06/06/2024: [Thông báo quy đổi thang điểm 4](https://www.ctda.hcmus.edu.vn/vi/2024/06/thong-bao-quy-doi-thang-diem-4/)
  - 30/05/2024: [[CTĐA] – Thông báo phúc khảo HK2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-phuc-khao-hk2-2023-2024/)
  - 22/05/2024: [Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/)
+ - 20/05/2024: [[CTĐA] Thời khóa biểu HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thoi-khoa-bieu-hk3-2324/)
  - 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
  - 15/04/2024: [CTĐA_Lịch thi chi tiết cuối kỳ HK2/2324](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda_lich-thi-chi-tiet-cuoi-ky-hk2-2324/)
  - 12/04/2024: [Kế hoạch tổ chức Thực tập thực tế cho sinh viên CTĐA HK3 năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ke-hoach-to-chuc-thuc-tap-thuc-te-cho-sinh-vien-ctda-hk3-nam-hoc-2023-2024/)
  - 11/04/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên cuối HK2/2324](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda-thong-bao-sinh-vien-danh-gia-mon-hoc-giang-vien-cuoi-hk2-2324/)
  - 02/04/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda-thong-bao-nop-de-cuong-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-1/)
  - 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
- - 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
 
 ### Trợ lí sinh viên
  - 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
@@ -50,6 +50,7 @@ _Last update: **2024-06-18 10:12:36.388757+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 18-6-2024: [V/v thực hiện khảo sát các môn mở trong Học phần 3 lớp cao học K33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16250)
  - 17-6-2024: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16248)
  - 14-6-2024: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16246)
  - 13-6-2024: [Thông báo SV đánh giá môn học - Giảng viên HK2/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16244)
@@ -59,7 +60,6 @@ _Last update: **2024-06-18 10:12:36.388757+07:00**_
  - 6-6-2024: [Thông báo về việc đăng ký đề tài luận văn thạc sĩ khoá 32/2022 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16228)
  - 6-6-2024: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Lê Ngọc Thành ngày 06/6/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16227)
  - 6-6-2024: [Đổi phòng lớp Mã hóa ứng dụng 21TN từ ngày 11/6/2024 đến kết thúc HK2/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16226)
- - 4-6-2024: [Mời tham dự buổi bảo vệ LATS cấp cơ sở đào tạo của NCS Lê Ngọc Thành (6/6/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16223)
 
 ## Thông tin dành cho sinh viên
 - 10/06/2024: [Thông báo kết quả chính thức HBKK HK1/23-24 Khoa Hóa học, Công nghệ Thông tin, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-23-24-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
