@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-06-19 22:11:19.463471+07:00**_
+_Last update: **2024-06-19 23:13:09.873310+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -82,11 +82,11 @@ _Last update: **2024-06-19 22:11:19.463471+07:00**_
 
 ***
 
+ - [Lịch thi cuối kỳ HK3/23-24 CTĐA các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/825-l-ch-thi-cu-i-ky-hk3-23-24-ctda-cac-khoa)
  - [Lịch thi cuối kỳ HK2/23-24 CTĐA khoa Vật Lý-VLKT lớp 23VLH_DKD](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/822-l-ch-thi-cu-i-ky-hk2-23-24-ctda-khoa-v-t-ly-vlkt-l-p-23vlh-dkd)
  - [Lịch thi cuối kỳ HK3/23-24 CTĐA khoa Hóa K2021 và khoa Sinh-CNSH (thi sớm)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/821-l-ch-thi-cu-i-ky-hk3-23-24-ctda-khoa-hoa-k2021-va-khoa-sinh-cnsh-thi-s-m)
  - [Lịch thi giữa kỳ HK3/23-24 CTĐA khoa Hóa, ĐTVT và KHVL](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/820-l-ch-thi-gi-a-ky-hk3-23-24-ctda-khoa-hoa-dtvt-va-khvl)
  - [Lịch thi cuối kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 11/06)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/816-l-ch-thi-cu-i-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
- - [Lịch thi giữa kỳ HK3/23-24 CT đề án khoa Hóa khóa 2021 (CẬP NHẬT 06/07)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/815-l-ch-thi-gi-a-ky-hk3-23-24-ct-d-an-khoa-hoa-khoa-2021)
 
 ***
 
