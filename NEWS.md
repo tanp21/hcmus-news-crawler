@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-06-20 08:54:54.551030+07:00**_
+_Last update: **2024-06-20 09:27:05.762974+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -50,6 +50,8 @@ _Last update: **2024-06-20 08:54:54.551030+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 20-6-2024: [Thông báo V/v Cập nhật thành tích sinh viên HK2, năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16255)
+ - 20-6-2024: [[Communication support] Bach Khoa Innovation 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16254)
  - 18-6-2024: [[CQ] Thông báo hình thức nộp cuốn TRƯỚC bảo vệ KLTN/TTDATN Khóa 2020, đợt 2 (tháng 7/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16252)
  - 18-6-2024: [V/v thực hiện khảo sát các môn mở trong Học phần 3 lớp cao học K33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16250)
  - 17-6-2024: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16248)
@@ -58,10 +60,9 @@ _Last update: **2024-06-20 08:54:54.551030+07:00**_
  - 11-6-2024: [[Hỗ trợ truyền thông] Mở đăng ký TikTok TechJam 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16236)
  - 7-6-2024: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ Chương trình Chuẩn HK3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16230)
  - 6-6-2024: [Danh sách sinh viên tham dự chương trình Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16229)
- - 6-6-2024: [Thông báo về việc đăng ký đề tài luận văn thạc sĩ khoá 32/2022 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16228)
- - 6-6-2024: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Lê Ngọc Thành ngày 06/6/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16227)
 
 ## Thông tin dành cho sinh viên
+- 20/06/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên Đại học Chính quy](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-dai-hoc-chinh-quy/)
 - 10/06/2024: [Thông báo kết quả chính thức HBKK HK1/23-24 Khoa Hóa học, Công nghệ Thông tin, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-23-24-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
 - 07/06/2024: [Thông báo Đăng ký học phần Học kỳ 3/2023-2024, hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-2023-2024-he-chinh-quy-chuong-trinh-dai-tra/)
 - 06/06/2024: [Kế hoạch mở học phần giai đoạn đại cương trong học kỳ 3/2023-2024 – cơ sở Linh Trung](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-giai-doan-dai-cuong-trong-hoc-ky-3-2023-2024-co-so-linh-trung/)
@@ -71,7 +72,6 @@ _Last update: **2024-06-20 08:54:54.551030+07:00**_
 - 28/05/2024: [Thông báo kết quả dự kiến HBKK HK1/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 - 28/05/2024: [THÔNG BÁO HỌC BỔNG VALLET 2024  (Dành cho sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2024-danh-cho-sinh-vien-dai-hoc/)
 - 27/05/2024: [TB Chương trình Học bổng Vừ A Dính năm học 2023-2024](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-vu-a-dinh-nam-hoc-2023-2024/)
-- 25/05/2024: [Danh sách sinh viên Hoàn tất chương trình đào tạo đại học – Đợt tháng 5/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-hoan-tat-chuong-trinh-dao-tao-dai-hoc-dot-thang-5-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/23-24 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/824-thong-bao-phuc-hk2-23-24-h-dttx)
