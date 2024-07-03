@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-07-03 16:11:34.328693+07:00**_
+_Last update: **2024-07-03 17:12:06.310132+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -52,6 +52,7 @@ _Last update: **2024-07-03 16:11:34.328693+07:00**_
 ## FIT
  - 3-7-2024: [Thông báo triển khai tra cứu điểm trên hệ thống quản lý người học Student@VNUHCM-US](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16268)
  - 2-7-2024: [Thông báo điểm chuẩn trúng tuyển theo phương thức 4 (kết quả thi Đánh giá năng lực ĐHQG-HCM) năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16267)
+ - 2-7-2024: [Đăng ký tham dự Trường hè "FIT@HCMUS Summer School on Generative AI and LLM" năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16269)
  - 2-7-2024: [Sinh viên Khoa Công nghệ thông tin tham gia diễn đàn văn hoá thanh niên ASEAN lần thứ 19 và ASEAN+3 lần thứ 9 tại Brunei](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16266)
  - 1-7-2024: [Thông báo điểm chuẩn trúng tuyển theo phương thức 2 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16265)
  - 28-6-2024: [Thông báo nhập học trình độ thạc sĩ khóa 34/2024 – đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16263)
@@ -59,7 +60,6 @@ _Last update: **2024-07-03 16:11:34.328693+07:00**_
  - 26-6-2024: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16261)
  - 21-6-2024: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện KLTN - TTDATN khóa 2020, đợt 2 (T7, 8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16257)
  - 20-6-2024: [Thông báo V/v Cập nhật thành tích sinh viên HK2, năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16255)
- - 20-6-2024: [[Communication support] Bach Khoa Innovation 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16254)
 
 ## Thông tin dành cho sinh viên
 - 02/07/2024: [Thông báo số 174/TB-KHTN thay thế Thông báo số 168/TB-KHTN về Kỳ thi Đánh giá năng lực tiếng Anh](https://hcmus.edu.vn/thong-bao-so-174-tb-khtn-v-v-thay-the-thong-bao-so-168-tb-khtn-ve-ky-thi-danh-gia-nang-luc-tieng-anh/)
