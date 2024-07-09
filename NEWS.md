@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-07-10 00:10:58.333426+07:00**_
+_Last update: **2024-07-10 01:14:00.569929+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -50,16 +50,6 @@ _Last update: **2024-07-10 00:10:58.333426+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
- - 5-7-2024: [Đăng ký tham gia Cuộc thi ý tưởng giải pháp Tiên phong công nghệ mới (HCMUS AI Innovation)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16276)
- - 5-7-2024: [Phát động Cuộc thi thiết kế biểu trưng kỷ niệm 30 năm thành lập Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16275)
- - 4-7-2024: [KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16273)
- - 4-7-2024: [Điểm chuẩn trúng tuyển theo phương thức xét tuyển 6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16272)
- - 3-7-2024: [Danh sách môn mở trong Học phần 3 lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16270)
- - 3-7-2024: [Đăng ký tham dự Trường hè "FIT@HCMUS Summer School on Generative AI and LLM" năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16269)
- - 3-7-2024: [Thông báo triển khai tra cứu điểm trên hệ thống quản lý người học Student@VNUHCM-US](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16268)
- - 2-7-2024: [Thông báo điểm chuẩn trúng tuyển theo phương thức 4 (kết quả thi Đánh giá năng lực ĐHQG-HCM) năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16267)
- - 2-7-2024: [Sinh viên Khoa Công nghệ thông tin tham gia diễn đàn văn hoá thanh niên ASEAN lần thứ 19 và ASEAN+3 lần thứ 9 tại Brunei](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16266)
- - 1-7-2024: [Thông báo điểm chuẩn trúng tuyển theo phương thức 2 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16265)
 
 ## Thông tin dành cho sinh viên
 - 04/07/2024: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ chính quy, bậc Cao đẳng ngành  Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho đợt xét tốt nghiệp tháng 5/2024)](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-xet-tot-nghiep-thang-5-2024/)
