@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-07-12 14:11:13.360537+07:00**_
+_Last update: **2024-07-12 15:14:42.955157+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -50,6 +50,7 @@ _Last update: **2024-07-12 14:11:13.360537+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 12-7-2024: [[CQ] Thời khóa biểu học kỳ 3 năm học 2023-2024 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16285)
  - 11-7-2024: [Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16284)
  - 11-7-2024: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16283)
  - 10-7-2024: [[CQ] Thông báo về việc Hủy lớp Khởi nghiệp, HK3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16281)
@@ -59,7 +60,6 @@ _Last update: **2024-07-12 14:11:13.360537+07:00**_
  - 4-7-2024: [Điểm chuẩn trúng tuyển theo phương thức xét tuyển 6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16272)
  - 3-7-2024: [Danh sách môn mở trong Học phần 3 lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16270)
  - 3-7-2024: [Đăng ký tham dự Trường hè "FIT@HCMUS Summer School on Generative AI and LLM" năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16269)
- - 3-7-2024: [Thông báo triển khai tra cứu điểm trên hệ thống quản lý người học Student@VNUHCM-US](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16268)
 
 ## Thông tin dành cho sinh viên
 - 04/07/2024: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ chính quy, bậc Cao đẳng ngành  Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho đợt xét tốt nghiệp tháng 5/2024)](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-xet-tot-nghiep-thang-5-2024/)
