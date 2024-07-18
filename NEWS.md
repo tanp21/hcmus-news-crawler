@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-07-18 16:11:20.852522+07:00**_
+_Last update: **2024-07-18 17:11:28.661110+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-07-18 16:11:20.852522+07:00**_
  - 4-7-2024: [Điểm chuẩn trúng tuyển theo phương thức xét tuyển 6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16272)
 
 ## Thông tin dành cho sinh viên
+- 18/07/2024: [Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/)
 - 15/07/2024: [THÔNG BÁO Đăng ký tham gia Giải thưởng VietFuture 2024](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-vietfuture-2024/)
 - 12/07/2024: [Thông báo Về việc cấp học bổng cho sinh viên Bình Định vượt khó, học giỏi năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-cap-hoc-bong-cho-sinh-vien-binh-dinh-vuot-kho-hoc-gioi-nam-2024/)
 - 04/07/2024: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ chính quy, bậc Cao đẳng ngành  Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho đợt xét tốt nghiệp tháng 5/2024)](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-xet-tot-nghiep-thang-5-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-07-18 16:11:20.852522+07:00**_
 - 02/07/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên các chương trình Đề án](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-cac-chuong-trinh-de-an/)
 - 01/07/2024: [[Tổng hợp] Điểm lại 10 Luật có hiệu lực ngày 01/7/2024](https://hcmus.edu.vn/tong-hop-diem-lai-10-luat-co-hieu-luc-ngay-01-7-2024/)
 - 26/06/2024: [Thông báo kỳ thi đánh giá năng lực tiếng Anh (dùng để xét cho sinh viên đăng ký các học phần chuyên ngành từ khóa tuyển 2022 trở về sau)](https://hcmus.edu.vn/thong-bao-ky-thi-danh-gia-nang-luc-tieng-anh-dung-de-xet-cho-sinh-vien-dang-ky-cac-hoc-phan-chuyen-nganh-tu-khoa-tuyen-2022-tro-ve-sau/)
-- 24/06/2024: [Kế hoạch học tập năm học 2024-2025](https://hcmus.edu.vn/ke-hoahjc-hoc-tap-nam-hoc-2024-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/23-24 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/824-thong-bao-phuc-hk2-23-24-h-dttx)
