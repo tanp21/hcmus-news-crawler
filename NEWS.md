@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-07-19 11:14:32.753126+07:00**_
+_Last update: **2024-07-19 12:11:45.660864+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -50,6 +50,7 @@ _Last update: **2024-07-19 11:14:32.753126+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 19-7-2024: [[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291)
  - 18-7-2024: [Thông báo lịch trình bày chương trình Trường hè "FIT@HCMUS Summer School on Generative AI and LLM" năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288)
  - 17-7-2024: [Talkshow “Với dân công nghệ, EQ không thấp như bạn nghĩ!”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16287)
  - 12-7-2024: [[CQ] Thời khóa biểu học kỳ 3 năm học 2023-2024 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16285)
@@ -59,7 +60,6 @@ _Last update: **2024-07-19 11:14:32.753126+07:00**_
  - 5-7-2024: [Đăng ký tham gia Cuộc thi ý tưởng giải pháp Tiên phong công nghệ mới (HCMUS AI Innovation)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16276)
  - 5-7-2024: [Phát động Cuộc thi thiết kế biểu trưng kỷ niệm 30 năm thành lập Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16275)
  - 4-7-2024: [KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16273)
- - 4-7-2024: [Điểm chuẩn trúng tuyển theo phương thức xét tuyển 6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16272)
 
 ## Thông tin dành cho sinh viên
 - 18/07/2024: [Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/)
