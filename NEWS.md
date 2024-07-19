@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-07-19 22:11:28.252152+07:00**_
+_Last update: **2024-07-19 23:12:42.179448+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
