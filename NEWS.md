@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-07-26 16:11:14.434734+07:00**_
+_Last update: **2024-07-26 17:11:35.187762+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-07-26 16:11:14.434734+07:00**_
  - 5-7-2024: [Đăng ký tham gia Cuộc thi ý tưởng giải pháp Tiên phong công nghệ mới (HCMUS AI Innovation)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16276)
 
 ## Thông tin dành cho sinh viên
+- 26/07/2024: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình Khóa tuyển 2021 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2021-tro-ve-truoc/)
 - 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
 - 19/07/2024: [Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023, đại học chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dai-hoc-chinh-quy/)
 - 18/07/2024: [Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-07-26 16:11:14.434734+07:00**_
 - 02/07/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2024/)
 - 02/07/2024: [Thông báo số 174/TB-KHTN thay thế Thông báo số 168/TB-KHTN về Kỳ thi Đánh giá năng lực tiếng Anh](https://hcmus.edu.vn/thong-bao-so-174-tb-khtn-v-v-thay-the-thong-bao-so-168-tb-khtn-ve-ky-thi-danh-gia-nang-luc-tieng-anh/)
 - 02/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
-- 02/07/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên các chương trình Đề án](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-cac-chuong-trinh-de-an/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/23-24 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/824-thong-bao-phuc-hk2-23-24-h-dttx)
