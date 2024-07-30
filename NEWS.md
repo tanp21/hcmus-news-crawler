@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-07-30 16:11:15.526906+07:00**_
+_Last update: **2024-07-30 17:12:07.733191+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -74,11 +74,11 @@ _Last update: **2024-07-30 16:11:15.526906+07:00**_
 - 02/07/2024: [Thông báo số 174/TB-KHTN thay thế Thông báo số 168/TB-KHTN về Kỳ thi Đánh giá năng lực tiếng Anh](https://hcmus.edu.vn/thong-bao-so-174-tb-khtn-v-v-thay-the-thong-bao-so-168-tb-khtn-ve-ky-thi-danh-gia-nang-luc-tieng-anh/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo SV đánh giá môn học - GV HK3/2023-2024 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/827-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2023-2024-chuong-trinh-d-an-cac-khoa)
  - [Thông báo phúc khảo HK2/23-24 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/824-thong-bao-phuc-hk2-23-24-h-dttx)
  - [Thông báo SV đánh giá môn học - GV HK2 /2023-2024 (Chính quy và lớp đề án khoa Lý-VLKT)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/823-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2023-2024-chinh-quy-va-l-p-d-an-khoa-ly-vlkt)
  - [Thông báo phúc khảo HK2/23-24 Chương trình đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/819-thong-bao-phuc-kh-o-hk2-23-24-chuong-trinh-d-an-khoa-cntt)
  - [Thông báo phúc khảo HK2/23-24 lớp HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/818-thong-bao-phuc-kh-o-hk2-23-24-l-p-hcdh-22hcb)
- - [Thông báo phúc khảo HK2/23-24 Chương trình đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/817-thong-bao-phuc-kh-o-hk2-23-24-chuong-trinh-d-an-cac-khoa)
 
 ***
 
