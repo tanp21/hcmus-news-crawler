@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-08-07 09:03:12.345120+07:00**_
+_Last update: **2024-08-07 10:12:14.538320+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-08-07 09:03:12.345120+07:00**_
  - 22-7-2024: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 33/2023 - bắt đầu học 22/7/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16293)
 
 ## Thông tin dành cho sinh viên
+- 07/08/2024: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường, Học kỳ 1, năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2024-2025/)
 - 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 - 01/08/2024: [[THÔNG BÁO] Chương trình học bổng Toshiba năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-toshiba-nam-hoc-2024-2025/)
 - 31/07/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình, cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-08-07 09:03:12.345120+07:00**_
 - 19/07/2024: [Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023, đại học chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dai-hoc-chinh-quy/)
 - 18/07/2024: [Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/)
 - 15/07/2024: [THÔNG BÁO Đăng ký tham gia Giải thưởng VietFuture 2024](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-vietfuture-2024/)
-- 12/07/2024: [Thông báo Về việc cấp học bổng cho sinh viên Bình Định vượt khó, học giỏi năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-cap-hoc-bong-cho-sinh-vien-binh-dinh-vuot-kho-hoc-gioi-nam-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/23-24 các lớp ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/828-thong-bao-phuc-kh-o-hk2-23-24-cac-l-p-dhcq)
