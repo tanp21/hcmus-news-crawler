@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-08-13 10:12:36.671802+07:00**_
+_Last update: **2024-08-13 11:13:10.535955+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -62,6 +62,8 @@ _Last update: **2024-08-13 10:12:36.671802+07:00**_
  - 31-7-2024: [Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303)
 
 ## Thông tin dành cho sinh viên
+- 13/08/2024: [Thông báo nộp hồ sơ xét Hoàn tất chương trình đào tạo trình độ đại học hệ chính quy các chương trình – Đợt tháng 11 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/)
+- 13/08/2024: [[THÔNG BÁO] Chương trình tài trợ trong khuôn khổ quan hệ đối tác VQ Anh – Việt Nam từ Bristish Council tháng 8/2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-tai-tro-trong-khuon-kho-quan-he-doi-tac-vq-anh-viet-nam-tu-bristish-council-thang-8-2024/)
 - 08/08/2024: [Thông báo nộp hồ sơ xét tốt nghiệp trình độ đại học (CT Liên thông) và trình độ cao đẳng, hệ chính quy cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-trinh-do-dai-hoc-ct-lien-thong-va-trinh-do-cao-dang-he-chinh-quy-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/)
 - 08/08/2024: [Thông báo tổ chức đăng ký học phần học kỳ 1 năm học 2024-2025 cho sinh viên trình độ đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2024-2025-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
 - 07/08/2024: [Thông báo nộp học phí Học kỳ hè NH 2023-2024 – Chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-he-nh-2023-2024-chuong-trinh-dai-tra/)
@@ -70,8 +72,6 @@ _Last update: **2024-08-13 10:12:36.671802+07:00**_
 - 01/08/2024: [[THÔNG BÁO] Chương trình học bổng Toshiba năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-toshiba-nam-hoc-2024-2025/)
 - 31/07/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình, cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/)
 - 30/07/2024: [Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/)
-- 26/07/2024: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình Khóa tuyển 2021 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2021-tro-ve-truoc/)
-- 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thay đổi phòng thi HK3/23-24 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/830-thong-bao-thay-d-i-phong-thi-hk3-23-24-ct-d-an-khoa-cntt)
