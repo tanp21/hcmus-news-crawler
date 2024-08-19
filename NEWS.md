@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-08-19 09:03:59.807337+07:00**_
+_Last update: **2024-08-19 10:12:19.194310+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -14,9 +14,9 @@ _Last update: **2024-08-19 09:03:59.807337+07:00**_
  - 07/02/2020: [Về việc thay đổi kế hoạch học tập học kỳ 2 năm học 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/02/ve-viec-thay-doi-ke-hoach-hoc-tap-hoc-ky-2-nam-hoc-2019-2020/)
 
 ### Giáo vụ
+ - 19/08/2024: [CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_thong-bao-thay-doi-phong-thi-hk3-2324/)
  - 16/08/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2020 – Đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2020-dot-2/)
  - 15/08/2024: [CTĐA_ Thông báo thực hiện khảo sát đánh giá môn học – Giảng viên HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/bpgv-thong-bao-thuc-hien-khao-sat-danh-gia-mon-hoc-giang-vien-hk3-2324/)
- - 12/08/2024: [CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_thong-bao-thay-doi-phong-thi-hk3-2324/)
  - 06/08/2024: [[CTĐA][K20_Đ1] Mời tham dự buổi bảo vệ đề tài tốt nghiệp các Hội đồng bảo vệ từ ngày 12/08/2024 – 24/08/2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/9221/)
  - 05/08/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_lich-thi-chi-tiet-cuoi-ky-hk3-2324/)
  - 24/07/2024: [[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023/)
