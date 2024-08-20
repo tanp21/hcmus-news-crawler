@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-08-20 07:50:55.875976+07:00**_
+_Last update: **2024-08-20 09:01:31.393911+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
@@ -50,6 +50,7 @@ _Last update: **2024-08-20 07:50:55.875976+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 20-8-2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 3 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16332)
  - 19-8-2024: [Thông báo chỉ tiêu xét chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16330)
  - 15-8-2024: [Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329)
  - 15-8-2024: [Tổng kết Seminar Autonomous systems for humanity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16328)
@@ -59,7 +60,6 @@ _Last update: **2024-08-20 07:50:55.875976+07:00**_
  - 12-8-2024: [[CNTN] Mời tham dự buổi bảo vệ Khóa luận tốt nghiệp lớp CNTN2020 (15/8 - 25/8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16317)
  - 12-8-2024: [[CQ] Điểm bảo vệ đề tài tốt nghiệp đợt tháng 7, 8/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16316)
  - 9-8-2024: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ  khóa 2020, đợt 2 (bảo vệ tháng 7, 8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16314)
- - 8-8-2024: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16312)
 
 ## Thông tin dành cho sinh viên
 - 16/08/2024: [Thông báo đăng ký học phần HK1/2023-2024 Đối với sinh viên lớp Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2023-2024-doi-voi-sinh-vien-lop-lien-thong-dai-hoc-he-chinh-quy/)
