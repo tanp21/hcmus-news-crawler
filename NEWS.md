@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-08-21 13:15:03.275138+07:00**_
+_Last update: **2024-08-21 14:10:31.707569+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-08-21 13:15:03.275138+07:00**_
  - 12-8-2024: [[CQ] Điểm bảo vệ đề tài tốt nghiệp đợt tháng 7, 8/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16316)
 
 ## Thông tin dành cho sinh viên
+- 21/08/2024: [Thông tin tuyển sinh viên tham dự Diễn đàn giáo dục và Cuộc thi Nhà hùng biện trẻ AUN lần thứ 20 và ASEAN+3 lần thứ 9](https://hcmus.edu.vn/thong-tin-tuyen-sinh-vien-tham-du-dien-dan-giao-duc-va-cuoc-thi-nha-hung-bien-tre-aun-lan-thu-20-va-asean3-lan-thu-9/)
 - 20/08/2024: [Thông báo kiểm tra Anh văn đầu khóa dành cho Tân sinh viên khóa 2024](https://hcmus.edu.vn/thong-bao-kiem-tra-anh-van-dau-danh-cho-tan-sinh-vien-khoa-2024/)
 - 16/08/2024: [Thông báo đăng ký học phần HK1/2023-2024 Đối với sinh viên lớp Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2023-2024-doi-voi-sinh-vien-lop-lien-thong-dai-hoc-he-chinh-quy/)
 - 14/08/2024: [Thông báo Đăng ký học phần HK1/2024-2025 đối với sinh viên chương trình Chất lượng cao, Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2024-2025-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap/)
@@ -71,7 +72,6 @@ _Last update: **2024-08-21 13:15:03.275138+07:00**_
 - 13/08/2024: [[THÔNG BÁO] Chương trình tài trợ trong khuôn khổ quan hệ đối tác VQ Anh – Việt Nam từ Bristish Council tháng 8/2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-tai-tro-trong-khuon-kho-quan-he-doi-tac-vq-anh-viet-nam-tu-bristish-council-thang-8-2024/)
 - 08/08/2024: [Thông báo nộp hồ sơ xét tốt nghiệp trình độ đại học (CT Liên thông) và trình độ cao đẳng, hệ chính quy cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-trinh-do-dai-hoc-ct-lien-thong-va-trinh-do-cao-dang-he-chinh-quy-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/)
 - 08/08/2024: [Thông báo tổ chức đăng ký học phần học kỳ 1 năm học 2024-2025 cho sinh viên trình độ đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2024-2025-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
-- 07/08/2024: [Thông báo nộp học phí Học kỳ hè NH 2023-2024 – Chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-he-nh-2023-2024-chuong-trinh-dai-tra/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thay đổi phòng thi HK3/23-24 CT đề án khoa CNTT (CẬP NHẬT 18/08)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/830-thong-bao-thay-d-i-phong-thi-hk3-23-24-ct-d-an-khoa-cntt)
