@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-08-22 10:13:00.174832+07:00**_
+_Last update: **2024-08-22 11:13:08.581576+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-08-22 10:13:00.174832+07:00**_
  - 12-8-2024: [[CQ] Điểm bảo vệ đề tài tốt nghiệp đợt tháng 7, 8/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16316)
 
 ## Thông tin dành cho sinh viên
+- 22/08/2024: [Quy định chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://hcmus.edu.vn/quy-dinh-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
 - 21/08/2024: [Thông báo tạm dừng Moodle để bảo trì](https://hcmus.edu.vn/thong-bao-tam-dung-moodle-de-bao-tri/)
 - 21/08/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học ngành Khoa học môi trường, chương trình CLC – đợt tháng 10/2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-nganh-khoa-hoc-moi-truong-chuong-trinh-clc-dot-thang-10-2024/)
 - 21/08/2024: [Tổ chức biên chế lớp học Giáo dục Quốc phòng – An ninh cho sinh viên Khóa 2023, đợt tháng 9/2024](https://hcmus.edu.vn/to-chuc-bien-che-lop-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dot-thang-9-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-08-22 10:13:00.174832+07:00**_
 - 14/08/2024: [Thông báo Đăng ký học phần HK1/2024-2025 đối với sinh viên chương trình Chất lượng cao, Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2024-2025-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap/)
 - 13/08/2024: [Về việc điều chỉnh bổ sung quy định tiếp công dân](https://hcmus.edu.vn/ve-viec-bo-sung-quy-dinh-tiep-cong-dan/)
 - 13/08/2024: [Thông tin tuyển sinh viên tham dự  Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://hcmus.edu.vn/thong-tin-tuyen-sinh-vien-tham-du-dien-dan-thu-linh-sinh-vien-dong-nam-a-tai-malaysia/)
-- 13/08/2024: [Thông báo nộp hồ sơ xét Hoàn tất chương trình đào tạo trình độ đại học hệ chính quy các chương trình – Đợt tháng 11 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thay đổi phòng thi HK3/23-24 CT đề án khoa CNTT (CẬP NHẬT 18/08)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/830-thong-bao-thay-d-i-phong-thi-hk3-23-24-ct-d-an-khoa-cntt)
