@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-08-22 17:12:43.048792+07:00**_
+_Last update: **2024-08-22 18:09:50.550215+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -50,6 +50,7 @@ _Last update: **2024-08-22 17:12:43.048792+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 22-8-2024: [Chào mừng tân sinh viên khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16335)
  - 20-8-2024: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp (KLTN/TTTN/TTDATN) Khóa 2021- Đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16334)
  - 20-8-2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 3 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16332)
  - 19-8-2024: [Thông báo chỉ tiêu xét chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16330)
@@ -59,7 +60,6 @@ _Last update: **2024-08-22 17:12:43.048792+07:00**_
  - 13-8-2024: [Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16324)
  - 13-8-2024: [Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16321)
  - 12-8-2024: [[CNTN] Mời tham dự buổi bảo vệ Khóa luận tốt nghiệp lớp CNTN2020 (15/8 - 25/8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16317)
- - 12-8-2024: [[CQ] Điểm bảo vệ đề tài tốt nghiệp đợt tháng 7, 8/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16316)
 
 ## Thông tin dành cho sinh viên
 - 22/08/2024: [Quy định chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://hcmus.edu.vn/quy-dinh-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
