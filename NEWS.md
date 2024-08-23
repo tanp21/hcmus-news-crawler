@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-08-23 21:11:31.623755+07:00**_
+_Last update: **2024-08-23 22:12:29.682151+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-08-23 21:11:31.623755+07:00**_
  - 12-8-2024: [[CNTN] Mời tham dự buổi bảo vệ Khóa luận tốt nghiệp lớp CNTN2020 (15/8 - 25/8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16317)
 
 ## Thông tin dành cho sinh viên
+- 23/08/2024: [THÔNG BÁO V/v tổ chức Tuần lễ Sinh hoạt Công dân – Sinh viên đối với Tân sinh viên khóa tuyển 2024](https://hcmus.edu.vn/thong-bao-v-v-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2024/)
 - 22/08/2024: [Quy định chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://hcmus.edu.vn/quy-dinh-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
 - 21/08/2024: [Thông báo tạm dừng Moodle để bảo trì](https://hcmus.edu.vn/thong-bao-tam-dung-moodle-de-bao-tri/)
 - 21/08/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học ngành Khoa học môi trường, chương trình CLC – đợt tháng 10/2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-nganh-khoa-hoc-moi-truong-chuong-trinh-clc-dot-thang-10-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-08-23 21:11:31.623755+07:00**_
 - 16/08/2024: [Thông báo đăng ký học phần HK1/2023-2024 Đối với sinh viên lớp Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2023-2024-doi-voi-sinh-vien-lop-lien-thong-dai-hoc-he-chinh-quy/)
 - 14/08/2024: [Thông báo Đăng ký học phần HK1/2024-2025 đối với sinh viên chương trình Chất lượng cao, Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2024-2025-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap/)
 - 13/08/2024: [Về việc điều chỉnh bổ sung quy định tiếp công dân](https://hcmus.edu.vn/ve-viec-bo-sung-quy-dinh-tiep-cong-dan/)
-- 13/08/2024: [Thông tin tuyển sinh viên tham dự  Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://hcmus.edu.vn/thong-tin-tuyen-sinh-vien-tham-du-dien-dan-thu-linh-sinh-vien-dong-nam-a-tai-malaysia/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thay đổi phòng thi HK3/23-24 CT đề án khoa CNTT (CẬP NHẬT 18/08)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/830-thong-bao-thay-d-i-phong-thi-hk3-23-24-ct-d-an-khoa-cntt)
