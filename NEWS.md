@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-08-27 07:52:25.130301+07:00**_
+_Last update: **2024-08-27 09:04:24.879109+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
