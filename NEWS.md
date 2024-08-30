@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-08-30 16:12:41.861291+07:00**_
+_Last update: **2024-08-30 17:12:11.847935+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-08-30 16:12:41.861291+07:00**_
  - 19-8-2024: [Thông báo chỉ tiêu xét chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16330)
 
 ## Thông tin dành cho sinh viên
+- 30/08/2024: [Lịch thi Anh văn đầu khóa 2024](https://hcmus.edu.vn/lich-thi-anh-van-dau-khoa-2024/)
 - 30/08/2024: [Các mốc thời gian Tân sinh viên cần lưu ý](https://hcmus.edu.vn/cac-moc-thoi-gian-tan-sinh-vien-can-luu-y/)
 - 29/08/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025)](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025/)
 - 27/08/2024: [Thông báo Kế hoạch tổ chức tiếp nhận, quản lý, rèn luyện trong việc học tập Giáo dục Quốc phòng – An ninh năm 2024](https://hcmus.edu.vn/thong-bao-ke-hoach-to-chuc-tiep-nhan-quan-ly-ren-luyen-giao-duc-quoc-phong-an-ninh-nam-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-08-30 16:12:41.861291+07:00**_
 - 22/08/2024: [Quy định chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://hcmus.edu.vn/quy-dinh-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
 - 21/08/2024: [Thông báo tạm dừng Moodle để bảo trì](https://hcmus.edu.vn/thong-bao-tam-dung-moodle-de-bao-tri/)
 - 21/08/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học ngành Khoa học môi trường, chương trình CLC – đợt tháng 10/2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-nganh-khoa-hoc-moi-truong-chuong-trinh-clc-dot-thang-10-2024/)
-- 21/08/2024: [Tổ chức biên chế lớp học Giáo dục Quốc phòng – An ninh cho sinh viên Khóa 2023, đợt tháng 9/2024](https://hcmus.edu.vn/to-chuc-bien-che-lop-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dot-thang-9-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24_CT Đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/832-thong-bao-phuc-kh-o-hk3-23-24-ct-d-an-cac-khoa)
