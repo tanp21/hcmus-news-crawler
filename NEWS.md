@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-08-30 09:07:11.671762+07:00**_
+_Last update: **2024-08-30 10:12:15.583545+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-08-30 09:07:11.671762+07:00**_
  - 15-8-2024: [Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329)
 
 ## Thông tin dành cho sinh viên
+- 30/08/2024: [Các mốc thời gian Tân sinh viên cần lưu ý](https://hcmus.edu.vn/cac-moc-thoi-gian-tan-sinh-vien-can-luu-y/)
 - 29/08/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025)](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025/)
 - 27/08/2024: [Thông báo Kế hoạch tổ chức tiếp nhận, quản lý, rèn luyện trong việc học tập Giáo dục Quốc phòng – An ninh năm 2024](https://hcmus.edu.vn/thong-bao-ke-hoach-to-chuc-tiep-nhan-quan-ly-ren-luyen-giao-duc-quoc-phong-an-ninh-nam-2024/)
 - 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2023-2024 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/)
@@ -71,7 +72,6 @@ _Last update: **2024-08-30 09:07:11.671762+07:00**_
 - 21/08/2024: [Thông báo tạm dừng Moodle để bảo trì](https://hcmus.edu.vn/thong-bao-tam-dung-moodle-de-bao-tri/)
 - 21/08/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học ngành Khoa học môi trường, chương trình CLC – đợt tháng 10/2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-nganh-khoa-hoc-moi-truong-chuong-trinh-clc-dot-thang-10-2024/)
 - 21/08/2024: [Tổ chức biên chế lớp học Giáo dục Quốc phòng – An ninh cho sinh viên Khóa 2023, đợt tháng 9/2024](https://hcmus.edu.vn/to-chuc-bien-che-lop-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dot-thang-9-2024/)
-- 21/08/2024: [Thông tin tuyển sinh viên tham dự Diễn đàn giáo dục và Cuộc thi Nhà hùng biện trẻ AUN lần thứ 20 và ASEAN+3 lần thứ 9](https://hcmus.edu.vn/thong-tin-tuyen-sinh-vien-tham-du-dien-dan-giao-duc-va-cuoc-thi-nha-hung-bien-tre-aun-lan-thu-20-va-asean3-lan-thu-9/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo nhận đơn phúc khảo HK2/23-24 bậc ĐHCQ (bổ sung các môn)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/831-thong-bao-nh-n-don-phuc-kh-o-hk2-23-24-b-c-dhcq-b-sung-cac-mon)
