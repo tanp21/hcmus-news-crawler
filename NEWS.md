@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-05 16:11:56.220457+07:00**_
+_Last update: **2024-09-05 17:12:34.548613+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -50,6 +50,7 @@ _Last update: **2024-09-05 16:11:56.220457+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 5-9-2024: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16352)
  - 5-9-2024: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Đỗ Đức Hào](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16350)
  - 2-9-2024: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16348)
  - 2-9-2024: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16347)
@@ -59,7 +60,6 @@ _Last update: **2024-09-05 16:11:56.220457+07:00**_
  - 27-8-2024: [Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16341)
  - 26-8-2024: [[CNTN] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ lớp CNTN2020 (bảo vệ tháng 8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16339)
  - 24-8-2024: [v/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16313)
- - 22-8-2024: [Chào mừng tân sinh viên khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16335)
 
 ## Thông tin dành cho sinh viên
 - 05/09/2024: [Kế hoạch thực hành Hóa đại cương 1, 2 trong HK1/24-25](https://hcmus.edu.vn/ke-hoach-thuc-hanh-hoa-dai-cuong-1-2-trong-hk1-24-25/)
