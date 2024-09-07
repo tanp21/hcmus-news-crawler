@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-07 11:13:51.075557+07:00**_
+_Last update: **2024-09-07 12:10:50.824452+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -26,6 +26,7 @@ _Last update: **2024-09-07 11:13:51.075557+07:00**_
  - 06/08/2024: [[CTĐA][K20_Đ1] Mời tham dự buổi bảo vệ đề tài tốt nghiệp các Hội đồng bảo vệ từ ngày 12/08/2024 – 24/08/2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/9221/)
 
 ### Trợ lí sinh viên
+ - 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
  - 05/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
  - 16/07/2024: [Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp](https://www.ctda.hcmus.edu.vn/vi/2024/07/huong-dan-chuan-bi-poster-bao-ve-de-tai-tot-nghiep/)
  - 04/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
@@ -35,7 +36,6 @@ _Last update: **2024-09-07 11:13:51.075557+07:00**_
  - 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
  - 03/05/2024: [[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.](https://www.ctda.hcmus.edu.vn/vi/2024/05/shcd_-thong-bao-dang-ky-bo-sung-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-danh-cho-khoa-2020-tro-ve-truoc/)
  - 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
- - 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
 
 ### Kế toán - Tài chính
  - 31/05/2024: [Thông báo về quy định đóng học phí học kỳ 3 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-3-nam-hoc-2023-2024/)
