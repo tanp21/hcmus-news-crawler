@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-08 09:15:52.938741+07:00**_
+_Last update: **2024-09-08 10:13:31.889814+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -50,18 +50,9 @@ _Last update: **2024-09-08 09:15:52.938741+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
- - 6-9-2024: [Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357)
- - 5-9-2024: [[CQ] Thông báo kiểm tra kết quả đăng ký học phần HK1, NH 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16353)
- - 5-9-2024: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16352)
- - 5-9-2024: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Đỗ Đức Hào](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16350)
- - 2-9-2024: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16348)
- - 2-9-2024: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16347)
- - 30-8-2024: [Danh sách học phần đề nghị học trước áp dụng từ năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16345)
- - 28-8-2024: [Chương trình "Máy tính trao tay" 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16356)
- - 27-8-2024: [DSHV đăng ký bảo vệ luận văn thạc sĩ đợt cuối tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16343)
- - 27-8-2024: [Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2024  chương trình Tăng cường tiếng Anh ngành Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16342)
 
 ## Thông tin dành cho sinh viên
+- 08/09/2024: [Thông báo kết quả kiểm tra tiếng Anh Khoá 2024](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-tieng-anh-khoa-2024/)
 - 05/09/2024: [Kế hoạch thực hành Hóa đại cương 1, 2 trong HK1/24-25](https://hcmus.edu.vn/ke-hoach-thuc-hanh-hoa-dai-cuong-1-2-trong-hk1-24-25/)
 - 30/08/2024: [Lịch thi Anh văn đầu khóa 2024](https://hcmus.edu.vn/lich-thi-anh-van-dau-khoa-2024/)
 - 30/08/2024: [Các mốc thời gian Tân sinh viên cần lưu ý](https://hcmus.edu.vn/cac-moc-thoi-gian-tan-sinh-vien-can-luu-y/)
@@ -71,7 +62,6 @@ _Last update: **2024-09-08 09:15:52.938741+07:00**_
 - 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/)
 - 23/08/2024: [THÔNG BÁO V/v tổ chức Tuần lễ Sinh hoạt Công dân – Sinh viên đối với Tân sinh viên khóa tuyển 2024](https://hcmus.edu.vn/thong-bao-v-v-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2024/)
 - 22/08/2024: [Quy định chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://hcmus.edu.vn/quy-dinh-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
-- 21/08/2024: [Thông báo tạm dừng Moodle để bảo trì](https://hcmus.edu.vn/thong-bao-tam-dung-moodle-de-bao-tri/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24_CT Đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/832-thong-bao-phuc-kh-o-hk3-23-24-ct-d-an-cac-khoa)
