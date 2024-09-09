@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-09 11:13:49.427087+07:00**_
+_Last update: **2024-09-09 12:12:27.295857+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -50,6 +50,7 @@ _Last update: **2024-09-09 11:13:49.427087+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 9-9-2024: [[CQ] Danh sách lớp hủy HK1/24-25 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16360)
  - 9-9-2024: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16359)
  - 9-9-2024: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16358)
  - 6-9-2024: [Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357)
@@ -59,7 +60,6 @@ _Last update: **2024-09-09 11:13:49.427087+07:00**_
  - 2-9-2024: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16348)
  - 2-9-2024: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16347)
  - 30-8-2024: [Danh sách học phần đề nghị học trước áp dụng từ năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16345)
- - 28-8-2024: [Chương trình "Máy tính trao tay" 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16356)
 
 ## Thông tin dành cho sinh viên
 - 09/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025/)
