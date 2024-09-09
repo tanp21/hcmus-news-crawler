@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-09 14:11:27.363911+07:00**_
+_Last update: **2024-09-09 15:16:20.602016+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-09-09 14:11:27.363911+07:00**_
  - 30-8-2024: [Danh sách học phần đề nghị học trước áp dụng từ năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16345)
 
 ## Thông tin dành cho sinh viên
+- 09/09/2024: [Thông báo hủy 1 số lớp Anh văn 3, 4 trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-huy-1-so-lop-anh-van-3-4-trong-hk1-2024-2025/)
 - 09/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025/)
 - 08/09/2024: [Thông báo kết quả kiểm tra tiếng Anh Khoá 2024](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-tieng-anh-khoa-2024/)
 - 05/09/2024: [Kế hoạch thực hành Hóa đại cương 1, 2 trong HK1/24-25](https://hcmus.edu.vn/ke-hoach-thuc-hanh-hoa-dai-cuong-1-2-trong-hk1-24-25/)
@@ -71,7 +72,6 @@ _Last update: **2024-09-09 14:11:27.363911+07:00**_
 - 27/08/2024: [Thông báo Kế hoạch tổ chức tiếp nhận, quản lý, rèn luyện trong việc học tập Giáo dục Quốc phòng – An ninh năm 2024](https://hcmus.edu.vn/thong-bao-ke-hoach-to-chuc-tiep-nhan-quan-ly-ren-luyen-giao-duc-quoc-phong-an-ninh-nam-2024/)
 - 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/)
 - 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/)
-- 23/08/2024: [THÔNG BÁO V/v tổ chức Tuần lễ Sinh hoạt Công dân – Sinh viên đối với Tân sinh viên khóa tuyển 2024](https://hcmus.edu.vn/thong-bao-v-v-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24_CT Đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/832-thong-bao-phuc-kh-o-hk3-23-24-ct-d-an-cac-khoa)
