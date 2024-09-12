@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-12 17:12:48.107519+07:00**_
+_Last update: **2024-09-12 18:09:45.554872+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -50,6 +50,7 @@ _Last update: **2024-09-12 17:12:48.107519+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 12-9-2024: [[CQ] Thời khóa biểu Lý thuyết học kỳ 1 năm học 2024-2025 (có phòng học)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16365)
  - 11-9-2024: [Thời khóa biểu lớp bổ túc kiến thức môn Cơ sở dữ liệu, Các thuật toán thông minh nhân tạo và ứng dụng khóa tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16364)
  - 10-9-2024: [Lịch làm việc của Cố vấn học tập HK1 năm học 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16362)
  - 10-9-2024: [V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16363)
@@ -59,7 +60,6 @@ _Last update: **2024-09-12 17:12:48.107519+07:00**_
  - 9-9-2024: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16358)
  - 6-9-2024: [Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357)
  - 5-9-2024: [[CQ] Thông báo kiểm tra kết quả đăng ký học phần HK1, NH 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16353)
- - 5-9-2024: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16352)
 
 ## Thông tin dành cho sinh viên
 - 12/09/2024: [THÔNG BÁO CHƯƠNG TRÌNH PHÁT TRIỂN SINH VIÊN VIETHOPE 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-phat-trien-sinh-vien-viethope-2024/)
