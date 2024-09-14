@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-14 14:11:10.689693+07:00**_
+_Last update: **2024-09-14 15:15:16.959956+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-09-14 14:11:10.689693+07:00**_
  - 5-9-2024: [[CQ] Thông báo kiểm tra kết quả đăng ký học phần HK1, NH 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16353)
 
 ## Thông tin dành cho sinh viên
+- 14/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025 – Đợt 3](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-3/)
 - 13/09/2024: [Thông báo đổi phòng học trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-trong-hk1-2024-2025/)
 - 12/09/2024: [THÔNG BÁO CHƯƠNG TRÌNH PHÁT TRIỂN SINH VIÊN VIETHOPE 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-phat-trien-sinh-vien-viethope-2024/)
 - 10/09/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/)
@@ -71,7 +72,6 @@ _Last update: **2024-09-14 14:11:10.689693+07:00**_
 - 08/09/2024: [Thông báo kết quả kiểm tra tiếng Anh Khoá 2024](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-tieng-anh-khoa-2024/)
 - 05/09/2024: [Kế hoạch thực hành Hóa đại cương 1, 2 trong HK1/24-25](https://hcmus.edu.vn/ke-hoach-thuc-hanh-hoa-dai-cuong-1-2-trong-hk1-24-25/)
 - 30/08/2024: [Lịch thi Anh văn đầu khóa 2024](https://hcmus.edu.vn/lich-thi-anh-van-dau-khoa-2024/)
-- 30/08/2024: [Các mốc thời gian Tân sinh viên cần lưu ý](https://hcmus.edu.vn/cac-moc-thoi-gian-tan-sinh-vien-can-luu-y/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24 bậc ĐH chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/833-thong-bao-phuc-kh-o-hk3-23-24-b-c-dh-chinh-quy)
