@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-17 11:13:37.063680+07:00**_
+_Last update: **2024-09-17 12:13:22.296420+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-09-17 11:13:37.063680+07:00**_
  - 6-9-2024: [Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357)
 
 ## Thông tin dành cho sinh viên
+- 17/09/2024: [Thông báo ngày điều chỉnh đăng ký học phần môn Tin học cơ sở đối với Khóa 2023 chương trình đại trà](https://hcmus.edu.vn/thong-bao-ngay-dieu-chinh-dang-ky-hoc-phan-mon-tin-hoc-co-so-doi-voi-khoa-2023/)
 - 17/09/2024: [Quyết định sửa đổi, bổ sung về Đánh giá kết quả học tập các học phần Anh văn – Khóa 2022 về sau](https://hcmus.edu.vn/quyet-dinh-sua-doi-bo-sung-ve-danh-gia-ket-qua-hoc-tap-cac-hoc-phan-anh-van-khoa-2022/)
 - 17/09/2024: [Thời khóa biểu học kỳ 1/24-25 – Khóa 2023](https://hcmus.edu.vn/thoi-khoa-bieu-hoc-ky-1-24-25-khoa-2023/)
 - 17/09/2024: [Thời khóa biểu HK1/2024-2025 – khóa 2022 và 2024 (cập nhật đến ngày 16/9)](https://hcmus.edu.vn/thoi-khoa-bieu-hk1-2024-2025-khoa-2022-va-2024-cap-nhat-den-ngay-16-9/)
@@ -71,7 +72,6 @@ _Last update: **2024-09-17 11:13:37.063680+07:00**_
 - 16/09/2024: [Thông báo thay đổi phòng học môn Vật lý đại cương (cơ – nhiệt) lớp 24KMT1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vat-ly-dai-cuong-co-nhiet-lop-24kmt1/)
 - 16/09/2024: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2024-2025](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2024-2025/)
 - 16/09/2024: [Thời khóa biểu HK1/2024-2025 – khóa 2022 và 2024 (cập nhật đến ngày 16/9)](https://hcmus.edu.vn/thoi-khoa-bieu-hk1-2021-2025-khoa-2022-va-2024-cap-nhat-den-ngay-16-9/)
-- 14/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025 – Đợt 3](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-3/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24 bậc ĐH chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/833-thong-bao-phuc-kh-o-hk3-23-24-b-c-dh-chinh-quy)
