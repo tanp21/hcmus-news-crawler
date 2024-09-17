@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-17 14:10:47.008037+07:00**_
+_Last update: **2024-09-17 15:15:23.521044+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -50,6 +50,7 @@ _Last update: **2024-09-17 14:10:47.008037+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 17-9-2024: [Chương trình Ươm mầm sinh viên nghiên cứu khoa học sinh viên năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16373)
  - 16-9-2024: [[CQ] Danh sách các lớp đổi phòng học HK1/24-25 từ 17/9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16370)
  - 12-9-2024: [[CQ] Thời khóa biểu Lý thuyết học kỳ 1 năm học 2024-2025 (có phòng học)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16365)
  - 11-9-2024: [Thời khóa biểu lớp bổ túc kiến thức môn Cơ sở dữ liệu, Các thuật toán thông minh nhân tạo và ứng dụng khóa tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16364)
@@ -59,7 +60,6 @@ _Last update: **2024-09-17 14:10:47.008037+07:00**_
  - 9-9-2024: [[CQ] Danh sách lớp hủy HK1/24-25 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16360)
  - 9-9-2024: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16359)
  - 9-9-2024: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16358)
- - 6-9-2024: [Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357)
 
 ## Thông tin dành cho sinh viên
 - 17/09/2024: [Thông báo ngày điều chỉnh đăng ký học phần môn Tin học cơ sở đối với Khóa 2023 chương trình đại trà](https://hcmus.edu.vn/thong-bao-ngay-dieu-chinh-dang-ky-hoc-phan-mon-tin-hoc-co-so-doi-voi-khoa-2023/)
