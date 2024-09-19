@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-19 16:12:14.258259+07:00**_
+_Last update: **2024-09-19 17:12:26.248738+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-09-19 16:12:14.258259+07:00**_
  - 9-9-2024: [Mời tham dự Hội thảo trực tuyến "Giới thiệu các chương trình đào tạo Sau đại học" ngày 13/9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16361)
 
 ## Thông tin dành cho sinh viên
+- 19/09/2024: [Thông báo điều chỉnh lớp các sinh viên có cùng lịch học môn Anh văn bổ túc, Anh văn 1](https://hcmus.edu.vn/thong-bao-dieu-chinh-lop-cac-sinh-vien-co-cung-lich-hoc-mon-anh-van-bo-tuc-anh-van-1/)
 - 18/09/2024: [Thông báo v/v thực hiện chế độ chính sách dành cho sinh viên học kỳ 1 năm học 2024-2025](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-danh-cho-sinh-vien-hoc-ky-1-nam-hoc-2024-2025/)
 - 18/09/2024: [Thời khóa biểu môn học Thể dục 1 trong HK1/24-25 (có thông tin giảng viên)](https://hcmus.edu.vn/thoi-khoa-bieu-mon-hoc-the-duc-1-trong-hk1-24-25-co-thong-tin-giang-vien/)
 - 17/09/2024: [Thông báo ngày điều chỉnh đăng ký học phần môn Tin học cơ sở đối với Khóa 2023 chương trình đại trà](https://hcmus.edu.vn/thong-bao-ngay-dieu-chinh-dang-ky-hoc-phan-mon-tin-hoc-co-so-doi-voi-khoa-2023/)
@@ -71,7 +72,6 @@ _Last update: **2024-09-19 16:12:14.258259+07:00**_
 - 16/09/2024: [KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/)
 - 16/09/2024: [Thông báo mở bổ sung lớp Thể dục 1 và tăng sĩ số các môn Giải tích 1A, Vi tích phân 1 A, Hóa ĐC 1 và Thể dục 1](https://hcmus.edu.vn/thong-bao-mo-bo-sung-lop-the-duc-1-va-tang-si-so-cac-mon-giai-tich-1a-vi-tich-phan-1-a-hoa-dc-1-va-the-duc-1/)
 - 16/09/2024: [Thông báo thay đổi phòng học môn Vật lý đại cương (cơ – nhiệt) lớp 24KMT1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vat-ly-dai-cuong-co-nhiet-lop-24kmt1/)
-- 16/09/2024: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2024-2025](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2024-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24 các lớp CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/834-thong-bao-phuc-kh-o-hk3-23-24-cac-l-p-ct-d-an-khoa-cntt)
