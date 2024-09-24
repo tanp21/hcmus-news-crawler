@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-24 15:16:19.358920+07:00**_
+_Last update: **2024-09-24 16:13:16.044331+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2024-09-24 15:16:19.358920+07:00**_
  - 30/09/2021: [CTĐA_Kế hoạch năm học 2021-2022](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda_ke-hoach-nam-hoc-2021-2022-2/)
 
 ### Giáo vụ
+ - 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
  - 23/09/2024: [TCTA_Thông báo về việc sử dụng tài khoản học vụ Khoá 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/tcta_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2024/)
  - 23/09/2024: [CTTT_Thông báo về việc sử dụng tài khoản học vụ Khoá 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/cttt_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2024/)
  - 20/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao/)
@@ -23,7 +24,6 @@ _Last update: **2024-09-24 15:16:19.358920+07:00**_
  - 26/08/2024: [Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2024  chương trình Tăng cường tiếng Anh ngành Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-ve-viec-khao-sat-nang-luc-lap-trinh-dau-khoa-cho-sinh-vien-khoa-tuyen-2024-chuong-trinh-tang-cuong-tieng-anh-nganh-cong-nghe-thong-tin/)
  - 22/08/2024: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo trình độ đại học hệ chính quy đợt tháng 11/2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/https-hcmus-edu-vn-thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/)
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
- - 19/08/2024: [CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_thong-bao-thay-doi-phong-thi-hk3-2324/)
 
 ### Trợ lí sinh viên
  - 23/09/2024: [[TLSV]_Thông báo lịch cố vấn học tập học kỳ 1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/09/tlsv_thong-bao-lich-co-van-hoc-tap-hoc-ky-1-2024-2025/)
