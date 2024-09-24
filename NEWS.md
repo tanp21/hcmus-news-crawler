@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-24 14:11:35.182842+07:00**_
+_Last update: **2024-09-24 15:16:19.358920+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-09-24 14:11:35.182842+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 24-9-2024: [Danh sách môn mở trong Học phần 4 lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16391)
  - 24-9-2024: [Thay đổi thời gian Hội đồng bảo vệ luận văn thạc sĩ - Hội đồng 4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16387)
  - 23-9-2024: [[CQ] TKB lý thuyết và thực hành chính thức HK1/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16385)
  - 20-9-2024: [Thông báo kết quả xét duyệt học bổng dành cho HVCH ngành Trí tuệ nhân tạo Khóa 33/2023 được tài trợ bởi VINIF](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16384)
@@ -59,7 +60,6 @@ _Last update: **2024-09-24 14:11:35.182842+07:00**_
  - 18-9-2024: [Thông báo đổi phòng học lớp Blockchain và ứng dụng (21_22), HK1/NH 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16379)
  - 17-9-2024: [Chương trình Ươm mầm sinh viên nghiên cứu khoa học sinh viên năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16373)
  - 16-9-2024: [[CQ] Danh sách các lớp đổi phòng học HK1/24-25 từ 17/9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16370)
- - 12-9-2024: [[CQ] Thời khóa biểu Lý thuyết học kỳ 1 năm học 2024-2025 (có phòng học)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16365)
 
 ## Thông tin dành cho sinh viên
 - 24/09/2024: [THÔNG BÁO V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm sau Tuần lễ Sinh hoạt Công dân – Sinh viên đầu khóa năm học 2024-2025](https://hcmus.edu.vn/thong-bao-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoa%cc%a3t-cong-dan-sinh-vien-dau-khoa-nam-ho%cc%a3c-2024-2025/)
