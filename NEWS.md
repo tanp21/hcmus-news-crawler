@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-24 16:13:16.044331+07:00**_
+_Last update: **2024-09-24 17:12:33.562517+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,8 @@ _Last update: **2024-09-24 16:13:16.044331+07:00**_
  - 16-9-2024: [[CQ] Danh sách các lớp đổi phòng học HK1/24-25 từ 17/9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16370)
 
 ## Thông tin dành cho sinh viên
+- 24/09/2024: [Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/)
+- 24/09/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 9 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-9-nam-2024/)
 - 24/09/2024: [THÔNG BÁO V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm sau Tuần lễ Sinh hoạt Công dân – Sinh viên đầu khóa năm học 2024-2025](https://hcmus.edu.vn/thong-bao-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoa%cc%a3t-cong-dan-sinh-vien-dau-khoa-nam-ho%cc%a3c-2024-2025/)
 - 23/09/2024: [Thông báo kết quả dự kiến Điểm rèn luyện HK2/2023 – 2024 (CT Đại trà) và HK3/2023 – 2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
 - 19/09/2024: [Thông báo điều chỉnh lớp các sinh viên có cùng lịch học môn Anh văn bổ túc, Anh văn 1](https://hcmus.edu.vn/thong-bao-dieu-chinh-lop-cac-sinh-vien-co-cung-lich-hoc-mon-anh-van-bo-tuc-anh-van-1/)
@@ -70,8 +72,6 @@ _Last update: **2024-09-24 16:13:16.044331+07:00**_
 - 17/09/2024: [Thông báo ngày điều chỉnh đăng ký học phần môn Tin học cơ sở đối với Khóa 2023 chương trình đại trà](https://hcmus.edu.vn/thong-bao-ngay-dieu-chinh-dang-ky-hoc-phan-mon-tin-hoc-co-so-doi-voi-khoa-2023/)
 - 17/09/2024: [Quyết định sửa đổi, bổ sung về Đánh giá kết quả học tập các học phần Anh văn – Khóa 2022 về sau](https://hcmus.edu.vn/quyet-dinh-sua-doi-bo-sung-ve-danh-gia-ket-qua-hoc-tap-cac-hoc-phan-anh-van-khoa-2022/)
 - 17/09/2024: [Thời khóa biểu học kỳ 1/24-25 – Khóa 2023](https://hcmus.edu.vn/thoi-khoa-bieu-hoc-ky-1-24-25-khoa-2023/)
-- 17/09/2024: [Thời khóa biểu HK1/2024-2025 – khóa 2022 và 2024 (cập nhật đến ngày 16/9)](https://hcmus.edu.vn/thoi-khoa-bieu-hk1-2024-2025-khoa-2022-va-2024-cap-nhat-den-ngay-16-9/)
-- 16/09/2024: [KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24 các lớp CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/834-thong-bao-phuc-kh-o-hk3-23-24-cac-l-p-ct-d-an-khoa-cntt)
