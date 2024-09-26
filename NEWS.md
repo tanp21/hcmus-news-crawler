@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-26 16:13:06.913253+07:00**_
+_Last update: **2024-09-26 17:12:34.453446+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-09-26 16:13:06.913253+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 26-9-2024: [Danh sách tham quan công ty FPT Telecom ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16400)
  - 26-9-2024: [Mời nộp bài và trình bày tại Hội nghị Khoa học Trường năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16399)
  - 26-9-2024: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16398)
  - 25-9-2024: [Đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16397)
@@ -59,9 +60,9 @@ _Last update: **2024-09-26 16:13:06.913253+07:00**_
  - 24-9-2024: [Thay đổi thời gian Hội đồng bảo vệ luận văn thạc sĩ - Hội đồng 4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16387)
  - 23-9-2024: [[CQ] TKB lý thuyết và thực hành chính thức HK1/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16385)
  - 20-9-2024: [Thông báo kết quả xét duyệt học bổng dành cho HVCH ngành Trí tuệ nhân tạo Khóa 33/2023 được tài trợ bởi VINIF](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16384)
- - 19-9-2024: [Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16383)
 
 ## Thông tin dành cho sinh viên
+- 26/09/2024: [Thông báo Học bổng SPE năm học 2023-2024 (Dành cho sinh viên Đại học là thành viên của hiệp hội Kỹ Sư Dầu Khí Việt Nam)](https://hcmus.edu.vn/thong-bao-hoc-bong-spe-nam-hoc-2023-2024-danh-cho-sinh-vien-dai-hoc-la-thanh-vien-cua-hiep-hoi-ky-su-dau-khi-viet-nam/)
 - 25/09/2024: [Thông báo cập nhật phòng học tại Cơ sở 2 từ ngày 30/9/2024](https://hcmus.edu.vn/thong-bao-cap-nhat-phong-hoc-tai-co-so-2-tu-ngay-30-9-2024/)
 - 24/09/2024: [Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/)
 - 24/09/2024: [Kết quả xét tốt nghiệp đại học / cao đẳng đợt tháng 9 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-9-nam-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-09-26 16:13:06.913253+07:00**_
 - 18/09/2024: [Thông báo v/v thực hiện chế độ chính sách dành cho sinh viên học kỳ 1 năm học 2024-2025](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-danh-cho-sinh-vien-hoc-ky-1-nam-hoc-2024-2025/)
 - 18/09/2024: [Thời khóa biểu môn học Thể dục 1 trong HK1/24-25 (có thông tin giảng viên)](https://hcmus.edu.vn/thoi-khoa-bieu-mon-hoc-the-duc-1-trong-hk1-24-25-co-thong-tin-giang-vien/)
 - 17/09/2024: [Thông báo ngày điều chỉnh đăng ký học phần môn Tin học cơ sở đối với Khóa 2023 chương trình đại trà](https://hcmus.edu.vn/thong-bao-ngay-dieu-chinh-dang-ky-hoc-phan-mon-tin-hoc-co-so-doi-voi-khoa-2023/)
-- 17/09/2024: [Quyết định sửa đổi, bổ sung về Đánh giá kết quả học tập các học phần Anh văn – Khóa 2022 về sau](https://hcmus.edu.vn/quyet-dinh-sua-doi-bo-sung-ve-danh-gia-ket-qua-hoc-tap-cac-hoc-phan-anh-van-khoa-2022/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24 các lớp CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/834-thong-bao-phuc-kh-o-hk3-23-24-cac-l-p-ct-d-an-khoa-cntt)
