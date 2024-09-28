@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-09-28 07:56:00.322502+07:00**_
+_Last update: **2024-09-28 09:13:11.427632+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-09-28 07:56:00.322502+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 28-9-2024: [Thông báo địa điểm và thời gian tổ chức Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar "Computational Complexity of Puzzles and Related Topics"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16404)
  - 27-9-2024: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403)
  - 26-9-2024: [Danh sách tham quan công ty FPT Telecom ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16400)
  - 26-9-2024: [Mời nộp bài và trình bày tại Hội nghị Khoa học Trường năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16399)
@@ -59,7 +60,6 @@ _Last update: **2024-09-28 07:56:00.322502+07:00**_
  - 25-9-2024: [Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar "Computational Complexity of Puzzles and Related Topics"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393)
  - 24-9-2024: [Danh sách môn mở trong Học phần 4 lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16391)
  - 24-9-2024: [Thay đổi thời gian Hội đồng bảo vệ luận văn thạc sĩ - Hội đồng 4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16387)
- - 23-9-2024: [[CQ] TKB lý thuyết và thực hành chính thức HK1/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16385)
 
 ## Thông tin dành cho sinh viên
 - 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
