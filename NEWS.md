@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-03 18:09:57.048686+07:00**_
+_Last update: **2024-10-03 19:22:34.524841+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-10-03 18:09:57.048686+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 3-10-2024: [Đăng ký tham quan công ty FPT Software ngày 25/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16415)
  - 2-10-2024: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 33/2023 đối với sinh viên liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16413)
  - 1-10-2024: [Danh sách sinh viên đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16412)
  - 1-10-2024: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16411)
@@ -59,7 +60,6 @@ _Last update: **2024-10-03 18:09:57.048686+07:00**_
  - 30-9-2024: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021-D2 (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16405)
  - 28-9-2024: [Thông báo địa điểm và thời gian tổ chức Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar "Computational Complexity of Puzzles and Related Topics"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16404)
  - 27-9-2024: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403)
- - 26-9-2024: [Danh sách tham quan công ty FPT Telecom ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16400)
 
 ## Thông tin dành cho sinh viên
 - 03/10/2024: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2024-2025/)
