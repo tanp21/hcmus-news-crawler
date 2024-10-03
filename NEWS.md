@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-03 09:15:35.044958+07:00**_
+_Last update: **2024-10-03 10:17:53.686738+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-10-03 09:15:35.044958+07:00**_
  - 26-9-2024: [Danh sách tham quan công ty FPT Telecom ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16400)
 
 ## Thông tin dành cho sinh viên
+- 03/10/2024: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2024-2025/)
 - 02/10/2024: [Thông báo điều chỉnh phòng học áp dụng từ ngày 30/09/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-dieu-chinh-phong-hoc-ap-dung-tu-ngay-30-09-2024-tai-co-so-2/)
 - 28/09/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
 - 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
@@ -71,7 +72,6 @@ _Last update: **2024-10-03 09:15:35.044958+07:00**_
 - 26/09/2024: [Thông báo Học bổng SPE năm học 2023-2024 (Dành cho sinh viên Đại học là thành viên của hiệp hội Kỹ Sư Dầu Khí Việt Nam)](https://hcmus.edu.vn/thong-bao-hoc-bong-spe-nam-hoc-2023-2024-danh-cho-sinh-vien-dai-hoc-la-thanh-vien-cua-hiep-hoi-ky-su-dau-khi-viet-nam/)
 - 25/09/2024: [Thông báo cập nhật phòng học tại Cơ sở 2 từ ngày 30/9/2024](https://hcmus.edu.vn/thong-bao-cap-nhat-phong-hoc-tai-co-so-2-tu-ngay-30-9-2024/)
 - 24/09/2024: [Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/)
-- 24/09/2024: [Kết quả xét tốt nghiệp đại học / cao đẳng đợt tháng 9 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-9-nam-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24 các lớp CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/834-thong-bao-phuc-kh-o-hk3-23-24-cac-l-p-ct-d-an-khoa-cntt)
