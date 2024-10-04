@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-04 16:11:54.613878+07:00**_
+_Last update: **2024-10-04 17:13:12.346450+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-10-04 16:11:54.613878+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 4-10-2024: [Thông báo nộp hồ sơ Học bổng Cựu sinh viên - ASF năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16416)
  - 3-10-2024: [Đăng ký tham quan công ty FPT Software ngày 25/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16415)
  - 2-10-2024: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 33/2023 đối với sinh viên liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16413)
  - 1-10-2024: [Danh sách sinh viên đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16412)
@@ -59,7 +60,6 @@ _Last update: **2024-10-04 16:11:54.613878+07:00**_
  - 30-9-2024: [Máy tính trao tay - Doanh nghiệp và Khoa CNTT đồng hành cùng tân sinh viên vững bước vào giảng đường](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16406)
  - 30-9-2024: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021-D2 (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16405)
  - 28-9-2024: [Thông báo địa điểm và thời gian tổ chức Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar "Computational Complexity of Puzzles and Related Topics"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16404)
- - 27-9-2024: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403)
 
 ## Thông tin dành cho sinh viên
 - 04/10/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 4/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-4-2024/)
