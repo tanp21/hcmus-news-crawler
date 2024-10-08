@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-08 11:14:30.628224+07:00**_
+_Last update: **2024-10-08 12:11:49.936522+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-10-08 11:14:30.628224+07:00**_
  - 30-9-2024: [Máy tính trao tay - Doanh nghiệp và Khoa CNTT đồng hành cùng tân sinh viên vững bước vào giảng đường](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16406)
 
 ## Thông tin dành cho sinh viên
+- 08/10/2024: [Thông báo nghỉ học ngày Thứ 7 (12/10) tại CS2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-thu-7-12-10-tai-cs2-do-cup-dien/)
 - 07/10/2024: [[THÔNG BÁO] Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-asean-trong-the-gioi-hom-nay-astw-2025/)
 - 07/10/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024211801](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
 - 05/10/2024: [Thông báo đổi phòng học dãy F cơ sở 2 từ ngày 05/10/24](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-f-tu-ngay-05-10-24/)
@@ -71,7 +72,6 @@ _Last update: **2024-10-08 11:14:30.628224+07:00**_
 - 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 - 27/09/2024: [Thông báo Chương trình Workshop “Hành trình trải nghiệm và quá trình xây dựng thương hiệu cá nhân”](https://hcmus.edu.vn/thong-bao-chuong-trinh-workshop-hanh-trinh-trai-nghiem-va-qua-trinh-xay-dung-thuong-hieu-ca-nhan/)
 - 26/09/2024: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/)
-- 26/09/2024: [Thông báo đổi phòng học ngày Thứ 7 (28/09/24) tại cơ sở 2](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-ngay-thu-7-28-09-24-tai-co-so-2/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24 các lớp CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/834-thong-bao-phuc-kh-o-hk3-23-24-cac-l-p-ct-d-an-khoa-cntt)
