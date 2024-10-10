@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-10 09:14:46.633034+07:00**_
+_Last update: **2024-10-10 10:17:26.452912+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-10-10 09:14:46.633034+07:00**_
  - 06/10/2015: [Thông báo vv đóng BHYT đợt bổ sung của sinh viên chương trình đặc biệt năm học 2015-2016](https://www.ctda.hcmus.edu.vn/vi/2015/10/thong-bao-vv-dong-bhyt-dot-bo-sung/)
 
 ## FIT
+ - 10-10-2024: [[CQ] Danh sách lớp nghỉ học ngày 12/10/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16423)
  - 8-10-2024: [Đăng ký tham quan công ty KMS Technology ngày 22/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16420)
  - 7-10-2024: [Danh sách tham quan công ty FPT Software ngày 25/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16419)
  - 4-10-2024: [Thông báo nộp hồ sơ Học bổng Cựu sinh viên - ASF năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16416)
@@ -59,7 +60,6 @@ _Last update: **2024-10-10 09:14:46.633034+07:00**_
  - 1-10-2024: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16411)
  - 1-10-2024: [Tổng kết Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar "Computational Complexity of Puzzles and Related Topics"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16409)
  - 1-10-2024: [[CQ] Điều kiện và quy trình đăng ký thực hiện KLTN/TTTN và TTDATN, K2021-D2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16407)
- - 30-9-2024: [Máy tính trao tay - Doanh nghiệp và Khoa CNTT đồng hành cùng tân sinh viên vững bước vào giảng đường](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16406)
 
 ## Thông tin dành cho sinh viên
 - 08/10/2024: [Thông báo nghỉ học ngày Thứ 7 (12/10) tại CS2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-thu-7-12-10-tai-cs2-do-cup-dien/)
