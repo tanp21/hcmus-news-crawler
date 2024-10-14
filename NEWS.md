@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-14 21:11:54.479893+07:00**_
+_Last update: **2024-10-14 22:12:42.767580+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -66,7 +66,7 @@ _Last update: **2024-10-14 21:11:54.479893+07:00**_
 - 14/10/2024: [Thông báo dời phòng học F104 tại CS2 từ ngày 14/10/2024](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-f104-cs2-tu-ngay-14-10-2024/)
 - 14/10/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025) đợt bổ sung](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025-dot-bo-sung/)
 - 14/10/2024: [Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/)
-- 14/10/2024: [Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented studens – Never Give Up  Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/)
+- 14/10/2024: [Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented students – Never Give Up  Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/)
 - 11/10/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/)
 - 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
 - 08/10/2024: [Thông báo nghỉ học ngày Thứ 7 (12/10) tại CS2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-thu-7-12-10-tai-cs2-do-cup-dien/)
