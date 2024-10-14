@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-14 18:11:03.682921+07:00**_
+_Last update: **2024-10-14 19:23:03.814234+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-10-14 18:11:03.682921+07:00**_
  - 3-10-2024: [Đăng ký tham quan công ty FPT Software ngày 25/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16415)
 
 ## Thông tin dành cho sinh viên
+- 14/10/2024: [Thông báo kết quả chính thức HBKK HK2/23-24 Khoa Hóa học, Môi trường, Công nghệ Thông tin, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-23-24-khoa-hoa-hoc-moi-truong-cong-nghe-thong-tin-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
 - 14/10/2024: [Thông báo dời phòng học F104 tại CS2 từ ngày 14/10/2024](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-f104-cs2-tu-ngay-14-10-2024/)
 - 14/10/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025) đợt bổ sung](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025-dot-bo-sung/)
 - 14/10/2024: [Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/)
@@ -71,7 +72,6 @@ _Last update: **2024-10-14 18:11:03.682921+07:00**_
 - 08/10/2024: [Thông báo nghỉ học ngày Thứ 7 (12/10) tại CS2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-thu-7-12-10-tai-cs2-do-cup-dien/)
 - 07/10/2024: [[THÔNG BÁO] Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-asean-trong-the-gioi-hom-nay-astw-2025/)
 - 07/10/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024211801](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
-- 05/10/2024: [Thông báo đổi phòng học dãy F cơ sở 2 từ ngày 05/10/24](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-f-tu-ngay-05-10-24/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24 các lớp CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/834-thong-bao-phuc-kh-o-hk3-23-24-cac-l-p-ct-d-an-khoa-cntt)
