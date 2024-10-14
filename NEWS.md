@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-14 14:13:09.321104+07:00**_
+_Last update: **2024-10-14 15:16:41.666299+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -51,6 +51,7 @@ _Last update: **2024-10-14 14:13:09.321104+07:00**_
 
 ## FIT
  - 15-10-2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 1, NH 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16427)
+ - 14-10-2024: [Đăng ký tham gia Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16429)
  - 14-10-2024: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16390)
  - 12-10-2024: [Đăng ký tham quan công ty Fujinet Systems ngày 29/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16426)
  - 12-10-2024: [Danh sách sinh viên tham quan công ty KMS Technology](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16425)
@@ -59,9 +60,9 @@ _Last update: **2024-10-14 14:13:09.321104+07:00**_
  - 7-10-2024: [Danh sách tham quan công ty FPT Software ngày 25/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16419)
  - 4-10-2024: [Thông báo nộp hồ sơ Học bổng Cựu sinh viên - ASF năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16416)
  - 3-10-2024: [Đăng ký tham quan công ty FPT Software ngày 25/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16415)
- - 2-10-2024: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 33/2023 đối với sinh viên liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16413)
 
 ## Thông tin dành cho sinh viên
+- 14/10/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025) đợt bổ sung](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025-dot-bo-sung/)
 - 14/10/2024: [Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/)
 - 14/10/2024: [Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented studens – Never Give Up  Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/)
 - 11/10/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-10-14 14:13:09.321104+07:00**_
 - 07/10/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024211801](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
 - 05/10/2024: [Thông báo đổi phòng học dãy F cơ sở 2 từ ngày 05/10/24](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-f-tu-ngay-05-10-24/)
 - 04/10/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 4/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-4-2024/)
-- 03/10/2024: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2024-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24 các lớp CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/834-thong-bao-phuc-kh-o-hk3-23-24-cac-l-p-ct-d-an-khoa-cntt)
