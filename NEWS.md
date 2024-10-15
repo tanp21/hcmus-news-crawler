@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-15 10:18:45.297958+07:00**_
+_Last update: **2024-10-15 11:15:09.362877+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2024-10-15 10:18:45.297958+07:00**_
  - 30/09/2021: [CTĐA_Kế hoạch năm học 2021-2022](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda_ke-hoach-nam-hoc-2021-2022-2/)
 
 ### Giáo vụ
+ - 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
  - 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
  - 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
  - 23/09/2024: [TCTA_Thông báo về việc sử dụng tài khoản học vụ Khoá 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/tcta_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2024/)
@@ -23,7 +24,6 @@ _Last update: **2024-10-15 10:18:45.297958+07:00**_
  - 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
  - 26/08/2024: [Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-ve-viec-khao-sat-nang-luc-anh-van-dau-khoa-doi-voi-sinh-vien-chuong-trinh-de-an-khoa-cong-nghe-thong-tin-khoa-tuyen-2024/)
  - 26/08/2024: [Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2024  chương trình Tăng cường tiếng Anh ngành Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-ve-viec-khao-sat-nang-luc-lap-trinh-dau-khoa-cho-sinh-vien-khoa-tuyen-2024-chuong-trinh-tang-cuong-tieng-anh-nganh-cong-nghe-thong-tin/)
- - 22/08/2024: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo trình độ đại học hệ chính quy đợt tháng 11/2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/https-hcmus-edu-vn-thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/)
 
 ### Trợ lí sinh viên
  - 23/09/2024: [[TLSV]_Thông báo lịch cố vấn học tập học kỳ 1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/09/tlsv_thong-bao-lich-co-van-hoc-tap-hoc-ky-1-2024-2025/)
@@ -62,6 +62,7 @@ _Last update: **2024-10-15 10:18:45.297958+07:00**_
  - 3-10-2024: [Đăng ký tham quan công ty FPT Software ngày 25/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16415)
 
 ## Thông tin dành cho sinh viên
+- 15/10/2024: [Thông báo chương trình học bổng QIS Việt Nam](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-qis-viet-nam/)
 - 15/10/2024: [Thông báo đăng ký nhận Giấy chứng nhận tốt nghiệp đại học tạm thời đối với sinh viên tốt nghiệp đợt tháng 10/2024](https://hcmus.edu.vn/thong-bao-dang-ky-nhan-giay-chung-nhan-tot-nghiep-dai-hoc-tam-thoi-doi-voi-sinh-vien-tot-nghiep-dot-thang-10-2024/)
 - 15/10/2024: [Thông báo v/v khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2024-2025 (Đối với sinh viên từ khóa 2023 trở về trước)](https://hcmus.edu.vn/thong-bao-v-v-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2024-2025-doi-voi-sinh-vien-tu-khoa-2023-tro-ve-truoc/)
 - 14/10/2024: [Thông báo kết quả chính thức HBKK HK2/23-24 Khoa Hóa học, Môi trường, Công nghệ Thông tin, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-23-24-khoa-hoa-hoc-moi-truong-cong-nghe-thong-tin-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
@@ -71,7 +72,6 @@ _Last update: **2024-10-15 10:18:45.297958+07:00**_
 - 14/10/2024: [Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented students – Never Give Up  Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/)
 - 11/10/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/)
 - 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
-- 08/10/2024: [Thông báo nghỉ học ngày Thứ 7 (12/10) tại CS2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-thu-7-12-10-tai-cs2-do-cup-dien/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/23-24 các lớp CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/834-thong-bao-phuc-kh-o-hk3-23-24-cac-l-p-ct-d-an-khoa-cntt)
