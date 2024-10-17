@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-17 09:15:39.789103+07:00**_
+_Last update: **2024-10-17 10:18:08.705755+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -82,7 +82,7 @@ _Last update: **2024-10-17 09:15:39.789103+07:00**_
 
 ***
 
- - [Lịch thi HK1/24-25 hệ ĐTTX (CẬP NHẬT 16/10)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/836-l-ch-thi-hk1-24-25-h-dttx)
+ - [Lịch thi HK1/24-25 hệ ĐTTX (CẬP NHẬT 17/10)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/836-l-ch-thi-hk1-24-25-h-dttx)
  - [Lịch thi giữa kỳ HK1/24-25 Chương trình đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/835-l-ch-thi-gi-a-ky-hk1-24-25-chuong-trinh-d-an-cac-khoa)
  - [Lịch thi cuối kỳ HK3/23-24 chính quy tại LT và NVC](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/829-l-ch-thi-cu-i-ky-hk3-23-24-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi cuối kỳ HK3/23-24 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/826-l-ch-thi-cu-i-ky-hk3-23-24-ct-d-an-khoa-cntt)
