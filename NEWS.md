@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-21 09:20:19.261606+07:00**_
+_Last update: **2024-10-21 10:21:27.023445+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2024-10-21 09:20:19.261606+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 21-10-2024: [Đăng ký tham quan công ty Saritasa Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16437)
+ - 21-10-2024: [Giới thiệu Thư viện Khoa Công nghệ Thông tin, Đại học Khoa học tự nhiên, ĐHQG-HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16436)
  - 18-10-2024: [Thông báo đăng ký tham dự Chuỗi Hội thảo kỹ năng - Công nghệ 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16434)
  - 16-10-2024: [Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432)
  - 15-10-2024: [Danh sách sinh viên tham quan Fujinet Systems ngày 29/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16431)
@@ -58,8 +60,6 @@ _Last update: **2024-10-21 09:20:19.261606+07:00**_
  - 14-10-2024: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16390)
  - 12-10-2024: [Đăng ký tham quan công ty Fujinet Systems ngày 29/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16426)
  - 12-10-2024: [Danh sách sinh viên tham quan công ty KMS Technology](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16425)
- - 10-10-2024: [[CQ] Danh sách lớp nghỉ học ngày 12/10/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16423)
- - 8-10-2024: [Đăng ký tham quan công ty KMS Technology ngày 22/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16420)
 
 ## Thông tin dành cho sinh viên
 - 21/10/2024: [Thông báo học bổng Vừ A Dính năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-ho%cc%a3c-2024-2025/)
