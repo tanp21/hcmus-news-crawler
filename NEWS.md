@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-24 13:17:28.496212+07:00**_
+_Last update: **2024-10-24 14:12:02.504849+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-10-24 13:17:28.496212+07:00**_
  - 14-10-2024: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16390)
 
 ## Thông tin dành cho sinh viên
+- 24/10/2024: [Thông báo nghỉ học ngày 18 và 19/11 đối với sinh viên khoa Hóa học](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-18-va-19-11-doi-voi-sinh-vien-khoa-hoa-hoc/)
 - 22/10/2024: [Thông báo nộp học phí học kỳ 1 / 2024-2025 đối với sinh viên học các chương trình theo đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-doi-voi-sinh-vien-hoc-cac-chuong-trinh-theo-de-an/)
 - 22/10/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (CT Đại trà) và HK3/2023-2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
 - 21/10/2024: [Thông báo học bổng Vừ A Dính năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-ho%cc%a3c-2024-2025/)
@@ -71,7 +72,6 @@ _Last update: **2024-10-24 13:17:28.496212+07:00**_
 - 16/10/2024: [Thông báo nộp học phí học kỳ 1 năm học 2024-2025 đối với sinh viên hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-hoc-phi-hoc-ky-1-nam-hoc-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra/)
 - 16/10/2024: [Thông báo Khảo sát việc học, việc làm đối với sinh viên vừa tốt nghiệp đại học](https://hcmus.edu.vn/thong-bao-khao-sat-viec-hoc-viec-lam-doi-voi-sinh-vien-vua-tot-nghiep-dai-hoc/)
 - 15/10/2024: [Thông báo chương trình học bổng QIS Việt Nam](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-qis-viet-nam/)
-- 15/10/2024: [Thông báo đăng ký nhận Giấy chứng nhận tốt nghiệp đại học tạm thời đối với sinh viên tốt nghiệp đợt tháng 10/2024](https://hcmus.edu.vn/thong-bao-dang-ky-nhan-giay-chung-nhan-tot-nghiep-dai-hoc-tam-thoi-doi-voi-sinh-vien-tot-nghiep-dot-thang-10-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt t8, 9, 10 năm 2024](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/837-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-t8-9-10-nam-2024)
