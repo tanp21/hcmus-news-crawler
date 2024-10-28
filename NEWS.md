@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-28 14:12:40.050474+07:00**_
+_Last update: **2024-10-28 15:16:39.668922+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-10-28 14:12:40.050474+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 28-10-2024: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16448)
  - 25-10-2024: [Giới thiệu Chương trình chăm sóc sức khỏe tinh thần người học của FIT.HCMUS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16447)
  - 24-10-2024: [Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445)
  - 23-10-2024: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441)
@@ -59,7 +60,6 @@ _Last update: **2024-10-28 14:12:40.050474+07:00**_
  - 18-10-2024: [Thông báo đăng ký tham dự Chuỗi Hội thảo kỹ năng - Công nghệ 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16434)
  - 16-10-2024: [Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432)
  - 15-10-2024: [Danh sách sinh viên tham quan Fujinet Systems ngày 29/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16431)
- - 15-10-2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 1, NH 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16427)
 
 ## Thông tin dành cho sinh viên
 - 28/10/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025/)
