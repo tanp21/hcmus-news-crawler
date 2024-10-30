@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-10-30 14:11:49.283846+07:00**_
+_Last update: **2024-10-30 15:16:49.601203+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-10-30 14:11:49.283846+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 30-10-2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454)
  - 30-10-2024: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021 Đợt 1 (bảo vệ T3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16453)
  - 28-10-2024: [Danh sách tham quan công ty VNG ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452)
  - 28-10-2024: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 33/2023 - bắt đầu học 28/10/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16449)
@@ -59,7 +60,6 @@ _Last update: **2024-10-30 14:11:49.283846+07:00**_
  - 23-10-2024: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441)
  - 23-10-2024: [Đăng ký tham quan công ty VNG ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16440)
  - 21-10-2024: [Đăng ký tham quan công ty Saritasa Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16437)
- - 21-10-2024: [Giới thiệu Thư viện Khoa Công nghệ Thông tin, Đại học Khoa học tự nhiên, ĐHQG-HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16436)
 
 ## Thông tin dành cho sinh viên
 - 29/10/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2023-2024/)
