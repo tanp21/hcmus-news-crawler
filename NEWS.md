@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-01 09:55:34.112712+07:00**_
+_Last update: **2024-11-01 10:27:41.228802+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-11-01 09:55:34.112712+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 1-11-2024: [Đăng ký tham dự Hội nghị Khoa học Trường Đại học Khoa học tự nhiên lần thứ 14 - Năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16457)
  - 31-10-2024: [Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455)
  - 30-10-2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454)
  - 30-10-2024: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021 Đợt 1 (bảo vệ T3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16453)
@@ -59,7 +60,6 @@ _Last update: **2024-11-01 09:55:34.112712+07:00**_
  - 25-10-2024: [Giới thiệu Chương trình chăm sóc sức khỏe tinh thần người học của FIT.HCMUS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16447)
  - 24-10-2024: [Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445)
  - 23-10-2024: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441)
- - 23-10-2024: [Đăng ký tham quan công ty VNG ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16440)
 
 ## Thông tin dành cho sinh viên
 - 30/10/2024: [THÔNG BÁO Đăng ký tham dự chương trình Talkshow năm 2024 với chủ đề: “Tầm nhìn khởi nghiệp – Trách nhiệm cộng đồng”](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-chuong-trinh-talkshow-nam-2024-voi-chu-de-tam-nhin-khoi-nghiep-trach-nhiem-cong-dong/)
