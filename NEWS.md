@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-05 14:11:30.786740+07:00**_
+_Last update: **2024-11-05 15:15:45.489414+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-11-05 14:11:30.786740+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 5-11-2024: [Đăng ký tham quan công ty Netcompany ngày 22/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460)
  - 5-11-2024: [Danh sách tham quan công ty KBTG Việt Nam ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16459)
  - 3-11-2024: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16458)
  - 1-11-2024: [Đăng ký tham dự Hội nghị Khoa học Trường Đại học Khoa học tự nhiên lần thứ 14 - Năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16457)
@@ -59,9 +60,9 @@ _Last update: **2024-11-05 14:11:30.786740+07:00**_
  - 28-10-2024: [Danh sách tham quan công ty VNG ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452)
  - 28-10-2024: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 33/2023 - bắt đầu học 28/10/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16449)
  - 28-10-2024: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16448)
- - 25-10-2024: [Giới thiệu Chương trình chăm sóc sức khỏe tinh thần người học của FIT.HCMUS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16447)
 
 ## Thông tin dành cho sinh viên
+- 05/11/2024: [Thông báo nhận bằng tốt nghiệp bậc Đại học (hệ chính quy, hệ đào tạo từ xa), bậc Cao đẳng, Liên thông đại học (ngành Công nghệ thông tin) cho đợt tốt nghiệp tháng 9/2024](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-he-dao-tao-tu-xa-bac-cao-dang-lien-thong-dai-hoc-nganh-cong-nghe-thong-tin-cho-dot-tot-nghiep-thang-9-2024/)
 - 05/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 02 và 03/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-02-va-03-11-2024/)
 - 03/11/2024: [THÔNG BÁO Đăng ký lịch Sinh hoạt Công dân Đầu năm, năm học 2024-2025 (Bổ sung)](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025-bo-sung/)
 - 30/10/2024: [THÔNG BÁO Đăng ký tham dự chương trình Talkshow năm 2024 với chủ đề: “Tầm nhìn khởi nghiệp – Trách nhiệm cộng đồng”](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-chuong-trinh-talkshow-nam-2024-voi-chu-de-tam-nhin-khoi-nghiep-trach-nhiem-cong-dong/)
@@ -71,7 +72,6 @@ _Last update: **2024-11-05 14:11:30.786740+07:00**_
 - 24/10/2024: [Thông báo nghỉ học ngày 18 và 19/11 đối với sinh viên khoa Hóa học](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-18-va-19-11-doi-voi-sinh-vien-khoa-hoa-hoc/)
 - 22/10/2024: [Thông báo nộp học phí học kỳ 1 / 2024-2025 đối với sinh viên học các chương trình theo đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-doi-voi-sinh-vien-hoc-cac-chuong-trinh-theo-de-an/)
 - 22/10/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (CT Đại trà) và HK3/2023-2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
-- 21/10/2024: [Thông báo học bổng Vừ A Dính năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-ho%cc%a3c-2024-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt t8, 9, 10 năm 2024](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/837-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-t8-9-10-nam-2024)
