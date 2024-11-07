@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-07 15:15:21.045010+07:00**_
+_Last update: **2024-11-07 16:12:26.008865+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-11-07 15:15:21.045010+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 7-11-2024: [Talk Show "Làm sao khởi nghiệp khi là sinh viên?"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16466)
  - 7-11-2024: [Đăng ký ứng tuyển học bổng công ty TNHH Scrumviet](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16465)
  - 6-11-2024: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16463)
  - 5-11-2024: [Đăng ký tham quan công ty Netcompany ngày 22/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460)
@@ -59,9 +60,10 @@ _Last update: **2024-11-07 15:15:21.045010+07:00**_
  - 31-10-2024: [Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455)
  - 30-10-2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454)
  - 30-10-2024: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021 Đợt 1 (bảo vệ T3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16453)
- - 28-10-2024: [Danh sách tham quan công ty VNG ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452)
 
 ## Thông tin dành cho sinh viên
+- 07/11/2024: [THÔNG BÁO  Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat/)
+- 07/11/2024: [Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/)
 - 07/11/2024: [TUYÊN DƯƠNG TẬP THỂ, CÁ NHÂN ĐẠT THÀNH TÍCH XUẤT SẮC TRONG CUỘC THI OLYMPIC SINH HỌC SINH VIÊN VIỆT NAM, NĂM 2024](https://hcmus.edu.vn/tuyen-duong-tap-the-ca-nhan-dat-thanh-tich-xuat-sac-trong-cuoc-thi-olympic-sinh-hoc-sinh-vien-viet-nam-nam-2024/)
 - 05/11/2024: [Thông báo nhận bằng tốt nghiệp bậc Đại học (hệ chính quy, hệ đào tạo từ xa), bậc Cao đẳng, Liên thông đại học (ngành Công nghệ thông tin) cho đợt tốt nghiệp tháng 9/2024](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-he-dao-tao-tu-xa-bac-cao-dang-lien-thong-dai-hoc-nganh-cong-nghe-thong-tin-cho-dot-tot-nghiep-thang-9-2024/)
 - 05/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 02 và 03/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-02-va-03-11-2024/)
@@ -70,8 +72,6 @@ _Last update: **2024-11-07 15:15:21.045010+07:00**_
 - 29/10/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2023-2024/)
 - 29/10/2024: [THÔNG BÁO Lịch đăng ký các lớp tập huấn “Hiểu, biết và chăm sóc sức khỏe tinh thần cho chính mình”](https://hcmus.edu.vn/thong-bao-lich-dang-ky-cac-lop-tap-huan-hieu-biet-va-cham-soc-suc-khoe-tinh-than-cho-chinh-minh/)
 - 28/10/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025/)
-- 24/10/2024: [Thông báo nghỉ học ngày 18 và 19/11 đối với sinh viên khoa Hóa học](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-18-va-19-11-doi-voi-sinh-vien-khoa-hoa-hoc/)
-- 22/10/2024: [Thông báo nộp học phí học kỳ 1 / 2024-2025 đối với sinh viên học các chương trình theo đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-doi-voi-sinh-vien-hoc-cac-chuong-trinh-theo-de-an/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt t8, 9, 10 năm 2024](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/837-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-t8-9-10-nam-2024)
