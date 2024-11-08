@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-08 07:55:54.098816+07:00**_
+_Last update: **2024-11-08 09:13:08.286441+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-11-08 07:55:54.098816+07:00**_
  - 30-10-2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454)
 
 ## Thông tin dành cho sinh viên
+- 08/11/2024: [Thông báo về việc cảnh báo học tập và buộc thôi học tại HK1/2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-canh-bao-hoc-tap-va-buoc-thoi-hoc-tai-hk1-2024-2025/)
 - 07/11/2024: [THÔNG BÁO  Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat/)
 - 07/11/2024: [Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/)
 - 07/11/2024: [TUYÊN DƯƠNG TẬP THỂ, CÁ NHÂN ĐẠT THÀNH TÍCH XUẤT SẮC TRONG CUỘC THI OLYMPIC SINH HỌC SINH VIÊN VIỆT NAM, NĂM 2024](https://hcmus.edu.vn/tuyen-duong-tap-the-ca-nhan-dat-thanh-tich-xuat-sac-trong-cuoc-thi-olympic-sinh-hoc-sinh-vien-viet-nam-nam-2024/)
@@ -71,7 +72,6 @@ _Last update: **2024-11-08 07:55:54.098816+07:00**_
 - 30/10/2024: [THÔNG BÁO Đăng ký tham dự chương trình Talkshow năm 2024 với chủ đề: “Tầm nhìn khởi nghiệp – Trách nhiệm cộng đồng”](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-chuong-trinh-talkshow-nam-2024-voi-chu-de-tam-nhin-khoi-nghiep-trach-nhiem-cong-dong/)
 - 29/10/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2023-2024/)
 - 29/10/2024: [THÔNG BÁO Lịch đăng ký các lớp tập huấn “Hiểu, biết và chăm sóc sức khỏe tinh thần cho chính mình”](https://hcmus.edu.vn/thong-bao-lich-dang-ky-cac-lop-tap-huan-hieu-biet-va-cham-soc-suc-khoe-tinh-than-cho-chinh-minh/)
-- 28/10/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt t8, 9, 10 năm 2024](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/837-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-t8-9-10-nam-2024)
