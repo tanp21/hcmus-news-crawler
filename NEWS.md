@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-08 15:15:22.203322+07:00**_
+_Last update: **2024-11-08 16:12:28.322368+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-11-08 15:15:22.203322+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 8-11-2024: [Danh sách sinh viên tham quan công ty Netcompany ngày 22/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16468)
  - 7-11-2024: [Đăng ký tham quan công ty OPSWAT ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16467)
  - 7-11-2024: [Talk Show "Làm sao khởi nghiệp khi là sinh viên?"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16466)
  - 7-11-2024: [Đăng ký ứng tuyển học bổng công ty TNHH Scrumviet](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16465)
@@ -59,7 +60,6 @@ _Last update: **2024-11-08 15:15:22.203322+07:00**_
  - 3-11-2024: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16458)
  - 1-11-2024: [Đăng ký tham dự Hội nghị Khoa học Trường Đại học Khoa học tự nhiên lần thứ 14 - Năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16457)
  - 31-10-2024: [Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455)
- - 30-10-2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454)
 
 ## Thông tin dành cho sinh viên
 - 08/11/2024: [Thông báo về việc cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
