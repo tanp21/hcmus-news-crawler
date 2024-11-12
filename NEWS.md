@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-12 16:12:39.815754+07:00**_
+_Last update: **2024-11-12 17:12:35.848647+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-11-12 16:12:39.815754+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 12-11-2024: [Đăng ký tham dự hội thảo Phát triển Game: Từ ý tưởng đến sản phẩm thực tế](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16474)
  - 11-11-2024: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 4/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16473)
  - 11-11-2024: [Danh sách tham dự hội thảo "Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16471)
  - 9-11-2024: [Danh sách tham quan công ty OPSWAT ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16470)
@@ -59,7 +60,6 @@ _Last update: **2024-11-12 16:12:39.815754+07:00**_
  - 7-11-2024: [Talk Show "Làm sao khởi nghiệp khi là sinh viên?"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16466)
  - 7-11-2024: [Đăng ký ứng tuyển học bổng công ty TNHH Scrumviet](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16465)
  - 6-11-2024: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16463)
- - 5-11-2024: [Đăng ký tham quan công ty Netcompany ngày 22/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460)
 
 ## Thông tin dành cho sinh viên
 - 12/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 09 và 10/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-09-va-10-11-2024/)
