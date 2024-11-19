@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-19 16:13:28.379839+07:00**_
+_Last update: **2024-11-19 17:13:55.709788+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-11-19 16:13:28.379839+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 19-11-2024: [Danh sách sinh viên tham dự hội thảo Phát triển Game: Từ ý tưởng đến sản phẩm thực tế](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16486)
  - 19-11-2024: [DSHV đăng ký bảo vệ luận văn thạc sĩ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16485)
  - 19-11-2024: [Mời đăng ký tham dự và trình bày Seminar Sau Đại học năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16484)
  - 18-11-2024: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Đỗ Đức Hào (20/11/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16483)
@@ -59,7 +60,6 @@ _Last update: **2024-11-19 16:13:28.379839+07:00**_
  - 11-11-2024: [Danh sách tham dự hội thảo "Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16471)
  - 9-11-2024: [Danh sách tham quan công ty OPSWAT ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16470)
  - 8-11-2024: [Đăng ký tham dự hội thảo "Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16469)
- - 8-11-2024: [Danh sách sinh viên tham quan công ty Netcompany ngày 22/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16468)
 
 ## Thông tin dành cho sinh viên
 - 15/11/2024: [Kết quả xét tốt nghiệp đợt tháng 11/2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-11-2024/)
