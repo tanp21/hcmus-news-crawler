@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-19 09:23:58.803569+07:00**_
+_Last update: **2024-11-19 10:24:46.377400+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-11-19 09:23:58.803569+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 19-11-2024: [Mời đăng ký tham dự và trình bày Seminar Sau Đại học năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16484)
  - 18-11-2024: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Đỗ Đức Hào (20/11/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16483)
  - 13-11-2024: [Tiểu ban Công nghệ Thông tin và Truyền thông - Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XIV năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16475)
  - 12-11-2024: [Đăng ký tham dự hội thảo Phát triển Game: Từ ý tưởng đến sản phẩm thực tế](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16474)
@@ -59,7 +60,6 @@ _Last update: **2024-11-19 09:23:58.803569+07:00**_
  - 8-11-2024: [Đăng ký tham dự hội thảo "Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16469)
  - 8-11-2024: [Danh sách sinh viên tham quan công ty Netcompany ngày 22/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16468)
  - 7-11-2024: [Đăng ký tham quan công ty OPSWAT ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16467)
- - 7-11-2024: [Talk Show "Làm sao khởi nghiệp khi là sinh viên?"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16466)
 
 ## Thông tin dành cho sinh viên
 - 15/11/2024: [Kết quả xét tốt nghiệp đợt tháng 11/2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-11-2024/)
@@ -83,7 +83,7 @@ _Last update: **2024-11-19 09:23:58.803569+07:00**_
 ***
 
  - [Lịch thi cuối kỳ HK1/24-25 CT đề án các Khoa Vật lý-VLKT, Sinh-CNSH, ĐTVT, KH-CNVL, MT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/846-l-ch-thi-cu-i-ky-hk1-24-25-ct-d-an-cac-khoa-v-t-ly-vlkt-sinh-cnsh-dtvt-kh-cnvl-mt)
- - [Lịch thi cuối kỳ HK1/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/845-l-ch-thi-cu-i-ky-hk1-24-25-ct-d-an-khoa-cntt)
+ - [Lịch thi cuối kỳ HK1/24-25 CT đề án khoa CNTT (CẬP NHẬT 19/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/845-l-ch-thi-cu-i-ky-hk1-24-25-ct-d-an-khoa-cntt)
  - [Lịch thi cuối kỳ HK1/24-25 CT đề án khoa Hóa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/844-l-ch-thi-cu-i-ky-hk1-24-25-ct-d-an-khoa-hoa)
  - [Lịch thi cuối kỳ (sớm) HK1/24-25 Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/839-l-ch-thi-cu-i-ky-s-m-hk1-24-25-chinh-quy)
  - [Lịch thi giữa kỳ HK1/24-25 Chính quy tại LT và NVC (CẬP NHẬT 24/10)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/838-l-ch-thi-gi-a-ky-hk1-24-25-chinh-quy-t-i-lt-va-nvc)
