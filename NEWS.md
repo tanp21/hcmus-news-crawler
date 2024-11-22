@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-22 15:16:23.545360+07:00**_
+_Last update: **2024-11-22 16:13:34.625754+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-11-22 15:16:23.545360+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 22-11-2024: [Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2024-2025 Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16492)
  - 22-11-2024: [Đăng ký tham dự lễ tốt nghiệp Khoa CNTT năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16490)
  - 21-11-2024: [Đăng ký tham dự hội thảo "Làm chủ kỹ năng phỏng vấn và viết CV"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16489)
  - 20-11-2024: [Danh sách tham quan công ty TecAlliance Việt Nam ngày 4/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16488)
@@ -59,7 +60,6 @@ _Last update: **2024-11-22 15:16:23.545360+07:00**_
  - 18-11-2024: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Đỗ Đức Hào (20/11/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16483)
  - 13-11-2024: [Tiểu ban Công nghệ Thông tin và Truyền thông - Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XIV năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16475)
  - 12-11-2024: [Đăng ký tham dự hội thảo Phát triển Game: Từ ý tưởng đến sản phẩm thực tế](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16474)
- - 11-11-2024: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 4/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16473)
 
 ## Thông tin dành cho sinh viên
 - 21/11/2024: [Thông báo thay đổi phòng học ngày 23/11/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-ngay-23-11-2024-tai-co-so-2/)
