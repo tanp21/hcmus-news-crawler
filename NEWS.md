@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-25 14:13:02.548640+07:00**_
+_Last update: **2024-11-25 15:17:34.976842+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2024-11-25 14:13:02.548640+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 25-11-2024: [Thông báo  đăng ký tham dự lễ tốt nghiệp Khoa Công nghệ thông tin (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16497)
+ - 25-11-2024: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16496)
  - 25-11-2024: [Kết quả tuyển sinh Sau Đại học năm 2024 – đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16495)
  - 23-11-2024: [Danh sách sinh viên tham dự hội thảo "Làm chủ kỹ năng phỏng vấn và viết CV"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16494)
  - 22-11-2024: [Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2024-2025 Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16492)
@@ -58,10 +60,9 @@ _Last update: **2024-11-25 14:13:02.548640+07:00**_
  - 20-11-2024: [Danh sách tham quan công ty TecAlliance Việt Nam ngày 4/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16488)
  - 19-11-2024: [Danh sách sinh viên tham dự hội thảo Phát triển Game: Từ ý tưởng đến sản phẩm thực tế](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16486)
  - 19-11-2024: [DSHV đăng ký bảo vệ luận văn thạc sĩ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16485)
- - 19-11-2024: [Mời đăng ký tham dự và trình bày Seminar Sau Đại học năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16484)
- - 18-11-2024: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Đỗ Đức Hào (20/11/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16483)
 
 ## Thông tin dành cho sinh viên
+- 25/11/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 - 25/11/2024: [Thông báo nhận bằng tốt nghiệp đợt tháng 11 năm 2024](https://hcmus.edu.vn/47689-2/)
 - 24/11/2024: [THÔNG BÁO Tổ chức hoạt động workshop “Những vấn đề “nóng” trong sinh viên: Nhận biết và nhận thức”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-nhung-van-de-nong-trong-sinh-vien-nhan-biet-va-nhan-thuc/)
 - 22/11/2024: [Thông báo nộp học phí Học kỳ 1/2024-2025 lớp Liên thông đại học và Cao đẳng – hệ chính quy](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-lop-lien-thong-dai-hoc-va-cao-dang-he-chinh-quy/)
@@ -71,7 +72,6 @@ _Last update: **2024-11-25 14:13:02.548640+07:00**_
 - 15/11/2024: [TB tổ chức hoạt động workshop thúc đẩy sự hình thành tư duy khởi nghiệp, đổi mới  sáng tạo trong sinh viên năm học 2024-2025](https://hcmus.edu.vn/tb-to-chuc-hoat-dong-workshop-thuc-day-su-hinh-thanh-tu-duy-khoi-nghiep-doi-moi-sang-tao-trong-sinh-vien-nam-hoc-2024-2025/)
 - 13/11/2024: [TIỂU BAN CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG – HỘI NGHỊ KHOA HỌC LẦN THỨ 14](https://hcmus.edu.vn/tieu-ban-cong-nghe-thong-tin-va-truyen-thong-hoi-nghi-khoa-hoc-lan-thu-14-2/)
 - 13/11/2024: [GIỚI THIỆU HỌC BỔNG CỦA TRƯỜNG KỸ THUẬT – ĐẠI HỌC QUỐC GIA SEOUL, HÀN QUỐC](https://hcmus.edu.vn/chuong-trinh-gioi-thieu-hoc-bong-hop-tac-giua-dhqg-hcm-va-truong-ky-thuat-dai-hoc-quoc-gia-seoul-han-quoc/)
-- 13/11/2024: [Thông báo về việc tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK1/2024-2025 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/843-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2024-2025-chuong-trinh-d-an-cac-khoa)
