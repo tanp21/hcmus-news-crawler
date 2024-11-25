@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-25 15:17:34.976842+07:00**_
+_Last update: **2024-11-25 16:14:19.971225+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2024-11-25 15:17:34.976842+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 25-11-2024: [Mời đăng ký tham dự Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16499)
+ - 25-11-2024: [Thông báo kế hoạch học tập chương trình thạc sĩ khóa 34/ 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16498)
  - 25-11-2024: [Thông báo  đăng ký tham dự lễ tốt nghiệp Khoa Công nghệ thông tin (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16497)
  - 25-11-2024: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16496)
  - 25-11-2024: [Kết quả tuyển sinh Sau Đại học năm 2024 – đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16495)
@@ -58,13 +60,11 @@ _Last update: **2024-11-25 15:17:34.976842+07:00**_
  - 22-11-2024: [Đăng ký tham dự lễ tốt nghiệp Khoa CNTT năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16490)
  - 21-11-2024: [Đăng ký tham dự hội thảo "Làm chủ kỹ năng phỏng vấn và viết CV"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16489)
  - 20-11-2024: [Danh sách tham quan công ty TecAlliance Việt Nam ngày 4/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16488)
- - 19-11-2024: [Danh sách sinh viên tham dự hội thảo Phát triển Game: Từ ý tưởng đến sản phẩm thực tế](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16486)
- - 19-11-2024: [DSHV đăng ký bảo vệ luận văn thạc sĩ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16485)
 
 ## Thông tin dành cho sinh viên
-- 25/11/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 - 25/11/2024: [Thông báo nhận bằng tốt nghiệp đợt tháng 11 năm 2024](https://hcmus.edu.vn/47689-2/)
 - 24/11/2024: [THÔNG BÁO Tổ chức hoạt động workshop “Những vấn đề “nóng” trong sinh viên: Nhận biết và nhận thức”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-nhung-van-de-nong-trong-sinh-vien-nhan-biet-va-nhan-thuc/)
+- 24/11/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 - 22/11/2024: [Thông báo nộp học phí Học kỳ 1/2024-2025 lớp Liên thông đại học và Cao đẳng – hệ chính quy](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-lop-lien-thong-dai-hoc-va-cao-dang-he-chinh-quy/)
 - 21/11/2024: [Thông báo thay đổi phòng học ngày 23/11/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-ngay-23-11-2024-tai-co-so-2/)
 - 21/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 16 và 17/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-16-va-17-11-2024/)
