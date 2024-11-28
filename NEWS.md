@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-11-28 16:13:42.307147+07:00**_
+_Last update: **2024-11-28 17:14:07.099503+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2024-11-28 16:13:42.307147+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 28-11-2024: [Tổng kết buổi gặp mặt trao đổi và tổ chức Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16511)
+ - 28-11-2024: [Đăng ký tham quan công ty Golden Owl](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16509)
  - 26-11-2024: [Đăng ký tham dự hội thảo Từ môi trường học đường đến môi trường doanh nghiệp: những điều bạn cần biết?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16501)
  - 25-11-2024: [Mời đăng ký tham dự Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16499)
  - 25-11-2024: [Thông báo kế hoạch học tập chương trình thạc sĩ khóa 34/ 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16498)
@@ -58,8 +60,6 @@ _Last update: **2024-11-28 16:13:42.307147+07:00**_
  - 25-11-2024: [Kết quả tuyển sinh Sau Đại học năm 2024 – đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16495)
  - 23-11-2024: [Danh sách sinh viên tham dự hội thảo "Làm chủ kỹ năng phỏng vấn và viết CV"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16494)
  - 22-11-2024: [Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2024-2025 Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16492)
- - 22-11-2024: [Đăng ký tham dự lễ tốt nghiệp Khoa CNTT năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16490)
- - 21-11-2024: [Đăng ký tham dự hội thảo "Làm chủ kỹ năng phỏng vấn và viết CV"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16489)
 
 ## Thông tin dành cho sinh viên
 - 28/11/2024: [Thông báo đăng ký học phần HK2/2024-2025, chương trình CLC, Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2024-2025-chuong-trinh-clc-tang-cuong-tieng-anh-va-viet-phap/)
