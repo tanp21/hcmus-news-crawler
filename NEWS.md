@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-12-02 08:03:22.885178+07:00**_
+_Last update: **2024-12-02 10:00:18.738571+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-12-02 08:03:22.885178+07:00**_
  - 23-11-2024: [Danh sách sinh viên tham dự hội thảo "Làm chủ kỹ năng phỏng vấn và viết CV"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16494)
 
 ## Thông tin dành cho sinh viên
+- 02/12/2024: [Thông báo thay đổi phòng học môn VTP 1C và Sinh học tế bào](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vtp-1c-va-sinh-hoc-te-bao/)
 - 29/11/2024: [THÔNG BÁO Tổ chức hoạt động Workshop “Yêu sự không hoàn hảo”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-yeu-su-khong-hoan-hao/)
 - 28/11/2024: [Thông báo đăng ký học phần HK2/2024-2025, chương trình CLC, Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2024-2025-chuong-trinh-clc-tang-cuong-tieng-anh-va-viet-phap/)
 - 28/11/2024: [[THÔNG BÁO] Chương trình học bổng France Excellence năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-france-excellence-nam-hoc-2025-2026/)
@@ -71,7 +72,6 @@ _Last update: **2024-12-02 08:03:22.885178+07:00**_
 - 24/11/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 - 22/11/2024: [Thông báo nộp học phí Học kỳ 1/2024-2025 lớp Liên thông đại học và Cao đẳng – hệ chính quy](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-lop-lien-thong-dai-hoc-va-cao-dang-he-chinh-quy/)
 - 21/11/2024: [Thông báo thay đổi phòng học ngày 23/11/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-ngay-23-11-2024-tai-co-so-2/)
-- 21/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 16 và 17/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-16-va-17-11-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK1/2024-2025 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/843-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2024-2025-chuong-trinh-d-an-cac-khoa)
