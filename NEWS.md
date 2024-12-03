@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-12-03 09:59:59.834277+07:00**_
+_Last update: **2024-12-03 10:37:31.716847+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,8 +62,7 @@ _Last update: **2024-12-03 09:59:59.834277+07:00**_
  - 25-11-2024: [Thông báo  đăng ký tham dự lễ tốt nghiệp Khoa Công nghệ thông tin (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16497)
 
 ## Thông tin dành cho sinh viên
-- 03/12/2024: [Thông báo Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay-2/)
-- 03/12/2024: [THÔNG BÁO Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay/)
+- 03/12/2024: [Thông báo Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay/)
 - 02/12/2024: [[THÔNG BÁO] Chương trình trao đổi học kỳ mùa Xuân 2025 tại ĐH Yeungnam, Hàn Quốc](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2025-tai-dh-yeungnam-han-quoc/)
 - 02/12/2024: [[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/)
 - 02/12/2024: [Thông báo thay đổi phòng học một số môn tại cơ sở 2 từ ngày 02/12/2024](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vtp-1c-va-sinh-hoc-te-bao/)
@@ -72,6 +71,7 @@ _Last update: **2024-12-03 09:59:59.834277+07:00**_
 - 28/11/2024: [[THÔNG BÁO] Chương trình học bổng France Excellence năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-france-excellence-nam-hoc-2025-2026/)
 - 27/11/2024: [Danh sách Sinh viên đã xác nhận thông tin lưu trú năm học 2024-2025 (tính đến ngày 26/11/2024)](https://hcmus.edu.vn/danh-sach-sinh-vien-da-xac-nhan-thong-tin-luu-tru-nam-hoc-2024-2025-tinh-den-ngay-26-11-2024/)
 - 25/11/2024: [Thông báo nhận bằng tốt nghiệp đợt tháng 10 năm 2024](https://hcmus.edu.vn/47689-2/)
+- 24/11/2024: [THÔNG BÁO Tổ chức hoạt động workshop “Những vấn đề “nóng” trong sinh viên: Nhận biết và nhận thức”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-nhung-van-de-nong-trong-sinh-vien-nhan-biet-va-nhan-thuc/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK1/2024-2025 (Bậc Đại học hệ Chính quy)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/848-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2024-2025-b-c-d-i-h-c-h-chinh-quy)
