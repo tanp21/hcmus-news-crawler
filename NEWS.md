@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-12-05 15:17:32.756746+07:00**_
+_Last update: **2024-12-05 16:13:55.085911+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-12-05 15:17:32.756746+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 5-12-2024: [V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16523)
  - 5-12-2024: [Thông báo Seminar hằng tuần của Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16522)
  - 4-12-2024: [Lịch sinh hoạt đầu khóa dành cho học viên, nghiên cứu sinh Khóa 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16518)
  - 4-12-2024: [Đăng ký tham dự hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16517)
@@ -59,7 +60,6 @@ _Last update: **2024-12-05 15:17:32.756746+07:00**_
  - 2-12-2024: [Danh sách sinh viên tham quan công ty Golden Owl](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16513)
  - 1-12-2024: [Sinh viên Khoa Công nghệ thông tin xuất sắc giành Huy chương Vàng Kỳ thi ICPC lần thứ 49 - Vòng thi Khu vực Châu Á Jakarta](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16520)
  - 29-11-2024: [Đăng ký áo quà tặng Khoa Công nghệ thông tin (fit@hcmus) dành cho lớp cao học khóa 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16512)
- - 28-11-2024: [Tổng kết buổi gặp mặt trao đổi và tổ chức Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16511)
 
 ## Thông tin dành cho sinh viên
 - 04/12/2024: [Thông báo đổi phòng học từ ngày 03/12 tại cơ sở 2 – Block E, F](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-tu-ngay-03-12-tai-co-so-2-block-e-f/)
