@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-12-06 18:10:56.781342+07:00**_
+_Last update: **2024-12-06 19:24:41.913869+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-12-06 18:10:56.781342+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 6-12-2024: [[Hỗ trợ truyền thông] MBZUAI Webinar online: Undergraduate Research Internship Program 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16525)
  - 5-12-2024: [Thông báo đăng ký tín chỉ học phần 1 chương trình cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16524)
  - 5-12-2024: [V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16523)
  - 5-12-2024: [Thông báo Seminar hằng tuần của Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16522)
@@ -59,7 +60,6 @@ _Last update: **2024-12-06 18:10:56.781342+07:00**_
  - 2-12-2024: [Danh sách sinh viên nhận học bổng "Hành trang hướng nghiệp" HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16515)
  - 2-12-2024: [Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến  doanh nghiệp: những điều bạn cần biết?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514)
  - 2-12-2024: [Danh sách sinh viên tham quan công ty Golden Owl](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16513)
- - 1-12-2024: [Sinh viên Khoa Công nghệ thông tin xuất sắc giành Huy chương Vàng Kỳ thi ICPC lần thứ 49 - Vòng thi Khu vực Châu Á Jakarta](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16520)
 
 ## Thông tin dành cho sinh viên
 - 06/12/2024: [Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024](https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/)
