@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-12-09 10:01:36.283237+07:00**_
+_Last update: **2024-12-09 11:15:55.892918+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-12-09 10:01:36.283237+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 9-12-2024: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 34/2024 đối với sinh viên liên thông ĐH-ThS khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16527)
  - 6-12-2024: [[Hỗ trợ truyền thông] MBZUAI Webinar online: Undergraduate Research Internship Program 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16525)
  - 5-12-2024: [Thông báo đăng ký tín chỉ học phần 1 chương trình cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16524)
  - 5-12-2024: [V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16523)
@@ -59,9 +60,9 @@ _Last update: **2024-12-09 10:01:36.283237+07:00**_
  - 3-12-2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 4 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16516)
  - 2-12-2024: [Danh sách sinh viên nhận học bổng "Hành trang hướng nghiệp" HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16515)
  - 2-12-2024: [Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến  doanh nghiệp: những điều bạn cần biết?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514)
- - 2-12-2024: [Danh sách sinh viên tham quan công ty Golden Owl](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16513)
 
 ## Thông tin dành cho sinh viên
+- 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 - 06/12/2024: [Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024](https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/)
 - 05/12/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 - 04/12/2024: [Thông báo đổi phòng học từ ngày 03/12 tại cơ sở 2 – Block E, F](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-tu-ngay-03-12-tai-co-so-2-block-e-f/)
@@ -71,7 +72,6 @@ _Last update: **2024-12-09 10:01:36.283237+07:00**_
 - 02/12/2024: [Thông báo thay đổi phòng học một số môn tại cơ sở 2 từ ngày 02/12/2024](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vtp-1c-va-sinh-hoc-te-bao/)
 - 29/11/2024: [THÔNG BÁO Tổ chức hoạt động Workshop “Yêu sự không hoàn hảo”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-yeu-su-khong-hoan-hao/)
 - 28/11/2024: [Thông báo đăng ký học phần HK2/2024-2025, chương trình CLC, Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2024-2025-chuong-trinh-clc-tang-cuong-tieng-anh-va-viet-phap/)
-- 28/11/2024: [[THÔNG BÁO] Chương trình học bổng France Excellence năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-france-excellence-nam-hoc-2025-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK1/2024-2025 (Bậc Đại học hệ Chính quy)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/848-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2024-2025-b-c-d-i-h-c-h-chinh-quy)
