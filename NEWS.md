@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-12-16 16:14:44.904679+07:00**_
+_Last update: **2024-12-16 17:14:32.926283+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-12-16 16:14:44.904679+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 16-12-2024: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp (KLTN/TTTN/TTDATN) Khóa 2021- Đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16532)
  - 14-12-2024: [Đăng kí tham gia Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16529)
  - 9-12-2024: [Danh sách sinh viên tham gia hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16528)
  - 9-12-2024: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 34/2024 đối với sinh viên liên thông ĐH-ThS khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16527)
@@ -59,7 +60,6 @@ _Last update: **2024-12-16 16:14:44.904679+07:00**_
  - 5-12-2024: [Thông báo Seminar hằng tuần của Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16522)
  - 4-12-2024: [Lịch sinh hoạt đầu khóa dành cho học viên, nghiên cứu sinh Khóa 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16518)
  - 4-12-2024: [Đăng ký tham dự hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16517)
- - 3-12-2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 4 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16516)
 
 ## Thông tin dành cho sinh viên
 - 11/12/2024: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 2 năm 2024 do Trường tổ chức ngày 01/12, 05/12 và 07/12/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2024-do-truong-to-chuc-ngay-01-12-05-12-va-07-12-2024/)
