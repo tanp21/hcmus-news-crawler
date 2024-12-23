@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-12-23 11:14:51.799203+07:00**_
+_Last update: **2024-12-23 12:12:34.397542+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-12-23 11:14:51.799203+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 23-12-2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
  - 19-12-2024: [Cảnh giác về các phương thức lừa đảo nhắm vào phụ huynh, sinh viên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16540)
  - 18-12-2024: [Tổng kết Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538)
  - 18-12-2024: [Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16536)
@@ -59,7 +60,6 @@ _Last update: **2024-12-23 11:14:51.799203+07:00**_
  - 14-12-2024: [Đăng kí tham gia Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16529)
  - 9-12-2024: [Danh sách sinh viên tham gia hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16528)
  - 9-12-2024: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 34/2024 đối với sinh viên liên thông ĐH-ThS khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16527)
- - 6-12-2024: [[Hỗ trợ truyền thông] MBZUAI Webinar online: Undergraduate Research Internship Program 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16525)
 
 ## Thông tin dành cho sinh viên
 - 19/12/2024: [Thông báo nghỉ Tết Dương lịch và Tết Âm lịch năm 2025](https://hcmus.edu.vn/thong-bao-nghi-tet-duong-lich-va-tet-am-lich-nam-2025/)
