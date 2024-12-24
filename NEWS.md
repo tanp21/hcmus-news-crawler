@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-12-24 11:14:35.031812+07:00**_
+_Last update: **2024-12-24 12:11:47.069510+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,8 @@ _Last update: **2024-12-24 11:14:35.031812+07:00**_
  - 9-12-2024: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 34/2024 đối với sinh viên liên thông ĐH-ThS khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16527)
 
 ## Thông tin dành cho sinh viên
+- 24/12/2024: [Kết quả cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
+- 24/12/2024: [Kế hoạch mở học phần HK2/24-25 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hk2-24-25-tai-co-so-2/)
 - 23/12/2024: [Thông báo công bố Zalo Official Account phòng Đào tạo](https://hcmus.edu.vn/thong-bao-cong-bo-zalo-official-account-phong-dao-tao/)
 - 19/12/2024: [Thông báo nghỉ Tết Dương lịch và Tết Âm lịch năm 2025](https://hcmus.edu.vn/thong-bao-nghi-tet-duong-lich-va-tet-am-lich-nam-2025/)
 - 19/12/2024: [Thông báo chuyển tiền học bổng khuyến khích HK3/2023-2024 dành cho sinh viên các chương trình Đề án](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk3-2023-2024-danh-cho-sinh-vien-cac-chuong-trinh-de-an/)
@@ -70,8 +72,6 @@ _Last update: **2024-12-24 11:14:35.031812+07:00**_
 - 11/12/2024: [THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số”](https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so/)
 - 10/12/2024: [Kết quả xét Hoàn tất chương trình đại học đợt tháng 12/2024](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dai-hoc-dot-thang-12-2024/)
 - 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
-- 06/12/2024: [Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024](https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/)
-- 05/12/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-25 hệ Từ xa ngành CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/849-thong-bao-phuc-kh-o-hk1-24-25-h-t-xa-nganh-cntt)
