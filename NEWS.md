@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-12-25 11:14:36.052178+07:00**_
+_Last update: **2024-12-25 12:11:53.605593+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2024-12-25 11:14:36.052178+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 25-12-2024: [Buổi Seminar Sau đại học ngày 21/12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16543)
  - 23-12-2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
  - 19-12-2024: [Cảnh giác về các phương thức lừa đảo nhắm vào phụ huynh, sinh viên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16540)
  - 18-12-2024: [Tổng kết Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538)
@@ -59,7 +60,6 @@ _Last update: **2024-12-25 11:14:36.052178+07:00**_
  - 16-12-2024: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp (KLTN/TTTN/TTDATN) Khóa 2021- Đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16532)
  - 14-12-2024: [Đăng kí tham gia Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16529)
  - 9-12-2024: [Danh sách sinh viên tham gia hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16528)
- - 9-12-2024: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 34/2024 đối với sinh viên liên thông ĐH-ThS khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16527)
 
 ## Thông tin dành cho sinh viên
 - 24/12/2024: [Kết quả cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
