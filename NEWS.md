@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-12-30 15:16:03.746109+07:00**_
+_Last update: **2024-12-30 16:12:56.426411+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2024-12-30 15:16:03.746109+07:00**_
  - 9-12-2024: [Danh sách sinh viên tham gia hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16528)
 
 ## Thông tin dành cho sinh viên
+- 30/12/2024: [Thông báo Đăng ký học phần Học kỳ 2/2024-2025 cho sinh viên Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-2024-2025-cho-sinh-vien-dai-hoc-he-chinh-quy/)
 - 30/12/2024: [Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 2) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/)
 - 24/12/2024: [Kết quả cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
 - 24/12/2024: [Kế hoạch mở học phần HK2/24-25 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hk2-24-25-tai-co-so-2/)
@@ -71,7 +72,6 @@ _Last update: **2024-12-30 15:16:03.746109+07:00**_
 - 11/12/2024: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 2 năm 2024 do Trường tổ chức ngày 01/12, 05/12 và 07/12/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2024-do-truong-to-chuc-ngay-01-12-05-12-va-07-12-2024/)
 - 11/12/2024: [Thông báo v/v đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2025 dành cho các sinh viên tham gia BHYT tại Trường](https://hcmus.edu.vn/thong-bao-v-v-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2025-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
 - 11/12/2024: [THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số”](https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so/)
-- 10/12/2024: [Kết quả xét Hoàn tất chương trình đại học đợt tháng 12/2024](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dai-hoc-dot-thang-12-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-25 hệ Từ xa ngành CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/849-thong-bao-phuc-kh-o-hk1-24-25-h-t-xa-nganh-cntt)
