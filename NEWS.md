@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-01-09 15:15:30.781261+07:00**_
+_Last update: **2025-01-09 16:12:40.442843+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-01-09 15:15:30.781261+07:00**_
  - 17-12-2024: [Thời khóa biểu có phòng các lớp Học phần 1 Khóa 34/2024 - bắt đầu học 16/12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16535)
 
 ## Thông tin dành cho sinh viên
+- 09/01/2025: [Thông báo V/v thực hiện bài kiểm tra và khảo sát đợt Sinh hoạt công dân đầu năm năm học 2024-2025](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-bai-kiem-tra-va-khao-sat-dot-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025/)
 - 08/01/2025: [Thông tin về việc đăng ký tham dự  Diễn đàn và Triển lãm Đại học 2025](https://hcmus.edu.vn/thong-tin-ve-viec-dang-ky-tham-du-dien-dan-va-trien-lam-dai-hoc-2025/)
 - 07/01/2025: [Kế hoạch mở học phần HK2/24-25 tại cơ sở 2 (cập nhật)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hk2-24-25-tai-co-so-2/)
 - 07/01/2025: [THÔNG BÁO Cuộc thi Thiết kế vi mạch cho đô thị thông minh lần 2 năm 2024](https://hcmus.edu.vn/thong-bao-cuoc-thi-thiet-ke-vi-mach-cho-do-thi-thong-minh-lan-2-nam-2024/)
@@ -71,7 +72,6 @@ _Last update: **2025-01-09 15:15:30.781261+07:00**_
 - 30/12/2024: [Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 2) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/)
 - 24/12/2024: [Kết quả cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
 - 23/12/2024: [Thông báo công bố Zalo Official Account phòng Đào tạo](https://hcmus.edu.vn/thong-bao-cong-bo-zalo-official-account-phong-dao-tao/)
-- 19/12/2024: [Thông báo nghỉ Tết Dương lịch và Tết Âm lịch năm 2025](https://hcmus.edu.vn/thong-bao-nghi-tet-duong-lich-va-tet-am-lich-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-25 hệ Từ xa ngành CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/849-thong-bao-phuc-kh-o-hk1-24-25-h-t-xa-nganh-cntt)
