@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-01-13 16:13:41.675387+07:00**_
+_Last update: **2025-01-13 17:13:40.316224+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-01-13 16:13:41.675387+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 13-1-2025: [Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16552)
  - 9-1-2025: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551)
  - 6-1-2025: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16550)
  - 3-1-2025: [Đăng kí tham dự  Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549)
@@ -59,7 +60,6 @@ _Last update: **2025-01-13 16:13:41.675387+07:00**_
  - 19-12-2024: [Cảnh giác về các phương thức lừa đảo nhắm vào phụ huynh, sinh viên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16540)
  - 18-12-2024: [Tổng kết Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538)
  - 18-12-2024: [Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16536)
- - 17-12-2024: [Thời khóa biểu có phòng các lớp Học phần 1 Khóa 34/2024 - bắt đầu học 16/12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16535)
 
 ## Thông tin dành cho sinh viên
 - 13/01/2025: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ chính quy, bậc Cao đẳng, Liên thông đại học và hệ đào tạo từ xa cho đợt xét tốt nghiệp tháng 11/2024](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-lien-thong-dai-hoc-va-he-dao-tao-tu-xa-cho-dot-xet-tot-nghiep-thang-11-2024/)
