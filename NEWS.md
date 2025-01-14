@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-01-14 15:15:19.361058+07:00**_
+_Last update: **2025-01-14 16:12:21.539251+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-01-14 15:15:19.361058+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 14-1-2025: [[CQ] DSSV được duyệt đăng ký thực hiện đề tài tốt nghiệp Khóa 2021 - đợt 2 (bảo vệ tháng 7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16553)
  - 13-1-2025: [Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16552)
  - 9-1-2025: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551)
  - 6-1-2025: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16550)
@@ -59,9 +60,9 @@ _Last update: **2025-01-14 15:15:19.361058+07:00**_
  - 23-12-2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
  - 19-12-2024: [Cảnh giác về các phương thức lừa đảo nhắm vào phụ huynh, sinh viên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16540)
  - 18-12-2024: [Tổng kết Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538)
- - 18-12-2024: [Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16536)
 
 ## Thông tin dành cho sinh viên
+- 14/01/2025: [Chương trình học bổng vượt khó học tốt năm 2024](https://hcmus.edu.vn/chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-2024/)
 - 14/01/2025: [Thông báo_Chương trình học bổng tại sự kiện Ngày hội kết nối Đại học – Địa phương – Doanh nghiệp](https://hcmus.edu.vn/thong-bao_chuong-trinh-ho%cc%a3c-bo%cc%89ng-ta%cc%a3i-su%cc%a3-kie%cc%a3n-ngay-ho%cc%a3i-ket-noi-da%cc%a3i-ho%cc%a3c-di%cc%a3a-phuong-doanh-nghie%cc%a3p/)
 - 14/01/2025: [Thông báo về việc đăng ký nội trú KTX Trường học kỳ 2, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-ktx-truong-hoc-ky-2-nam-hoc-2024-2025/)
 - 13/01/2025: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ chính quy, bậc Cao đẳng, Liên thông đại học và hệ đào tạo từ xa cho đợt xét tốt nghiệp tháng 11/2024](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-lien-thong-dai-hoc-va-he-dao-tao-tu-xa-cho-dot-xet-tot-nghiep-thang-11-2024/)
@@ -71,7 +72,6 @@ _Last update: **2025-01-14 15:15:19.361058+07:00**_
 - 07/01/2025: [THÔNG BÁO Cuộc thi Thiết kế vi mạch cho đô thị thông minh lần 2 năm 2024](https://hcmus.edu.vn/thong-bao-cuoc-thi-thiet-ke-vi-mach-cho-do-thi-thong-minh-lan-2-nam-2024/)
 - 07/01/2025: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 - 06/01/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2024/)
-- 30/12/2024: [Thông báo Đăng ký học phần Học kỳ 2/2024-2025 cho sinh viên Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-2024-2025-cho-sinh-vien-dai-hoc-he-chinh-quy/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-25 hệ Từ xa ngành CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/849-thong-bao-phuc-kh-o-hk1-24-25-h-t-xa-nganh-cntt)
