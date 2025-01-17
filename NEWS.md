@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-01-18 00:10:01.470315+07:00**_
+_Last update: **2025-01-18 01:15:25.041081+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -74,11 +74,11 @@ _Last update: **2025-01-18 00:10:01.470315+07:00**_
 - 07/01/2025: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo phúc khảo HK1/24-25 CT đề án Khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/851-thong-bao-phuc-kh-o-hk1-24-25-ct-d-an-khoa-cntt)
  - [Thông báo phúc khảo HK1/24-25 hệ Từ xa ngành CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/849-thong-bao-phuc-kh-o-hk1-24-25-h-t-xa-nganh-cntt)
  - [Thông báo SV đánh giá môn học - GV HK1/2024-2025 (Bậc Đại học hệ Chính quy)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/848-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2024-2025-b-c-d-i-h-c-h-chinh-quy)
  - [Thông báo SV đánh giá môn học - GV HK1/2024-2025 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/843-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2024-2025-chuong-trinh-d-an-cac-khoa)
  - [Thông báo sinh viên đánh giá khóa học đối với sinh viên năm cuối ĐHCQ khóa 2021](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/842-thong-bao-sinh-vien-danh-gia-khoa-h-c-d-i-v-i-sinh-vien-nam-cu-i-dhcq-khoa-2021)
- - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt t8, 9, 10 năm 2024](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/837-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-t8-9-10-nam-2024)
 
 ***
 
