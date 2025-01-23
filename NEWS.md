@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-01-23 16:12:33.250108+07:00**_
+_Last update: **2025-01-23 17:12:46.839386+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-01-23 16:12:33.250108+07:00**_
  - 19-12-2024: [Cảnh giác về các phương thức lừa đảo nhắm vào phụ huynh, sinh viên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16540)
 
 ## Thông tin dành cho sinh viên
+- 23/01/2025: [Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 24-25](https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-24-25/)
 - 15/01/2025: [Thông báo đăng ký học phần HK2/2024-2025 đối với sinh viên Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2024-2025-doi-voi-sinh-vien-lien-thong-dai-hoc-he-chinh-quy/)
 - 14/01/2025: [Chương trình học bổng vượt khó học tốt năm 2024](https://hcmus.edu.vn/chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-2024/)
 - 14/01/2025: [Thông báo_Chương trình học bổng tại sự kiện Ngày hội kết nối Đại học – Địa phương – Doanh nghiệp](https://hcmus.edu.vn/thong-bao_chuong-trinh-ho%cc%a3c-bo%cc%89ng-ta%cc%a3i-su%cc%a3-kie%cc%a3n-ngay-ho%cc%a3i-ket-noi-da%cc%a3i-ho%cc%a3c-di%cc%a3a-phuong-doanh-nghie%cc%a3p/)
@@ -71,7 +72,6 @@ _Last update: **2025-01-23 16:12:33.250108+07:00**_
 - 08/01/2025: [Thông tin về việc đăng ký tham dự  Diễn đàn và Triển lãm Đại học 2025](https://hcmus.edu.vn/thong-tin-ve-viec-dang-ky-tham-du-dien-dan-va-trien-lam-dai-hoc-2025/)
 - 07/01/2025: [Kế hoạch mở học phần HK2/24-25 tại cơ sở 2 (cập nhật)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hk2-24-25-tai-co-so-2/)
 - 07/01/2025: [THÔNG BÁO Cuộc thi Thiết kế vi mạch cho đô thị thông minh lần 2 năm 2024](https://hcmus.edu.vn/thong-bao-cuoc-thi-thiet-ke-vi-mach-cho-do-thi-thong-minh-lan-2-nam-2024/)
-- 07/01/2025: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-25 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/852-thong-bao-phuc-kh-o-hk1-24-25-ct-d-an-cac-khoa)
