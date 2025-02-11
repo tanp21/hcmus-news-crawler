@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-11 09:14:52.356864+07:00**_
+_Last update: **2025-02-11 10:16:10.974565+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-02-11 09:14:52.356864+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 11-2-2025: [Đăng ký tham gia Workshop on Medical Imaging](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16562)
  - 7-2-2025: [[CQ] Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt 1 (tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16559)
  - 16-1-2025: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16554)
  - 14-1-2025: [[CQ] DSSV được duyệt đăng ký thực hiện đề tài tốt nghiệp Khóa 2021 - đợt 2 (bảo vệ tháng 7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16553)
@@ -59,7 +60,6 @@ _Last update: **2025-02-11 09:14:52.356864+07:00**_
  - 3-1-2025: [Đăng kí tham dự  Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549)
  - 30-12-2024: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546)
  - 25-12-2024: [Buổi Seminar Sau đại học ngày 21/12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16543)
- - 23-12-2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
 
 ## Thông tin dành cho sinh viên
 - 10/02/2025: [Thông báo điều chỉnh thời gian đăng ký học phần HK2/2024-2025](https://hcmus.edu.vn/thong-bao-doi-thoi-gian-dang-ky-hoc-phan-hk2-24-25-khoa-2024/)
