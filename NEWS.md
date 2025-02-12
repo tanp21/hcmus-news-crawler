@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-12 07:57:09.348754+07:00**_
+_Last update: **2025-02-12 09:13:37.850126+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-02-12 07:57:09.348754+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 12-2-2025: [Danh sách học phần tiến sĩ mở cho Nghiên cứu sinh khóa tuyển năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16563)
  - 11-2-2025: [Đăng ký tham gia Workshop on Medical Imaging](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16562)
  - 7-2-2025: [[CQ] Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt 1 (tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16559)
  - 16-1-2025: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16554)
@@ -59,9 +60,9 @@ _Last update: **2025-02-12 07:57:09.348754+07:00**_
  - 6-1-2025: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16550)
  - 3-1-2025: [Đăng kí tham dự  Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549)
  - 30-12-2024: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546)
- - 25-12-2024: [Buổi Seminar Sau đại học ngày 21/12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16543)
 
 ## Thông tin dành cho sinh viên
+- 12/02/2025: [Thông báo bổ sung đợt điều chỉnh đăng ký học phần học kỳ 2 năm học 2024-2025](https://hcmus.edu.vn/thong-bao-bo-sung-dot-dieu-chinh-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2024-2025/)
 - 10/02/2025: [Thông báo điều chỉnh thời gian đăng ký học phần HK2/2024-2025](https://hcmus.edu.vn/thong-bao-doi-thoi-gian-dang-ky-hoc-phan-hk2-24-25-khoa-2024/)
 - 07/02/2025: [Thông báo bảo trì hệ thống Portal](https://hcmus.edu.vn/thong-bao-bao-tri-he-thong-portal/)
 - 23/01/2025: [Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 24-25](https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-24-25/)
@@ -71,7 +72,6 @@ _Last update: **2025-02-12 07:57:09.348754+07:00**_
 - 14/01/2025: [Thông báo về việc đăng ký nội trú KTX Trường học kỳ 2, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-ktx-truong-hoc-ky-2-nam-hoc-2024-2025/)
 - 13/01/2025: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ chính quy, bậc Cao đẳng, Liên thông đại học và hệ đào tạo từ xa cho đợt xét tốt nghiệp tháng 11/2024](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-lien-thong-dai-hoc-va-he-dao-tao-tu-xa-cho-dot-xet-tot-nghiep-thang-11-2024/)
 - 09/01/2025: [Thông báo V/v thực hiện bài kiểm tra và khảo sát đợt Sinh hoạt công dân đầu năm năm học 2024-2025](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-bai-kiem-tra-va-khao-sat-dot-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025/)
-- 08/01/2025: [Thông tin về việc đăng ký tham dự  Diễn đàn và Triển lãm Đại học 2025](https://hcmus.edu.vn/thong-tin-ve-viec-dang-ky-tham-du-dien-dan-va-trien-lam-dai-hoc-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-24 hệ Chính quy (Khóa 21, 22, 24)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/854-thong-bao-phuc-kh-o-hk1-24-24-h-chinh-quy-khoa-21-22-24)
