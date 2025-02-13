@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-13 07:57:20.414083+07:00**_
+_Last update: **2025-02-13 09:14:31.006280+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-02-13 07:57:20.414083+07:00**_
  - 30-12-2024: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546)
 
 ## Thông tin dành cho sinh viên
+- 13/02/2025: [Thông báo triển khai thu thập thông tin sức khỏe sinh viên năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-trien-khai-thu-thap-thong-tin-suc-khoe-sinh-vien-nam-hoc-2024-2025/)
 - 12/02/2025: [Thông báo bổ sung đợt điều chỉnh đăng ký học phần học kỳ 2 năm học 2024-2025](https://hcmus.edu.vn/thong-bao-bo-sung-dot-dieu-chinh-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2024-2025/)
 - 10/02/2025: [Thông báo điều chỉnh thời gian đăng ký học phần HK2/2024-2025](https://hcmus.edu.vn/thong-bao-doi-thoi-gian-dang-ky-hoc-phan-hk2-24-25-khoa-2024/)
 - 07/02/2025: [Thông báo bảo trì hệ thống Portal](https://hcmus.edu.vn/thong-bao-bao-tri-he-thong-portal/)
@@ -71,7 +72,6 @@ _Last update: **2025-02-13 07:57:20.414083+07:00**_
 - 14/01/2025: [Thông báo_Chương trình học bổng tại sự kiện Ngày hội kết nối Đại học – Địa phương – Doanh nghiệp](https://hcmus.edu.vn/thong-bao_chuong-trinh-ho%cc%a3c-bo%cc%89ng-ta%cc%a3i-su%cc%a3-kie%cc%a3n-ngay-ho%cc%a3i-ket-noi-da%cc%a3i-ho%cc%a3c-di%cc%a3a-phuong-doanh-nghie%cc%a3p/)
 - 14/01/2025: [Thông báo về việc đăng ký nội trú KTX Trường học kỳ 2, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-ktx-truong-hoc-ky-2-nam-hoc-2024-2025/)
 - 13/01/2025: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ chính quy, bậc Cao đẳng, Liên thông đại học và hệ đào tạo từ xa cho đợt xét tốt nghiệp tháng 11/2024](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-lien-thong-dai-hoc-va-he-dao-tao-tu-xa-cho-dot-xet-tot-nghiep-thang-11-2024/)
-- 09/01/2025: [Thông báo V/v thực hiện bài kiểm tra và khảo sát đợt Sinh hoạt công dân đầu năm năm học 2024-2025](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-bai-kiem-tra-va-khao-sat-dot-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-24 hệ Chính quy (Khóa 21, 22, 24)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/854-thong-bao-phuc-kh-o-hk1-24-24-h-chinh-quy-khoa-21-22-24)
