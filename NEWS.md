@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-13 17:12:46.666408+07:00**_
+_Last update: **2025-02-13 18:10:06.853256+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-02-13 17:12:46.666408+07:00**_
  - 30-12-2024: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546)
 
 ## Thông tin dành cho sinh viên
+- 13/02/2025: [Thông báo điều chỉnh đăng ký học phần học kỳ 2 năm học 2024-2025 (lần 2)](https://hcmus.edu.vn/thong-bao-dieu-chinh-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2024-2025-lan-2/)
 - 13/02/2025: [Thông báo nộp học phí HK2/2024-2025 đối với SV học chương trình theo đề án (Tiên tiến, CLC, VP và TCTA)](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk2-2024-2025-doi-voi-sv-hoc-chuong-trinh-theo-de-an-tien-tien-clc-vp-va-tcta/)
 - 13/02/2025: [Thông báo dời thời gian đăng ký học phần ngày 13/02/2025](https://hcmus.edu.vn/thong-bao-doi-thoi-gian-dang-ky-hoc-phan-ngay-13-02-2025/)
 - 13/02/2025: [Quyết định về việc sửa đổi, bổ sung một số điều của Quy định công tác khen thưởng, kỷ luật sinh viên](https://hcmus.edu.vn/quyet-dinh-ve-viec-sua-doi-bo-sung-mot-so-dieu-cua-quy-dinh-cong-tac-khen-thuong-ky-luat-sinh-vien/)
@@ -71,7 +72,6 @@ _Last update: **2025-02-13 17:12:46.666408+07:00**_
 - 07/02/2025: [Thông báo bảo trì hệ thống Portal](https://hcmus.edu.vn/thong-bao-bao-tri-he-thong-portal/)
 - 23/01/2025: [Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 24-25](https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-24-25/)
 - 15/01/2025: [Thông báo đăng ký học phần HK2/2024-2025 đối với sinh viên Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2024-2025-doi-voi-sinh-vien-lien-thong-dai-hoc-he-chinh-quy/)
-- 14/01/2025: [Chương trình học bổng vượt khó học tốt năm 2024](https://hcmus.edu.vn/chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-24 hệ Chính quy (Khóa 21, 22, 24)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/854-thong-bao-phuc-kh-o-hk1-24-24-h-chinh-quy-khoa-21-22-24)
