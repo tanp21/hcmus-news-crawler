@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-17 10:18:36.354812+07:00**_
+_Last update: **2025-02-17 11:14:53.274278+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2025-02-17 10:18:36.354812+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 17-2-2025: [Cuộc thi Thách Thức 2025 - Hành trình 25 năm chính thức khởi động](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16568)
+ - 17-2-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 33/2023 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16567)
  - 17-2-2025: [Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16565)
  - 14-2-2025: [Thông báo xét tuyển sinh viên tham gia chương trình liên thông môn học ĐH-ThS năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16564)
  - 12-2-2025: [Danh sách học phần tiến sĩ mở cho Nghiên cứu sinh khóa tuyển năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16563)
@@ -58,8 +60,6 @@ _Last update: **2025-02-17 10:18:36.354812+07:00**_
  - 16-1-2025: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16554)
  - 14-1-2025: [[CQ] DSSV được duyệt đăng ký thực hiện đề tài tốt nghiệp Khóa 2021 - đợt 2 (bảo vệ tháng 7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16553)
  - 13-1-2025: [Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16552)
- - 9-1-2025: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551)
- - 6-1-2025: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16550)
 
 ## Thông tin dành cho sinh viên
 - 17/02/2025: [Thông báo về chương trình học bổng Quỹ CMK năm học 2025-2026](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-quy-cmk-nam-hoc-2025-2026/)
