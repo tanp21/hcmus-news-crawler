@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-19 13:17:23.029682+07:00**_
+_Last update: **2025-02-19 14:11:55.809469+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2025-02-19 13:17:23.029682+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 19-2-2025: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2021, đợt 1 (T3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16572)
+ - 19-2-2025: [[CQ] Thông báo hình thức nộp báo cáo + mã nguồn đề tài tốt nghiệp TRƯỚC bảo vệ Khóa 2021, đợt 1 (tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16571)
  - 18-2-2025: [V/v thực hiện khảo sát các môn mở trong Học phần 2 lớp cao học K34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16569)
  - 17-2-2025: [Cuộc thi Thách Thức 2025 - Hành trình 25 năm chính thức khởi động](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16568)
  - 17-2-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 33/2023 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16567)
@@ -58,8 +60,6 @@ _Last update: **2025-02-19 13:17:23.029682+07:00**_
  - 12-2-2025: [Danh sách học phần tiến sĩ mở cho Nghiên cứu sinh khóa tuyển năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16563)
  - 11-2-2025: [Đăng ký tham gia Workshop on Medical Imaging](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16562)
  - 7-2-2025: [[CQ] Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt 1 (tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16559)
- - 16-1-2025: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16554)
- - 14-1-2025: [[CQ] DSSV được duyệt đăng ký thực hiện đề tài tốt nghiệp Khóa 2021 - đợt 2 (bảo vệ tháng 7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16553)
 
 ## Thông tin dành cho sinh viên
 - 19/02/2025: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên Khóa tuyển 2021 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-khoa-tuyen-2021-tro-ve-truoc/)
