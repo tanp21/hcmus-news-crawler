@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-20 10:16:46.961643+07:00**_
+_Last update: **2025-02-20 11:14:43.821389+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-02-20 10:16:46.961643+07:00**_
  - 13/04/2016: [CTVP_ Đóng học phí HK2 / 2015-2016 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2016/04/ctvp_-dong-hoc-phi-hk2-2015-2016/)
 
 ## FIT
+ - 20-2-2025: [[CQ] Danh sách lớp hủy HK2/24-25 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16581)
  - 19-2-2025: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2021, đợt 1 (T3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16572)
  - 19-2-2025: [[CQ] Thông báo hình thức nộp báo cáo + mã nguồn đề tài tốt nghiệp TRƯỚC bảo vệ Khóa 2021, đợt 1 (tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16571)
  - 18-2-2025: [V/v thực hiện khảo sát các môn mở trong Học phần 2 lớp cao học K34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16569)
@@ -59,7 +60,6 @@ _Last update: **2025-02-20 10:16:46.961643+07:00**_
  - 14-2-2025: [Thông báo xét tuyển sinh viên tham gia chương trình liên thông môn học ĐH-ThS năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16564)
  - 12-2-2025: [Danh sách học phần tiến sĩ mở cho Nghiên cứu sinh khóa tuyển năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16563)
  - 11-2-2025: [Đăng ký tham gia Workshop on Medical Imaging](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16562)
- - 7-2-2025: [[CQ] Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt 1 (tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16559)
 
 ## Thông tin dành cho sinh viên
 - 20/02/2025: [Thông báo dời ngày học môn Pháp luật đại cương và Anh văn](https://hcmus.edu.vn/thong-bao-doi-ngay-hoc-mon-phap-luat-dai-cuong-va-anh-van/)
