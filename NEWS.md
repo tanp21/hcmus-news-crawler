@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-20 07:57:42.865365+07:00**_
+_Last update: **2025-02-20 09:15:49.954872+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,8 @@ _Last update: **2025-02-20 07:57:42.865365+07:00**_
  - 7-2-2025: [[CQ] Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt 1 (tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16559)
 
 ## Thông tin dành cho sinh viên
+- 20/02/2025: [Thông báo dời ngày học môn Pháp luật đại cương và Anh văn](https://hcmus.edu.vn/thong-bao-doi-ngay-hoc-mon-phap-luat-dai-cuong-va-anh-van/)
+- 20/02/2025: [Thông báo mở lớp bổ sung môn Phương pháp luận sáng tạo và Đại số tuyến tính 2A](https://hcmus.edu.vn/thong-bao-mo-bo-sung-mon-phuong-phap-luan-sang-tao/)
 - 19/02/2025: [[THÔNG BÁO] Chương trình học bổng NUS Young Fellowship 2025 – Đại học Quốc gia Singapore (NUS)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-nus-young-fellowship-2025-dai-hoc-quoc-gia-singapore-nus/)
 - 19/02/2025: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên Khóa tuyển 2021 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-khoa-tuyen-2021-tro-ve-truoc/)
 - 18/02/2025: [Thông báo dời thời gian đăng ký học phần đối với Khóa 2023](https://hcmus.edu.vn/thong-bao-doi-thoi-gian-dang-ky-hoc-phan-doi-voi-khoa-2023/)
@@ -70,8 +72,6 @@ _Last update: **2025-02-20 07:57:42.865365+07:00**_
 - 13/02/2025: [Thông báo điều chỉnh đăng ký học phần học kỳ 2 năm học 2024-2025 (lần 2)](https://hcmus.edu.vn/thong-bao-dieu-chinh-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2024-2025-lan-2/)
 - 13/02/2025: [Thông báo nộp học phí HK2/2024-2025 đối với SV học chương trình theo đề án (Tiên tiến, CLC, VP và TCTA)](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk2-2024-2025-doi-voi-sv-hoc-chuong-trinh-theo-de-an-tien-tien-clc-vp-va-tcta/)
 - 13/02/2025: [Thông báo dời thời gian đăng ký học phần ngày 13/02/2025](https://hcmus.edu.vn/thong-bao-doi-thoi-gian-dang-ky-hoc-phan-ngay-13-02-2025/)
-- 13/02/2025: [Quyết định về việc sửa đổi, bổ sung một số điều của Quy định công tác khen thưởng, kỷ luật sinh viên](https://hcmus.edu.vn/quyet-dinh-ve-viec-sua-doi-bo-sung-mot-so-dieu-cua-quy-dinh-cong-tac-khen-thuong-ky-luat-sinh-vien/)
-- 12/02/2025: [Thông báo bổ sung đợt điều chỉnh đăng ký học phần học kỳ 2 năm học 2024-2025](https://hcmus.edu.vn/thong-bao-bo-sung-dot-dieu-chinh-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2024-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-24 hệ Chính quy (Khóa 21, 22, 24)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/854-thong-bao-phuc-kh-o-hk1-24-24-h-chinh-quy-khoa-21-22-24)
