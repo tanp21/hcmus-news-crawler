@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-21 12:12:13.072011+07:00**_
+_Last update: **2025-02-21 13:17:04.795345+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -74,11 +74,11 @@ _Last update: **2025-02-21 12:12:13.072011+07:00**_
 - 13/02/2025: [Thông báo nộp học phí HK2/2024-2025 đối với SV học chương trình theo đề án (Tiên tiến, CLC, VP và TCTA)](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk2-2024-2025-doi-voi-sv-hoc-chuong-trinh-theo-de-an-tien-tien-clc-vp-va-tcta/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo phúc khảo HK1/24-25 hệ Chính quy (Khóa 21, 22, 24) (Đợt bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/856-thong-bao-phuc-kh-o-hk1-24-25-h-chinh-quy-khoa-21-22-24-d-t-b-sung)
  - [Thông báo phúc khảo HK1/24-24 hệ Chính quy (Khóa 21, 22, 24)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/854-thong-bao-phuc-kh-o-hk1-24-24-h-chinh-quy-khoa-21-22-24)
  - [Thông báo phúc khảo HK1/24-25 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/852-thong-bao-phuc-kh-o-hk1-24-25-ct-d-an-cac-khoa)
  - [Thông báo phúc khảo HK1/24-25 CT đề án Khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/851-thong-bao-phuc-kh-o-hk1-24-25-ct-d-an-khoa-cntt)
  - [Thông báo phúc khảo HK1/24-25 hệ Từ xa ngành CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/849-thong-bao-phuc-kh-o-hk1-24-25-h-t-xa-nganh-cntt)
- - [Thông báo SV đánh giá môn học - GV HK1/2024-2025 (Bậc Đại học hệ Chính quy)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/848-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2024-2025-b-c-d-i-h-c-h-chinh-quy)
 
 ***
 
