@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-24 01:14:44.959990+07:00**_
+_Last update: **2025-02-24 02:08:45.079647+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-02-24 01:14:44.959990+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 24-2-2025: [Đăng ký tham gia Seminar "Một số xu hướng và thách thức trong thị giác máy tính"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16585)
  - 21-2-2025: [Mời tham dự hội thảo trực tuyến "Giới thiệu chương trình liên thông môn học Đại học - Thạc sĩ" ngày 26/02/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16584)
  - 21-2-2025: [[CQ] Thời khóa biểu Lý thuyết học kỳ 2 năm học 2024-2025 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16583)
  - 20-2-2025: [Thông báo địa điểm tổ chức và danh sách sinh viên tham gia Workshop on Medical Imaging](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16582)
@@ -59,7 +60,6 @@ _Last update: **2025-02-24 01:14:44.959990+07:00**_
  - 18-2-2025: [V/v thực hiện khảo sát các môn mở trong Học phần 2 lớp cao học K34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16569)
  - 17-2-2025: [Cuộc thi Thách Thức 2025 - Hành trình 25 năm chính thức khởi động](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16568)
  - 17-2-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 33/2023 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16567)
- - 17-2-2025: [Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16565)
 
 ## Thông tin dành cho sinh viên
 - 20/02/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2025/)
