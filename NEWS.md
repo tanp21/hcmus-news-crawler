@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-24 17:13:44.280189+07:00**_
+_Last update: **2025-02-24 18:10:29.316647+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -26,6 +26,7 @@ _Last update: **2025-02-24 17:13:44.280189+07:00**_
  - 06/11/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/)
 
 ### Trợ lí sinh viên
+ - 24/02/2025: [Thông báo lịch trực Cố vấn học tập học kỳ 2/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/02/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-2-2024-2025/)
  - 27/11/2024: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
  - 23/09/2024: [[TLSV]_Thông báo lịch cố vấn học tập học kỳ 1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/09/tlsv_thong-bao-lich-co-van-hoc-tap-hoc-ky-1-2024-2025/)
  - 13/09/2024: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
@@ -35,7 +36,6 @@ _Last update: **2025-02-24 17:13:44.280189+07:00**_
  - 04/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
  - 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
  - 31/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
- - 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
 
 ### Kế toán - Tài chính
  - 21/02/2025: [Thông báo về quy định đóng học phí học kỳ 2 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/02/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-2-nam-hoc-2024-2025/)
@@ -50,6 +50,7 @@ _Last update: **2025-02-24 17:13:44.280189+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 24-2-2025: [Thông báo lịch trực Cố vấn học tập học kỳ 2/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16586)
  - 24-2-2025: [Đăng ký tham gia Seminar "Một số xu hướng và thách thức trong thị giác máy tính"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16585)
  - 21-2-2025: [Mời tham dự hội thảo trực tuyến "Giới thiệu chương trình liên thông môn học Đại học - Thạc sĩ" ngày 26/02/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16584)
  - 21-2-2025: [[CQ] Thời khóa biểu Lý thuyết học kỳ 2 năm học 2024-2025 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16583)
@@ -59,7 +60,6 @@ _Last update: **2025-02-24 17:13:44.280189+07:00**_
  - 19-2-2025: [[CQ] Thông báo hình thức nộp báo cáo + mã nguồn đề tài tốt nghiệp TRƯỚC bảo vệ Khóa 2021, đợt 1 (tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16571)
  - 18-2-2025: [V/v thực hiện khảo sát các môn mở trong Học phần 2 lớp cao học K34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16569)
  - 17-2-2025: [Cuộc thi Thách Thức 2025 - Hành trình 25 năm chính thức khởi động](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16568)
- - 17-2-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 33/2023 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16567)
 
 ## Thông tin dành cho sinh viên
 - 24/02/2025: [Hủy lớp, chuyển lớp các môn Anh văn 1, 2, 3, 4 do không đủ số lượng mở lớp](https://hcmus.edu.vn/huy-lop-chuyen-lop-cac-mon-anh-van-1-2-3-4-do-khong-du-so-luong-mo-lop/)
