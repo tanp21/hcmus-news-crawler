@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-25 06:11:52.528602+07:00**_
+_Last update: **2025-02-25 07:58:47.260057+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -51,6 +51,7 @@ _Last update: **2025-02-25 06:11:52.528602+07:00**_
 
 ## FIT
  - 24-2-2025: [Thông báo lịch trực Cố vấn học tập học kỳ 2/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16586)
+ - 24-2-2025: [Thông báo nghỉ học lớp Nhập môn điện toán đám mây - 22_4 ngày 25/2/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16587)
  - 24-2-2025: [Đăng ký tham gia Seminar "Một số xu hướng và thách thức trong thị giác máy tính"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16585)
  - 21-2-2025: [Mời tham dự hội thảo trực tuyến "Giới thiệu chương trình liên thông môn học Đại học - Thạc sĩ" ngày 26/02/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16584)
  - 21-2-2025: [[CQ] Thời khóa biểu Lý thuyết học kỳ 2 năm học 2024-2025 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16583)
@@ -59,7 +60,6 @@ _Last update: **2025-02-25 06:11:52.528602+07:00**_
  - 19-2-2025: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2021, đợt 1 (T3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16572)
  - 19-2-2025: [[CQ] Thông báo hình thức nộp báo cáo + mã nguồn đề tài tốt nghiệp TRƯỚC bảo vệ Khóa 2021, đợt 1 (tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16571)
  - 18-2-2025: [V/v thực hiện khảo sát các môn mở trong Học phần 2 lớp cao học K34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16569)
- - 17-2-2025: [Cuộc thi Thách Thức 2025 - Hành trình 25 năm chính thức khởi động](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16568)
 
 ## Thông tin dành cho sinh viên
 - 24/02/2025: [Hủy lớp, chuyển lớp các môn Anh văn 1, 2, 3, 4 do không đủ số lượng mở lớp](https://hcmus.edu.vn/huy-lop-chuyen-lop-cac-mon-anh-van-1-2-3-4-do-khong-du-so-luong-mo-lop/)
