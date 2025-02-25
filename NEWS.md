@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-25 23:15:48.414928+07:00**_
+_Last update: **2025-02-26 00:13:43.895768+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-02-25 23:15:48.414928+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 26-2-2025: [Thông báo địa điểm tổ chức Seminar "Một số xu hướng và thách thức trong thị giác máy tính”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16589)
  - 25-2-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16588)
  - 24-2-2025: [Thông báo lịch trực Cố vấn học tập học kỳ 2/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16586)
  - 24-2-2025: [Thông báo nghỉ học lớp Nhập môn điện toán đám mây - 22_4 ngày 25/2/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16587)
@@ -59,7 +60,6 @@ _Last update: **2025-02-25 23:15:48.414928+07:00**_
  - 20-2-2025: [Thông báo địa điểm tổ chức và danh sách sinh viên tham gia Workshop on Medical Imaging](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16582)
  - 20-2-2025: [[CQ] Danh sách lớp hủy HK2/24-25 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16581)
  - 19-2-2025: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2021, đợt 1 (T3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16572)
- - 19-2-2025: [[CQ] Thông báo hình thức nộp báo cáo + mã nguồn đề tài tốt nghiệp TRƯỚC bảo vệ Khóa 2021, đợt 1 (tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16571)
 
 ## Thông tin dành cho sinh viên
 - 25/02/2025: [Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2024-2025](https://hcmus.edu.vn/thong-bao-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2024-2025/)
