@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-02-28 10:20:17.071436+07:00**_
+_Last update: **2025-02-28 11:15:14.385748+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2025-02-28 10:20:17.071436+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 28-2-2025: [Tổng kết Seminar “Một số xu hướng và thách thức trong thị giác máy tính"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16591)
+ - 28-2-2025: [Tổng kết “Workshop on Medical Imaging”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16590)
  - 26-2-2025: [Thông báo địa điểm tổ chức Seminar "Một số xu hướng và thách thức trong thị giác máy tính”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16589)
  - 25-2-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16588)
  - 24-2-2025: [Thông báo lịch trực Cố vấn học tập học kỳ 2/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16586)
@@ -58,8 +60,6 @@ _Last update: **2025-02-28 10:20:17.071436+07:00**_
  - 21-2-2025: [Mời tham dự hội thảo trực tuyến "Giới thiệu chương trình liên thông môn học Đại học - Thạc sĩ" ngày 26/02/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16584)
  - 21-2-2025: [[CQ] Thời khóa biểu Lý thuyết học kỳ 2 năm học 2024-2025 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16583)
  - 20-2-2025: [Thông báo địa điểm tổ chức và danh sách sinh viên tham gia Workshop on Medical Imaging](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16582)
- - 20-2-2025: [[CQ] Danh sách lớp hủy HK2/24-25 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16581)
- - 19-2-2025: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2021, đợt 1 (T3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16572)
 
 ## Thông tin dành cho sinh viên
 - 27/02/2025: [Thông báo thay đổi phòng học (các môn MTH00013, GEO00002, BAA00004)](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-cac-mon-mth00013-geo00002-baa00004/)
