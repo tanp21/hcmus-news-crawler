@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-02 15:14:12.905589+07:00**_
+_Last update: **2025-03-02 16:11:41.745739+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-02 15:14:12.905589+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 2-3-2025: [Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 1)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16592)
  - 28-2-2025: [Tổng kết Seminar “Một số xu hướng và thách thức trong thị giác máy tính"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16591)
  - 28-2-2025: [Tổng kết “Workshop on Medical Imaging”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16590)
  - 26-2-2025: [Thông báo địa điểm tổ chức Seminar "Một số xu hướng và thách thức trong thị giác máy tính”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16589)
@@ -59,7 +60,6 @@ _Last update: **2025-03-02 15:14:12.905589+07:00**_
  - 24-2-2025: [Đăng ký tham gia Seminar "Một số xu hướng và thách thức trong thị giác máy tính"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16585)
  - 21-2-2025: [Mời tham dự hội thảo trực tuyến "Giới thiệu chương trình liên thông môn học Đại học - Thạc sĩ" ngày 26/02/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16584)
  - 21-2-2025: [[CQ] Thời khóa biểu Lý thuyết học kỳ 2 năm học 2024-2025 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16583)
- - 20-2-2025: [Thông báo địa điểm tổ chức và danh sách sinh viên tham gia Workshop on Medical Imaging](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16582)
 
 ## Thông tin dành cho sinh viên
 - 27/02/2025: [Thông báo thay đổi phòng học (các môn MTH00013, GEO00002, BAA00004)](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-cac-mon-mth00013-geo00002-baa00004/)
