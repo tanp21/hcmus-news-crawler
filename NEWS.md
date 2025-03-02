@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-02 09:51:36.345018+07:00**_
+_Last update: **2025-03-02 10:21:50.696441+07:00**_
 ## APCS
 ## FIT
  - 28-2-2025: [Tổng kết Seminar “Một số xu hướng và thách thức trong thị giác máy tính"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16591)
