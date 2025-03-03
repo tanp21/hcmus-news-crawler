@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-03 09:51:00.984295+07:00**_
+_Last update: **2025-03-03 10:22:25.254188+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-03-03 09:51:00.984295+07:00**_
  - 21-2-2025: [[CQ] Thời khóa biểu Lý thuyết học kỳ 2 năm học 2024-2025 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16583)
 
 ## Thông tin dành cho sinh viên
+- 03/03/2025: [Kế hoạch học thực hành môn Hóa đại cương 1 và Hóa đại cương 2 – HK2/24-25](https://hcmus.edu.vn/ke-hoach-hoc-thuc-hanh-mon-hoa-dai-cuong-1-va-hoa-dai-cuong-2-hk2-24-25/)
 - 27/02/2025: [Thông báo thay đổi phòng học (các môn MTH00013, GEO00002, BAA00004)](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-cac-mon-mth00013-geo00002-baa00004/)
 - 26/02/2025: [Thông báo thay đổi phòng học, điều chỉnh lịch học môn Tin học trong Hóa học](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-dieu-chinh-lich-hoc-mon-tin-hoc-trong-hoa-hoc/)
 - 25/02/2025: [Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2024-2025](https://hcmus.edu.vn/thong-bao-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2024-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-03-03 09:51:00.984295+07:00**_
 - 20/02/2025: [Thông báo dời ngày học môn Pháp luật đại cương và Anh văn](https://hcmus.edu.vn/thong-bao-doi-ngay-hoc-mon-phap-luat-dai-cuong-va-anh-van/)
 - 20/02/2025: [Thông báo mở lớp bổ sung môn Phương pháp luận sáng tạo và Đại số tuyến tính 2A](https://hcmus.edu.vn/thong-bao-mo-bo-sung-mon-phuong-phap-luan-sang-tao/)
 - 19/02/2025: [[THÔNG BÁO] Chương trình học bổng NUS Young Fellowship 2025 – Đại học Quốc gia Singapore (NUS)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-nus-young-fellowship-2025-dai-hoc-quoc-gia-singapore-nus/)
-- 19/02/2025: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên Khóa tuyển 2021 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-khoa-tuyen-2021-tro-ve-truoc/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-25 hệ Chính quy (Khóa 21, 22, 24) (Đợt bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/856-thong-bao-phuc-kh-o-hk1-24-25-h-chinh-quy-khoa-21-22-24-d-t-b-sung)
