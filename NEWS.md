@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-04 10:22:10.146343+07:00**_
+_Last update: **2025-03-04 11:14:51.324892+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-04 10:22:10.146343+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 4-3-2025: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 1)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16598)
  - 2-3-2025: [Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 1)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16592)
  - 28-2-2025: [Tổng kết Seminar “Một số xu hướng và thách thức trong thị giác máy tính"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16591)
  - 28-2-2025: [Tổng kết “Workshop on Medical Imaging”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16590)
@@ -59,9 +60,9 @@ _Last update: **2025-03-04 10:22:10.146343+07:00**_
  - 24-2-2025: [Thông báo nghỉ học lớp Nhập môn điện toán đám mây - 22_4 ngày 25/2/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16587)
  - 24-2-2025: [Đăng ký tham gia Seminar "Một số xu hướng và thách thức trong thị giác máy tính"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16585)
  - 21-2-2025: [Mời tham dự hội thảo trực tuyến "Giới thiệu chương trình liên thông môn học Đại học - Thạc sĩ" ngày 26/02/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16584)
- - 21-2-2025: [[CQ] Thời khóa biểu Lý thuyết học kỳ 2 năm học 2024-2025 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16583)
 
 ## Thông tin dành cho sinh viên
+- 04/03/2025: [THÔNG BÁO Kết quả dự kiến Điểm rèn luyện HK1/2024 – 2025 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2024-2025-doi-voi-sinh-vien/)
 - 03/03/2025: [Kế hoạch giảng dạy môn Thực tập Sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-giang-day-mon-thuc-tap-sinh-hoc-dai-cuong-2/)
 - 03/03/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học chương trình Liên thông hệ chính quy – đợt tháng 3 và tháng 5 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-chuong-trinh-lien-thong-he-chinh-quy-dot-thang-3-va-thang-5-nam-2025/)
 - 03/03/2025: [Kế hoạch học thực hành môn Hóa đại cương 1 và Hóa đại cương 2 – HK2/24-25](https://hcmus.edu.vn/ke-hoach-hoc-thuc-hanh-mon-hoa-dai-cuong-1-va-hoa-dai-cuong-2-hk2-24-25/)
@@ -71,7 +72,6 @@ _Last update: **2025-03-04 10:22:10.146343+07:00**_
 - 24/02/2025: [Hủy lớp, chuyển lớp các môn Anh văn 1, 2, 3, 4 do không đủ số lượng mở lớp](https://hcmus.edu.vn/huy-lop-chuyen-lop-cac-mon-anh-van-1-2-3-4-do-khong-du-so-luong-mo-lop/)
 - 24/02/2025: [Thời khóa biểu chi tiết học phần Giáo dục thể chất – HK2/24-25](https://hcmus.edu.vn/thoi-khoa-bieu-chi-tiet-hoc-phan-giao-duc-the-chat-hk2-24-25/)
 - 20/02/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2025/)
-- 20/02/2025: [Thông báo dời ngày học môn Pháp luật đại cương và Anh văn](https://hcmus.edu.vn/thong-bao-doi-ngay-hoc-mon-phap-luat-dai-cuong-va-anh-van/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-25 hệ Chính quy (Khóa 21, 22, 24) (Đợt bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/856-thong-bao-phuc-kh-o-hk1-24-25-h-chinh-quy-khoa-21-22-24-d-t-b-sung)
