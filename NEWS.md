@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-04 16:13:29.001913+07:00**_
+_Last update: **2025-03-04 17:13:40.033926+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,16 +50,16 @@ _Last update: **2025-03-04 16:13:29.001913+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 4-3-2025: [[CQ] Thay đổi thời gian bảo vệ Khóa luận tốt nghiệp - Hội đồng Khoa học máy tính (đợt tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16602)
  - 4-3-2025: [Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (Lớp 2, 3)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16599)
  - 4-3-2025: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 1)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16598)
+ - 3-3-2025: [[CQ] Mời tham dự buổi bảo vệ đề tài tốt nghiệp Khóa 2021 - đợt 1 (04/3 - 15/3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16594)
  - 2-3-2025: [Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 1)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16592)
  - 28-2-2025: [Tổng kết Seminar “Một số xu hướng và thách thức trong thị giác máy tính"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16591)
  - 28-2-2025: [Tổng kết “Workshop on Medical Imaging”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16590)
  - 26-2-2025: [Thông báo địa điểm tổ chức Seminar "Một số xu hướng và thách thức trong thị giác máy tính”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16589)
  - 25-2-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16588)
  - 24-2-2025: [Thông báo lịch trực Cố vấn học tập học kỳ 2/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16586)
- - 24-2-2025: [Thông báo nghỉ học lớp Nhập môn điện toán đám mây - 22_4 ngày 25/2/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16587)
- - 24-2-2025: [Đăng ký tham gia Seminar "Một số xu hướng và thách thức trong thị giác máy tính"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16585)
 
 ## Thông tin dành cho sinh viên
 - 04/03/2025: [THÔNG BÁO Kết quả dự kiến Điểm rèn luyện HK1/2024 – 2025 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2024-2025-doi-voi-sinh-vien/)
