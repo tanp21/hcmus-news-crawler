@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-06 10:22:01.368582+07:00**_
+_Last update: **2025-03-06 11:14:56.277877+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-03-06 10:22:01.368582+07:00**_
  - 28-2-2025: [Tổng kết “Workshop on Medical Imaging”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16590)
 
 ## Thông tin dành cho sinh viên
+- 06/03/2025: [Thông báo thay đổi phòng học F207, F307, F308 từ ngày 05/03/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-f207-f307-f308-tu-ngay-05-03-2025/)
 - 05/03/2025: [Thông báo thay đổi phòng học E105, E106, NĐH6.7 từ ngày 06/3/25](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-e105-e106-ndh6-7-tu-ngay-06-3-25/)
 - 04/03/2025: [THÔNG BÁO Kết quả dự kiến Điểm rèn luyện HK1/2024 – 2025 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2024-2025-doi-voi-sinh-vien/)
 - 03/03/2025: [Kế hoạch giảng dạy môn Thực tập Sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-giang-day-mon-thuc-tap-sinh-hoc-dai-cuong-2/)
@@ -71,7 +72,6 @@ _Last update: **2025-03-06 10:22:01.368582+07:00**_
 - 26/02/2025: [Thông báo thay đổi phòng học, điều chỉnh lịch học môn Tin học trong Hóa học](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-dieu-chinh-lich-hoc-mon-tin-hoc-trong-hoa-hoc/)
 - 25/02/2025: [Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2024-2025](https://hcmus.edu.vn/thong-bao-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2024-2025/)
 - 24/02/2025: [Hủy lớp, chuyển lớp các môn Anh văn 1, 2, 3, 4 do không đủ số lượng mở lớp](https://hcmus.edu.vn/huy-lop-chuyen-lop-cac-mon-anh-van-1-2-3-4-do-khong-du-so-luong-mo-lop/)
-- 24/02/2025: [Thời khóa biểu chi tiết học phần Giáo dục thể chất – HK2/24-25](https://hcmus.edu.vn/thoi-khoa-bieu-chi-tiet-hoc-phan-giao-duc-the-chat-hk2-24-25/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-25 hệ Chính quy (Khóa 21, 22, 24) (Đợt bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/856-thong-bao-phuc-kh-o-hk1-24-25-h-chinh-quy-khoa-21-22-24-d-t-b-sung)
