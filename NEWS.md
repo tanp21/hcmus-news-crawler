@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-07 16:13:05.884955+07:00**_
+_Last update: **2025-03-07 17:13:25.532094+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-07 16:13:05.884955+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 7-3-2025: [Thông báo tuyển sinh Sau Đại học năm 2025 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16612)
  - 7-3-2025: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 18/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16610)
  - 6-3-2025: [[CQ] Thông báo đổi phòng học các lớp cơ sở Thủ Đức- Dĩ An áp dụng từ ngày 8/3/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16609)
  - 5-3-2025: [Đăng ký tham gia Seminar về AI năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16608)
@@ -59,7 +60,6 @@ _Last update: **2025-03-07 16:13:05.884955+07:00**_
  - 4-3-2025: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 1)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16598)
  - 3-3-2025: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 1 năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16595)
  - 3-3-2025: [[CQ] Mời tham dự buổi bảo vệ đề tài tốt nghiệp Khóa 2021 - đợt 1 (04/3 - 15/3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16594)
- - 2-3-2025: [Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 1)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16592)
 
 ## Thông tin dành cho sinh viên
 - 06/03/2025: [Thông báo nộp học phí học kỳ 2 năm học 2024-2025 đối với sinh viên hệ chính quy, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-2-nam-hoc-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra/)
