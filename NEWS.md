@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-10 13:15:04.492013+07:00**_
+_Last update: **2025-03-10 14:11:57.517582+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2025-03-10 13:15:04.492013+07:00**_
  - 30/09/2021: [CTĐA_Kế hoạch năm học 2021-2022](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda_ke-hoach-nam-hoc-2021-2022-2/)
 
 ### Giáo vụ
+ - 10/03/2025: [[CTĐA] Chương trình thực tập thực tế học kỳ 3 năm học 2024-2025 dành cho sinh viên CTĐA](https://www.ctda.hcmus.edu.vn/vi/2025/03/ctda-chuong-trinh-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025-danh-cho-sinh-vien-ctda/)
  - 15/02/2025: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTDATN khóa 2020, đợt 2 (bảo vệ tháng 4/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-ttdatn-khoa-2020-dot-2-bao-ve-thang-4-2025/)
  - 05/02/2025: [[CTDA] – Thông báo phúc khảo HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-thong-bao-phuc-khao-hk1-2425/)
  - 05/02/2025: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ 08/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-08-2025/)
@@ -23,7 +24,6 @@ _Last update: **2025-03-10 13:15:04.492013+07:00**_
  - 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
  - 26/11/2024: [[CTDA] Lịch thi cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-lich-thi-cuoi-ky-hk1-2425/)
  - 11/11/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/11/9389/)
- - 06/11/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/)
 
 ### Trợ lí sinh viên
  - 24/02/2025: [Thông báo lịch trực Cố vấn học tập học kỳ 2/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/02/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-2-2024-2025/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-10 13:15:04.492013+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 10-3-2025: [[CQ] TKB lý thuyết và thực hành chính thức HK2/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16616)
  - 10-3-2025: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16614)
  - 8-3-2025: [Lễ công bố quyết định bổ nhiệm ThS. Văn Chí Nam giữ chức vụ Phó Hiệu trưởng Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16613)
  - 7-3-2025: [Thông báo tuyển sinh Sau Đại học năm 2025 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16612)
@@ -59,7 +60,6 @@ _Last update: **2025-03-10 13:15:04.492013+07:00**_
  - 5-3-2025: [Danh sách sinh viên tham dự Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (Lớp 2,3)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16606)
  - 4-3-2025: [[CQ] Thay đổi thời gian bảo vệ Khóa luận tốt nghiệp - Hội đồng Khoa học máy tính (đợt tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16602)
  - 4-3-2025: [Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (Lớp 2, 3)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16599)
- - 4-3-2025: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 1)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16598)
 
 ## Thông tin dành cho sinh viên
 - 10/03/2025: [Chương trình Học bổng Đợt 1 năm học 2024-2025 – Quỹ học bổng niềm tin PTSC](https://hcmus.edu.vn/chuong-trinh-hoc-bong-dot-1-nam-hoc-2024-2025-quy-hoc-bong-niem-tin-ptsc/)
