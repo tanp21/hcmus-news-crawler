@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-11 16:13:43.258092+07:00**_
+_Last update: **2025-03-11 17:13:59.806989+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-11 16:13:43.258092+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 11-3-2025: [Đăng ký tham dự Hội thảo DevOps Journey: Hiểu đúng, làm chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16620)
  - 11-3-2025: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 18/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16618)
  - 10-3-2025: [[CQ] TKB lý thuyết và thực hành chính thức HK2/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16616)
  - 10-3-2025: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16614)
@@ -59,7 +60,6 @@ _Last update: **2025-03-11 16:13:43.258092+07:00**_
  - 6-3-2025: [[CQ] Thông báo đổi phòng học các lớp cơ sở Thủ Đức- Dĩ An áp dụng từ ngày 8/3/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16609)
  - 5-3-2025: [Đăng ký tham gia Seminar về AI năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16608)
  - 5-3-2025: [Danh sách sinh viên tham dự Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (Lớp 2,3)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16606)
- - 4-3-2025: [[CQ] Thay đổi thời gian bảo vệ Khóa luận tốt nghiệp - Hội đồng Khoa học máy tính (đợt tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16602)
 
 ## Thông tin dành cho sinh viên
 - 10/03/2025: [Chương trình Học bổng Đợt 1 năm học 2024-2025 – Quỹ học bổng niềm tin PTSC](https://hcmus.edu.vn/chuong-trinh-hoc-bong-dot-1-nam-hoc-2024-2025-quy-hoc-bong-niem-tin-ptsc/)
