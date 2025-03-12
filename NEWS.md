@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-12 13:17:57.976491+07:00**_
+_Last update: **2025-03-12 14:12:27.014553+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-12 13:17:57.976491+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 12-3-2025: [[CQ] Thay đổi thời gian bảo vệ Khóa luận tốt nghiệp - Hội đồng Thị giác máy tính (đợt tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16622)
  - 12-3-2025: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16621)
  - 11-3-2025: [Đăng ký tham dự Hội thảo DevOps Journey: Hiểu đúng, làm chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16620)
  - 11-3-2025: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 18/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16618)
@@ -59,7 +60,6 @@ _Last update: **2025-03-12 13:17:57.976491+07:00**_
  - 7-3-2025: [Thông báo tuyển sinh Sau Đại học năm 2025 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16612)
  - 7-3-2025: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 18/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16610)
  - 6-3-2025: [[CQ] Thông báo đổi phòng học các lớp cơ sở Thủ Đức- Dĩ An áp dụng từ ngày 8/3/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16609)
- - 5-3-2025: [Đăng ký tham gia Seminar về AI năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16608)
 
 ## Thông tin dành cho sinh viên
 - 10/03/2025: [Chương trình Học bổng Đợt 1 năm học 2024-2025 – Quỹ học bổng niềm tin PTSC](https://hcmus.edu.vn/chuong-trinh-hoc-bong-dot-1-nam-hoc-2024-2025-quy-hoc-bong-niem-tin-ptsc/)
