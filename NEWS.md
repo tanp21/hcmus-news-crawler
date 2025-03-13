@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-13 14:12:11.082921+07:00**_
+_Last update: **2025-03-13 15:17:37.964608+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-13 14:12:11.082921+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 13-3-2025: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021-đợt 2 (bảo vệ T7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16627)
  - 12-3-2025: [[CQ] Thay đổi thời gian bảo vệ Khóa luận tốt nghiệp - Hội đồng Thị giác máy tính (đợt tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16622)
  - 12-3-2025: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16621)
  - 11-3-2025: [Đăng ký tham dự Hội thảo DevOps Journey: Hiểu đúng, làm chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16620)
@@ -59,9 +60,9 @@ _Last update: **2025-03-13 14:12:11.082921+07:00**_
  - 8-3-2025: [Lễ công bố quyết định bổ nhiệm ThS. Văn Chí Nam giữ chức vụ Phó Hiệu trưởng Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16613)
  - 7-3-2025: [Thông báo tuyển sinh Sau Đại học năm 2025 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16612)
  - 7-3-2025: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 18/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16610)
- - 6-3-2025: [[CQ] Thông báo đổi phòng học các lớp cơ sở Thủ Đức- Dĩ An áp dụng từ ngày 8/3/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16609)
 
 ## Thông tin dành cho sinh viên
+- 13/03/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Universiti Malaya (UM)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-universiti-malaya-um/)
 - 10/03/2025: [Chương trình Học bổng Đợt 1 năm học 2024-2025 – Quỹ học bổng niềm tin PTSC](https://hcmus.edu.vn/chuong-trinh-hoc-bong-dot-1-nam-hoc-2024-2025-quy-hoc-bong-niem-tin-ptsc/)
 - 07/03/2025: [Thông báo Tổ chức hoạt động Workshop “Yêu thông thái – Sống tích cực”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-yeu-thong-thai-song-tich-cuc/)
 - 06/03/2025: [Thông báo nộp học phí học kỳ 2 năm học 2024-2025 đối với sinh viên hệ chính quy, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-2-nam-hoc-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra/)
@@ -71,7 +72,6 @@ _Last update: **2025-03-13 14:12:11.082921+07:00**_
 - 03/03/2025: [Kế hoạch giảng dạy môn Thực tập Sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-giang-day-mon-thuc-tap-sinh-hoc-dai-cuong-2/)
 - 03/03/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học chương trình Liên thông hệ chính quy – đợt tháng 3 và tháng 5 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-chuong-trinh-lien-thong-he-chinh-quy-dot-thang-3-va-thang-5-nam-2025/)
 - 03/03/2025: [Kế hoạch học thực hành môn Hóa đại cương 1 và Hóa đại cương 2 – HK2/24-25](https://hcmus.edu.vn/ke-hoach-hoc-thuc-hanh-mon-hoa-dai-cuong-1-va-hoa-dai-cuong-2-hk2-24-25/)
-- 27/02/2025: [Thông báo thay đổi phòng học (các môn MTH00013, GEO00002, BAA00004)](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-cac-mon-mth00013-geo00002-baa00004/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/24-25 hệ Chính quy (Khóa 21, 22, 24) (Đợt bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/856-thong-bao-phuc-kh-o-hk1-24-25-h-chinh-quy-khoa-21-22-24-d-t-b-sung)
