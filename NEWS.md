@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-14 23:15:08.347038+07:00**_
+_Last update: **2025-03-15 00:10:16.982540+07:00**_
 ## APCS
 ## FIT
  - 14-3-2025: [Đăng ký tham gia Mini-course “Reinforcement Learning: From the Foundations to Learning with Human Feedback and DeepSeek-R1”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16631)
