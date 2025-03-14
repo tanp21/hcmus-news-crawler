@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-14 10:22:59.294872+07:00**_
+_Last update: **2025-03-14 11:14:52.804187+07:00**_
 ## APCS
 ## FIT
  - 14-3-2025: [Đăng ký tham gia Mini-course “Reinforcement Learning: From the Foundations to Learning with Human Feedback and DeepSeek-R1”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16631)
@@ -26,19 +26,19 @@ _Last update: **2025-03-14 10:22:59.294872+07:00**_
 - 03/03/2025: [Kế hoạch giảng dạy môn Thực tập Sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-giang-day-mon-thuc-tap-sinh-hoc-dai-cuong-2/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo Phúc Khảo HKI/24-25(Các lớp đại trà, CQ khóa 23)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/858-thong-bao-phuc-kh-o-hki-24-25-cac-l-p-d-i-tra-cq-khoa-23)
  - [Thông báo phúc khảo HK1/24-25 hệ Chính quy (Khóa 21, 22, 24) (Đợt bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/856-thong-bao-phuc-kh-o-hk1-24-25-h-chinh-quy-khoa-21-22-24-d-t-b-sung)
  - [Thông báo phúc khảo HK1/24-24 hệ Chính quy (Khóa 21, 22, 24)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/854-thong-bao-phuc-kh-o-hk1-24-24-h-chinh-quy-khoa-21-22-24)
  - [Thông báo phúc khảo HK1/24-25 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/852-thong-bao-phuc-kh-o-hk1-24-25-ct-d-an-cac-khoa)
  - [Thông báo phúc khảo HK1/24-25 CT đề án Khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/851-thong-bao-phuc-kh-o-hk1-24-25-ct-d-an-khoa-cntt)
- - [Thông báo phúc khảo HK1/24-25 hệ Từ xa ngành CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/849-thong-bao-phuc-kh-o-hk1-24-25-h-t-xa-nganh-cntt)
 
 ***
 
+ - [Lịch thi cuối kỳ HK2/24-25 Chương trình đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/861-l-ch-thi-cu-i-ky-hk2-24-25-chuong-trinh-d-an-khoa-cntt)
+ - [Lịch thi cuối kỳ HK2/24-25 Chương trình đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/860-l-ch-thi-cu-i-ky-hk2-24-25-ctda-cac-khoa)
+ - [Lịch thi giữa kỳ HK2/24-25 Hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/859-l-ch-thi-gi-a-ky-hk2-24-25-h-dttx)
  - [Lịch thi giữa kỳ HK2/24-25 Chương trình đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/853-l-ch-thi-gi-a-ky-hk2-24-25-chuong-trinh-d-an-cac-khoa)
  - [Lịch thi cuối kỳ HK1/24-25 Chính quy tại LT và NVC (CẬP NHẬT 27/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/847-l-ch-thi-cu-i-ky-hk1-24-25-chinh-quy-t-i-lt-va-nvc)
- - [Lịch thi cuối kỳ HK1/24-25 CT đề án các Khoa Vật lý-VLKT, Sinh-CNSH, ĐTVT, KH-CNVL, MT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/846-l-ch-thi-cu-i-ky-hk1-24-25-ct-d-an-cac-khoa-v-t-ly-vlkt-sinh-cnsh-dtvt-kh-cnvl-mt)
- - [Lịch thi cuối kỳ HK1/24-25 CT đề án khoa CNTT (CẬP NHẬT 19/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/845-l-ch-thi-cu-i-ky-hk1-24-25-ct-d-an-khoa-cntt)
- - [Lịch thi cuối kỳ HK1/24-25 CT đề án khoa Hóa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/844-l-ch-thi-cu-i-ky-hk1-24-25-ct-d-an-khoa-hoa)
 
 ***
 
