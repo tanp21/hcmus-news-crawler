@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-17 13:18:39.198150+07:00**_
+_Last update: **2025-03-17 14:13:12.875427+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2025-03-17 13:18:39.198150+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 17-3-2025: [Danh sách sinh viên tham dự Hội thảo DevOps Journey: Hiểu đúng, làm chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16638)
+ - 17-3-2025: [Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16637)
  - 17-3-2025: [Đăng ký tham quan công ty Fujinet Systems ngày 1/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16632)
  - 14-3-2025: [Đăng ký tham gia Mini-course “Reinforcement Learning: From the Foundations to Learning with Human Feedback and DeepSeek-R1”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16631)
  - 13-3-2025: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021-đợt 2 (bảo vệ T7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16627)
@@ -58,8 +60,6 @@ _Last update: **2025-03-17 13:18:39.198150+07:00**_
  - 11-3-2025: [Đăng ký tham dự Hội thảo DevOps Journey: Hiểu đúng, làm chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16620)
  - 11-3-2025: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 18/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16618)
  - 10-3-2025: [[CQ] TKB lý thuyết và thực hành chính thức HK2/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16616)
- - 10-3-2025: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16614)
- - 8-3-2025: [Lễ công bố quyết định bổ nhiệm ThS. Văn Chí Nam giữ chức vụ Phó Hiệu trưởng Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16613)
 
 ## Thông tin dành cho sinh viên
 - 14/03/2025: [Thông báo thay đổi phòng học F204, F205, F207, E104, F208 – chỉ áp dụng trong ngày 15/03/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-f204-f205-f207-e104-f208-chi-ap-dung-trong-ngay-15-03-2025/)
