@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-19 16:14:20.748894+07:00**_
+_Last update: **2025-03-19 17:14:14.273067+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-03-19 16:14:20.748894+07:00**_
  - 13-3-2025: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021-đợt 2 (bảo vệ T7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16627)
 
 ## Thông tin dành cho sinh viên
+- 19/03/2025: [Thông báo thay đổi phòng học lớp Vật l‎‎ý đại cương 2 (Điện từ – Quang)/24CSH1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-lop-vat-ly-dai-cuong-2-dien-tu-quang-24csh1/)
 - 18/03/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Nanyang Technological University (NTU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-nanyang-technological-university-ntu/)
 - 14/03/2025: [Thông báo thay đổi phòng học F204, F205, F207, E104, F208 – chỉ áp dụng trong ngày 15/03/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-f204-f205-f207-e104-f208-chi-ap-dung-trong-ngay-15-03-2025/)
 - 13/03/2025: [KẾ HOẠCH Tổ chức Hội thao Sinh viên Trường ĐH Khoa học tự nhiên, ĐHQG-HCM – Năm 2025](https://hcmus.edu.vn/ke-hoach-to-chuc-hoi-thao-sinh-vien-truong-dh-khoa-hoc-tu-nhien-dhqg-hcm-nam-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-03-19 16:14:20.748894+07:00**_
 - 06/03/2025: [Thông báo nộp học phí học kỳ 2 năm học 2024-2025 đối với sinh viên hệ chính quy, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-2-nam-hoc-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra/)
 - 06/03/2025: [Thông báo thay đổi phòng học F207, F307, F308 từ ngày 08/03/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-f207-f307-f308-tu-ngay-05-03-2025/)
 - 05/03/2025: [Thông báo thay đổi phòng học E105, E106, NĐH6.7 từ ngày 06/3/25](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-e105-e106-ndh6-7-tu-ngay-06-3-25/)
-- 04/03/2025: [THÔNG BÁO Kết quả dự kiến Điểm rèn luyện HK1/2024 – 2025 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2024-2025-doi-voi-sinh-vien/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo Phúc Khảo HKI/24-25(Các lớp đại trà, CQ khóa 23)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/858-thong-bao-phuc-kh-o-hki-24-25-cac-l-p-d-i-tra-cq-khoa-23)
