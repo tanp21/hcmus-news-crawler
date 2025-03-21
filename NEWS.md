@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-21 17:13:22.485948+07:00**_
+_Last update: **2025-03-21 18:11:00.201604+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-03-21 17:13:22.485948+07:00**_
  - 17-3-2025: [Danh sách sinh viên tham dự Hội thảo DevOps Journey: Hiểu đúng, làm chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16638)
 
 ## Thông tin dành cho sinh viên
+- 21/03/2025: [LỄ TRAO HỌC BỔNG “CHẮP CÁNH ƯỚC MƠ” NĂM HỌC 2023 – 2024](https://hcmus.edu.vn/le-trao-hoc-bong-chap-canh-uoc-mo-nam-hoc-2023-2024/)
 - 21/03/2025: [Chương trình đào tạo trình độ đại học Khóa 2023](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2023/)
 - 21/03/2025: [Chương trình đào tạo trình độ đại học Khóa 2024](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2024/)
 - 21/03/2025: [Chương trình đào tạo trình độ đại học Khóa 2022](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2022/)
@@ -71,7 +72,6 @@ _Last update: **2025-03-21 17:13:22.485948+07:00**_
 - 13/03/2025: [KẾ HOẠCH Tổ chức Hội thao Sinh viên Trường ĐH Khoa học tự nhiên, ĐHQG-HCM – Năm 2025](https://hcmus.edu.vn/ke-hoach-to-chuc-hoi-thao-sinh-vien-truong-dh-khoa-hoc-tu-nhien-dhqg-hcm-nam-2025/)
 - 13/03/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Universiti Malaya (UM)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-universiti-malaya-um/)
 - 10/03/2025: [Chương trình Học bổng Đợt 1 năm học 2024-2025 – Quỹ học bổng niềm tin PTSC](https://hcmus.edu.vn/chuong-trinh-hoc-bong-dot-1-nam-hoc-2024-2025-quy-hoc-bong-niem-tin-ptsc/)
-- 07/03/2025: [Thông báo Tổ chức hoạt động Workshop “Yêu thông thái – Sống tích cực”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-yeu-thong-thai-song-tich-cuc/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo Phúc Khảo HKI/24-25(Các lớp đại trà, CQ khóa 23)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/858-thong-bao-phuc-kh-o-hki-24-25-cac-l-p-d-i-tra-cq-khoa-23)
