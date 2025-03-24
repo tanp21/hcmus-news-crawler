@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-24 15:17:44.317710+07:00**_
+_Last update: **2025-03-24 16:14:48.844845+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-24 15:17:44.317710+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 24-3-2025: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16661)
  - 24-3-2025: [Danh sách sinh viên tham quan công ty FPT Telecom ngày 3/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16660)
  - 24-3-2025: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16659)
  - 21-3-2025: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 2 (bảo vệ tháng 7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16656)
@@ -59,9 +60,9 @@ _Last update: **2025-03-24 15:17:44.317710+07:00**_
  - 19-3-2025: [Danh sách sinh viên tham dự hội thảo  "Từ giảng đường đến doanh nghiệp: Kinh nghiệm, thử thách & cơ hội"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16647)
  - 18-3-2025: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2021, đợt 1 (bảo vệ tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16646)
  - 18-3-2025: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16644)
- - 18-3-2025: [Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16643)
 
 ## Thông tin dành cho sinh viên
+- 24/03/2025: [Thông báo nghỉ học ngày thể thao Việt Nam 27/3](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-the-thao-viet-nam-27-3/)
 - 21/03/2025: [Thông báo tổ chức hoạt động Workshop “Phát triển tư duy phản biện trong học tập và cuộc sống”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-phat-trien-tu-duy-phan-bien-trong-hoc-tap-va-cuoc-song/)
 - 21/03/2025: [LỄ TRAO HỌC BỔNG “CHẮP CÁNH ƯỚC MƠ” NĂM HỌC 2023 – 2024](https://hcmus.edu.vn/le-trao-hoc-bong-chap-canh-uoc-mo-nam-hoc-2023-2024/)
 - 21/03/2025: [Chương trình đào tạo trình độ đại học Khóa 2023](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2023/)
@@ -71,7 +72,6 @@ _Last update: **2025-03-24 15:17:44.317710+07:00**_
 - 18/03/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Nanyang Technological University (NTU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-nanyang-technological-university-ntu/)
 - 14/03/2025: [Thông báo thay đổi phòng học F204, F205, F207, E104, F208 – chỉ áp dụng trong ngày 15/03/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-f204-f205-f207-e104-f208-chi-ap-dung-trong-ngay-15-03-2025/)
 - 13/03/2025: [KẾ HOẠCH Tổ chức Hội thao Sinh viên Trường ĐH Khoa học tự nhiên, ĐHQG-HCM – Năm 2025](https://hcmus.edu.vn/ke-hoach-to-chuc-hoi-thao-sinh-vien-truong-dh-khoa-hoc-tu-nhien-dhqg-hcm-nam-2025/)
-- 13/03/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Universiti Malaya (UM)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-universiti-malaya-um/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo Phúc Khảo HKI/24-25(Các lớp đại trà, CQ khóa 23)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/858-thong-bao-phuc-kh-o-hki-24-25-cac-l-p-d-i-tra-cq-khoa-23)
