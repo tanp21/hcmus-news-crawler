@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-24 16:14:48.844845+07:00**_
+_Last update: **2025-03-24 17:14:22.685793+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -64,7 +64,7 @@ _Last update: **2025-03-24 16:14:48.844845+07:00**_
 ## Thông tin dành cho sinh viên
 - 24/03/2025: [Thông báo nghỉ học ngày thể thao Việt Nam 27/3](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-the-thao-viet-nam-27-3/)
 - 21/03/2025: [Thông báo tổ chức hoạt động Workshop “Phát triển tư duy phản biện trong học tập và cuộc sống”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-phat-trien-tu-duy-phan-bien-trong-hoc-tap-va-cuoc-song/)
-- 21/03/2025: [LỄ TRAO HỌC BỔNG “CHẮP CÁNH ƯỚC MƠ” NĂM HỌC 2023 – 2024](https://hcmus.edu.vn/le-trao-hoc-bong-chap-canh-uoc-mo-nam-hoc-2023-2024/)
+- 21/03/2025: [Lễ trao Học bổng “Chắp cánh ước mơ” năm học 2023 – 2024](https://hcmus.edu.vn/le-trao-hoc-bong-chap-canh-uoc-mo-nam-hoc-2023-2024/)
 - 21/03/2025: [Chương trình đào tạo trình độ đại học Khóa 2023](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2023/)
 - 21/03/2025: [Chương trình đào tạo trình độ đại học Khóa 2024](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2024/)
 - 21/03/2025: [Chương trình đào tạo trình độ đại học Khóa 2022](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2022/)
