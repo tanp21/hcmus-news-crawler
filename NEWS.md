@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-24 09:59:00.823187+07:00**_
+_Last update: **2025-03-24 10:35:14.889663+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-24 09:59:00.823187+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 24-3-2025: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16659)
  - 21-3-2025: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 2 (bảo vệ tháng 7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16656)
  - 21-3-2025: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16653)
  - 20-3-2025: [Đăng ký tham quan công ty FPT Telecom ngày 3/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16651)
@@ -59,7 +60,6 @@ _Last update: **2025-03-24 09:59:00.823187+07:00**_
  - 18-3-2025: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16644)
  - 18-3-2025: [Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16643)
  - 17-3-2025: [Đăng ký tham dự hội thảo "Từ giảng đường đến doanh nghiệp: Kinh nghiệm, thử thách & cơ hội"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16639)
- - 17-3-2025: [Danh sách sinh viên tham dự Hội thảo DevOps Journey: Hiểu đúng, làm chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16638)
 
 ## Thông tin dành cho sinh viên
 - 21/03/2025: [Thông báo tổ chức hoạt động Workshop “Phát triển tư duy phản biện trong học tập và cuộc sống”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-phat-trien-tu-duy-phan-bien-trong-hoc-tap-va-cuoc-song/)
