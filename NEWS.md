@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-25 11:15:24.318576+07:00**_
+_Last update: **2025-03-25 12:13:47.871447+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-03-25 11:15:24.318576+07:00**_
  - 18-3-2025: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16644)
 
 ## Thông tin dành cho sinh viên
+- 25/03/2025: [Thông báo kết quả chương trình học bổng Phát triển Nhân tài – The sponsorship program for talented students – Never Give Up Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ket-qua-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-students-never-give-up-nam-hoc-2024-2025/)
 - 24/03/2025: [Thông báo nghỉ học ngày thể thao Việt Nam 27/3](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-the-thao-viet-nam-27-3/)
 - 21/03/2025: [Thông báo tổ chức hoạt động Workshop “Phát triển tư duy phản biện trong học tập và cuộc sống”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-phat-trien-tu-duy-phan-bien-trong-hoc-tap-va-cuoc-song/)
 - 21/03/2025: [Lễ trao Học bổng “Chắp cánh ước mơ” năm học 2023 – 2024](https://hcmus.edu.vn/le-trao-hoc-bong-chap-canh-uoc-mo-nam-hoc-2023-2024/)
@@ -71,7 +72,6 @@ _Last update: **2025-03-25 11:15:24.318576+07:00**_
 - 19/03/2025: [Thông báo thay đổi phòng học lớp Vật l‎‎ý đại cương 2 (Điện từ – Quang)/24CSH1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-lop-vat-ly-dai-cuong-2-dien-tu-quang-24csh1/)
 - 18/03/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Nanyang Technological University (NTU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-nanyang-technological-university-ntu/)
 - 14/03/2025: [Thông báo thay đổi phòng học F204, F205, F207, E104, F208 – chỉ áp dụng trong ngày 15/03/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-f204-f205-f207-e104-f208-chi-ap-dung-trong-ngay-15-03-2025/)
-- 13/03/2025: [KẾ HOẠCH Tổ chức Hội thao Sinh viên Trường ĐH Khoa học tự nhiên, ĐHQG-HCM – Năm 2025](https://hcmus.edu.vn/ke-hoach-to-chuc-hoi-thao-sinh-vien-truong-dh-khoa-hoc-tu-nhien-dhqg-hcm-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo Phúc Khảo HKI/24-25(Các lớp đại trà, CQ khóa 23)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/858-thong-bao-phuc-kh-o-hki-24-25-cac-l-p-d-i-tra-cq-khoa-23)
