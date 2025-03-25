@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-25 14:13:52.081925+07:00**_
+_Last update: **2025-03-25 15:17:16.196300+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-25 14:13:52.081925+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 25-3-2025: [DSHV đăng ký đề tài luận văn Thạc sĩ khóa 33/2023 - đợt 1 (tháng 2/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16662)
  - 24-3-2025: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16661)
  - 24-3-2025: [Danh sách sinh viên tham quan công ty FPT Telecom ngày 3/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16660)
  - 24-3-2025: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16659)
@@ -59,7 +60,6 @@ _Last update: **2025-03-25 14:13:52.081925+07:00**_
  - 20-3-2025: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 1/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16650)
  - 19-3-2025: [Danh sách sinh viên tham dự hội thảo  "Từ giảng đường đến doanh nghiệp: Kinh nghiệm, thử thách & cơ hội"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16647)
  - 18-3-2025: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2021, đợt 1 (bảo vệ tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16646)
- - 18-3-2025: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16644)
 
 ## Thông tin dành cho sinh viên
 - 25/03/2025: [Thông báo kết quả chương trình học bổng Phát triển Nhân tài – The sponsorship program for talented students – Never Give Up Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ket-qua-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-students-never-give-up-nam-hoc-2024-2025/)
