@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-26 08:01:36.959091+07:00**_
+_Last update: **2025-03-26 09:54:14.179863+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-03-26 08:01:36.959091+07:00**_
  - 18-3-2025: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2021, đợt 1 (bảo vệ tháng 3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16646)
 
 ## Thông tin dành cho sinh viên
+- 26/03/2025: [Thông báo nghỉ Giỗ tổ Hùng Vương 10/3 năm 2025](https://hcmus.edu.vn/thong-bao-nghi-gio-to-hung-vuong-10-3-nam-2025/)
 - 25/03/2025: [Thông báo kết quả chương trình học bổng Phát triển Nhân tài – The sponsorship program for talented students – Never Give Up Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ket-qua-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-students-never-give-up-nam-hoc-2024-2025/)
 - 24/03/2025: [Thông báo nghỉ học ngày thể thao Việt Nam 27/3](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-the-thao-viet-nam-27-3/)
 - 21/03/2025: [Thông báo tổ chức hoạt động Workshop “Phát triển tư duy phản biện trong học tập và cuộc sống”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-phat-trien-tu-duy-phan-bien-trong-hoc-tap-va-cuoc-song/)
@@ -71,14 +72,13 @@ _Last update: **2025-03-26 08:01:36.959091+07:00**_
 - 21/03/2025: [Chương trình đào tạo trình độ đại học Khóa 2022](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2022/)
 - 19/03/2025: [Thông báo thay đổi phòng học lớp Vật l‎‎ý đại cương 2 (Điện từ – Quang)/24CSH1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-lop-vat-ly-dai-cuong-2-dien-tu-quang-24csh1/)
 - 18/03/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Nanyang Technological University (NTU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-nanyang-technological-university-ntu/)
-- 14/03/2025: [Thông báo thay đổi phòng học F204, F205, F207, E104, F208 – chỉ áp dụng trong ngày 15/03/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-f204-f205-f207-e104-f208-chi-ap-dung-trong-ngay-15-03-2025/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo SV đánh giá môn học - GV HK2/2024-2025 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/862-thong-bao-sv-danh-gia-moi-tru-ng-h-c-t-p-hk2-2024-2025-chuong-trinh-d-an-cac-khoa)
  - [Thông báo Phúc Khảo HKI/24-25(Các lớp đại trà, CQ khóa 23)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/858-thong-bao-phuc-kh-o-hki-24-25-cac-l-p-d-i-tra-cq-khoa-23)
  - [Thông báo phúc khảo HK1/24-25 hệ Chính quy (Khóa 21, 22, 24) (Đợt bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/856-thong-bao-phuc-kh-o-hk1-24-25-h-chinh-quy-khoa-21-22-24-d-t-b-sung)
  - [Thông báo phúc khảo HK1/24-24 hệ Chính quy (Khóa 21, 22, 24)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/854-thong-bao-phuc-kh-o-hk1-24-24-h-chinh-quy-khoa-21-22-24)
  - [Thông báo phúc khảo HK1/24-25 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/852-thong-bao-phuc-kh-o-hk1-24-25-ct-d-an-cac-khoa)
- - [Thông báo phúc khảo HK1/24-25 CT đề án Khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/851-thong-bao-phuc-kh-o-hk1-24-25-ct-d-an-khoa-cntt)
 
 ***
 
