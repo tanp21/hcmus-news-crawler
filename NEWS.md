@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-26 22:14:12.233060+07:00**_
+_Last update: **2025-03-26 23:16:53.231998+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-26 22:14:12.233060+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 26-3-2025: [Tổng kết Seminar về AI năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16667)
  - 26-3-2025: [Đăng ký tham quan công ty TMA Tech Group ngày 17/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16666)
  - 25-3-2025: [DSHV đăng ký đề tài luận văn Thạc sĩ khóa 33/2023 - đợt 1 (tháng 2/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16662)
  - 24-3-2025: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16661)
@@ -59,7 +60,6 @@ _Last update: **2025-03-26 22:14:12.233060+07:00**_
  - 21-3-2025: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16653)
  - 20-3-2025: [Đăng ký tham quan công ty FPT Telecom ngày 3/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16651)
  - 20-3-2025: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 1/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16650)
- - 19-3-2025: [Danh sách sinh viên tham dự hội thảo  "Từ giảng đường đến doanh nghiệp: Kinh nghiệm, thử thách & cơ hội"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16647)
 
 ## Thông tin dành cho sinh viên
 - 26/03/2025: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2025](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2025/)
