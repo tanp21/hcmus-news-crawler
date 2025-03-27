@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-27 08:01:02.697245+07:00**_
+_Last update: **2025-03-27 09:54:47.187650+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-03-27 08:01:02.697245+07:00**_
  - 20-3-2025: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 1/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16650)
 
 ## Thông tin dành cho sinh viên
+- 27/03/2025: [Thông báo học bổng Cao Minh Thì năm 2025](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi-nam-2025/)
 - 26/03/2025: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2025](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2025/)
 - 26/03/2025: [Thông báo nghỉ Giỗ tổ Hùng Vương 10/3 năm 2025](https://hcmus.edu.vn/thong-bao-nghi-gio-to-hung-vuong-10-3-nam-2025/)
 - 25/03/2025: [Thông báo kết quả chương trình học bổng Phát triển Nhân tài – The sponsorship program for talented students – Never Give Up Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ket-qua-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-students-never-give-up-nam-hoc-2024-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-03-27 08:01:02.697245+07:00**_
 - 21/03/2025: [Chương trình đào tạo trình độ đại học Khóa 2023](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2023/)
 - 21/03/2025: [Chương trình đào tạo trình độ đại học Khóa 2024](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2024/)
 - 21/03/2025: [Chương trình đào tạo trình độ đại học Khóa 2022](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2022/)
-- 19/03/2025: [Thông báo thay đổi phòng học lớp Vật l‎‎ý đại cương 2 (Điện từ – Quang)/24CSH1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-lop-vat-ly-dai-cuong-2-dien-tu-quang-24csh1/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2024-2025 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/862-thong-bao-sv-danh-gia-moi-tru-ng-h-c-t-p-hk2-2024-2025-chuong-trinh-d-an-cac-khoa)
