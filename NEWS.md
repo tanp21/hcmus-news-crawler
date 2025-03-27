@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-03-27 14:13:13.565485+07:00**_
+_Last update: **2025-03-27 15:16:53.005589+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-03-27 14:13:13.565485+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 27-3-2025: [[CQ] Khảo sát nhu cầu tổ chức buổi tư vấn thực hiện đề tài tốt nghiệp dành cho sinh viên Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16669)
  - 26-3-2025: [Tổng kết buổi gặp mặt trao đổi và tổ chức Seminar về AI năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16667)
  - 26-3-2025: [Đăng ký tham quan công ty TMA Tech Group ngày 17/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16666)
  - 25-3-2025: [DSHV đăng ký đề tài luận văn Thạc sĩ khóa 33/2023 - đợt 1 (tháng 2/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16662)
@@ -59,7 +60,6 @@ _Last update: **2025-03-27 14:13:13.565485+07:00**_
  - 21-3-2025: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 2 (bảo vệ tháng 7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16656)
  - 21-3-2025: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16653)
  - 20-3-2025: [Đăng ký tham quan công ty FPT Telecom ngày 3/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16651)
- - 20-3-2025: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 1/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16650)
 
 ## Thông tin dành cho sinh viên
 - 27/03/2025: [Thông báo học bổng Cao Minh Thì năm 2025](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi-nam-2025/)
