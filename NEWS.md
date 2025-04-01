@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-01 16:14:32.799788+07:00**_
+_Last update: **2025-04-01 17:14:31.735654+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-01 16:14:32.799788+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 1-4-2025: [Triển khai Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục Đại học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16681)
  - 1-4-2025: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16680)
  - 1-4-2025: [Thông báo Chương trình tuyển Nghiên cứu sinh và Trợ giảng năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16679)
  - 27-3-2025: [Thông báo đăng ký học phần 2 lớp cao học khoá 34/2024 tại hệ thống quản lý người học Student @VNUHCM-US](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16670)
@@ -59,9 +60,10 @@ _Last update: **2025-04-01 16:14:32.799788+07:00**_
  - 25-3-2025: [DSHV đăng ký đề tài luận văn Thạc sĩ khóa 33/2023 - đợt 1 (tháng 2/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16662)
  - 24-3-2025: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16661)
  - 24-3-2025: [Danh sách sinh viên tham quan công ty FPT Telecom ngày 3/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16660)
- - 24-3-2025: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16659)
 
 ## Thông tin dành cho sinh viên
+- 01/04/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Cộng hòa Séc năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-cong-hoa-sec-nam-2025-bo-giao-duc-va-dao-tao/)
+- 01/04/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Rumani năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-rumani-nam-2025-bo-giao-duc-va-dao-tao/)
 - 31/03/2025: [Kết quả xét tốt nghiệp đại học đợt tháng 3/2025](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-3-2025/)
 - 31/03/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Ba Lan năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-ba-lan-nam-2025-bo-giao-duc-va-dao-tao/)
 - 31/03/2025: [Thay đổi 4 phòng học lầu 2 nhà F: F204, F205, F207, F208](https://hcmus.edu.vn/thay-doi-4-phong-hoc-lau-2-nha-f-f204-f205-f207-f208/)
@@ -70,8 +72,6 @@ _Last update: **2025-04-01 16:14:32.799788+07:00**_
 - 27/03/2025: [Thông báo học bổng Cao Minh Thì năm 2025](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi-nam-2025/)
 - 26/03/2025: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2025](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2025/)
 - 26/03/2025: [Thông báo nghỉ Giỗ tổ Hùng Vương 10/3 năm 2025](https://hcmus.edu.vn/thong-bao-nghi-gio-to-hung-vuong-10-3-nam-2025/)
-- 25/03/2025: [Thông báo kết quả chương trình học bổng Phát triển Nhân tài – The sponsorship program for talented students – Never Give Up Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ket-qua-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-students-never-give-up-nam-hoc-2024-2025/)
-- 24/03/2025: [Thông báo nghỉ học ngày thể thao Việt Nam 27/3](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-the-thao-viet-nam-27-3/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2024-2025 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/862-thong-bao-sv-danh-gia-moi-tru-ng-h-c-t-p-hk2-2024-2025-chuong-trinh-d-an-cac-khoa)
