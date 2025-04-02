@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-02 16:14:07.684372+07:00**_
+_Last update: **2025-04-02 17:13:50.488388+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-02 16:14:07.684372+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 2-4-2025: [Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 34/2024 đối với sinh viên liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16684)
  - 2-4-2025: [Kết quả xét duyệt sinh viên khóa 2022 tham gia chương trình liên thông môn học ĐH-ThS năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16682)
  - 1-4-2025: [Triển khai Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục Đại học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16681)
  - 1-4-2025: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16680)
@@ -59,7 +60,6 @@ _Last update: **2025-04-02 16:14:07.684372+07:00**_
  - 26-3-2025: [Tổng kết buổi gặp mặt trao đổi và tổ chức Seminar về AI năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16667)
  - 26-3-2025: [Đăng ký tham quan công ty TMA Tech Group ngày 17/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16666)
  - 25-3-2025: [DSHV đăng ký đề tài luận văn Thạc sĩ khóa 33/2023 - đợt 1 (tháng 2/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16662)
- - 24-3-2025: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16661)
 
 ## Thông tin dành cho sinh viên
 - 01/04/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Cộng hòa Séc năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-cong-hoa-sec-nam-2025-bo-giao-duc-va-dao-tao/)
