@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-04 17:14:08.234164+07:00**_
+_Last update: **2025-04-04 18:12:08.556148+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-04 17:14:08.234164+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 4-4-2025: [[Media support] AI & IC Design Competition – A Great Opportunity for Students](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16688)
  - 2-4-2025: [Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 34/2024 đối với sinh viên liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16684)
  - 2-4-2025: [Kết quả xét duyệt sinh viên khóa 2022 tham gia chương trình liên thông môn học ĐH-ThS năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16682)
  - 1-4-2025: [Triển khai Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục Đại học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16681)
@@ -59,7 +60,6 @@ _Last update: **2025-04-04 17:14:08.234164+07:00**_
  - 27-3-2025: [[CQ] Khảo sát nhu cầu tổ chức buổi tư vấn thực hiện đề tài tốt nghiệp dành cho sinh viên Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16669)
  - 26-3-2025: [Tổng kết buổi gặp mặt trao đổi và tổ chức Seminar về AI năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16667)
  - 26-3-2025: [Đăng ký tham quan công ty TMA Tech Group ngày 17/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16666)
- - 25-3-2025: [DSHV đăng ký đề tài luận văn Thạc sĩ khóa 33/2023 - đợt 1 (tháng 2/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16662)
 
 ## Thông tin dành cho sinh viên
 - 03/04/2025: [[Thông báo] Chương trình Nghiên cứu ADM & Chương trình Đào tạo Kỹ sư AI Vingroup](https://hcmus.edu.vn/thong-bao-chuong-trinh-nghien-cuu-adm-chuong-trinh-dao-tao-ky-su-ai-vingroup/)
