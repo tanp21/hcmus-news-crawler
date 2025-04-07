@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-07 13:19:24.051462+07:00**_
+_Last update: **2025-04-07 14:13:35.194480+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2025-04-07 13:19:24.051462+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 6-4-2025: [Đăng ký tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16692)
+ - 6-4-2025: [Đăng kí tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16691)
  - 4-4-2025: [[Media support] AI & IC Design Competition – A Great Opportunity for Students](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16688)
  - 2-4-2025: [Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 34/2024 đối với sinh viên liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16684)
  - 2-4-2025: [Kết quả xét duyệt sinh viên khóa 2022 tham gia chương trình liên thông môn học ĐH-ThS năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16682)
@@ -58,8 +60,6 @@ _Last update: **2025-04-07 13:19:24.051462+07:00**_
  - 1-4-2025: [Thông báo Chương trình tuyển Nghiên cứu sinh và Trợ giảng năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16679)
  - 27-3-2025: [Thông báo đăng ký học phần 2 lớp cao học khoá 34/2024 tại hệ thống quản lý người học Student @VNUHCM-US](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16670)
  - 27-3-2025: [[CQ] Khảo sát nhu cầu tổ chức buổi tư vấn thực hiện đề tài tốt nghiệp dành cho sinh viên Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16669)
- - 26-3-2025: [Tổng kết buổi gặp mặt trao đổi và tổ chức Seminar về AI năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16667)
- - 26-3-2025: [Đăng ký tham quan công ty TMA Tech Group ngày 17/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16666)
 
 ## Thông tin dành cho sinh viên
 - 03/04/2025: [[Thông báo] Chương trình Nghiên cứu ADM & Chương trình Đào tạo Kỹ sư AI Vingroup](https://hcmus.edu.vn/thong-bao-chuong-trinh-nghien-cuu-adm-chuong-trinh-dao-tao-ky-su-ai-vingroup/)
