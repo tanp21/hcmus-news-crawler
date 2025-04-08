@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-08 17:14:14.040324+07:00**_
+_Last update: **2025-04-08 18:11:06.110522+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-08 17:14:14.040324+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 8-4-2025: [Thông báo danh sách tham dự chính thức “Hội thảo giới thiệu Doanh nghiệp và vị trí tuyển dụng” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16694)
  - 6-4-2025: [Đăng ký tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16692)
  - 6-4-2025: [Đăng kí tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16691)
  - 4-4-2025: [[Media support] AI & IC Design Competition – A Great Opportunity for Students](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16688)
@@ -59,7 +60,6 @@ _Last update: **2025-04-08 17:14:14.040324+07:00**_
  - 1-4-2025: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16680)
  - 1-4-2025: [Thông báo Chương trình tuyển Nghiên cứu sinh và Trợ giảng năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16679)
  - 27-3-2025: [Thông báo đăng ký học phần 2 lớp cao học khoá 34/2024 tại hệ thống quản lý người học Student @VNUHCM-US](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16670)
- - 27-3-2025: [[CQ] Khảo sát nhu cầu tổ chức buổi tư vấn thực hiện đề tài tốt nghiệp dành cho sinh viên Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16669)
 
 ## Thông tin dành cho sinh viên
 - 08/04/2025: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin – hệ Đào tạo từ xa năm 2025 đợt 1](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-nam-2025-dot-1/)
