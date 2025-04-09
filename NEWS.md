@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-09 10:32:16.805635+07:00**_
+_Last update: **2025-04-09 11:15:43.844224+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-09 10:32:16.805635+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 9-4-2025: [Thông báo địa điểm tổ chức Mini-course "Reinforcement Learning: From the Foundations to Learning with Human Feedback and DeepSeek-R1"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16697)
  - 9-4-2025: [Mời tham dự Hội thảo trực tuyến giới thiệu các chương trình đào tạo Sau đại học ngày 13/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16695)
  - 8-4-2025: [Thông báo danh sách tham dự chính thức “Hội thảo giới thiệu Doanh nghiệp và vị trí tuyển dụng” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16694)
  - 6-4-2025: [Đăng ký tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16692)
@@ -59,9 +60,9 @@ _Last update: **2025-04-09 10:32:16.805635+07:00**_
  - 2-4-2025: [Kết quả xét duyệt sinh viên khóa 2022 tham gia chương trình liên thông môn học ĐH-ThS năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16682)
  - 1-4-2025: [Triển khai Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục Đại học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16681)
  - 1-4-2025: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16680)
- - 1-4-2025: [Thông báo Chương trình tuyển Nghiên cứu sinh và Trợ giảng năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16679)
 
 ## Thông tin dành cho sinh viên
+- 09/04/2025: [Thông báo nhận chứng chỉ ứng dụng Công nghệ thông tin (SV khóa 2022 đến 2024)](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-sv-khoa-2022-den-2024/)
 - 08/04/2025: [[THÔNG BÁO] Hội thảo online 13h30 ngày 10/04/2025 của VINGROUP thông tin về hai học bổng miễn phí cho sinh viên VNU-HCMUS](https://hcmus.edu.vn/thong-bao-hoi-thao-online-13h30-ngay-10-04-2025-cua-vingroup-thong-tin-ve-hai-hoc-bong-mien-phi-cho-sinh-vien-vnu-hcmus/)
 - 08/04/2025: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin – hệ Đào tạo từ xa năm 2025 đợt 1](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-nam-2025-dot-1/)
 - 03/04/2025: [[Thông báo] Chương trình Nghiên cứu ADM & Chương trình Đào tạo Kỹ sư AI Vingroup](https://hcmus.edu.vn/thong-bao-chuong-trinh-nghien-cuu-adm-chuong-trinh-dao-tao-ky-su-ai-vingroup/)
@@ -71,7 +72,6 @@ _Last update: **2025-04-09 10:32:16.805635+07:00**_
 - 31/03/2025: [Kết quả xét tốt nghiệp đại học đợt tháng 3/2025](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-3-2025/)
 - 31/03/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Ba Lan năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-ba-lan-nam-2025-bo-giao-duc-va-dao-tao/)
 - 31/03/2025: [Thay đổi 4 phòng học lầu 2 nhà F: F204, F205, F207, F208](https://hcmus.edu.vn/thay-doi-4-phong-hoc-lau-2-nha-f-f204-f205-f207-f208/)
-- 27/03/2025: [Thông báo thu học phí HK2/24-25 đối với sinh viên học Cao đẳng Công nghệ thông tin](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hk2-24-25-doi-voi-sinh-vien-hoc-cao-dang-cong-nghe-thong-tin/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2024-2025 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/862-thong-bao-sv-danh-gia-moi-tru-ng-h-c-t-p-hk2-2024-2025-chuong-trinh-d-an-cac-khoa)
