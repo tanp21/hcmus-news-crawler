@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-09 08:02:06.117508+07:00**_
+_Last update: **2025-04-09 09:57:37.398337+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-09 08:02:06.117508+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 9-4-2025: [Mời tham dự Hội thảo trực tuyến giới thiệu các chương trình đào tạo Sau đại học ngày 13/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16695)
  - 8-4-2025: [Thông báo danh sách tham dự chính thức “Hội thảo giới thiệu Doanh nghiệp và vị trí tuyển dụng” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16694)
  - 6-4-2025: [Đăng ký tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16692)
  - 6-4-2025: [Đăng kí tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16691)
@@ -59,7 +60,6 @@ _Last update: **2025-04-09 08:02:06.117508+07:00**_
  - 1-4-2025: [Triển khai Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục Đại học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16681)
  - 1-4-2025: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16680)
  - 1-4-2025: [Thông báo Chương trình tuyển Nghiên cứu sinh và Trợ giảng năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16679)
- - 27-3-2025: [Thông báo đăng ký học phần 2 lớp cao học khoá 34/2024 tại hệ thống quản lý người học Student @VNUHCM-US](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16670)
 
 ## Thông tin dành cho sinh viên
 - 08/04/2025: [[THÔNG BÁO] Hội thảo online 13h30 ngày 10/04/2025 của VINGROUP thông tin về hai học bổng miễn phí cho sinh viên VNU-HCMUS](https://hcmus.edu.vn/thong-bao-hoi-thao-online-13h30-ngay-10-04-2025-cua-vingroup-thong-tin-ve-hai-hoc-bong-mien-phi-cho-sinh-vien-vnu-hcmus/)
