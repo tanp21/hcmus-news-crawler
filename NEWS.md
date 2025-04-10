@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-10 08:02:07.892853+07:00**_
+_Last update: **2025-04-10 09:57:08.727230+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-04-10 08:02:07.892853+07:00**_
  - 1-4-2025: [Triển khai Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục Đại học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16681)
 
 ## Thông tin dành cho sinh viên
+- 10/04/2025: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2024-2025/)
 - 09/04/2025: [Thông báo nhận chứng chỉ ứng dụng Công nghệ thông tin (SV khóa 2022 đến 2024)](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-sv-khoa-2022-den-2024/)
 - 08/04/2025: [[THÔNG BÁO] Hội thảo online 13h30 ngày 10/04/2025 của VINGROUP thông tin về hai học bổng miễn phí cho sinh viên VNU-HCMUS](https://hcmus.edu.vn/thong-bao-hoi-thao-online-13h30-ngay-10-04-2025-cua-vingroup-thong-tin-ve-hai-hoc-bong-mien-phi-cho-sinh-vien-vnu-hcmus/)
 - 08/04/2025: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin – hệ Đào tạo từ xa năm 2025 đợt 1](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-nam-2025-dot-1/)
@@ -71,7 +72,6 @@ _Last update: **2025-04-10 08:02:07.892853+07:00**_
 - 01/04/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Rumani năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-rumani-nam-2025-bo-giao-duc-va-dao-tao/)
 - 31/03/2025: [Kết quả xét tốt nghiệp đại học đợt tháng 3/2025](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-3-2025/)
 - 31/03/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Ba Lan năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-ba-lan-nam-2025-bo-giao-duc-va-dao-tao/)
-- 31/03/2025: [Thay đổi 4 phòng học lầu 2 nhà F: F204, F205, F207, F208](https://hcmus.edu.vn/thay-doi-4-phong-hoc-lau-2-nha-f-f204-f205-f207-f208/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2024-2025 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/862-thong-bao-sv-danh-gia-moi-tru-ng-h-c-t-p-hk2-2024-2025-chuong-trinh-d-an-cac-khoa)
