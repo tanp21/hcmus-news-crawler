@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-11 08:02:31.200862+07:00**_
+_Last update: **2025-04-11 09:57:43.243147+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-04-11 08:02:31.200862+07:00**_
  - 2-4-2025: [Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 34/2024 đối với sinh viên liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16684)
 
 ## Thông tin dành cho sinh viên
+- 11/04/2025: [Quy chế đào tạo trình độ đại học](https://hcmus.edu.vn/quy-che-dao-tao-trinh-do-dai-hoc/)
 - 10/04/2025: [Thông báo Đăng ký học phần Học kỳ 3 / 2024-2025 – Chương trình CLC, VP, TCTA](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-2024-2025-chuong-trinh-clc-vp-tcta/)
 - 10/04/2025: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2024-2025/)
 - 09/04/2025: [Thông báo nhận chứng chỉ ứng dụng Công nghệ thông tin (SV khóa 2022 đến 2024)](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-sv-khoa-2022-den-2024/)
@@ -71,7 +72,6 @@ _Last update: **2025-04-11 08:02:31.200862+07:00**_
 - 03/04/2025: [TB v/v tổ chức Sinh hoạt công dân – sinh viên cuối khóa, năm học 2024-2025](https://hcmus.edu.vn/tb-v-v-to-chuc-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2024-2025/)
 - 01/04/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Cộng hòa Séc năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-cong-hoa-sec-nam-2025-bo-giao-duc-va-dao-tao/)
 - 01/04/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Rumani năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-rumani-nam-2025-bo-giao-duc-va-dao-tao/)
-- 31/03/2025: [Kết quả xét tốt nghiệp đại học đợt tháng 3/2025](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-3-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2024-2025 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/862-thong-bao-sv-danh-gia-moi-tru-ng-h-c-t-p-hk2-2024-2025-chuong-trinh-d-an-cac-khoa)
