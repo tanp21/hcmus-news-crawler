@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-11 21:12:53.514649+07:00**_
+_Last update: **2025-04-11 22:13:54.905149+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -74,11 +74,11 @@ _Last update: **2025-04-11 21:12:53.514649+07:00**_
 - 01/04/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Cộng hòa Séc năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-cong-hoa-sec-nam-2025-bo-giao-duc-va-dao-tao/)
 
 ## Các thông báo về Khảo thí
+ - [V/v gia hạn lấy ý kiến phản hồi từ người học về hoạt động giảng dạy của nhà trường học kỳ 2/2024 – 2025 dành cho sinh viên bậc Đại học thuộc các chương trình đề án](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/865-v-v-gia-h-n-l-y-y-ki-n-ph-n-h-i-t-ngu-i-h-c-v-ho-t-d-ng-gi-ng-d-y-c-a-nha-tru-ng-h-c-ky-2-2024-2025-danh-cho-sinh-vien-b-c-d-i-h-c-thu-c-cac-chuong-trinh-d-an)
  - [Thông báo SV đánh giá môn học - GV HK2/2024-2025 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/862-thong-bao-sv-danh-gia-moi-tru-ng-h-c-t-p-hk2-2024-2025-chuong-trinh-d-an-cac-khoa)
  - [Thông báo Phúc Khảo HKI/24-25(Các lớp đại trà, CQ khóa 23)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/858-thong-bao-phuc-kh-o-hki-24-25-cac-l-p-d-i-tra-cq-khoa-23)
  - [Thông báo phúc khảo HK1/24-25 hệ Chính quy (Khóa 21, 22, 24) (Đợt bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/856-thong-bao-phuc-kh-o-hk1-24-25-h-chinh-quy-khoa-21-22-24-d-t-b-sung)
  - [Thông báo phúc khảo HK1/24-24 hệ Chính quy (Khóa 21, 22, 24)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/854-thong-bao-phuc-kh-o-hk1-24-24-h-chinh-quy-khoa-21-22-24)
- - [Thông báo phúc khảo HK1/24-25 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/852-thong-bao-phuc-kh-o-hk1-24-25-ct-d-an-cac-khoa)
 
 ***
 
