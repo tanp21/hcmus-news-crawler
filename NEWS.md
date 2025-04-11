@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-11 15:17:44.526254+07:00**_
+_Last update: **2025-04-11 16:14:05.751857+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,7 +62,7 @@ _Last update: **2025-04-11 15:17:44.526254+07:00**_
  - 4-4-2025: [[Media support] AI & IC Design Competition – A Great Opportunity for Students](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16688)
 
 ## Thông tin dành cho sinh viên
-- 11/04/2025: [Thông báo tổ chức hoạt động Workshop khám phá bản thân qua sách “Bạn mạnh mẽ hơn bạn nghĩ” – “Sống đơn giản cho đời thanh thản”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-kham-pha-ban-than-qua-sach-ban-manh-me-hon-ban-nghi-song-don-gian-cho-doi-thanh-than/)
+- 11/04/2025: [Thông báo tổ chức hoạt động Workshop khám phá bản thân qua sách “Vì bạn mạnh mẽ hơn bạn nghĩ” – “Sống đơn giản cho đời thanh thản”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-kham-pha-ban-than-qua-sach-ban-manh-me-hon-ban-nghi-song-don-gian-cho-doi-thanh-than/)
 - 11/04/2025: [Quy chế đào tạo trình độ đại học](https://hcmus.edu.vn/quy-che-dao-tao-trinh-do-dai-hoc/)
 - 10/04/2025: [Thông báo Đăng ký học phần Học kỳ 3 / 2024-2025 – Chương trình CLC, VP, TCTA](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-2024-2025-chuong-trinh-clc-vp-tcta/)
 - 10/04/2025: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2024-2025/)
