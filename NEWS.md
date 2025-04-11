@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-11 13:18:50.986450+07:00**_
+_Last update: **2025-04-11 14:13:01.567497+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-11 13:18:50.986450+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 11-4-2025: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 34/2024 - bắt đầu học 14/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16710)
  - 10-4-2025: [Ngày hội việc làm Công nghệ thông tin năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16707)
  - 10-4-2025: [Thông báo tuyển sinh viên tham gia Chương trình Thực tập hè tại Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc (KAIST) năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16706)
  - 10-4-2025: [[Cập nhật] Thông báo danh sách tham dự chính thức “Hội thảo giới thiệu Doanh nghiệp và vị trí tuyển dụng” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16694)
@@ -59,9 +60,9 @@ _Last update: **2025-04-11 13:18:50.986450+07:00**_
  - 6-4-2025: [Đăng ký tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16692)
  - 6-4-2025: [Đăng kí tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16691)
  - 4-4-2025: [[Media support] AI & IC Design Competition – A Great Opportunity for Students](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16688)
- - 2-4-2025: [Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 34/2024 đối với sinh viên liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16684)
 
 ## Thông tin dành cho sinh viên
+- 11/04/2025: [Thông báo tổ chức hoạt động Workshop khám phá bản thân qua sách “Bạn mạnh mẽ hơn bạn nghĩ” – “Sống đơn giản cho đời thanh thản”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-kham-pha-ban-than-qua-sach-ban-manh-me-hon-ban-nghi-song-don-gian-cho-doi-thanh-than/)
 - 11/04/2025: [Quy chế đào tạo trình độ đại học](https://hcmus.edu.vn/quy-che-dao-tao-trinh-do-dai-hoc/)
 - 10/04/2025: [Thông báo Đăng ký học phần Học kỳ 3 / 2024-2025 – Chương trình CLC, VP, TCTA](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-2024-2025-chuong-trinh-clc-vp-tcta/)
 - 10/04/2025: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2024-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-04-11 13:18:50.986450+07:00**_
 - 03/04/2025: [[Thông báo] Chương trình Nghiên cứu ADM & Chương trình Đào tạo Kỹ sư AI Vingroup](https://hcmus.edu.vn/thong-bao-chuong-trinh-nghien-cuu-adm-chuong-trinh-dao-tao-ky-su-ai-vingroup/)
 - 03/04/2025: [TB v/v tổ chức Sinh hoạt công dân – sinh viên cuối khóa, năm học 2024-2025](https://hcmus.edu.vn/tb-v-v-to-chuc-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2024-2025/)
 - 01/04/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Cộng hòa Séc năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-cong-hoa-sec-nam-2025-bo-giao-duc-va-dao-tao/)
-- 01/04/2025: [[THÔNG BÁO] Tuyển sinh đi học tại Rumani năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-rumani-nam-2025-bo-giao-duc-va-dao-tao/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2024-2025 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/862-thong-bao-sv-danh-gia-moi-tru-ng-h-c-t-p-hk2-2024-2025-chuong-trinh-d-an-cac-khoa)
