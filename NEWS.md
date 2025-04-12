@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-12 16:13:18.706595+07:00**_
+_Last update: **2025-04-12 17:12:10.208771+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-12 16:13:18.706595+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 12-4-2025: [Tổng kết Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16714)
  - 11-4-2025: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 34/2024 - bắt đầu học 14/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16710)
  - 10-4-2025: [Ngày hội việc làm Công nghệ thông tin năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16707)
  - 10-4-2025: [Thông báo tuyển sinh viên tham gia Chương trình Thực tập hè tại Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc (KAIST) năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16706)
@@ -59,7 +60,6 @@ _Last update: **2025-04-12 16:13:18.706595+07:00**_
  - 9-4-2025: [Mời tham dự Hội thảo trực tuyến giới thiệu các chương trình đào tạo Sau đại học ngày 13/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16695)
  - 6-4-2025: [Đăng ký tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16692)
  - 6-4-2025: [Đăng kí tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16691)
- - 4-4-2025: [[Media support] AI & IC Design Competition – A Great Opportunity for Students](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16688)
 
 ## Thông tin dành cho sinh viên
 - 11/04/2025: [Thông báo tổ chức hoạt động Workshop khám phá bản thân qua sách “Vì bạn mạnh mẽ hơn bạn nghĩ” – “Sống đơn giản cho đời thanh thản”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-kham-pha-ban-than-qua-sach-ban-manh-me-hon-ban-nghi-song-don-gian-cho-doi-thanh-than/)
