@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-15 10:01:12.941441+07:00**_
+_Last update: **2025-04-15 11:15:49.377112+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-15 10:01:12.941441+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 15-4-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 33/2023 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16716)
  - 14-4-2025: [Mời tham dự buổi bảo vệ LATS cấp cơ sở đào tạo của NCS Đỗ Đức Hào (17/4/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16715)
  - 12-4-2025: [Tổng kết Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16714)
  - 11-4-2025: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 34/2024 - bắt đầu học 14/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16710)
@@ -59,7 +60,6 @@ _Last update: **2025-04-15 10:01:12.941441+07:00**_
  - 9-4-2025: [Thông báo nghỉ học lớp Cấu trúc dữ liệu và giải thuật - 24CTT1 ngày 16/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16700)
  - 9-4-2025: [Thông báo địa điểm tổ chức Mini-course "Reinforcement Learning: From the Foundations to Learning with Human Feedback and DeepSeek-R1"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16697)
  - 9-4-2025: [Mời tham dự Hội thảo trực tuyến giới thiệu các chương trình đào tạo Sau đại học ngày 13/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16695)
- - 6-4-2025: [Đăng ký tham gia Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16692)
 
 ## Thông tin dành cho sinh viên
 - 15/04/2025: [Thông báo nghỉ lễ ngày Chiến thắng 30/4 và ngày Quốc tế lao động 01/5 năm 2025  đối với sinh viên trình độ đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-nghi-le-ngay-chien-thang-30-4-va-ngay-quoc-te-lao-dong-01-5-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
