@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-15 16:14:44.163173+07:00**_
+_Last update: **2025-04-15 17:14:23.515014+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-15 16:14:44.163173+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 15-4-2025: [Trí tuệ nhân tạo: từ bảo tồn di sản đến định hình công nghệ mới](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16720)
  - 15-4-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 33/2023 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16716)
  - 14-4-2025: [Mời tham dự buổi bảo vệ LATS cấp cơ sở đào tạo của NCS Đỗ Đức Hào (17/4/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16715)
  - 12-4-2025: [Tổng kết Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16714)
@@ -59,7 +60,6 @@ _Last update: **2025-04-15 16:14:44.163173+07:00**_
  - 10-4-2025: [[Cập nhật] Thông báo danh sách tham dự chính thức “Hội thảo giới thiệu Doanh nghiệp và vị trí tuyển dụng” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16694)
  - 9-4-2025: [Thông báo nghỉ học lớp Cấu trúc dữ liệu và giải thuật - 24CTT1 ngày 16/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16700)
  - 9-4-2025: [Thông báo địa điểm tổ chức Mini-course "Reinforcement Learning: From the Foundations to Learning with Human Feedback and DeepSeek-R1"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16697)
- - 9-4-2025: [Mời tham dự Hội thảo trực tuyến giới thiệu các chương trình đào tạo Sau đại học ngày 13/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16695)
 
 ## Thông tin dành cho sinh viên
 - 15/04/2025: [Thông báo gia hạn thời gian nhận chứng chỉ ứng dụng Công nghệ thông tin (SV khóa 2022 đến 2024)](https://hcmus.edu.vn/thong-bao-gia-han-thoi-gian-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-sv-khoa-2022-den-2024/)
