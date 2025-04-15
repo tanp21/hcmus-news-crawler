@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-15 15:18:20.569021+07:00**_
+_Last update: **2025-04-15 16:14:44.163173+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-04-15 15:18:20.569021+07:00**_
  - 9-4-2025: [Mời tham dự Hội thảo trực tuyến giới thiệu các chương trình đào tạo Sau đại học ngày 13/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16695)
 
 ## Thông tin dành cho sinh viên
+- 15/04/2025: [Thông báo gia hạn thời gian nhận chứng chỉ ứng dụng Công nghệ thông tin (SV khóa 2022 đến 2024)](https://hcmus.edu.vn/thong-bao-gia-han-thoi-gian-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-sv-khoa-2022-den-2024/)
 - 15/04/2025: [Thông báo thay đổi phòng học NĐH 4.1, NĐH 4.2 chiều Thứ hai](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-ndh-4-1-ndh-4-2-chieu-thu-hai/)
 - 15/04/2025: [Thông báo nghỉ lễ ngày Chiến thắng 30/4 và ngày Quốc tế lao động 01/5 năm 2025  đối với sinh viên trình độ đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-nghi-le-ngay-chien-thang-30-4-va-ngay-quoc-te-lao-dong-01-5-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
 - 14/04/2025: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2024-2025 ngày 13/04/2025](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2024-2025-ngay-13-04-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-04-15 15:18:20.569021+07:00**_
 - 10/04/2025: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2024-2025/)
 - 09/04/2025: [Thông báo nhận chứng chỉ ứng dụng Công nghệ thông tin (SV khóa 2022 đến 2024)](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-sv-khoa-2022-den-2024/)
 - 08/04/2025: [[THÔNG BÁO] Hội thảo online 13h30 ngày 10/04/2025 của VINGROUP thông tin về hai học bổng miễn phí cho sinh viên VNU-HCMUS](https://hcmus.edu.vn/thong-bao-hoi-thao-online-13h30-ngay-10-04-2025-cua-vingroup-thong-tin-ve-hai-hoc-bong-mien-phi-cho-sinh-vien-vnu-hcmus/)
-- 08/04/2025: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin – hệ Đào tạo từ xa năm 2025 đợt 1](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-nam-2025-dot-1/)
 
 ## Các thông báo về Khảo thí
  - [V/v gia hạn lấy ý kiến phản hồi từ người học về hoạt động giảng dạy của nhà trường học kỳ 2/2024 – 2025 dành cho sinh viên bậc Đại học thuộc các chương trình đề án](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/865-v-v-gia-h-n-l-y-y-ki-n-ph-n-h-i-t-ngu-i-h-c-v-ho-t-d-ng-gi-ng-d-y-c-a-nha-tru-ng-h-c-ky-2-2024-2025-danh-cho-sinh-vien-b-c-d-i-h-c-thu-c-cac-chuong-trinh-d-an)
