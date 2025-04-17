@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-17 10:35:59.335968+07:00**_
+_Last update: **2025-04-17 11:15:53.767737+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-04-17 10:35:59.335968+07:00**_
  - 9-4-2025: [Thông báo địa điểm tổ chức Mini-course "Reinforcement Learning: From the Foundations to Learning with Human Feedback and DeepSeek-R1"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16697)
 
 ## Thông tin dành cho sinh viên
+- 17/04/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-1-nam-2025/)
 - 16/04/2025: [CHƯƠNG TRÌNH HỌC BỔNG BẬC ĐẠI HỌC PANASONIC  NĂM 2025](https://hcmus.edu.vn/chuong-trinh-hoc-bong-bac-dai-hoc-panasonic-nam-2025/)
 - 16/04/2025: [Thông báo chương trình học bổng Gamuda Land Vietnam 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-gamuda-land-vietnam-2025/)
 - 15/04/2025: [Thông báo gia hạn thời gian nhận chứng chỉ ứng dụng Công nghệ thông tin (SV khóa 2022 đến 2024)](https://hcmus.edu.vn/thong-bao-gia-han-thoi-gian-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-sv-khoa-2022-den-2024/)
@@ -71,7 +72,6 @@ _Last update: **2025-04-17 10:35:59.335968+07:00**_
 - 11/04/2025: [Thông báo tổ chức hoạt động Workshop khám phá bản thân qua sách “Vì bạn mạnh mẽ hơn bạn nghĩ” – “Sống đơn giản cho đời thanh thản”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-kham-pha-ban-than-qua-sach-ban-manh-me-hon-ban-nghi-song-don-gian-cho-doi-thanh-than/)
 - 11/04/2025: [Quy chế đào tạo trình độ đại học](https://hcmus.edu.vn/quy-che-dao-tao-trinh-do-dai-hoc/)
 - 10/04/2025: [Thông báo Đăng ký học phần Học kỳ 3 / 2024-2025 – Chương trình CLC, VP, TCTA](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-2024-2025-chuong-trinh-clc-vp-tcta/)
-- 10/04/2025: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2024-2025/)
 
 ## Các thông báo về Khảo thí
  - [V/v gia hạn lấy ý kiến phản hồi từ người học về hoạt động giảng dạy của nhà trường học kỳ 2/2024 – 2025 dành cho sinh viên bậc Đại học thuộc các chương trình đề án](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/865-v-v-gia-h-n-l-y-y-ki-n-ph-n-h-i-t-ngu-i-h-c-v-ho-t-d-ng-gi-ng-d-y-c-a-nha-tru-ng-h-c-ky-2-2024-2025-danh-cho-sinh-vien-b-c-d-i-h-c-thu-c-cac-chuong-trinh-d-an)
