@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-21 16:14:10.307983+07:00**_
+_Last update: **2025-04-21 17:14:03.665632+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-21 16:14:10.307983+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 21-4-2025: [[Phỏng vấn thử - việc thật] V/v Nộp giấy xác nhận phỏng vấn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16734)
  - 21-4-2025: [Đăng ký tham quan công ty Netcompany ngày 9/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16731)
  - 19-4-2025: [Tổng kết Mini-course "Reinforcement Learning: From the Foundations to Learning with Human Feedback and DeepSeek-R1"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16729)
  - 15-4-2025: [Trí tuệ nhân tạo: từ bảo tồn di sản đến định hình công nghệ mới](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16720)
@@ -59,7 +60,6 @@ _Last update: **2025-04-21 16:14:10.307983+07:00**_
  - 11-4-2025: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 34/2024 - bắt đầu học 14/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16710)
  - 10-4-2025: [Ngày hội việc làm Công nghệ thông tin năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16707)
  - 10-4-2025: [Thông báo tuyển sinh viên tham gia Chương trình Thực tập hè tại Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc (KAIST) năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16706)
- - 10-4-2025: [[Cập nhật] Thông báo danh sách tham dự chính thức “Hội thảo giới thiệu Doanh nghiệp và vị trí tuyển dụng” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16694)
 
 ## Thông tin dành cho sinh viên
 - 19/04/2025: [Thông báo thay đổi các phòng học ở lầu 1 nhà F – cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-cac-phong-hoc-o-lau-1-nha-f-co-so-2/)
