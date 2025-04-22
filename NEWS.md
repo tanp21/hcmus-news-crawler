@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-22 10:37:18.217971+07:00**_
+_Last update: **2025-04-22 11:15:37.193685+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-04-22 10:37:18.217971+07:00**_
  - 10-4-2025: [Ngày hội việc làm Công nghệ thông tin năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16707)
 
 ## Thông tin dành cho sinh viên
+- 22/04/2025: [[THÔNG BÁO] Tuyển sinh bổ sung đi học theo diện học bổng Hiệp định tại Liên bang Nga năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-bo-sung-di-hoc-theo-dien-hoc-bong-hiep-dinh-tai-lien-bang-nga-nam-2025-bo-giao-duc-va-dao-tao/)
 - 22/04/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK1/2024-2025](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk1-2024-2025/)
 - 19/04/2025: [Thông báo thay đổi các phòng học ở lầu 1 nhà F – cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-cac-phong-hoc-o-lau-1-nha-f-co-so-2/)
 - 19/04/2025: [Thông báo Tổ chức hoạt động Chuyên đề “An toàn trên không gian mạng: Nhận diện lừa đảo”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-an-toan-tren-khong-gian-ma%cc%a3ng-nha%cc%a3n-die%cc%a3n-lua-da%cc%89o/)
@@ -71,7 +72,6 @@ _Last update: **2025-04-22 10:37:18.217971+07:00**_
 - 17/04/2025: [Thông báo chương trình hỗ trợ laptop cho sinh viên khó khăn HCMUS [Bosch BGSV tài trợ]](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho-tro-laptop-cho-sinh-vien-kho-khan-hcmus-bosch-bgsv-tai-tro-2/)
 - 17/04/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-1-nam-2025/)
 - 16/04/2025: [CHƯƠNG TRÌNH HỌC BỔNG BẬC ĐẠI HỌC PANASONIC  NĂM 2025](https://hcmus.edu.vn/chuong-trinh-hoc-bong-bac-dai-hoc-panasonic-nam-2025/)
-- 16/04/2025: [Thông báo chương trình học bổng Gamuda Land Vietnam 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-gamuda-land-vietnam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt tháng 3 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/866-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-thang-3-nam-2025)
