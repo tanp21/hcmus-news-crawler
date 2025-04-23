@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-23 11:16:24.832316+07:00**_
+_Last update: **2025-04-23 12:13:44.559064+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-23 11:16:24.832316+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 23-4-2025: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16739)
  - 22-4-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16737)
  - 22-4-2025: [Khoa Công nghệ Thông tin – Trường Đại học Khoa học tự nhiên, ĐHQG-HCM đạt chứng nhận kiểm định chất lượng quốc tế ASIIN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16735)
  - 21-4-2025: [[Phỏng vấn thử - việc thật] V/v Nộp giấy xác nhận phỏng vấn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16734)
@@ -59,7 +60,6 @@ _Last update: **2025-04-23 11:16:24.832316+07:00**_
  - 15-4-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 33/2023 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16716)
  - 14-4-2025: [Mời tham dự buổi bảo vệ LATS cấp cơ sở đào tạo của NCS Đỗ Đức Hào (17/4/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16715)
  - 12-4-2025: [Tổng kết Talk 01 - Ngày kết nối và Đại hội Cộng đồng Cựu sinh viên Khoa học năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16714)
- - 11-4-2025: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 34/2024 - bắt đầu học 14/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16710)
 
 ## Thông tin dành cho sinh viên
 - 23/04/2025: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2024-2025/)
