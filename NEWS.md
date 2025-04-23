@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-23 10:37:42.875334+07:00**_
+_Last update: **2025-04-23 11:16:24.832316+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-04-23 10:37:42.875334+07:00**_
  - 11-4-2025: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 34/2024 - bắt đầu học 14/4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16710)
 
 ## Thông tin dành cho sinh viên
+- 23/04/2025: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2024-2025/)
 - 22/04/2025: [Thông báo thực hiện khảo sát đợt Sinh hoạt công dân cuối khóa năm học 2024-2025](https://hcmus.edu.vn/thong-bao-thuc-hien-khao-sat-dot-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2024-2025/)
 - 22/04/2025: [[THÔNG BÁO] Tuyển sinh bổ sung đi học theo diện học bổng Hiệp định tại Liên bang Nga năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-bo-sung-di-hoc-theo-dien-hoc-bong-hiep-dinh-tai-lien-bang-nga-nam-2025-bo-giao-duc-va-dao-tao/)
 - 22/04/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK1/2024-2025](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk1-2024-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-04-23 10:37:42.875334+07:00**_
 - 18/04/2025: [[THÔNG BÁO] Tuyển sinh viên thực tập nghiên cứu tại Hàn Quốc](https://hcmus.edu.vn/thong-bao-tuyen-sinh-vien-thuc-tap-nghien-cuu-tai-han-quoc/)
 - 18/04/2025: [Thông báo nộp hồ sơ xét Hoàn tất chương trình đào tạo trình độ đại học hệ chính quy – Đợt tháng 5 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-dot-thang-5-nam-2025/)
 - 17/04/2025: [Thông báo chương trình hỗ trợ laptop cho sinh viên khó khăn HCMUS [Bosch BGSV tài trợ]](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho-tro-laptop-cho-sinh-vien-kho-khan-hcmus-bosch-bgsv-tai-tro-2/)
-- 17/04/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-1-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt tháng 3 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/866-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-thang-3-nam-2025)
