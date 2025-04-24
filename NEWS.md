@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-04-24 13:19:17.961184+07:00**_
+_Last update: **2025-04-24 14:13:43.551571+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-04-24 13:19:17.961184+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 24-4-2025: [Hội nghị Khoa học Trẻ Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM lần 2, năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16743)
  - 23-4-2025: [[CQ] Thay đổi phòng học các lớp thực hành hình thức 1 từ 28/4/2025, HK2/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16741)
  - 23-4-2025: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16739)
  - 22-4-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16737)
@@ -59,7 +60,6 @@ _Last update: **2025-04-24 13:19:17.961184+07:00**_
  - 19-4-2025: [Tổng kết Mini-course "Reinforcement Learning: From the Foundations to Learning with Human Feedback and DeepSeek-R1"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16729)
  - 15-4-2025: [Trí tuệ nhân tạo: từ bảo tồn di sản đến định hình công nghệ mới](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16720)
  - 15-4-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 33/2023 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16716)
- - 14-4-2025: [Mời tham dự buổi bảo vệ LATS cấp cơ sở đào tạo của NCS Đỗ Đức Hào (17/4/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16715)
 
 ## Thông tin dành cho sinh viên
 - 23/04/2025: [Thông báo kế hoạch mở học phần giai đoạn đại cương trong học kỳ 3/2024-2025 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-giai-doan-dai-cuong-trong-hoc-ky-3-2024-2025-tai-co-so-2/)
