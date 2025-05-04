@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-04 15:15:38.333029+07:00**_
+_Last update: **2025-05-04 16:12:43.932261+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-05-04 15:15:38.333029+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 4-5-2025: [Thông báo đóng học phí chương trình liên thông môn học ĐH-ThS đối với các môn trong Học phần 2 lớp cao học K34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16751)
  - 4-5-2025: [Xin chúc mừng giảng viên và nhóm sinh viên của FIT@HCMUS đã báo cáo thành công tại hội nghị uy tín quốc tế](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16750)
  - 25-4-2025: [Đăng ký tham quan VNG ngày 19/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16748)
  - 24-4-2025: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 5/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16744)
@@ -59,7 +60,6 @@ _Last update: **2025-05-04 15:15:38.333029+07:00**_
  - 22-4-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16737)
  - 22-4-2025: [Khoa Công nghệ Thông tin – Trường Đại học Khoa học tự nhiên, ĐHQG-HCM đạt chứng nhận kiểm định chất lượng quốc tế ASIIN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16735)
  - 21-4-2025: [[Phỏng vấn thử - việc thật] V/v Nộp giấy xác nhận phỏng vấn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16734)
- - 21-4-2025: [Đăng ký tham quan công ty Netcompany ngày 9/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16731)
 
 ## Thông tin dành cho sinh viên
 - 29/04/2025: [Thông báo nghỉ học môn Kinh tế chính trị chiều Thứ 2 ngày 05/5/25](https://hcmus.edu.vn/thong-bao-nghi-hoc-mon-kinh-te-chinh-tri-chieu-thu-2-ngay-05-5-25/)
