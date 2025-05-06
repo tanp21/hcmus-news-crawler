@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-06 15:18:47.595688+07:00**_
+_Last update: **2025-05-06 16:14:23.009660+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-05-06 15:18:47.595688+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 6-5-2025: [Danh sách sinh viên tham quan VNG ngày 19/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16759)
  - 6-5-2025: [Góc Sẻ Chia - We Talk 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16758)
  - 6-5-2025: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16755)
  - 5-5-2025: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T4, T5/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16753)
@@ -59,7 +60,6 @@ _Last update: **2025-05-06 15:18:47.595688+07:00**_
  - 24-4-2025: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 5/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16744)
  - 24-4-2025: [Hội nghị Khoa học Trẻ Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM lần 2, năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16743)
  - 23-4-2025: [[CQ] Thay đổi phòng học các lớp thực hành hình thức 1 từ 28/4/2025, HK2/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16741)
- - 23-4-2025: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16739)
 
 ## Thông tin dành cho sinh viên
 - 06/05/2025: [[THÔNG BÁO] Sự kiện “UQ Info Day events” của Trường Đại học Queensland, Úc (UQ)](https://hcmus.edu.vn/thong-bao-su-kien-uq-info-day-events-cua-truong-dai-hoc-queensland-uc-uq/)
