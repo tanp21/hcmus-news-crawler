@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-06 10:04:29.032188+07:00**_
+_Last update: **2025-05-06 11:16:47.251926+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2025-05-06 10:04:29.032188+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 6-5-2025: [Góc Sẻ Chia - We Talk 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16758)
+ - 6-5-2025: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16755)
  - 5-5-2025: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T4, T5/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16753)
  - 4-5-2025: [Thông báo đóng học phí chương trình liên thông môn học ĐH-ThS đối với các môn trong Học phần 2 lớp cao học K34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16751)
  - 4-5-2025: [Xin chúc mừng giảng viên và nhóm sinh viên của FIT@HCMUS đã báo cáo thành công tại hội nghị uy tín quốc tế](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16750)
@@ -58,10 +60,10 @@ _Last update: **2025-05-06 10:04:29.032188+07:00**_
  - 24-4-2025: [Hội nghị Khoa học Trẻ Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM lần 2, năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16743)
  - 23-4-2025: [[CQ] Thay đổi phòng học các lớp thực hành hình thức 1 từ 28/4/2025, HK2/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16741)
  - 23-4-2025: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16739)
- - 22-4-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16737)
- - 22-4-2025: [Khoa Công nghệ Thông tin – Trường Đại học Khoa học tự nhiên, ĐHQG-HCM đạt chứng nhận kiểm định chất lượng quốc tế ASIIN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16735)
 
 ## Thông tin dành cho sinh viên
+- 06/05/2025: [[THÔNG BÁO] Sự kiện “UQ Info Day events” của Trường Đại học Queensland, Úc (UQ)](https://hcmus.edu.vn/thong-bao-su-kien-uq-info-day-events-cua-truong-dai-hoc-queensland-uc-uq/)
+- 06/05/2025: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2024-2025](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2024-2025/)
 - 29/04/2025: [Thông báo nghỉ học môn Kinh tế chính trị chiều Thứ 2 ngày 05/5/25](https://hcmus.edu.vn/thong-bao-nghi-hoc-mon-kinh-te-chinh-tri-chieu-thu-2-ngay-05-5-25/)
 - 28/04/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Ateneo de Manila University, Philippines](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-ateneo-de-manila-university-philippines/)
 - 23/04/2025: [Thông báo kế hoạch mở học phần giai đoạn đại cương trong học kỳ 3/2024-2025 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-giai-doan-dai-cuong-trong-hoc-ky-3-2024-2025-tai-co-so-2/)
@@ -70,8 +72,6 @@ _Last update: **2025-05-06 10:04:29.032188+07:00**_
 - 22/04/2025: [[THÔNG BÁO] Tuyển sinh bổ sung đi học theo diện học bổng Hiệp định tại Liên bang Nga năm 2025 – Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-tuyen-sinh-bo-sung-di-hoc-theo-dien-hoc-bong-hiep-dinh-tai-lien-bang-nga-nam-2025-bo-giao-duc-va-dao-tao/)
 - 22/04/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK1/2024-2025](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk1-2024-2025/)
 - 19/04/2025: [Thông báo thay đổi các phòng học ở lầu 1 nhà F – cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-cac-phong-hoc-o-lau-1-nha-f-co-so-2/)
-- 19/04/2025: [Thông báo Tổ chức hoạt động Chuyên đề “An toàn trên không gian mạng: Nhận diện lừa đảo”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-an-toan-tren-khong-gian-ma%cc%a3ng-nha%cc%a3n-die%cc%a3n-lua-da%cc%89o/)
-- 19/04/2025: [Thông báo Tổ chức hoạt động Chuyên đề “Lịch sử chiến thắng 30/4 – Ý nghĩa và trách nhiệm của thế hệ trẻ”](https://hcmus.edu.vn/thong-to-chuc-hoat-dong-chuyen-de-lich-su-chien-thang-30-4-y-nghia-va-trach-nhiem-cua-the-he-tre/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt tháng 3 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/866-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-thang-3-nam-2025)
