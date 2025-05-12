@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-12 13:20:24.702022+07:00**_
+_Last update: **2025-05-12 14:14:09.095973+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-05-12 13:20:24.702022+07:00**_
  - 5-5-2025: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T4, T5/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16753)
 
 ## Thông tin dành cho sinh viên
+- 12/05/2025: [[THÔNG BÁO] Chương trình BUU Summer Cultural Camp – Trường Đại học Burapha (BUU), Thái Lan](https://hcmus.edu.vn/thong-bao-chuong-trinh-buu-summer-cultural-camp-truong-dai-hoc-burapha-buu-thai-lan/)
 - 09/05/2025: [[THÔNG BÁO] Chương trình Join MCUT Summer Camp 2025 của đại học Kỹ Thuật Ming Chi (MCUT)](https://hcmus.edu.vn/thong-bao-chuong-trinh-join-mcut-summer-camp-2025-cua-dai-hoc-ky-thuat-ming-chi-mcut/)
 - 09/05/2025: [Thông báoThay đổi phòng học dãy D lầu 2, cơ sở 2](https://hcmus.edu.vn/thong-baothay-doi-phong-hoc-day-d-lau-2/)
 - 08/05/2025: [Thông báo thay đổi phòng học môn Toán cao cấp C/24SHH1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-toan-cao-cap-c-24shh1/)
@@ -71,7 +72,6 @@ _Last update: **2025-05-12 13:20:24.702022+07:00**_
 - 29/04/2025: [Thông báo nghỉ học môn Kinh tế chính trị chiều Thứ 2 ngày 05/5/25](https://hcmus.edu.vn/thong-bao-nghi-hoc-mon-kinh-te-chinh-tri-chieu-thu-2-ngay-05-5-25/)
 - 28/04/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Ateneo de Manila University, Philippines](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-ateneo-de-manila-university-philippines/)
 - 23/04/2025: [Thông báo kế hoạch mở học phần giai đoạn đại cương trong học kỳ 3/2024-2025 tại cơ sở 2 (Update)](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-giai-doan-dai-cuong-trong-hoc-ky-3-2024-2025-tai-co-so-2/)
-- 23/04/2025: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2024-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2024-2025 (Bậc Đại học hệ Chính quy)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/868-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2024-2025-b-c-d-i-h-c-h-chinh-quy)
