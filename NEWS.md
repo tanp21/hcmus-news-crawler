@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-12 08:08:13.012288+07:00**_
+_Last update: **2025-05-12 10:10:01.735674+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-05-12 08:08:13.012288+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 12-5-2025: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16775)
  - 8-5-2025: [Đăng ký tham quan công ty KMS Technology ngày 22/05](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16770)
  - 7-5-2025: [[Media support] French Tech Summit Vietnam 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16767)
  - 7-5-2025: [Tiến sĩ Lê Ngọc Thành được bổ nhiệm Phó trưởng khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16766)
@@ -59,7 +60,6 @@ _Last update: **2025-05-12 08:08:13.012288+07:00**_
  - 6-5-2025: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16755)
  - 5-5-2025: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T4, T5/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16753)
  - 4-5-2025: [Thông báo đóng học phí chương trình liên thông môn học ĐH-ThS đối với các môn trong Học phần 2 lớp cao học K34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16751)
- - 4-5-2025: [Xin chúc mừng giảng viên và nhóm sinh viên của FIT@HCMUS đã báo cáo thành công tại hội nghị uy tín quốc tế](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16750)
 
 ## Thông tin dành cho sinh viên
 - 09/05/2025: [[THÔNG BÁO] Chương trình Join MCUT Summer Camp 2025 của đại học Kỹ Thuật Ming Chi (MCUT)](https://hcmus.edu.vn/thong-bao-chuong-trinh-join-mcut-summer-camp-2025-cua-dai-hoc-ky-thuat-ming-chi-mcut/)
