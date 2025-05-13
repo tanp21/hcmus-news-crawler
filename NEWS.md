@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-13 18:11:53.979018+07:00**_
+_Last update: **2025-05-13 19:27:48.627023+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-05-13 18:11:53.979018+07:00**_
  - 6-5-2025: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16755)
 
 ## Thông tin dành cho sinh viên
+- 13/05/2025: [Lấy ý kiến góp ý 02 Dự thảo Văn bản QPPL](https://hcmus.edu.vn/lay-y-kien-gop-y-02-du-thao-van-ban-qppl/)
 - 12/05/2025: [Thông báo tuyển chọn lực lượng (nữ) tham gia diễu binh, diễu hành kỷ niệm 80 năm CMT8 và Quốc khánh 02/9](https://hcmus.edu.vn/thong-bao-tuyen-chon-luc-luong-tham-gia-dieu-binh-dieu-hanh-ky-niem-80-nam-cmt8-va-quoc-khanh-02-9/)
 - 12/05/2025: [[THÔNG BÁO] Chương trình BUU Summer Cultural Camp – Trường Đại học Burapha (BUU), Thái Lan](https://hcmus.edu.vn/thong-bao-chuong-trinh-buu-summer-cultural-camp-truong-dai-hoc-burapha-buu-thai-lan/)
 - 09/05/2025: [[THÔNG BÁO] Chương trình Join MCUT Summer Camp 2025 của đại học Kỹ Thuật Ming Chi (MCUT)](https://hcmus.edu.vn/thong-bao-chuong-trinh-join-mcut-summer-camp-2025-cua-dai-hoc-ky-thuat-ming-chi-mcut/)
@@ -71,7 +72,6 @@ _Last update: **2025-05-13 18:11:53.979018+07:00**_
 - 06/05/2025: [[THÔNG BÁO] Sự kiện “UQ Info Day events” của Trường Đại học Queensland, Úc (UQ)](https://hcmus.edu.vn/thong-bao-su-kien-uq-info-day-events-cua-truong-dai-hoc-queensland-uc-uq/)
 - 06/05/2025: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2024-2025/)
 - 29/04/2025: [Thông báo nghỉ học môn Kinh tế chính trị chiều Thứ 2 ngày 05/5/25](https://hcmus.edu.vn/thong-bao-nghi-hoc-mon-kinh-te-chinh-tri-chieu-thu-2-ngay-05-5-25/)
-- 28/04/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Ateneo de Manila University, Philippines](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-ateneo-de-manila-university-philippines/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2024-2025 (Bậc Đại học hệ Chính quy)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/868-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2024-2025-b-c-d-i-h-c-h-chinh-quy)
