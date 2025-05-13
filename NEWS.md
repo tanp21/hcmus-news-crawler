@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-13 19:27:48.627023+07:00**_
+_Last update: **2025-05-13 20:28:07.101447+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,7 +62,7 @@ _Last update: **2025-05-13 19:27:48.627023+07:00**_
  - 6-5-2025: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16755)
 
 ## Thông tin dành cho sinh viên
-- 13/05/2025: [Lấy ý kiến góp ý 02 Dự thảo Văn bản QPPL](https://hcmus.edu.vn/lay-y-kien-gop-y-02-du-thao-van-ban-qppl/)
+- 13/05/2025: [Lấy ý kiến dự thảo văn bản quy phạm pháp luật](https://hcmus.edu.vn/lay-y-kien-gop-y-02-du-thao-van-ban-qppl/)
 - 12/05/2025: [Thông báo tuyển chọn lực lượng (nữ) tham gia diễu binh, diễu hành kỷ niệm 80 năm CMT8 và Quốc khánh 02/9](https://hcmus.edu.vn/thong-bao-tuyen-chon-luc-luong-tham-gia-dieu-binh-dieu-hanh-ky-niem-80-nam-cmt8-va-quoc-khanh-02-9/)
 - 12/05/2025: [[THÔNG BÁO] Chương trình BUU Summer Cultural Camp – Trường Đại học Burapha (BUU), Thái Lan](https://hcmus.edu.vn/thong-bao-chuong-trinh-buu-summer-cultural-camp-truong-dai-hoc-burapha-buu-thai-lan/)
 - 09/05/2025: [[THÔNG BÁO] Chương trình Join MCUT Summer Camp 2025 của đại học Kỹ Thuật Ming Chi (MCUT)](https://hcmus.edu.vn/thong-bao-chuong-trinh-join-mcut-summer-camp-2025-cua-dai-hoc-ky-thuat-ming-chi-mcut/)
