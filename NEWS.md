@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-14 11:17:22.107591+07:00**_
+_Last update: **2025-05-14 12:14:00.819934+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-05-14 11:17:22.107591+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 14-5-2025: [Danh sách sinh viên tham quan công ty KMS Technology ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16782)
  - 13-5-2025: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2024 - 2025 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16779)
  - 12-5-2025: [Khảo sát nguyện vọng ngành/ chuyên ngành Khóa 2023 - Chương trình chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16777)
  - 12-5-2025: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16775)
@@ -59,7 +60,6 @@ _Last update: **2025-05-14 11:17:22.107591+07:00**_
  - 6-5-2025: [Mời tham dự buổi bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt tháng 5/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16760)
  - 6-5-2025: [Danh sách sinh viên tham quan VNG ngày 19/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16759)
  - 6-5-2025: [Góc Sẻ Chia - We Talk 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16758)
- - 6-5-2025: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16755)
 
 ## Thông tin dành cho sinh viên
 - 14/05/2025: [Thông báo nhận chứng chỉ Tin học (đợt 2)](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-tin-hoc-dot-2/)
