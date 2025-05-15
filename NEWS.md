@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-15 16:14:33.299280+07:00**_
+_Last update: **2025-05-15 17:14:47.003366+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2025-05-15 16:14:33.299280+07:00**_
  - 30/09/2021: [CTĐA_Kế hoạch năm học 2021-2022](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda_ke-hoach-nam-hoc-2021-2022-2/)
 
 ### Giáo vụ
+ - 10/05/2025: [CTĐA_Thời khóa biểu học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda_thoi-khoa-bieu-hoc-ky-3-nam-hoc-2024-2025/)
  - 16/04/2025: [[CTĐA] Lịch thi chi tiết cuối kỳ HK2/2425](https://www.ctda.hcmus.edu.vn/vi/2025/04/ctda-lich-thi-chi-tiet-cuoi-ky-hk2-2425/)
  - 26/03/2025: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 1 (bảo vệ tháng 8/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/03/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2021-dot-1-bao-ve-thang-8-2025/)
  - 10/03/2025: [[CTĐA] Chương trình thực tập thực tế học kỳ 3 năm học 2024-2025 dành cho sinh viên CTĐA](https://www.ctda.hcmus.edu.vn/vi/2025/03/ctda-chuong-trinh-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025-danh-cho-sinh-vien-ctda/)
@@ -23,7 +24,6 @@ _Last update: **2025-05-15 16:14:33.299280+07:00**_
  - 10/01/2025: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025/)
  - 05/01/2025: [CTĐA_Thời khóa biểu học kỳ 2 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/ctda_thoi-khoa-bieu-hoc-ky-2-nam-hoc-2024-2025/)
  - 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
- - 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
 
 ### Trợ lí sinh viên
  - 28/04/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/04/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk1-2024-2025/)
@@ -50,6 +50,7 @@ _Last update: **2025-05-15 16:14:33.299280+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 15-5-2025: [[CQ] Kế hoạch giảng dạy học kỳ 3, năm học 2024-2025 (học kỳ hè)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16787)
  - 15-5-2025: [Chương trình hỗ trợ kinh phí đăng bài báo khoa học dành cho học viên cao học](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16784)
  - 14-5-2025: [Danh sách sinh viên tham quan công ty KMS Technology ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16782)
  - 13-5-2025: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2024 - 2025 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16779)
@@ -59,7 +60,6 @@ _Last update: **2025-05-15 16:14:33.299280+07:00**_
  - 7-5-2025: [[Media support] French Tech Summit Vietnam 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16767)
  - 7-5-2025: [Tiến sĩ Lê Ngọc Thành được bổ nhiệm Phó trưởng khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16766)
  - 6-5-2025: [Mời tham dự buổi bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt tháng 5/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16760)
- - 6-5-2025: [Danh sách sinh viên tham quan VNG ngày 19/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16759)
 
 ## Thông tin dành cho sinh viên
 - 14/05/2025: [Thông báo nhận chứng chỉ Tin học (đợt 2)](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-tin-hoc-dot-2/)
