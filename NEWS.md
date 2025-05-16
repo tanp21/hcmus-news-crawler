@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-16 16:14:13.703138+07:00**_
+_Last update: **2025-05-16 17:14:25.596899+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-05-16 16:14:13.703138+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 16-5-2025: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2024 - 2025 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16788)
  - 15-5-2025: [[CQ] Kế hoạch giảng dạy học kỳ 3, năm học 2024-2025 (học kỳ hè)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16787)
  - 15-5-2025: [Chương trình hỗ trợ kinh phí đăng bài báo khoa học dành cho học viên cao học](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16784)
  - 14-5-2025: [Danh sách sinh viên tham quan công ty KMS Technology ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16782)
@@ -59,7 +60,6 @@ _Last update: **2025-05-16 16:14:13.703138+07:00**_
  - 8-5-2025: [Đăng ký tham quan công ty KMS Technology ngày 22/05](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16770)
  - 7-5-2025: [[Media support] French Tech Summit Vietnam 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16767)
  - 7-5-2025: [Tiến sĩ Lê Ngọc Thành được bổ nhiệm Phó trưởng khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16766)
- - 6-5-2025: [Mời tham dự buổi bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt tháng 5/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16760)
 
 ## Thông tin dành cho sinh viên
 - 14/05/2025: [Thông báo nhận chứng chỉ Tin học (đợt 2)](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-tin-hoc-dot-2/)
