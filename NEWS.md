@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-20 17:15:08.510900+07:00**_
+_Last update: **2025-05-20 18:11:53.656913+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-05-20 17:15:08.510900+07:00**_
  - 7-5-2025: [[Media support] French Tech Summit Vietnam 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16767)
 
 ## Thông tin dành cho sinh viên
+- 20/05/2025: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK1/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk1-2024-2025-chuong-trinh-chuan/)
 - 20/05/2025: [Thông báo nghỉ học các lớp tại các phòng máy tính Nhà điều hành vào thứ 7](https://hcmus.edu.vn/thong-bao-nghi-hoc-cac-lop-tai-cac-phong-may-tinh-nha-dieu-hanh-vao-thu-7/)
 - 20/05/2025: [Thay đổi phòng học lớp Lịch sử Đảng Cộng sản Việt Nam lớp 23_1](https://hcmus.edu.vn/thay-doi-phong-hoc-lop-lich-su-dang-cong-san-viet-nam-lop-23_1/)
 - 20/05/2025: [THÔNG BÁO V/v khảo sát nhu cầu vay vốn đối với HSSV/HV/NCS theo học các ngành STEM](https://hcmus.edu.vn/thong-bao-v-v-khao-sat-nhu-cau-vay-von-doi-voi-hssv-hv-ncs-theo-hoc-cac-nganh-stem/)
@@ -71,7 +72,6 @@ _Last update: **2025-05-20 17:15:08.510900+07:00**_
 - 12/05/2025: [[THÔNG BÁO] Chương trình BUU Summer Cultural Camp – Trường Đại học Burapha (BUU), Thái Lan](https://hcmus.edu.vn/thong-bao-chuong-trinh-buu-summer-cultural-camp-truong-dai-hoc-burapha-buu-thai-lan/)
 - 09/05/2025: [[THÔNG BÁO] Chương trình Join MCUT Summer Camp 2025 của đại học Kỹ Thuật Ming Chi (MCUT)](https://hcmus.edu.vn/thong-bao-chuong-trinh-join-mcut-summer-camp-2025-cua-dai-hoc-ky-thuat-ming-chi-mcut/)
 - 09/05/2025: [Thông báoThay đổi phòng học dãy D lầu 2, cơ sở 2](https://hcmus.edu.vn/thong-baothay-doi-phong-hoc-day-d-lau-2/)
-- 08/05/2025: [Thông báo thay đổi phòng học môn Toán cao cấp C/24SHH1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-toan-cao-cap-c-24shh1/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/870-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-khoa-cntt)
