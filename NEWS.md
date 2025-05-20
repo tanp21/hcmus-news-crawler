@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-20 14:13:36.883673+07:00**_
+_Last update: **2025-05-20 15:19:22.692119+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,8 @@ _Last update: **2025-05-20 14:13:36.883673+07:00**_
  - 7-5-2025: [Tiến sĩ Lê Ngọc Thành được bổ nhiệm Phó trưởng khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16766)
 
 ## Thông tin dành cho sinh viên
+- 20/05/2025: [Thông báo nghỉ học các lớp tại các phòng máy tính Nhà điều hành vào thứ 7](https://hcmus.edu.vn/thong-bao-nghi-hoc-cac-lop-tai-cac-phong-may-tinh-nha-dieu-hanh-vao-thu-7/)
+- 20/05/2025: [Thay đổi phòng học lớp Lịch sử Đảng Cộng sản Việt Nam lớp 23_1](https://hcmus.edu.vn/thay-doi-phong-hoc-lop-lich-su-dang-cong-san-viet-nam-lop-23_1/)
 - 20/05/2025: [THÔNG BÁO V/v khảo sát nhu cầu vay vốn đối với HSSV/HV/NCS theo học các ngành STEM](https://hcmus.edu.vn/thong-bao-v-v-khao-sat-nhu-cau-vay-von-doi-voi-hssv-hv-ncs-theo-hoc-cac-nganh-stem/)
 - 14/05/2025: [Thông báo nhận chứng chỉ Tin học (đợt 2)](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-tin-hoc-dot-2/)
 - 13/05/2025: [Lấy ý kiến dự thảo văn bản quy phạm pháp luật](https://hcmus.edu.vn/lay-y-kien-gop-y-02-du-thao-van-ban-qppl/)
@@ -70,8 +72,6 @@ _Last update: **2025-05-20 14:13:36.883673+07:00**_
 - 09/05/2025: [[THÔNG BÁO] Chương trình Join MCUT Summer Camp 2025 của đại học Kỹ Thuật Ming Chi (MCUT)](https://hcmus.edu.vn/thong-bao-chuong-trinh-join-mcut-summer-camp-2025-cua-dai-hoc-ky-thuat-ming-chi-mcut/)
 - 09/05/2025: [Thông báoThay đổi phòng học dãy D lầu 2, cơ sở 2](https://hcmus.edu.vn/thong-baothay-doi-phong-hoc-day-d-lau-2/)
 - 08/05/2025: [Thông báo thay đổi phòng học môn Toán cao cấp C/24SHH1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-toan-cao-cap-c-24shh1/)
-- 06/05/2025: [Lễ kỷ niệm 30 năm thành lập Thư viện – Trường Đại học Khoa học tự nhiên, ĐHQG-HCM](https://hcmus.edu.vn/le-ky-niem-30-nam-thanh-lap-thu-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
-- 06/05/2025: [[THÔNG BÁO] Sự kiện “UQ Info Day events” của Trường Đại học Queensland, Úc (UQ)](https://hcmus.edu.vn/thong-bao-su-kien-uq-info-day-events-cua-truong-dai-hoc-queensland-uc-uq/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/870-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-khoa-cntt)
