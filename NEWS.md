@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-20 11:17:16.941135+07:00**_
+_Last update: **2025-05-20 12:14:02.233867+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,7 +50,7 @@ _Last update: **2025-05-20 11:17:16.941135+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
- - 16-5-2025: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2024 - 2025 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16788)
+ - 20-5-2025: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2024 - 2025 (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16791)
  - 15-5-2025: [[CQ] Kế hoạch giảng dạy học kỳ 3, năm học 2024-2025 (học kỳ hè)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16787)
  - 15-5-2025: [Chương trình hỗ trợ kinh phí đăng bài báo khoa học dành cho học viên cao học](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16784)
  - 14-5-2025: [Danh sách sinh viên tham quan công ty KMS Technology ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16782)
@@ -62,6 +62,7 @@ _Last update: **2025-05-20 11:17:16.941135+07:00**_
  - 7-5-2025: [Tiến sĩ Lê Ngọc Thành được bổ nhiệm Phó trưởng khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16766)
 
 ## Thông tin dành cho sinh viên
+- 20/05/2025: [THÔNG BÁO V/v khảo sát nhu cầu vay vốn đối với HSSV/HV/NCS theo học các ngành STEM](https://hcmus.edu.vn/thong-bao-v-v-khao-sat-nhu-cau-vay-von-doi-voi-hssv-hv-ncs-theo-hoc-cac-nganh-stem/)
 - 14/05/2025: [Thông báo nhận chứng chỉ Tin học (đợt 2)](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-tin-hoc-dot-2/)
 - 13/05/2025: [Lấy ý kiến dự thảo văn bản quy phạm pháp luật](https://hcmus.edu.vn/lay-y-kien-gop-y-02-du-thao-van-ban-qppl/)
 - 12/05/2025: [Thông báo tuyển chọn lực lượng (nữ) tham gia diễu binh, diễu hành kỷ niệm 80 năm CMT8 và Quốc khánh 02/9](https://hcmus.edu.vn/thong-bao-tuyen-chon-luc-luong-tham-gia-dieu-binh-dieu-hanh-ky-niem-80-nam-cmt8-va-quoc-khanh-02-9/)
@@ -71,7 +72,6 @@ _Last update: **2025-05-20 11:17:16.941135+07:00**_
 - 08/05/2025: [Thông báo thay đổi phòng học môn Toán cao cấp C/24SHH1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-toan-cao-cap-c-24shh1/)
 - 06/05/2025: [Lễ kỷ niệm 30 năm thành lập Thư viện – Trường Đại học Khoa học tự nhiên, ĐHQG-HCM](https://hcmus.edu.vn/le-ky-niem-30-nam-thanh-lap-thu-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 - 06/05/2025: [[THÔNG BÁO] Sự kiện “UQ Info Day events” của Trường Đại học Queensland, Úc (UQ)](https://hcmus.edu.vn/thong-bao-su-kien-uq-info-day-events-cua-truong-dai-hoc-queensland-uc-uq/)
-- 06/05/2025: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2024-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/870-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-khoa-cntt)
