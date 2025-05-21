@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-21 13:20:05.730694+07:00**_
+_Last update: **2025-05-21 14:13:14.357830+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -14,7 +14,7 @@ _Last update: **2025-05-21 13:20:05.730694+07:00**_
  - 30/09/2021: [CTĐA_Kế hoạch năm học 2021-2022](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda_ke-hoach-nam-hoc-2021-2022-2/)
 
 ### Giáo vụ
- - 21/05/2025: [[CTDA] – Thông báo phúc khảo HK2/2425](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-thong-bao-phuc-khao-hk2-2425/)
+ - 21/05/2025: [[CTĐA] – Thông báo phúc khảo HK2/2425](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-thong-bao-phuc-khao-hk2-2425/)
  - 10/05/2025: [CTĐA_Thời khóa biểu học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda_thoi-khoa-bieu-hoc-ky-3-nam-hoc-2024-2025/)
  - 16/04/2025: [[CTĐA] Lịch thi chi tiết cuối kỳ HK2/2425](https://www.ctda.hcmus.edu.vn/vi/2025/04/ctda-lich-thi-chi-tiet-cuoi-ky-hk2-2425/)
  - 26/03/2025: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 1 (bảo vệ tháng 8/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/03/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2021-dot-1-bao-ve-thang-8-2025/)
@@ -66,7 +66,7 @@ _Last update: **2025-05-21 13:20:05.730694+07:00**_
 - 20/05/2025: [Thông báo nghỉ học các lớp tại các phòng máy tính Nhà điều hành vào thứ 7](https://hcmus.edu.vn/thong-bao-nghi-hoc-cac-lop-tai-cac-phong-may-tinh-nha-dieu-hanh-vao-thu-7/)
 - 20/05/2025: [Thay đổi phòng học lớp Lịch sử Đảng Cộng sản Việt Nam lớp 23_1](https://hcmus.edu.vn/thay-doi-phong-hoc-lop-lich-su-dang-cong-san-viet-nam-lop-23_1/)
 - 20/05/2025: [THÔNG BÁO V/v khảo sát nhu cầu vay vốn đối với HSSV/HV/NCS theo học các ngành STEM](https://hcmus.edu.vn/thong-bao-v-v-khao-sat-nhu-cau-vay-von-doi-voi-hssv-hv-ncs-theo-hoc-cac-nganh-stem/)
-- 14/05/2025: [Thông báo nhận chứng chỉ Tin học (đợt 2)](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-tin-hoc-dot-2/)
+- 14/05/2025: [Thông báo nhận chứng chỉ Tin học (đợt 2) tại phòng F103 ngày 22 và 23/05/2025](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-tin-hoc-dot-2/)
 - 13/05/2025: [Lấy ý kiến dự thảo văn bản quy phạm pháp luật](https://hcmus.edu.vn/lay-y-kien-gop-y-02-du-thao-van-ban-qppl/)
 - 12/05/2025: [Thông báo tuyển chọn lực lượng (nữ) tham gia diễu binh, diễu hành kỷ niệm 80 năm CMT8 và Quốc khánh 02/9](https://hcmus.edu.vn/thong-bao-tuyen-chon-luc-luong-tham-gia-dieu-binh-dieu-hanh-ky-niem-80-nam-cmt8-va-quoc-khanh-02-9/)
 - 12/05/2025: [[THÔNG BÁO] Chương trình BUU Summer Cultural Camp – Trường Đại học Burapha (BUU), Thái Lan](https://hcmus.edu.vn/thong-bao-chuong-trinh-buu-summer-cultural-camp-truong-dai-hoc-burapha-buu-thai-lan/)
