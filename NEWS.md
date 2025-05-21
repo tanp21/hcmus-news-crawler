@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-21 10:07:44.688309+07:00**_
+_Last update: **2025-05-21 11:17:47.130245+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2025-05-21 10:07:44.688309+07:00**_
  - 30/09/2021: [CTĐA_Kế hoạch năm học 2021-2022](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda_ke-hoach-nam-hoc-2021-2022-2/)
 
 ### Giáo vụ
+ - 21/05/2025: [[CTDA] – Thông báo phúc khảo HK2/2425](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-thong-bao-phuc-khao-hk2-2425/)
  - 10/05/2025: [CTĐA_Thời khóa biểu học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda_thoi-khoa-bieu-hoc-ky-3-nam-hoc-2024-2025/)
  - 16/04/2025: [[CTĐA] Lịch thi chi tiết cuối kỳ HK2/2425](https://www.ctda.hcmus.edu.vn/vi/2025/04/ctda-lich-thi-chi-tiet-cuoi-ky-hk2-2425/)
  - 26/03/2025: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 1 (bảo vệ tháng 8/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/03/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2021-dot-1-bao-ve-thang-8-2025/)
@@ -23,7 +24,6 @@ _Last update: **2025-05-21 10:07:44.688309+07:00**_
  - 05/02/2025: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ 08/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-08-2025/)
  - 10/01/2025: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025/)
  - 05/01/2025: [CTĐA_Thời khóa biểu học kỳ 2 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/ctda_thoi-khoa-bieu-hoc-ky-2-nam-hoc-2024-2025/)
- - 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 
 ### Trợ lí sinh viên
  - 28/04/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/04/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk1-2024-2025/)
