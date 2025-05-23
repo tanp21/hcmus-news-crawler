@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-23 14:13:32.712228+07:00**_
+_Last update: **2025-05-23 15:18:25.918578+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2025-05-23 14:13:32.712228+07:00**_
  - 30/09/2021: [CTĐA_Kế hoạch năm học 2021-2022](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda_ke-hoach-nam-hoc-2021-2022-2/)
 
 ### Giáo vụ
+ - 23/05/2025: [Mời tham gia sinh hoạt về việc hoàn thành khối kiến thức tốt nghiệp – Vào lúc 8:30 ngày 30/05/2025 (sáng thứ 6)](https://www.ctda.hcmus.edu.vn/vi/2025/05/moi-tham-gia-sinh-hoat-ve-viec-hoan-thanh-khoi-kien-thuc-tot-nghiep-vao-luc-830-ngay-30-05-2025-sang-thu-6/)
  - 21/05/2025: [[CTĐA] – Thông báo phúc khảo HK2/2425](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-thong-bao-phuc-khao-hk2-2425/)
  - 10/05/2025: [CTĐA_Thời khóa biểu học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda_thoi-khoa-bieu-hoc-ky-3-nam-hoc-2024-2025/)
  - 16/04/2025: [[CTĐA] Lịch thi chi tiết cuối kỳ HK2/2425](https://www.ctda.hcmus.edu.vn/vi/2025/04/ctda-lich-thi-chi-tiet-cuoi-ky-hk2-2425/)
@@ -23,7 +24,6 @@ _Last update: **2025-05-23 14:13:32.712228+07:00**_
  - 05/02/2025: [[CTDA] – Thông báo phúc khảo HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-thong-bao-phuc-khao-hk1-2425/)
  - 05/02/2025: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ 08/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-08-2025/)
  - 10/01/2025: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025/)
- - 05/01/2025: [CTĐA_Thời khóa biểu học kỳ 2 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/ctda_thoi-khoa-bieu-hoc-ky-2-nam-hoc-2024-2025/)
 
 ### Trợ lí sinh viên
  - 22/05/2025: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2024 – 2025 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2025/05/danh-sach-sinh-vien-da-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2024-2025-cap-nhat/)
@@ -62,6 +62,7 @@ _Last update: **2025-05-23 14:13:32.712228+07:00**_
  - 12-5-2025: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16775)
 
 ## Thông tin dành cho sinh viên
+- 23/05/2025: [Kết quả xét tốt nghiệp đại học hệ chính quy – đợt tháng 5/2025](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-he-chinh-quy-dot-thang-5-2025/)
 - 22/05/2025: [Thông báo thay đổi phòng học tại Nhà điều hành các phòng 4.7; 5.7; 6.7 ngày 24/05/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-nha-dieu-hanh-cac-phong-4-7-5-7-6-7-ngay-24-05-2025/)
 - 20/05/2025: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK1/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk1-2024-2025-chuong-trinh-chuan/)
 - 20/05/2025: [Thông báo nghỉ học các lớp tại các phòng máy tính Nhà điều hành vào thứ 7](https://hcmus.edu.vn/thong-bao-nghi-hoc-cac-lop-tai-cac-phong-may-tinh-nha-dieu-hanh-vao-thu-7/)
@@ -71,7 +72,6 @@ _Last update: **2025-05-23 14:13:32.712228+07:00**_
 - 13/05/2025: [Lấy ý kiến dự thảo văn bản quy phạm pháp luật](https://hcmus.edu.vn/lay-y-kien-gop-y-02-du-thao-van-ban-qppl/)
 - 12/05/2025: [Thông báo tuyển chọn lực lượng (nữ) tham gia diễu binh, diễu hành kỷ niệm 80 năm CMT8 và Quốc khánh 02/9](https://hcmus.edu.vn/thong-bao-tuyen-chon-luc-luong-tham-gia-dieu-binh-dieu-hanh-ky-niem-80-nam-cmt8-va-quoc-khanh-02-9/)
 - 12/05/2025: [[THÔNG BÁO] Chương trình BUU Summer Cultural Camp – Trường Đại học Burapha (BUU), Thái Lan](https://hcmus.edu.vn/thong-bao-chuong-trinh-buu-summer-cultural-camp-truong-dai-hoc-burapha-buu-thai-lan/)
-- 09/05/2025: [[THÔNG BÁO] Chương trình Join MCUT Summer Camp 2025 của đại học Kỹ Thuật Ming Chi (MCUT)](https://hcmus.edu.vn/thong-bao-chuong-trinh-join-mcut-summer-camp-2025-cua-dai-hoc-ky-thuat-ming-chi-mcut/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/870-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-khoa-cntt)
