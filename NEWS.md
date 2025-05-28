@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-28 10:09:15.612806+07:00**_
+_Last update: **2025-05-28 11:18:24.264051+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-05-28 10:09:15.612806+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 28-5-2025: [Tọa đàm: Giải mã Ngành/ Chuyên ngành cho sinh viên khóa tuyển 2023 - Chương trình Chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16799)
  - 22-5-2025: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 2 năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16796)
  - 21-5-2025: [Quy định đăng ký thực hiện và bảo vệ đề tài tốt nghiệp áp dụng khóa tuyển 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16793)
  - 20-5-2025: [Thông báo về việc tổ chức lễ tốt nghiệp thạc sĩ, tiến sĩ năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16792)
@@ -59,9 +60,9 @@ _Last update: **2025-05-28 10:09:15.612806+07:00**_
  - 14-5-2025: [Danh sách sinh viên tham quan công ty KMS Technology ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16782)
  - 13-5-2025: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2024 - 2025 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16779)
  - 12-5-2025: [Khảo sát nguyện vọng ngành/ chuyên ngành Khóa 2023 - Chương trình chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16777)
- - 12-5-2025: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16775)
 
 ## Thông tin dành cho sinh viên
+- 28/05/2025: [Thông báo đăng ký tham gia Chương trình Mô hình Bền vững Liên Hợp Quốc mùa 07](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-chuong-trinh-mo-hinh-ben-vung-lien-hop-quoc-mua-07/)
 - 28/05/2025: [Thông báo đăng ký dự thi Cuộc thi sáng tác video clip “Sinh viên Thành phố Hồ Chí Minh với sở hữu trí tuệ”](https://hcmus.edu.vn/thong-bao-dang-ky-du-thi-cuoc-thi-sang-tac-video-clip-sinh-vien-thanh-pho-ho-chi-minh-voi-so-huu-tri-tue/)
 - 28/05/2025: [Thông báo tổ chức hoạt động Workshop “Màu của cảm xúc”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-mau-cua-cam-xuc/)
 - 27/05/2025: [Kết quả xét Hoàn tất chương trình đợt tháng 5/2025](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-5-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-05-28 10:09:15.612806+07:00**_
 - 20/05/2025: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK1/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk1-2024-2025-chuong-trinh-chuan/)
 - 20/05/2025: [Thông báo nghỉ học các lớp tại các phòng máy tính Nhà điều hành vào thứ 7](https://hcmus.edu.vn/thong-bao-nghi-hoc-cac-lop-tai-cac-phong-may-tinh-nha-dieu-hanh-vao-thu-7/)
 - 20/05/2025: [Thay đổi phòng học lớp Lịch sử Đảng Cộng sản Việt Nam lớp 23_1](https://hcmus.edu.vn/thay-doi-phong-hoc-lop-lich-su-dang-cong-san-viet-nam-lop-23_1/)
-- 20/05/2025: [THÔNG BÁO V/v khảo sát nhu cầu vay vốn đối với HSSV/HV/NCS theo học các ngành STEM](https://hcmus.edu.vn/thong-bao-v-v-khao-sat-nhu-cau-vay-von-doi-voi-hssv-hv-ncs-theo-hoc-cac-nganh-stem/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/870-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-khoa-cntt)
