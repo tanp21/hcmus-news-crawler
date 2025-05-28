@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-28 08:06:47.642554+07:00**_
+_Last update: **2025-05-28 10:09:15.612806+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,8 @@ _Last update: **2025-05-28 08:06:47.642554+07:00**_
  - 12-5-2025: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16775)
 
 ## Thông tin dành cho sinh viên
+- 28/05/2025: [Thông báo đăng ký dự thi Cuộc thi sáng tác video clip “Sinh viên Thành phố Hồ Chí Minh với sở hữu trí tuệ”](https://hcmus.edu.vn/thong-bao-dang-ky-du-thi-cuoc-thi-sang-tac-video-clip-sinh-vien-thanh-pho-ho-chi-minh-voi-so-huu-tri-tue/)
+- 28/05/2025: [Thông báo tổ chức hoạt động Workshop “Màu của cảm xúc”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-mau-cua-cam-xuc/)
 - 27/05/2025: [Kết quả xét Hoàn tất chương trình đợt tháng 5/2025](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-5-2025/)
 - 26/05/2025: [THÔNG BÁO HỌC BỔNG VALLET 2025 (Dành cho sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2025-danh-cho-sinh-vien-dai-hoc/)
 - 23/05/2025: [Kết quả xét tốt nghiệp đại học hệ chính quy – đợt tháng 5/2025](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-he-chinh-quy-dot-thang-5-2025/)
@@ -70,8 +72,6 @@ _Last update: **2025-05-28 08:06:47.642554+07:00**_
 - 20/05/2025: [Thông báo nghỉ học các lớp tại các phòng máy tính Nhà điều hành vào thứ 7](https://hcmus.edu.vn/thong-bao-nghi-hoc-cac-lop-tai-cac-phong-may-tinh-nha-dieu-hanh-vao-thu-7/)
 - 20/05/2025: [Thay đổi phòng học lớp Lịch sử Đảng Cộng sản Việt Nam lớp 23_1](https://hcmus.edu.vn/thay-doi-phong-hoc-lop-lich-su-dang-cong-san-viet-nam-lop-23_1/)
 - 20/05/2025: [THÔNG BÁO V/v khảo sát nhu cầu vay vốn đối với HSSV/HV/NCS theo học các ngành STEM](https://hcmus.edu.vn/thong-bao-v-v-khao-sat-nhu-cau-vay-von-doi-voi-hssv-hv-ncs-theo-hoc-cac-nganh-stem/)
-- 14/05/2025: [Thông báo nhận chứng chỉ Tin học (đợt 2) tại phòng F103 ngày 22 và 23/05/2025](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-tin-hoc-dot-2/)
-- 13/05/2025: [Lấy ý kiến dự thảo văn bản quy phạm pháp luật](https://hcmus.edu.vn/lay-y-kien-gop-y-02-du-thao-van-ban-qppl/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/870-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-khoa-cntt)
