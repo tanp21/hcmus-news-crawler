@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-28 11:18:24.264051+07:00**_
+_Last update: **2025-05-28 12:14:05.902423+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-05-28 11:18:24.264051+07:00**_
  - 12-5-2025: [Khảo sát nguyện vọng ngành/ chuyên ngành Khóa 2023 - Chương trình chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16777)
 
 ## Thông tin dành cho sinh viên
+- 28/05/2025: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành  Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học  cho đợt xét tốt nghiệp tháng 3/2025](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-xet-tot-nghiep-thang-3-2025/)
 - 28/05/2025: [Thông báo đăng ký tham gia Chương trình Mô hình Bền vững Liên Hợp Quốc mùa 07](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-chuong-trinh-mo-hinh-ben-vung-lien-hop-quoc-mua-07/)
 - 28/05/2025: [Thông báo đăng ký dự thi Cuộc thi sáng tác video clip “Sinh viên Thành phố Hồ Chí Minh với sở hữu trí tuệ”](https://hcmus.edu.vn/thong-bao-dang-ky-du-thi-cuoc-thi-sang-tac-video-clip-sinh-vien-thanh-pho-ho-chi-minh-voi-so-huu-tri-tue/)
 - 28/05/2025: [Thông báo tổ chức hoạt động Workshop “Màu của cảm xúc”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-mau-cua-cam-xuc/)
@@ -71,7 +72,6 @@ _Last update: **2025-05-28 11:18:24.264051+07:00**_
 - 22/05/2025: [Thông báo thay đổi phòng học tại Nhà điều hành các phòng 4.7; 5.7; 6.7 ngày 24/05/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-nha-dieu-hanh-cac-phong-4-7-5-7-6-7-ngay-24-05-2025/)
 - 20/05/2025: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK1/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk1-2024-2025-chuong-trinh-chuan/)
 - 20/05/2025: [Thông báo nghỉ học các lớp tại các phòng máy tính Nhà điều hành vào thứ 7](https://hcmus.edu.vn/thong-bao-nghi-hoc-cac-lop-tai-cac-phong-may-tinh-nha-dieu-hanh-vao-thu-7/)
-- 20/05/2025: [Thay đổi phòng học lớp Lịch sử Đảng Cộng sản Việt Nam lớp 23_1](https://hcmus.edu.vn/thay-doi-phong-hoc-lop-lich-su-dang-cong-san-viet-nam-lop-23_1/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/870-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-khoa-cntt)
@@ -82,11 +82,11 @@ _Last update: **2025-05-28 11:18:24.264051+07:00**_
 
 ***
 
+ - [Lịch thi cuối kỳ (sớm) HK3/24-25 CT đề án khoa Sinh](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/875-l-ch-thi-cu-i-ky-s-m-hk3-24-25-ct-d-an-khoa-sinh)
+ - [Lịch thi giữa kỳ HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/874-l-ch-thi-gi-a-ky-hk3-24-25-ct-d-an-cac-khoa)
+ - [Lịch thi giữa kỳ HK3/24-25 CT đề án khoa Hóa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/873-l-ch-thi-hk3-24-25-ct-d-an-khoa-hoa)
  - [Lịch thi giữa kỳ HK2/24-25 Chính quy tại LT và NVC (bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/872-l-ch-thi-gi-a-ky-hk2-24-25-chinh-quy-t-i-lt-va-nvc-b-sung)
  - [Lịch thi cuối kỳ HK2/24-25 Chính quy tại LT và NVC (Cập nhật 26/05)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/871-l-ch-thi-cu-i-ky-hk2-24-25-chinh-quy-t-i-lt-va-nvc)
- - [Lịch thi HK2/24-25 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/867-l-ch-thi-hk2-24-25-h-dttx)
- - [Lịch thi cuối kỳ (sớm) HK2/24-25 Chính quy tại LT và NVC (Cập nhật 20/05)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/864-l-ch-thi-cu-i-ky-s-m-hk2-24-25-chinh-quy-t-i-lt-va-nvc)
- - [Lịch thi giữa kỳ HK2/24-25 Chính quy tại LT và NVC (Cập nhật 08/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/863-l-ch-thi-gi-a-ky-hk2-24-25-chinh-quy-t-i-lt-va-nvc)
 
 ***
 
