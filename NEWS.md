@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-30 19:26:30.706079+07:00**_
+_Last update: **2025-05-30 20:25:23.116565+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-05-30 19:26:30.706079+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 30-5-2025: [Đăng ký tham gia Seminar Human-Computer Interaction at the University of Sydney: Designing Technology for People and Place](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16801)
  - 28-5-2025: [Tọa đàm: Giải mã Ngành/ Chuyên ngành cho sinh viên khóa tuyển 2023 - Chương trình Chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16799)
  - 22-5-2025: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 2 năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16796)
  - 21-5-2025: [Quy định đăng ký thực hiện và bảo vệ đề tài tốt nghiệp áp dụng khóa tuyển 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16793)
@@ -59,7 +60,6 @@ _Last update: **2025-05-30 19:26:30.706079+07:00**_
  - 15-5-2025: [Chương trình hỗ trợ kinh phí đăng bài báo khoa học dành cho học viên cao học](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16784)
  - 14-5-2025: [Danh sách sinh viên tham quan công ty KMS Technology ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16782)
  - 13-5-2025: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2024 - 2025 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16779)
- - 12-5-2025: [Khảo sát nguyện vọng ngành/ chuyên ngành Khóa 2023 - Chương trình chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16777)
 
 ## Thông tin dành cho sinh viên
 - 30/05/2025: [THÔNG BÁO THAM GIA WORKSHOP UNCHAIN THE FUTURE – MỞ KHOÁ BLOCKCHAIN CÙNG THẾ HỆ TRẺ](https://hcmus.edu.vn/thong-bao-tham-gia-workshop-unchain-the-future-mo-khoa-blockchain-cung-the-he-tre/)
