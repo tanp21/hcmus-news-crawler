@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-05-30 13:19:25.163229+07:00**_
+_Last update: **2025-05-30 14:13:14.359274+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-05-30 13:19:25.163229+07:00**_
  - 12-5-2025: [Khảo sát nguyện vọng ngành/ chuyên ngành Khóa 2023 - Chương trình chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16777)
 
 ## Thông tin dành cho sinh viên
+- 30/05/2025: [THÔNG BÁO THAM GIA WORKSHOP UNCHAIN THE FUTURE – MỞ KHOÁ BLOCKCHAIN CÙNG THẾ HỆ TRẺ](https://hcmus.edu.vn/thong-bao-tham-gia-workshop-unchain-the-future-mo-khoa-blockchain-cung-the-he-tre/)
 - 29/05/2025: [Chương trình hòa nhạc “Giao hưởng tuổi trẻ” số 5: “Nhạc thính phòng – Cuộc trò chuyện của âm thanh”](https://hcmus.edu.vn/dhqg-hcm-to-chuc-chuong-trinh-hoa-nhac-giao-huong-tuoi-tre-so-5-nhac-thinh-phong-cuoc-tro-chuyen-cua-am-thanh/)
 - 28/05/2025: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành  Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học  cho đợt xét tốt nghiệp tháng 3/2025](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-xet-tot-nghiep-thang-3-2025/)
 - 28/05/2025: [Thông báo đăng ký tham gia Chương trình Mô hình Bền vững Liên Hợp Quốc mùa 07](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-chuong-trinh-mo-hinh-ben-vung-lien-hop-quoc-mua-07/)
@@ -71,7 +72,6 @@ _Last update: **2025-05-30 13:19:25.163229+07:00**_
 - 26/05/2025: [THÔNG BÁO HỌC BỔNG VALLET 2025 (Dành cho sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2025-danh-cho-sinh-vien-dai-hoc/)
 - 23/05/2025: [Kết quả xét tốt nghiệp đại học hệ chính quy – đợt tháng 5/2025](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-he-chinh-quy-dot-thang-5-2025/)
 - 22/05/2025: [Thông báo thay đổi phòng học tại Nhà điều hành các phòng 4.7; 5.7; 6.7 ngày 24/05/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-nha-dieu-hanh-cac-phong-4-7-5-7-6-7-ngay-24-05-2025/)
-- 20/05/2025: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK1/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk1-2024-2025-chuong-trinh-chuan/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/870-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-khoa-cntt)
