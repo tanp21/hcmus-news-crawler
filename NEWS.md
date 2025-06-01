@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-01 18:10:45.017618+07:00**_
+_Last update: **2025-06-01 19:24:54.378120+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-06-01 18:10:45.017618+07:00**_
  - 13-5-2025: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2024 - 2025 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16779)
 
 ## Thông tin dành cho sinh viên
+- 01/06/2025: [Thông báo thay đổi phòng học E103, E104 từ ngày 02/6/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-e103-e104-tu-ngay-02-6-2025/)
 - 31/05/2025: [THÔNG BÁO ĐĂNG KÝ CHUYÊN ĐỀ “DÒNG CHẢY THỜI SỰ – HIỂU, BIẾT ĐỂ HỘI NHẬP”](https://hcmus.edu.vn/thong-bao-dang-ky-chuyen-de-dong-chay-thoi-su-hieu-biet-de-hoi-nhap/)
 - 30/05/2025: [THÔNG BÁO THAM GIA WORKSHOP UNCHAIN THE FUTURE – MỞ KHOÁ BLOCKCHAIN CÙNG THẾ HỆ TRẺ](https://hcmus.edu.vn/thong-bao-tham-gia-workshop-unchain-the-future-mo-khoa-blockchain-cung-the-he-tre/)
 - 30/05/2025: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2025](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2025/)
@@ -71,6 +72,5 @@ _Last update: **2025-06-01 18:10:45.017618+07:00**_
 - 28/05/2025: [Thông báo đăng ký dự thi Cuộc thi sáng tác video clip “Sinh viên Thành phố Hồ Chí Minh với sở hữu trí tuệ”](https://hcmus.edu.vn/thong-bao-dang-ky-du-thi-cuoc-thi-sang-tac-video-clip-sinh-vien-thanh-pho-ho-chi-minh-voi-so-huu-tri-tue/)
 - 28/05/2025: [Thông báo tổ chức hoạt động Workshop “Màu của cảm xúc”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-mau-cua-cam-xuc/)
 - 27/05/2025: [Kết quả xét Hoàn tất chương trình đợt tháng 5/2025](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-5-2025/)
-- 26/05/2025: [THÔNG BÁO HỌC BỔNG VALLET 2025 (Dành cho sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2025-danh-cho-sinh-vien-dai-hoc/)
 
 ## Các thông báo về Khảo thí
