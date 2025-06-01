@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-01 08:19:22.915840+07:00**_
+_Last update: **2025-06-01 10:27:16.229394+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,5 +62,15 @@ _Last update: **2025-06-01 08:19:22.915840+07:00**_
  - 13-5-2025: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2024 - 2025 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16779)
 
 ## Thông tin dành cho sinh viên
+- 31/05/2025: [THÔNG BÁO ĐĂNG KÝ CHUYÊN ĐỀ “DÒNG CHẢY THỜI SỰ – HIỂU, BIẾT ĐỂ HỘI NHẬP”](https://hcmus.edu.vn/thong-bao-dang-ky-chuyen-de-dong-chay-thoi-su-hieu-biet-de-hoi-nhap/)
+- 30/05/2025: [THÔNG BÁO THAM GIA WORKSHOP UNCHAIN THE FUTURE – MỞ KHOÁ BLOCKCHAIN CÙNG THẾ HỆ TRẺ](https://hcmus.edu.vn/thong-bao-tham-gia-workshop-unchain-the-future-mo-khoa-blockchain-cung-the-he-tre/)
+- 30/05/2025: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2025](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2025/)
+- 29/05/2025: [Chương trình hòa nhạc “Giao hưởng tuổi trẻ” số 5: “Nhạc thính phòng – Cuộc trò chuyện của âm thanh”](https://hcmus.edu.vn/dhqg-hcm-to-chuc-chuong-trinh-hoa-nhac-giao-huong-tuoi-tre-so-5-nhac-thinh-phong-cuoc-tro-chuyen-cua-am-thanh/)
+- 28/05/2025: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành  Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học  cho đợt xét tốt nghiệp tháng 3/2025](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-xet-tot-nghiep-thang-3-2025/)
+- 28/05/2025: [Thông báo đăng ký tham gia Chương trình Mô hình Bền vững Liên Hợp Quốc mùa 07](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-chuong-trinh-mo-hinh-ben-vung-lien-hop-quoc-mua-07/)
+- 28/05/2025: [Thông báo đăng ký dự thi Cuộc thi sáng tác video clip “Sinh viên Thành phố Hồ Chí Minh với sở hữu trí tuệ”](https://hcmus.edu.vn/thong-bao-dang-ky-du-thi-cuoc-thi-sang-tac-video-clip-sinh-vien-thanh-pho-ho-chi-minh-voi-so-huu-tri-tue/)
+- 28/05/2025: [Thông báo tổ chức hoạt động Workshop “Màu của cảm xúc”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-mau-cua-cam-xuc/)
+- 27/05/2025: [Kết quả xét Hoàn tất chương trình đợt tháng 5/2025](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-5-2025/)
+- 26/05/2025: [THÔNG BÁO HỌC BỔNG VALLET 2025 (Dành cho sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2025-danh-cho-sinh-vien-dai-hoc/)
 
 ## Các thông báo về Khảo thí
