@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-05 08:06:55.363679+07:00**_
+_Last update: **2025-06-05 10:12:02.330296+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -14,6 +14,7 @@ _Last update: **2025-06-05 08:06:55.363679+07:00**_
  - 09/06/2022: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2022/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2022-2023/)
 
 ### Giáo vụ
+ - 05/06/2025: [[CTĐA] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 04/2026](https://www.ctda.hcmus.edu.vn/vi/2025/06/ctda-thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-dot-bao-ve-04-2026/)
  - 27/05/2025: [Mời tham gia sinh hoạt phổ biến quy định về việc chia chuyên ngành – Dành cho sinh viên chương trình chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2025/05/moi-tham-gia-sinh-hoat-pho-bien-quy-dinh-ve-viec-chia-chuyen-nganh-danh-cho-sinh-vien-chuong-trinh-chat-luong-cao/)
  - 23/05/2025: [Mời tham gia sinh hoạt về việc hoàn thành khối kiến thức tốt nghiệp – Vào lúc 8:30 ngày 30/05/2025 (sáng thứ 6)](https://www.ctda.hcmus.edu.vn/vi/2025/05/moi-tham-gia-sinh-hoat-ve-viec-hoan-thanh-khoi-kien-thuc-tot-nghiep-vao-luc-830-ngay-30-05-2025-sang-thu-6/)
  - 21/05/2025: [[CTĐA] – Thông báo phúc khảo HK2/2425](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-thong-bao-phuc-khao-hk2-2425/)
@@ -23,7 +24,6 @@ _Last update: **2025-06-05 08:06:55.363679+07:00**_
  - 10/03/2025: [[CTĐA] Chương trình thực tập thực tế học kỳ 3 năm học 2024-2025 dành cho sinh viên CTĐA](https://www.ctda.hcmus.edu.vn/vi/2025/03/ctda-chuong-trinh-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025-danh-cho-sinh-vien-ctda/)
  - 15/02/2025: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTDATN khóa 2020, đợt 2 (bảo vệ tháng 4/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-ttdatn-khoa-2020-dot-2-bao-ve-thang-4-2025/)
  - 05/02/2025: [[CTDA] – Thông báo phúc khảo HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-thong-bao-phuc-khao-hk1-2425/)
- - 05/02/2025: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ 08/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-08-2025/)
 
 ### Trợ lí sinh viên
  - 22/05/2025: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2024 – 2025 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2025/05/danh-sach-sinh-vien-da-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2024-2025-cap-nhat/)
@@ -50,6 +50,7 @@ _Last update: **2025-06-05 08:06:55.363679+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 5-6-2025: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 03/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16804)
  - 30-5-2025: [Đăng ký tham gia Seminar Human-Computer Interaction at the University of Sydney: Designing Technology for People and Place](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16801)
  - 28-5-2025: [Tọa đàm: Giải mã Ngành/ Chuyên ngành cho sinh viên khóa tuyển 2023 - Chương trình Chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16799)
  - 22-5-2025: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 2 năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16796)
@@ -59,7 +60,6 @@ _Last update: **2025-06-05 08:06:55.363679+07:00**_
  - 15-5-2025: [[CQ] Kế hoạch giảng dạy học kỳ 3, năm học 2024-2025 (học kỳ hè)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16787)
  - 15-5-2025: [Chương trình hỗ trợ kinh phí đăng bài báo khoa học dành cho học viên cao học](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16784)
  - 14-5-2025: [Danh sách sinh viên tham quan công ty KMS Technology ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16782)
- - 13-5-2025: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2024 - 2025 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16779)
 
 ## Thông tin dành cho sinh viên
 - 04/06/2025: [Thông báo tham gia tập huấn kỹ năng phòng cháy chữa cháy và cứu nạn cứu hộ tại Ký túc xá Trường năm 2025 (đợt 1)](https://hcmus.edu.vn/thong-bao-tham-gia-tap-huan-ky-nang-phong-chay-chua-chay-va-cuu-nan-cuu-ho-tai-ky-tuc-xa-truong-nam-2025-dot-1/)
