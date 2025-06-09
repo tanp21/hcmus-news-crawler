@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-09 14:15:01.257464+07:00**_
+_Last update: **2025-06-09 15:20:08.195136+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-06-09 14:15:01.257464+07:00**_
  - 15-5-2025: [[CQ] Kế hoạch giảng dạy học kỳ 3, năm học 2024-2025 (học kỳ hè)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16787)
 
 ## Thông tin dành cho sinh viên
+- 09/06/2025: [Thông báo tổ chức hoạt động “Ngừng trì hoãn, không lo âu – sống ‘chất’ thời sinh viên”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-ngung-tri-hoan-khong-lo-au-song-chat-thoi-sinh-vien/)
 - 09/06/2025: [Thông báo kết quả dự kiến HBKK HK1/2024-2025 Khoa Hóa học, Khoa Môi trường, Khoa Điện tử-Viễn thông,  Khoa SH-CNSH, Khoa KH&CNVL, Khoa VL-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2024-2025-khoa-hoa-hoc-khoa-moi-truong-khoa-dien-tu-vien-thong-khoa-sh-cnsh-khoa-khcnvl-khoa-vl-vlkt-ctda/)
 - 09/06/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Universitas Gadjah Mada (UGM)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-universitas-gadjah-mada-ugm/)
 - 04/06/2025: [Thông báo tham gia tập huấn kỹ năng phòng cháy chữa cháy và cứu nạn cứu hộ tại Ký túc xá Trường năm 2025 (đợt 1)](https://hcmus.edu.vn/thong-bao-tham-gia-tap-huan-ky-nang-phong-chay-chua-chay-va-cuu-nan-cuu-ho-tai-ky-tuc-xa-truong-nam-2025-dot-1/)
@@ -71,7 +72,6 @@ _Last update: **2025-06-09 14:15:01.257464+07:00**_
 - 30/05/2025: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2025](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2025/)
 - 29/05/2025: [Chương trình hòa nhạc “Giao hưởng tuổi trẻ” số 5: “Nhạc thính phòng – Cuộc trò chuyện của âm thanh”](https://hcmus.edu.vn/dhqg-hcm-to-chuc-chuong-trinh-hoa-nhac-giao-huong-tuoi-tre-so-5-nhac-thinh-phong-cuoc-tro-chuyen-cua-am-thanh/)
 - 28/05/2025: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành  Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học  cho đợt xét tốt nghiệp tháng 3/2025](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-xet-tot-nghiep-thang-3-2025/)
-- 28/05/2025: [Thông báo đăng ký tham gia Chương trình Mô hình Bền vững Liên Hợp Quốc mùa 07](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-chuong-trinh-mo-hinh-ben-vung-lien-hop-quoc-mua-07/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt 2 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/876-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-2-nam-2025)
