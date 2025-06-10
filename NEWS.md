@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-10 15:19:25.244266+07:00**_
+_Last update: **2025-06-10 16:15:26.936747+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-06-10 15:19:25.244266+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 10-6-2025: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16811)
  - 6-6-2025: [Thông báo về văn phòng Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16806)
  - 6-6-2025: [V/v thực hiện khảo sát các môn mở trong Học phần 3 lớp cao học K34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16807)
  - 5-6-2025: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 03/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16804)
@@ -59,12 +60,11 @@ _Last update: **2025-06-10 15:19:25.244266+07:00**_
  - 21-5-2025: [Quy định đăng ký thực hiện và bảo vệ đề tài tốt nghiệp áp dụng khóa tuyển 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16793)
  - 20-5-2025: [Thông báo về việc tổ chức lễ tốt nghiệp thạc sĩ, tiến sĩ năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16792)
  - 20-5-2025: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2024 - 2025 (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16791)
- - 15-5-2025: [[CQ] Kế hoạch giảng dạy học kỳ 3, năm học 2024-2025 (học kỳ hè)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16787)
 
 ## Thông tin dành cho sinh viên
 - 10/06/2025: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2025 – 2026](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2025-2026/)
 - 09/06/2025: [Thông báo tổ chức hoạt động “Ngừng trì hoãn, không lo âu – sống ‘chất’ thời sinh viên”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-ngung-tri-hoan-khong-lo-au-song-chat-thoi-sinh-vien/)
-- 09/06/2025: [Thông báo kết quả dự kiến HBKK HK1/2024-2025 Khoa Hóa học, Khoa Môi trường, Khoa Điện tử-Viễn thông,  Khoa SH-CNSH, Khoa KH&CNVL, Khoa VL-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2024-2025-khoa-hoa-hoc-khoa-moi-truong-khoa-dien-tu-vien-thong-khoa-sh-cnsh-khoa-khcnvl-khoa-vl-vlkt-ctda/)
+- 09/06/2025: [Thông báo kết quả dự kiến HBKK HK1/2024-2025 Khoa Công nghệ Thông tin, Khoa Hóa học, Khoa Môi trường, Khoa Điện tử-Viễn thông, Khoa SH-CNSH, Khoa KH&CNVL, Khoa VL-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2024-2025-khoa-hoa-hoc-khoa-moi-truong-khoa-dien-tu-vien-thong-khoa-sh-cnsh-khoa-khcnvl-khoa-vl-vlkt-ctda/)
 - 09/06/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Universitas Gadjah Mada (UGM)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-universitas-gadjah-mada-ugm/)
 - 04/06/2025: [Thông báo tham gia tập huấn kỹ năng phòng cháy chữa cháy và cứu nạn cứu hộ tại Ký túc xá Trường năm 2025 (đợt 1)](https://hcmus.edu.vn/thong-bao-tham-gia-tap-huan-ky-nang-phong-chay-chua-chay-va-cuu-nan-cuu-ho-tai-ky-tuc-xa-truong-nam-2025-dot-1/)
 - 01/06/2025: [Thông báo thay đổi phòng học E103, E104 từ ngày 02/6/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-e103-e104-tu-ngay-02-6-2025/)
