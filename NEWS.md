@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-12 08:07:20.173416+07:00**_
+_Last update: **2025-06-12 10:11:49.830625+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,8 @@ _Last update: **2025-06-12 08:07:20.173416+07:00**_
  - 20-5-2025: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2024 - 2025 (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16791)
 
 ## Thông tin dành cho sinh viên
+- 12/06/2025: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2025](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2025/)
+- 12/06/2025: [Thông báo thu học phí học kỳ 3 / 2024-2025 đối với sinh viên hệ chính quy chương trình Tiên tiến, Liên kết Việt – Pháp, Chất lượng cao và Tăng cường tiếng Anh](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-3-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-tien-tien-lien-ket-viet-phap-chat-luong-cao-va-tang-cuong-tieng-anh/)
 - 10/06/2025: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2025 – 2026](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2025-2026/)
 - 09/06/2025: [Thông báo tổ chức hoạt động “Ngừng trì hoãn, không lo âu – sống ‘chất’ thời sinh viên”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-ngung-tri-hoan-khong-lo-au-song-chat-thoi-sinh-vien/)
 - 09/06/2025: [Thông báo kết quả dự kiến HBKK HK1/2024-2025 Khoa Công nghệ Thông tin, Khoa Hóa học, Khoa Môi trường, Khoa Điện tử-Viễn thông, Khoa SH-CNSH, Khoa KH&CNVL, Khoa VL-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2024-2025-khoa-hoa-hoc-khoa-moi-truong-khoa-dien-tu-vien-thong-khoa-sh-cnsh-khoa-khcnvl-khoa-vl-vlkt-ctda/)
@@ -70,8 +72,6 @@ _Last update: **2025-06-12 08:07:20.173416+07:00**_
 - 01/06/2025: [Thông báo thay đổi phòng học E103, E104 từ ngày 02/6/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-e103-e104-tu-ngay-02-6-2025/)
 - 31/05/2025: [THÔNG BÁO ĐĂNG KÝ CHUYÊN ĐỀ “DÒNG CHẢY THỜI SỰ – HIỂU, BIẾT ĐỂ HỘI NHẬP”](https://hcmus.edu.vn/thong-bao-dang-ky-chuyen-de-dong-chay-thoi-su-hieu-biet-de-hoi-nhap/)
 - 30/05/2025: [THÔNG BÁO THAM GIA WORKSHOP UNCHAIN THE FUTURE – MỞ KHOÁ BLOCKCHAIN CÙNG THẾ HỆ TRẺ](https://hcmus.edu.vn/thong-bao-tham-gia-workshop-unchain-the-future-mo-khoa-blockchain-cung-the-he-tre/)
-- 30/05/2025: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2025](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2025/)
-- 29/05/2025: [Chương trình hòa nhạc “Giao hưởng tuổi trẻ” số 5: “Nhạc thính phòng – Cuộc trò chuyện của âm thanh”](https://hcmus.edu.vn/dhqg-hcm-to-chuc-chuong-trinh-hoa-nhac-giao-huong-tuoi-tre-so-5-nhac-thinh-phong-cuoc-tro-chuyen-cua-am-thanh/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt 2 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/876-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-2-nam-2025)
