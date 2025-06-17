@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-17 08:08:15.573389+07:00**_
+_Last update: **2025-06-17 10:13:49.053981+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-06-17 08:08:15.573389+07:00**_
  - 30-5-2025: [Đăng ký tham gia Seminar Human-Computer Interaction at the University of Sydney: Designing Technology for People and Place](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16801)
 
 ## Thông tin dành cho sinh viên
+- 17/06/2025: [Thông tin chương trình học bổng “NINETY EIGHT SCHOLARSHIP” năm thứ 2](https://hcmus.edu.vn/thong-tin-chuong-trinh-hoc-bong-ninety-eight-scholarship-nam-thu-2/)
 - 12/06/2025: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2025](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2025/)
 - 12/06/2025: [Thông báo thu học phí học kỳ 3 / 2024-2025 đối với sinh viên hệ chính quy chương trình Tiên tiến, Liên kết Việt – Pháp, Chất lượng cao và Tăng cường tiếng Anh](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-3-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-tien-tien-lien-ket-viet-phap-chat-luong-cao-va-tang-cuong-tieng-anh/)
 - 11/06/2025: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
@@ -71,7 +72,6 @@ _Last update: **2025-06-17 08:08:15.573389+07:00**_
 - 09/06/2025: [[THÔNG BÁO] Chương trình AUN Summer Camp 2025 – Universitas Gadjah Mada (UGM)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2025-universitas-gadjah-mada-ugm/)
 - 04/06/2025: [Thông báo tham gia tập huấn kỹ năng phòng cháy chữa cháy và cứu nạn cứu hộ tại Ký túc xá Trường năm 2025 (đợt 1)](https://hcmus.edu.vn/thong-bao-tham-gia-tap-huan-ky-nang-phong-chay-chua-chay-va-cuu-nan-cuu-ho-tai-ky-tuc-xa-truong-nam-2025-dot-1/)
 - 01/06/2025: [Thông báo thay đổi phòng học E103, E104 từ ngày 02/6/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-e103-e104-tu-ngay-02-6-2025/)
-- 31/05/2025: [THÔNG BÁO ĐĂNG KÝ CHUYÊN ĐỀ “DÒNG CHẢY THỜI SỰ – HIỂU, BIẾT ĐỂ HỘI NHẬP”](https://hcmus.edu.vn/thong-bao-dang-ky-chuyen-de-dong-chay-thoi-su-hieu-biet-de-hoi-nhap/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt 2 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/876-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-2-nam-2025)
