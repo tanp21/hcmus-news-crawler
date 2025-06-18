@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-18 10:12:47.896954+07:00**_
+_Last update: **2025-06-18 11:23:03.742150+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-06-18 10:12:47.896954+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 18-6-2025: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16823)
  - 16-6-2025: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2023, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16820)
  - 16-6-2025: [Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16819)
  - 13-6-2025: [[CQ] Thời khóa biểu học kỳ 3 năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16818)
@@ -59,7 +60,6 @@ _Last update: **2025-06-18 10:12:47.896954+07:00**_
  - 6-6-2025: [Thông báo về văn phòng Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16806)
  - 6-6-2025: [V/v thực hiện khảo sát các môn mở trong Học phần 3 lớp cao học K34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16807)
  - 5-6-2025: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 03/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16804)
- - 30-5-2025: [Đăng ký tham gia Seminar Human-Computer Interaction at the University of Sydney: Designing Technology for People and Place](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16801)
 
 ## Thông tin dành cho sinh viên
 - 17/06/2025: [Thông báo kết quả tham gia tập huấn Phòng cháy chữa cháy và cứu nạn cứu hộ  tại Ký túc xá Trường (đợt 1, năm 2025)](https://hcmus.edu.vn/thong-bao-ket-qua-tham-gia-tap-huan-phong-chay-chua-chay-va-cuu-nan-cuu-ho-tai-ky-tuc-xa-truong-dot-1-nam-2025/)
