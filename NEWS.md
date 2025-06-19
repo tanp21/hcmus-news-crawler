@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-19 15:19:00.904960+07:00**_
+_Last update: **2025-06-19 16:15:10.363589+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-06-19 15:19:00.904960+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 19-6-2025: [Chúc mừng TS. Lê Ngọc Thành được tặng giấy khen có thành tích học tập và nghiên cứu khoa học xuất sắc năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16830)
  - 19-6-2025: [Thông báo đăng ký xét tuyển bổ sung lớp Cử nhân tài năng 2023 và 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16824)
  - 18-6-2025: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16823)
  - 16-6-2025: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2023, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16820)
@@ -59,7 +60,6 @@ _Last update: **2025-06-19 15:19:00.904960+07:00**_
  - 12-6-2025: [Công ty VNG đến thăm và làm việc với Trường Đại học Khoa học tự nhiên – ĐHQG-HCM: Cùng hướng tới hợp tác toàn diện trong lĩnh vực Trí tuệ nhân tạo](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16815)
  - 10-6-2025: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16811)
  - 6-6-2025: [Thông báo về văn phòng Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16806)
- - 6-6-2025: [V/v thực hiện khảo sát các môn mở trong Học phần 3 lớp cao học K34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16807)
 
 ## Thông tin dành cho sinh viên
 - 19/06/2025: [[Thông báo] Workshop Xây dựng tương lai xanh – Hướng đến NetZero 2025 02/7/2025](https://hcmus.edu.vn/thong-bao-workshop-xay-dung-tuong-lai-xanh-huong-den-netzero-2025-02-7-2025/)
