@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-20 18:12:11.449615+07:00**_
+_Last update: **2025-06-20 19:27:56.261970+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -74,11 +74,11 @@ _Last update: **2025-06-20 18:12:11.449615+07:00**_
 - 09/06/2025: [Thông báo kết quả dự kiến HBKK HK1/2024-2025 Khoa Công nghệ Thông tin, Khoa Hóa học, Khoa Môi trường, Khoa Điện tử-Viễn thông, Khoa SH-CNSH, Khoa KH&CNVL, Khoa VL-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2024-2025-khoa-hoa-hoc-khoa-moi-truong-khoa-dien-tu-vien-thong-khoa-sh-cnsh-khoa-khcnvl-khoa-vl-vlkt-ctda/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo thay đổi phòng thi HK2/24-25 tại Nguyễn Văn Cừ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/877-thong-bao-thay-d-i-phong-thi-hk2-24-25-t-i-nguy-n-van-c)
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt 2 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/876-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-2-nam-2025)
  - [Thông báo phúc khảo HK2/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/870-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-khoa-cntt)
  - [Thông báo phúc khảo HK2/24-25 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/869-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-cac-khoa)
  - [Thông báo SV đánh giá môn học - GV HK2/2024-2025 (Bậc Đại học hệ Chính quy)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/868-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2024-2025-b-c-d-i-h-c-h-chinh-quy)
- - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt tháng 3 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/866-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-thang-3-nam-2025)
 
 ***
 
