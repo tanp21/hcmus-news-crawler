@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-23 16:17:23.632077+07:00**_
+_Last update: **2025-06-23 17:16:03.326441+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -82,11 +82,11 @@ _Last update: **2025-06-23 16:17:23.632077+07:00**_
 
 ***
 
+ - [Lịch thi cuối kỳ HK3/24-25 CT đề án các khoa Sinh-CNSH, ĐTVT, Vật lý-VLKT, Môi trường, KH&CNVL](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/879-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-cac-khoa)
+ - [Lịch thi cuối kỳ HK3/24-25 CT đề án khoa Hóa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/878-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-khoa-hoa)
  - [Lịch thi cuối kỳ (sớm) HK3/24-25 CT đề án khoa Sinh](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/875-l-ch-thi-cu-i-ky-s-m-hk3-24-25-ct-d-an-khoa-sinh)
  - [Lịch thi giữa kỳ HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/874-l-ch-thi-gi-a-ky-hk3-24-25-ct-d-an-cac-khoa)
  - [Lịch thi giữa kỳ HK3/24-25 CT đề án khoa Hóa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/873-l-ch-thi-hk3-24-25-ct-d-an-khoa-hoa)
- - [Lịch thi giữa kỳ HK2/24-25 Chính quy tại LT và NVC (bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/872-l-ch-thi-gi-a-ky-hk2-24-25-chinh-quy-t-i-lt-va-nvc-b-sung)
- - [Lịch thi cuối kỳ HK2/24-25 Chính quy tại LT và NVC (Cập nhật 02/06)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/871-l-ch-thi-cu-i-ky-hk2-24-25-chinh-quy-t-i-lt-va-nvc)
 
 ***
 
