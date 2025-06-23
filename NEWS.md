@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-23 10:21:57.020175+07:00**_
+_Last update: **2025-06-23 11:29:06.163102+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-06-23 10:21:57.020175+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 23-6-2025: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2021, đợt 2 (T7, T8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16839)
  - 19-6-2025: [Chúc mừng TS. Lê Ngọc Thành được tặng giấy khen có thành tích học tập và nghiên cứu khoa học xuất sắc năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16830)
  - 19-6-2025: [Thông báo đăng ký xét tuyển bổ sung lớp Cử nhân tài năng 2023 và 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16824)
  - 18-6-2025: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16823)
@@ -59,7 +60,6 @@ _Last update: **2025-06-23 10:21:57.020175+07:00**_
  - 13-6-2025: [Tổng kết Seminar Human-Computer Interaction at the University of Sydney: Designing Technology for People and Place](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16817)
  - 12-6-2025: [Công ty VNG đến thăm và làm việc với Trường Đại học Khoa học tự nhiên – ĐHQG-HCM: Cùng hướng tới hợp tác toàn diện trong lĩnh vực Trí tuệ nhân tạo](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16815)
  - 10-6-2025: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16811)
- - 6-6-2025: [Thông báo về văn phòng Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16806)
 
 ## Thông tin dành cho sinh viên
 - 20/06/2025: [Thông báo kết quả chính thức HBKK HK1/2024-2025 Khoa Công nghệ Thông tin, Khoa Hóa học, Khoa Môi trường, Khoa Điện tử-Viễn thông, Khoa SH-CNSH, Khoa KH&CNVL, Khoa VL-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-2024-2025-khoa-cong-nghe-thong-tin-khoa-hoa-hoc-khoa-moi-truong-khoa-dien-tu-vien-thong-khoa-sh-cnsh-khoa-khcnvl-khoa-vl-vlkt-ctda/)
