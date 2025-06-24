@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-24 16:16:07.873346+07:00**_
+_Last update: **2025-06-24 17:15:31.546373+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -14,6 +14,7 @@ _Last update: **2025-06-24 16:16:07.873346+07:00**_
  - 09/06/2022: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2022/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2022-2023/)
 
 ### Giáo vụ
+ - 24/06/2025: [Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ T3/2026](https://www.ctda.hcmus.edu.vn/vi/2025/06/thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-t3-2026/)
  - 05/06/2025: [[CTĐA] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 04/2026](https://www.ctda.hcmus.edu.vn/vi/2025/06/ctda-thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-dot-bao-ve-04-2026/)
  - 27/05/2025: [Mời tham gia sinh hoạt phổ biến quy định về việc chia chuyên ngành – Dành cho sinh viên chương trình chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2025/05/moi-tham-gia-sinh-hoat-pho-bien-quy-dinh-ve-viec-chia-chuyen-nganh-danh-cho-sinh-vien-chuong-trinh-chat-luong-cao/)
  - 23/05/2025: [Mời tham gia sinh hoạt về việc hoàn thành khối kiến thức tốt nghiệp – Vào lúc 8:30 ngày 30/05/2025 (sáng thứ 6)](https://www.ctda.hcmus.edu.vn/vi/2025/05/moi-tham-gia-sinh-hoat-ve-viec-hoan-thanh-khoi-kien-thuc-tot-nghiep-vao-luc-830-ngay-30-05-2025-sang-thu-6/)
@@ -23,7 +24,6 @@ _Last update: **2025-06-24 16:16:07.873346+07:00**_
  - 26/03/2025: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 1 (bảo vệ tháng 8/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/03/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2021-dot-1-bao-ve-thang-8-2025/)
  - 10/03/2025: [[CTĐA] Chương trình thực tập thực tế học kỳ 3 năm học 2024-2025 dành cho sinh viên CTĐA](https://www.ctda.hcmus.edu.vn/vi/2025/03/ctda-chuong-trinh-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025-danh-cho-sinh-vien-ctda/)
  - 15/02/2025: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTDATN khóa 2020, đợt 2 (bảo vệ tháng 4/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-ttdatn-khoa-2020-dot-2-bao-ve-thang-4-2025/)
- - 05/02/2025: [[CTDA] – Thông báo phúc khảo HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-thong-bao-phuc-khao-hk1-2425/)
 
 ### Trợ lí sinh viên
  - 22/05/2025: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2024 – 2025 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2025/05/danh-sach-sinh-vien-da-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2024-2025-cap-nhat/)
@@ -62,6 +62,7 @@ _Last update: **2025-06-24 16:16:07.873346+07:00**_
  - 10-6-2025: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16811)
 
 ## Thông tin dành cho sinh viên
+- 24/06/2025: [Thông báo đăng ký học phần học kỳ 3 năm học 2024-2025 cho sinh viên trình độ Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-qua-mang-hoc-ky-3-nam-hoc-2024-2025-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
 - 20/06/2025: [Thông báo kết quả chính thức HBKK HK1/2024-2025 Khoa Công nghệ Thông tin, Khoa Hóa học, Khoa Môi trường, Khoa Điện tử-Viễn thông, Khoa SH-CNSH, Khoa KH&CNVL, Khoa VL-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-2024-2025-khoa-cong-nghe-thong-tin-khoa-hoa-hoc-khoa-moi-truong-khoa-dien-tu-vien-thong-khoa-sh-cnsh-khoa-khcnvl-khoa-vl-vlkt-ctda/)
 - 19/06/2025: [[Thông báo] Workshop Xây dựng tương lai xanh – Hướng đến NetZero 2025 02/7/2025](https://hcmus.edu.vn/thong-bao-workshop-xay-dung-tuong-lai-xanh-huong-den-netzero-2025-02-7-2025/)
 - 17/06/2025: [Thông báo kết quả tham gia tập huấn Phòng cháy chữa cháy và cứu nạn cứu hộ  tại Ký túc xá Trường (đợt 1, năm 2025)](https://hcmus.edu.vn/thong-bao-ket-qua-tham-gia-tap-huan-phong-chay-chua-chay-va-cuu-nan-cuu-ho-tai-ky-tuc-xa-truong-dot-1-nam-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-06-24 16:16:07.873346+07:00**_
 - 11/06/2025: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
 - 10/06/2025: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2025 – 2026](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2025-2026/)
 - 09/06/2025: [Thông báo tổ chức hoạt động “Ngừng trì hoãn, không lo âu – sống ‘chất’ thời sinh viên”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-ngung-tri-hoan-khong-lo-au-song-chat-thoi-sinh-vien/)
-- 09/06/2025: [Thông báo kết quả dự kiến HBKK HK1/2024-2025 Khoa Công nghệ Thông tin, Khoa Hóa học, Khoa Môi trường, Khoa Điện tử-Viễn thông, Khoa SH-CNSH, Khoa KH&CNVL, Khoa VL-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2024-2025-khoa-hoa-hoc-khoa-moi-truong-khoa-dien-tu-vien-thong-khoa-sh-cnsh-khoa-khcnvl-khoa-vl-vlkt-ctda/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thay đổi phòng thi HK2/24-25 tại Nguyễn Văn Cừ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/877-thong-bao-thay-d-i-phong-thi-hk2-24-25-t-i-nguy-n-van-c)
