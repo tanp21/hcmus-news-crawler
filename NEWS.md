@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-06-30 10:20:42.083565+07:00**_
+_Last update: **2025-06-30 11:28:38.325124+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-06-30 10:20:42.083565+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 30-6-2025: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt 2 (tháng 7, 8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16843)
  - 26-6-2025: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16842)
  - 25-6-2025: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ Chương trình Chuẩn HK3/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16841)
  - 23-6-2025: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2021, đợt 2 (T7, T8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16839)
@@ -59,7 +60,6 @@ _Last update: **2025-06-30 10:20:42.083565+07:00**_
  - 16-6-2025: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2023, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16820)
  - 16-6-2025: [Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16819)
  - 13-6-2025: [[CQ] Thời khóa biểu học kỳ 3 năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16818)
- - 13-6-2025: [Tổng kết Seminar Human-Computer Interaction at the University of Sydney: Designing Technology for People and Place](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16817)
 
 ## Thông tin dành cho sinh viên
 - 24/06/2025: [Thông báo đăng ký học phần học kỳ 3 năm học 2024-2025 cho sinh viên trình độ Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-qua-mang-hoc-ky-3-nam-hoc-2024-2025-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
