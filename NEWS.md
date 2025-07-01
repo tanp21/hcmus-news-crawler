@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-01 14:15:34.618904+07:00**_
+_Last update: **2025-07-01 15:19:41.289509+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -74,11 +74,11 @@ _Last update: **2025-07-01 14:15:34.618904+07:00**_
 - 12/06/2025: [Thông báo thu học phí học kỳ 3 / 2024-2025 đối với sinh viên hệ chính quy chương trình Tiên tiến, Liên kết Việt – Pháp, Chất lượng cao và Tăng cường tiếng Anh](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-3-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-tien-tien-lien-ket-viet-phap-chat-luong-cao-va-tang-cuong-tieng-anh/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
  - [Thông báo phúc khảo HK2/24-25 hệ Từ xa ngành CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/880-thong-bao-phuc-kh-o-hk2-24-25-h-t-xa-nganh-cntt)
  - [Thông báo thay đổi phòng thi HK2/24-25 tại Nguyễn Văn Cừ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/877-thong-bao-thay-d-i-phong-thi-hk2-24-25-t-i-nguy-n-van-c)
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt 2 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/876-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-2-nam-2025)
  - [Thông báo phúc khảo HK2/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/870-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-khoa-cntt)
- - [Thông báo phúc khảo HK2/24-25 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/869-thong-bao-phuc-kh-o-hk2-24-25-ct-d-an-cac-khoa)
 
 ***
 
