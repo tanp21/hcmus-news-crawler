@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-02 17:15:30.611275+07:00**_
+_Last update: **2025-07-02 18:12:42.018243+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -67,11 +67,11 @@ _Last update: **2025-07-02 17:15:30.611275+07:00**_
 - 01/07/2025: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2025](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2025/)
 - 30/06/2025: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
 - 30/06/2025: [Tài liệu xin ý kiến góp ý Luật GDĐH](https://hcmus.edu.vn/tai-lieu-xin-y-kien-gop-y-luat-gddh/)
+- 29/06/2025: [Tự hào truyền thống – Tiếp bước tri thức: Lễ Tốt nghiệp Cử nhân Khoa học đợt 1- năm 2025](https://hcmus.edu.vn/le-trao-bang-cu-nhan-khoa-hoc-nam-2025-khang-dinh-mot-hanh-trinh-tri-tue/)
 - 24/06/2025: [Thông báo đăng ký học phần học kỳ 3 năm học 2024-2025 cho sinh viên trình độ Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-qua-mang-hoc-ky-3-nam-hoc-2024-2025-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
 - 20/06/2025: [Thông báo kết quả chính thức HBKK HK1/2024-2025 Khoa Công nghệ Thông tin, Khoa Hóa học, Khoa Môi trường, Khoa Điện tử-Viễn thông, Khoa SH-CNSH, Khoa KH&CNVL, Khoa VL-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-2024-2025-khoa-cong-nghe-thong-tin-khoa-hoa-hoc-khoa-moi-truong-khoa-dien-tu-vien-thong-khoa-sh-cnsh-khoa-khcnvl-khoa-vl-vlkt-ctda/)
 - 19/06/2025: [[Thông báo] Workshop Xây dựng tương lai xanh – Hướng đến NetZero 2025 02/7/2025](https://hcmus.edu.vn/thong-bao-workshop-xay-dung-tuong-lai-xanh-huong-den-netzero-2025-02-7-2025/)
 - 17/06/2025: [Thông báo kết quả tham gia tập huấn Phòng cháy chữa cháy và cứu nạn cứu hộ  tại Ký túc xá Trường (đợt 1, năm 2025)](https://hcmus.edu.vn/thong-bao-ket-qua-tham-gia-tap-huan-phong-chay-chua-chay-va-cuu-nan-cuu-ho-tai-ky-tuc-xa-truong-dot-1-nam-2025/)
-- 17/06/2025: [Thông tin chương trình học bổng “NINETY EIGHT SCHOLARSHIP” năm thứ 2](https://hcmus.edu.vn/thong-tin-chuong-trinh-hoc-bong-ninety-eight-scholarship-nam-thu-2/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
