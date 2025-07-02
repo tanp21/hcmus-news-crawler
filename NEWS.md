@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-02 13:21:16.986871+07:00**_
+_Last update: **2025-07-02 14:14:15.615330+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-07-02 13:21:16.986871+07:00**_
  - 19-6-2025: [Thông báo đăng ký xét tuyển bổ sung lớp Cử nhân tài năng 2023 và 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16824)
 
 ## Thông tin dành cho sinh viên
+- 02/07/2025: [Thông báo mở bổ sung các lớp học phần HK3/2024-2025](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-hoc-phan-hk3-2024-2025/)
 - 01/07/2025: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2025](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2025/)
 - 30/06/2025: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
 - 30/06/2025: [Tài liệu xin ý kiến góp ý Luật GDĐH](https://hcmus.edu.vn/tai-lieu-xin-y-kien-gop-y-luat-gddh/)
@@ -71,7 +72,6 @@ _Last update: **2025-07-02 13:21:16.986871+07:00**_
 - 17/06/2025: [Thông báo kết quả tham gia tập huấn Phòng cháy chữa cháy và cứu nạn cứu hộ  tại Ký túc xá Trường (đợt 1, năm 2025)](https://hcmus.edu.vn/thong-bao-ket-qua-tham-gia-tap-huan-phong-chay-chua-chay-va-cuu-nan-cuu-ho-tai-ky-tuc-xa-truong-dot-1-nam-2025/)
 - 17/06/2025: [Thông tin chương trình học bổng “NINETY EIGHT SCHOLARSHIP” năm thứ 2](https://hcmus.edu.vn/thong-tin-chuong-trinh-hoc-bong-ninety-eight-scholarship-nam-thu-2/)
 - 12/06/2025: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2025](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2025/)
-- 12/06/2025: [Thông báo thu học phí học kỳ 3 / 2024-2025 đối với sinh viên hệ chính quy chương trình Tiên tiến, Liên kết Việt – Pháp, Chất lượng cao và Tăng cường tiếng Anh](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-3-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-tien-tien-lien-ket-viet-phap-chat-luong-cao-va-tang-cuong-tieng-anh/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
