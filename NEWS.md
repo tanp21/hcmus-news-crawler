@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-02 10:14:43.774224+07:00**_
+_Last update: **2025-07-02 11:24:25.636476+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-07-02 10:14:43.774224+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 2-7-2025: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16848)
  - 30-6-2025: [Thông báo chỉ tiêu xét chuyên ngành Khóa 2023, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16846)
  - 30-6-2025: [Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16845)
  - 30-6-2025: [Chúc mừng một thành viên của nhóm nghiên cứu AI-Thena vừa có công trình được chấp nhận đăng trên tạp chí quốc tế Neurocomputing (Q1)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16844)
@@ -59,7 +60,6 @@ _Last update: **2025-07-02 10:14:43.774224+07:00**_
  - 23-6-2025: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2021, đợt 2 (T7, T8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16839)
  - 19-6-2025: [Chúc mừng TS. Lê Ngọc Thành được tặng giấy khen có thành tích học tập và nghiên cứu khoa học xuất sắc năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16830)
  - 19-6-2025: [Thông báo đăng ký xét tuyển bổ sung lớp Cử nhân tài năng 2023 và 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16824)
- - 18-6-2025: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16823)
 
 ## Thông tin dành cho sinh viên
 - 01/07/2025: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2025](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2025/)
