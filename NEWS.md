@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-02 15:19:27.342686+07:00**_
+_Last update: **2025-07-02 16:16:43.357705+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-07-02 15:19:27.342686+07:00**_
  - 19-6-2025: [Thông báo đăng ký xét tuyển bổ sung lớp Cử nhân tài năng 2023 và 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16824)
 
 ## Thông tin dành cho sinh viên
+- 02/07/2025: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2025 do Trường tổ chức ngày 26/6 và 29/6/2025](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-1-nam-2025-do-truong-to-chuc-ngay-26-6-va-29-6-2025/)
 - 02/07/2025: [Thông báo mở bổ sung các lớp học phần HK3/2024-2025](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-hoc-phan-hk3-2024-2025/)
 - 01/07/2025: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2025](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2025/)
 - 30/06/2025: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
@@ -71,7 +72,6 @@ _Last update: **2025-07-02 15:19:27.342686+07:00**_
 - 19/06/2025: [[Thông báo] Workshop Xây dựng tương lai xanh – Hướng đến NetZero 2025 02/7/2025](https://hcmus.edu.vn/thong-bao-workshop-xay-dung-tuong-lai-xanh-huong-den-netzero-2025-02-7-2025/)
 - 17/06/2025: [Thông báo kết quả tham gia tập huấn Phòng cháy chữa cháy và cứu nạn cứu hộ  tại Ký túc xá Trường (đợt 1, năm 2025)](https://hcmus.edu.vn/thong-bao-ket-qua-tham-gia-tap-huan-phong-chay-chua-chay-va-cuu-nan-cuu-ho-tai-ky-tuc-xa-truong-dot-1-nam-2025/)
 - 17/06/2025: [Thông tin chương trình học bổng “NINETY EIGHT SCHOLARSHIP” năm thứ 2](https://hcmus.edu.vn/thong-tin-chuong-trinh-hoc-bong-ninety-eight-scholarship-nam-thu-2/)
-- 12/06/2025: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2025](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
