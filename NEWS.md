@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-03 08:08:56.954046+07:00**_
+_Last update: **2025-07-03 10:16:07.543500+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -64,7 +64,7 @@ _Last update: **2025-07-03 08:08:56.954046+07:00**_
 ## Thông tin dành cho sinh viên
 - 02/07/2025: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2025 do Trường tổ chức ngày 26/6 và 29/6/2025](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-1-nam-2025-do-truong-to-chuc-ngay-26-6-va-29-6-2025/)
 - 02/07/2025: [Thông báo mở bổ sung các lớp học phần HK3/2024-2025](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-hoc-phan-hk3-2024-2025/)
-- 02/07/2025: [Tự hào truyền thống – Tiếp bước tri thức: Lễ Tốt nghiệp Cử nhân Khoa học đợt 1- năm 2025](https://hcmus.edu.vn/le-trao-bang-cu-nhan-khoa-hoc-nam-2025-khang-dinh-mot-hanh-trinh-tri-tue/)
+- 02/07/2025: [Tự hào truyền thống – Tiếp bước tri thức: Lễ Tốt nghiệp Cử nhân Khoa học đợt 1](https://hcmus.edu.vn/le-trao-bang-cu-nhan-khoa-hoc-nam-2025-khang-dinh-mot-hanh-trinh-tri-tue/)
 - 01/07/2025: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2025](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2025/)
 - 30/06/2025: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
 - 30/06/2025: [Tài liệu xin ý kiến góp ý Luật GDĐH](https://hcmus.edu.vn/tai-lieu-xin-y-kien-gop-y-luat-gddh/)
