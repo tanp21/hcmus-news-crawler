@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-04 10:14:11.208834+07:00**_
+_Last update: **2025-07-04 11:24:32.104854+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-07-04 10:14:11.208834+07:00**_
  - 19-6-2025: [Chúc mừng TS. Lê Ngọc Thành được tặng giấy khen có thành tích học tập và nghiên cứu khoa học xuất sắc năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16830)
 
 ## Thông tin dành cho sinh viên
+- 04/07/2025: [Thông báo phát bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành CNTT, hệ đào tạo từ xa và Liên thông đại học cho đợt tốt nghiệp tháng 5/2025](https://hcmus.edu.vn/thong-bao-phat-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cntt-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-tot-nghiep-thang-5-2025/)
 - 03/07/2025: [Thông báo kỳ thi ĐGNL tiếng Anh (dùng để xét ĐKHP chuyên ngành) dành cho Khóa 2022 về sau](https://hcmus.edu.vn/thong-bao-ky-thi-dgnl-tieng-anh-dung-de-xet-dkhp-chuyen-nganh-danh-cho-khoa-2022-ve-sau/)
 - 02/07/2025: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2025 do Trường tổ chức ngày 26/6 và 29/6/2025](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-1-nam-2025-do-truong-to-chuc-ngay-26-6-va-29-6-2025/)
 - 02/07/2025: [Thông báo mở bổ sung các lớp học phần HK3/2024-2025](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-hoc-phan-hk3-2024-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-07-04 10:14:11.208834+07:00**_
 - 30/06/2025: [Tài liệu xin ý kiến góp ý Luật GDĐH](https://hcmus.edu.vn/tai-lieu-xin-y-kien-gop-y-luat-gddh/)
 - 24/06/2025: [Thông báo đăng ký học phần học kỳ 3 năm học 2024-2025 cho sinh viên trình độ Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-qua-mang-hoc-ky-3-nam-hoc-2024-2025-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
 - 20/06/2025: [Thông báo kết quả chính thức HBKK HK1/2024-2025 Khoa Công nghệ Thông tin, Khoa Hóa học, Khoa Môi trường, Khoa Điện tử-Viễn thông, Khoa SH-CNSH, Khoa KH&CNVL, Khoa VL-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-2024-2025-khoa-cong-nghe-thong-tin-khoa-hoa-hoc-khoa-moi-truong-khoa-dien-tu-vien-thong-khoa-sh-cnsh-khoa-khcnvl-khoa-vl-vlkt-ctda/)
-- 19/06/2025: [[Thông báo] Workshop Xây dựng tương lai xanh – Hướng đến NetZero 2025 02/7/2025](https://hcmus.edu.vn/thong-bao-workshop-xay-dung-tuong-lai-xanh-huong-den-netzero-2025-02-7-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
