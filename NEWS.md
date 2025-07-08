@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-08 15:19:52.154776+07:00**_
+_Last update: **2025-07-08 16:16:28.089426+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-07-08 15:19:52.154776+07:00**_
  - 26-6-2025: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16842)
 
 ## Thông tin dành cho sinh viên
+- 08/07/2025: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường học kỳ 1, năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2025-2026/)
 - 04/07/2025: [Thông báo mở lớp bổ sung HK3 (hè)/2024-2025: Thực hành Cơ sở lập trình](https://hcmus.edu.vn/thong-bao-mo-lop-bo-sung-hk3-he-2024-2025-thuc-hanh-co-so-lap-trinh/)
 - 04/07/2025: [Thông báo phát bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành CNTT, hệ đào tạo từ xa và Liên thông đại học cho đợt tốt nghiệp tháng 5/2025](https://hcmus.edu.vn/thong-bao-phat-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cntt-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-tot-nghiep-thang-5-2025/)
 - 03/07/2025: [Thông báo kỳ thi ĐGNL tiếng Anh (dùng để xét ĐKHP chuyên ngành) dành cho Khóa 2022 về sau](https://hcmus.edu.vn/thong-bao-ky-thi-dgnl-tieng-anh-dung-de-xet-dkhp-chuyen-nganh-danh-cho-khoa-2022-ve-sau/)
@@ -71,7 +72,6 @@ _Last update: **2025-07-08 15:19:52.154776+07:00**_
 - 01/07/2025: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2025](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2025/)
 - 30/06/2025: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
 - 30/06/2025: [Tài liệu xin ý kiến góp ý Luật GDĐH](https://hcmus.edu.vn/tai-lieu-xin-y-kien-gop-y-luat-gddh/)
-- 24/06/2025: [Thông báo đăng ký học phần học kỳ 3 năm học 2024-2025 cho sinh viên trình độ Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-qua-mang-hoc-ky-3-nam-hoc-2024-2025-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
