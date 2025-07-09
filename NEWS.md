@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-09 17:16:19.130866+07:00**_
+_Last update: **2025-07-09 18:12:49.496063+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,16 @@ _Last update: **2025-07-09 17:16:19.130866+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 8-7-2025: [Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2022 trở về trước](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16863)
+ - 7-7-2025: [Kế hoạch Tổ chức Kỳ thi ĐGNL tiếng Anh nội bộ năm 2025 (Dùng để xét đăng ký các học phần chuyên ngành cho sinh viên khóa tuyển 2022, 2023)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16860)
+ - 7-7-2025: [Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16859)
+ - 3-7-2025: [Cập nhật thành tích sinh viên khoa CNTT HK2/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16849)
+ - 2-7-2025: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16848)
+ - 30-6-2025: [Thông báo chỉ tiêu xét chuyên ngành Khóa 2023, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16846)
+ - 30-6-2025: [Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16845)
+ - 30-6-2025: [Chúc mừng một thành viên của nhóm nghiên cứu AI-Thena vừa có công trình được chấp nhận đăng trên tạp chí quốc tế Neurocomputing (Q1)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16844)
+ - 30-6-2025: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt 2 (tháng 7, 8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16843)
+ - 26-6-2025: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16842)
 
 ## Thông tin dành cho sinh viên
 - 09/07/2025: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2024-2025 đối với sinh viên Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2024-2025-doi-voi-sinh-vien-chuong-trinh-de-an/)
