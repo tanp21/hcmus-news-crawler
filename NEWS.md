@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-11 08:11:03.922441+07:00**_
+_Last update: **2025-07-11 10:23:07.965624+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-07-11 08:11:03.922441+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 11-7-2025: [Thông báo đăng ký Học phần 3 cùng lớp cao học khóa 34/2024 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16867)
  - 10-7-2025: [Kết quả tuyển sinh Sau Đại học năm 2025 – đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16866)
  - 10-7-2025: [[CQ] Thông báo lớp hủy HK3/24-25 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16864)
  - 8-7-2025: [Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2022 trở về trước](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16863)
@@ -59,7 +60,6 @@ _Last update: **2025-07-11 08:11:03.922441+07:00**_
  - 2-7-2025: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16848)
  - 30-6-2025: [Thông báo chỉ tiêu xét chuyên ngành Khóa 2023, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16846)
  - 30-6-2025: [Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16845)
- - 30-6-2025: [Chúc mừng một thành viên của nhóm nghiên cứu AI-Thena vừa có công trình được chấp nhận đăng trên tạp chí quốc tế Neurocomputing (Q1)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16844)
 
 ## Thông tin dành cho sinh viên
 - 09/07/2025: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2024-2025 đối với sinh viên Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2024-2025-doi-voi-sinh-vien-chuong-trinh-de-an/)
