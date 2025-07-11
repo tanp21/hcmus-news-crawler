@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-11 13:21:10.182996+07:00**_
+_Last update: **2025-07-11 14:15:44.807403+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-07-11 13:21:10.182996+07:00**_
  - 30-6-2025: [Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16845)
 
 ## Thông tin dành cho sinh viên
+- 11/07/2025: [Thông báo Đăng ký bổ sung học phần Hóa đại cương 1 & 2  trong học kỳ hè (HK3/24-25](https://hcmus.edu.vn/thong-bao-dang-ky-bo-sung-hoc-phan-hoa-dai-cuong-1-2-trong-hoc-ky-he-hk3-24-25/)
 - 09/07/2025: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2024-2025 đối với sinh viên Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2024-2025-doi-voi-sinh-vien-chuong-trinh-de-an/)
 - 08/07/2025: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường học kỳ 1, năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2025-2026/)
 - 04/07/2025: [Thông báo mở lớp bổ sung HK3 (hè)/2024-2025: Thực hành Cơ sở lập trình](https://hcmus.edu.vn/thong-bao-mo-lop-bo-sung-hk3-he-2024-2025-thuc-hanh-co-so-lap-trinh/)
@@ -71,7 +72,6 @@ _Last update: **2025-07-11 13:21:10.182996+07:00**_
 - 02/07/2025: [Thông báo mở bổ sung các lớp học phần HK3/2024-2025](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-hoc-phan-hk3-2024-2025/)
 - 02/07/2025: [Tự hào truyền thống – Tiếp bước tri thức: Lễ Tốt nghiệp Cử nhân Khoa học đợt 1](https://hcmus.edu.vn/le-trao-bang-cu-nhan-khoa-hoc-nam-2025-khang-dinh-mot-hanh-trinh-tri-tue/)
 - 01/07/2025: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2025](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2025/)
-- 30/06/2025: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
