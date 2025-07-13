@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-13 08:17:27.073143+07:00**_
+_Last update: **2025-07-13 10:27:43.254741+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,7 +62,7 @@ _Last update: **2025-07-13 08:17:27.073143+07:00**_
  - 2-7-2025: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16848)
 
 ## Thông tin dành cho sinh viên
-- 11/07/2025: [Thông báo Đăng ký bổ sung học phần Hóa đại cương 1 & 2  trong học kỳ hè (HK3/24-25](https://hcmus.edu.vn/thong-bao-dang-ky-bo-sung-hoc-phan-hoa-dai-cuong-1-2-trong-hoc-ky-he-hk3-24-25/)
+- 11/07/2025: [Thông báo Đăng ký bổ sung học phần Hóa đại cương 1 & 2  trong học kỳ hè (HK3/24-25) (đã cập nhật lại thời gian bắt đầu đăng ký)](https://hcmus.edu.vn/thong-bao-dang-ky-bo-sung-hoc-phan-hoa-dai-cuong-1-2-trong-hoc-ky-he-hk3-24-25/)
 - 09/07/2025: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2024-2025 đối với sinh viên Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2024-2025-doi-voi-sinh-vien-chuong-trinh-de-an/)
 - 08/07/2025: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường học kỳ 1, năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2025-2026/)
 - 04/07/2025: [Thông báo mở lớp bổ sung HK3 (hè)/2024-2025: Thực hành Cơ sở lập trình](https://hcmus.edu.vn/thong-bao-mo-lop-bo-sung-hk3-he-2024-2025-thuc-hanh-co-so-lap-trinh/)
