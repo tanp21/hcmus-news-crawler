@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-14 08:14:16.690177+07:00**_
+_Last update: **2025-07-14 10:27:35.358313+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-07-14 08:14:16.690177+07:00**_
  - 2-7-2025: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16848)
 
 ## Thông tin dành cho sinh viên
+- 14/07/2025: [Thời khóa biểu học kỳ hè HK3/2024-2025 – Chương trình đại trà (chính thức)](https://hcmus.edu.vn/thoi-khoa-bieu-hoc-ky-he-hk3-2024-2025-chuong-trinh-dai-tra-chinh-thuc/)
 - 11/07/2025: [Thông báo Đăng ký bổ sung học phần Hóa đại cương 1 & 2  trong học kỳ hè (HK3/24-25) (đã cập nhật lại thời gian bắt đầu đăng ký)](https://hcmus.edu.vn/thong-bao-dang-ky-bo-sung-hoc-phan-hoa-dai-cuong-1-2-trong-hoc-ky-he-hk3-24-25/)
 - 09/07/2025: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2024-2025 đối với sinh viên Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2024-2025-doi-voi-sinh-vien-chuong-trinh-de-an/)
 - 08/07/2025: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường học kỳ 1, năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2025-2026/)
@@ -71,7 +72,6 @@ _Last update: **2025-07-14 08:14:16.690177+07:00**_
 - 02/07/2025: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2025 do Trường tổ chức ngày 26/6 và 29/6/2025](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-1-nam-2025-do-truong-to-chuc-ngay-26-6-va-29-6-2025/)
 - 02/07/2025: [Thông báo mở bổ sung các lớp học phần HK3/2024-2025](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-hoc-phan-hk3-2024-2025/)
 - 02/07/2025: [Tự hào truyền thống – Tiếp bước tri thức: Lễ Tốt nghiệp Cử nhân Khoa học đợt 1](https://hcmus.edu.vn/le-trao-bang-cu-nhan-khoa-hoc-nam-2025-khang-dinh-mot-hanh-trinh-tri-tue/)
-- 01/07/2025: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2025](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
@@ -82,11 +82,11 @@ _Last update: **2025-07-14 08:14:16.690177+07:00**_
 
 ***
 
+ - [Lịch thi cuối kỳ HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/882-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-khoa-cntt)
  - [Lịch thi cuối kỳ HK3/24-25 CT đề án các khoa (CẬP NHẬT 11/07)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/879-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-cac-khoa)
  - [Lịch thi cuối kỳ HK3/24-25 CT đề án khoa Hóa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/878-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-khoa-hoa)
  - [Lịch thi cuối kỳ (sớm) HK3/24-25 CT đề án khoa Sinh](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/875-l-ch-thi-cu-i-ky-s-m-hk3-24-25-ct-d-an-khoa-sinh)
  - [Lịch thi giữa kỳ HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/874-l-ch-thi-gi-a-ky-hk3-24-25-ct-d-an-cac-khoa)
- - [Lịch thi giữa kỳ HK3/24-25 CT đề án khoa Hóa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/873-l-ch-thi-hk3-24-25-ct-d-an-khoa-hoa)
 
 ***
 
