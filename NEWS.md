@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-16 14:16:52.549822+07:00**_
+_Last update: **2025-07-16 15:19:58.484788+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-07-16 14:16:52.549822+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 16-7-2025: [Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16876)
  - 11-7-2025: [Thông báo về việc Tổ chức lớp học môn Triết – Khóa tháng 08/2025 (Chương trình dành cho học viên sau đại học)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16869)
  - 11-7-2025: [Đăng ký tham gia Trường hè "FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16868)
  - 11-7-2025: [Thông báo đăng ký Học phần 3 cùng lớp cao học khóa 34/2024 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16867)
@@ -59,7 +60,6 @@ _Last update: **2025-07-16 14:16:52.549822+07:00**_
  - 7-7-2025: [Kế hoạch Tổ chức Kỳ thi ĐGNL tiếng Anh nội bộ năm 2025 (Dùng để xét đăng ký các học phần chuyên ngành cho sinh viên khóa tuyển 2022, 2023)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16860)
  - 7-7-2025: [Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16859)
  - 3-7-2025: [Cập nhật thành tích sinh viên khoa CNTT HK2/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16849)
- - 2-7-2025: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16848)
 
 ## Thông tin dành cho sinh viên
 - 16/07/2025: [Thông báo thay đổi phòng học tại CS2 từ ngày 16/7/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-16-7-2025/)
