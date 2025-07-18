@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-18 08:11:55.338685+07:00**_
+_Last update: **2025-07-18 10:24:54.633822+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-07-18 08:11:55.338685+07:00**_
  - 7-7-2025: [Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16859)
 
 ## Thông tin dành cho sinh viên
+- 18/07/2025: [Thông báo Chương trình Học bổng Đinh Thiện Lý năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dinh-thien-ly-nam-hoc-2025-2026/)
 - 17/07/2025: [Công bố Ngưỡng đảm bảo chất lượng Phương thức 2 và Phương thức 3 năm 2025](https://hcmus.edu.vn/cong-bo-nguong-dam-bao-chat-luong-phuong-thuc-2-va-phuong-thuc-3-nam-2025/)
 - 16/07/2025: [Thông báo thay đổi phòng học tại CS2 từ ngày 16/7/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-16-7-2025/)
 - 15/07/2025: [Thông báo thay đổi phòng học tại CS2 môn CNXHKH](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-mon-cnxhkh/)
@@ -71,7 +72,6 @@ _Last update: **2025-07-18 08:11:55.338685+07:00**_
 - 09/07/2025: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2024-2025 đối với sinh viên Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2024-2025-doi-voi-sinh-vien-chuong-trinh-de-an/)
 - 08/07/2025: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường học kỳ 1, năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2025-2026/)
 - 04/07/2025: [Thông báo mở lớp bổ sung HK3 (hè)/2024-2025: Thực hành Cơ sở lập trình](https://hcmus.edu.vn/thong-bao-mo-lop-bo-sung-hk3-he-2024-2025-thuc-hanh-co-so-lap-trinh/)
-- 04/07/2025: [Thông báo phát bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành CNTT, hệ đào tạo từ xa và Liên thông đại học cho đợt tốt nghiệp tháng 5/2025](https://hcmus.edu.vn/thong-bao-phat-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cntt-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-tot-nghiep-thang-5-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
