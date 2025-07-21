@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-21 08:16:30.879066+07:00**_
+_Last update: **2025-07-21 10:39:51.452188+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-07-21 08:16:30.879066+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 21-7-2025: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 34/2024 - bắt đầu học 21/7/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16879)
  - 17-7-2025: [Thư mời tham gia Giải bóng đá nam Cựu sinh viên tranh Cúp Kỷ niệm 30 năm thành lập Khoa - FIT30 LEAGUE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16877)
  - 16-7-2025: [Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16876)
  - 11-7-2025: [Thông báo về việc Tổ chức lớp học môn Triết – Khóa tháng 08/2025 (Chương trình dành cho học viên sau đại học)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16869)
@@ -59,9 +60,9 @@ _Last update: **2025-07-21 08:16:30.879066+07:00**_
  - 10-7-2025: [[CQ] Thông báo lớp hủy HK3/24-25 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16864)
  - 8-7-2025: [Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2022 trở về trước](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16863)
  - 7-7-2025: [Kế hoạch Tổ chức Kỳ thi ĐGNL tiếng Anh nội bộ năm 2025 (Dùng để xét đăng ký các học phần chuyên ngành cho sinh viên khóa tuyển 2022, 2023)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16860)
- - 7-7-2025: [Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16859)
 
 ## Thông tin dành cho sinh viên
+- 21/07/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình cho các đợt công bố danh sách tốt nghiệp tháng 9, 10 và 11 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-cac-dot-cong-bo-danh-sach-tot-nghiep-thang-9-10-va-11-nam-2025/)
 - 18/07/2025: [Thông báo cập nhật thông tin ngành/chuyên ngành cho sinh viên Khóa tuyển 2022 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-nganh-chuyen-nganh-cho-sinh-vien-khoa-tuyen-2022-tro-ve-truoc/)
 - 18/07/2025: [Thông báo Chương trình Học bổng Đinh Thiện Lý năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dinh-thien-ly-nam-hoc-2025-2026/)
 - 17/07/2025: [Công bố Ngưỡng đảm bảo chất lượng Phương thức 2 và Phương thức 3 năm 2025](https://hcmus.edu.vn/cong-bo-nguong-dam-bao-chat-luong-phuong-thuc-2-va-phuong-thuc-3-nam-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-07-21 08:16:30.879066+07:00**_
 - 14/07/2025: [Thời khóa biểu học kỳ hè HK3/2024-2025 – Chương trình đại trà (chính thức)](https://hcmus.edu.vn/thoi-khoa-bieu-hoc-ky-he-hk3-2024-2025-chuong-trinh-dai-tra-chinh-thuc/)
 - 11/07/2025: [Thông báo Đăng ký bổ sung học phần Hóa đại cương 1 & 2  trong học kỳ hè (HK3/24-25) (đã cập nhật lại thời gian bắt đầu đăng ký)](https://hcmus.edu.vn/thong-bao-dang-ky-bo-sung-hoc-phan-hoa-dai-cuong-1-2-trong-hoc-ky-he-hk3-24-25/)
 - 09/07/2025: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2024-2025 đối với sinh viên Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2024-2025-doi-voi-sinh-vien-chuong-trinh-de-an/)
-- 08/07/2025: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường học kỳ 1, năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2025-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
