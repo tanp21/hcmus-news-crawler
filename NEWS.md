@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-22 06:14:03.660996+07:00**_
+_Last update: **2025-07-22 08:12:36.713399+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-07-22 06:14:03.660996+07:00**_
  - 7-7-2025: [Kế hoạch Tổ chức Kỳ thi ĐGNL tiếng Anh nội bộ năm 2025 (Dùng để xét đăng ký các học phần chuyên ngành cho sinh viên khóa tuyển 2022, 2023)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16860)
 
 ## Thông tin dành cho sinh viên
+- 22/07/2025: [Thông báo nghỉ học môn Tư tưởng HCM, sáng 22/7/25 tại CS2](https://hcmus.edu.vn/thong-bao-nghi-hoc-mon-tu-tuong-hcm-sang-22-7-25-tai-cs2/)
 - 21/07/2025: [Thông báo tuyển chọn sinh viên tham dự Chương trình học tập trải nghiệm ASEAN AUN lần thứ 4 tại Thái Lan](https://hcmus.edu.vn/thong-bao-tuyen-chon-sinh-vien-tham-du-chuong-trinh-hoc-tap-trai-nghiem-asean-aun-lan-thu-4-tai-thai-lan/)
 - 21/07/2025: [Thông báo tuyển chọn sinh viên tham gia Hội nghị Mạng lưới Công tác Sinh viên AUN (AUN-SAN) Voice, Opportunity, eXchange](https://hcmus.edu.vn/thong-bao-tuyen-chon-sinh-vien-tham-gia-hoi-nghi-mang-luoi-cong-tac-sinh-vien-aun-aun-san-voice-opportunity-exchange/)
 - 21/07/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình cho các đợt công bố danh sách tốt nghiệp tháng 9, 10 và 11 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-cac-dot-cong-bo-danh-sach-tot-nghiep-thang-9-10-va-11-nam-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-07-22 06:14:03.660996+07:00**_
 - 16/07/2025: [Thông báo thay đổi phòng học tại CS2 từ ngày 16/7/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-16-7-2025/)
 - 15/07/2025: [Thông báo thay đổi phòng học tại CS2 môn CNXHKH](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-mon-cnxhkh/)
 - 14/07/2025: [Kế hoạch học tập – giảng dạy năm học 2025-2026](https://hcmus.edu.vn/ke-hoach-hoc-tap-giang-day-nam-hoc-2025-2026/)
-- 14/07/2025: [Thời khóa biểu học kỳ hè HK3/2024-2025 – Chương trình đại trà (chính thức)](https://hcmus.edu.vn/thoi-khoa-bieu-hoc-ky-he-hk3-2024-2025-chuong-trinh-dai-tra-chinh-thuc/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
