@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-28 15:22:13.370937+07:00**_
+_Last update: **2025-07-28 16:22:08.306017+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-07-28 15:22:13.370937+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 28-7-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16890)
  - 28-7-2025: [Thông tin buổi báo cáo tiểu luận tổng quan và chuyên đề tiến sĩ tháng 7/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16889)
  - 28-7-2025: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Cao Xuân Nam (8g00, 31/7, phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16887)
  - 24-7-2025: [Thông báo chuyên ngành chính thức sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16884)
@@ -59,7 +60,6 @@ _Last update: **2025-07-28 15:22:13.370937+07:00**_
  - 17-7-2025: [Thư mời tham gia Giải bóng đá nam Cựu sinh viên tranh Cúp Kỷ niệm 30 năm thành lập Khoa - FIT30 LEAGUE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16877)
  - 16-7-2025: [Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16876)
  - 11-7-2025: [Thông báo về việc Tổ chức lớp học môn Triết – Khóa tháng 08/2025 (Chương trình dành cho học viên sau đại học)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16869)
- - 11-7-2025: [Đăng ký tham gia Trường hè "FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16868)
 
 ## Thông tin dành cho sinh viên
 - 22/07/2025: [Thông báo nghỉ học môn Tư tưởng HCM, sáng 22/7/25 tại CS2](https://hcmus.edu.vn/thong-bao-nghi-hoc-mon-tu-tuong-hcm-sang-22-7-25-tai-cs2/)
