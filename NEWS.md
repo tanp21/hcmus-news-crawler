@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-28 08:17:54.625543+07:00**_
+_Last update: **2025-07-28 10:41:10.765941+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-07-28 08:17:54.625543+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 28-7-2025: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Cao Xuân Nam (8g00, 31/7, phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16887)
  - 24-7-2025: [Thông báo chuyên ngành chính thức sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16884)
  - 23-7-2025: [[CQ] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2021 đợt 2 (25/7 - 01/8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16883)
  - 23-7-2025: [Lễ trao bằng cử nhân công nghệ thông tin và kỷ niệm 15 năm chương trình đào tạo bằng đôi liên kết Việt - Pháp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16882)
@@ -59,7 +60,6 @@ _Last update: **2025-07-28 08:17:54.625543+07:00**_
  - 11-7-2025: [Thông báo về việc Tổ chức lớp học môn Triết – Khóa tháng 08/2025 (Chương trình dành cho học viên sau đại học)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16869)
  - 11-7-2025: [Đăng ký tham gia Trường hè "FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16868)
  - 11-7-2025: [Thông báo đăng ký Học phần 3 cùng lớp cao học khóa 34/2024 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16867)
- - 10-7-2025: [Kết quả tuyển sinh Sau Đại học năm 2025 – đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16866)
 
 ## Thông tin dành cho sinh viên
 - 22/07/2025: [Thông báo nghỉ học môn Tư tưởng HCM, sáng 22/7/25 tại CS2](https://hcmus.edu.vn/thong-bao-nghi-hoc-mon-tu-tuong-hcm-sang-22-7-25-tai-cs2/)
