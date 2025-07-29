@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-29 17:16:02.821559+07:00**_
+_Last update: **2025-07-29 18:12:52.965242+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-07-29 17:16:02.821559+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 29-7-2025: [Cập nhật lịch trình bày Trường hè "FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16892)
  - 28-7-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16890)
  - 28-7-2025: [Thông tin buổi báo cáo tiểu luận tổng quan và chuyên đề tiến sĩ tháng 7/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16889)
  - 28-7-2025: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Cao Xuân Nam (8g00, 31/7, phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16887)
@@ -59,7 +60,6 @@ _Last update: **2025-07-29 17:16:02.821559+07:00**_
  - 21-7-2025: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 34/2024 - bắt đầu học 21/7/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16879)
  - 21-7-2025: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16891)
  - 17-7-2025: [Thư mời tham gia Giải bóng đá nam Cựu sinh viên tranh Cúp Kỷ niệm 30 năm thành lập Khoa - FIT30 LEAGUE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16877)
- - 16-7-2025: [Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16876)
 
 ## Thông tin dành cho sinh viên
 - 29/07/2025: [Thông báo về việc tổ chức cho sinh viên bậc đại học hệ chính quy khóa 2024 học môn Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/thong-bao-ve-viec-to-chuc-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-khoa-2024-hoc-mon-giao-duc-quoc-phong-an-ninh/)
