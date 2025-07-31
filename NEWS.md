@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-07-31 14:19:14.446187+07:00**_
+_Last update: **2025-07-31 15:20:47.993487+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-07-31 14:19:14.446187+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 31-7-2025: [Khoa Công nghệ thông tin tuyển dụng vị trí Giảng viên/Trợ giảng](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16895)
  - 29-7-2025: [Cập nhật lịch trình bày Trường hè "FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16892)
  - 28-7-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16890)
  - 28-7-2025: [Thông tin buổi báo cáo tiểu luận tổng quan và chuyên đề tiến sĩ tháng 7/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16889)
@@ -59,9 +60,9 @@ _Last update: **2025-07-31 14:19:14.446187+07:00**_
  - 23-7-2025: [Lễ trao bằng cử nhân công nghệ thông tin và kỷ niệm 15 năm chương trình đào tạo bằng đôi liên kết Việt - Pháp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16882)
  - 21-7-2025: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 34/2024 - bắt đầu học 21/7/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16879)
  - 21-7-2025: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 4/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16891)
- - 17-7-2025: [Thư mời tham gia Giải bóng đá nam Cựu sinh viên tranh Cúp Kỷ niệm 30 năm thành lập Khoa - FIT30 LEAGUE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16877)
 
 ## Thông tin dành cho sinh viên
+- 31/07/2025: [Thông báo về việc thu học phí học kỳ 3 năm học 2024-2025 (học kỳ hè năm 2025) đối với sinh viên trình độ đại học hệ chính quy, chương trình đại trà   ](https://hcmus.edu.vn/57270-2/)
 - 29/07/2025: [Thông báo về việc tổ chức cho sinh viên bậc đại học hệ chính quy khóa 2024 học môn Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/thong-bao-ve-viec-to-chuc-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-khoa-2024-hoc-mon-giao-duc-quoc-phong-an-ninh/)
 - 29/07/2025: [Thông báo thay đổi thời gian thi đánh giá năng lực tiếng Anh nội bộ năm 2025](https://hcmus.edu.vn/thong-bao-thay-doi-thoi-gian-thi-danh-gia-nang-luc-tieng-anh-noi-bo/)
 - 22/07/2025: [Thông báo nghỉ học môn Tư tưởng HCM, sáng 22/7/25 tại CS2](https://hcmus.edu.vn/thong-bao-nghi-hoc-mon-tu-tuong-hcm-sang-22-7-25-tai-cs2/)
@@ -71,7 +72,6 @@ _Last update: **2025-07-31 14:19:14.446187+07:00**_
 - 18/07/2025: [Thông báo cập nhật thông tin ngành/chuyên ngành cho sinh viên Khóa tuyển 2022 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-nganh-chuyen-nganh-cho-sinh-vien-khoa-tuyen-2022-tro-ve-truoc/)
 - 18/07/2025: [Thông báo Chương trình Học bổng Đinh Thiện Lý năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dinh-thien-ly-nam-hoc-2025-2026/)
 - 17/07/2025: [Công bố Ngưỡng đảm bảo chất lượng Phương thức 2 và Phương thức 3 năm 2025](https://hcmus.edu.vn/cong-bo-nguong-dam-bao-chat-luong-phuong-thuc-2-va-phuong-thuc-3-nam-2025/)
-- 16/07/2025: [Thông báo thay đổi phòng học tại CS2 từ ngày 16/7/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-16-7-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
