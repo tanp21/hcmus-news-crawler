@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-01 16:19:56.527888+07:00**_
+_Last update: **2025-08-01 17:16:11.366965+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-08-01 16:19:56.527888+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 1-8-2025: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2021, đợt 2 (bảo vệ tháng 7, 8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16897)
  - 1-8-2025: [Thời khóa biểu lớp bổ túc kiến thức môn Cơ sở dữ liệu và Các thuật toán thông minh nhân tạo và ứng dụng khóa tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16896)
  - 31-7-2025: [Khoa Công nghệ thông tin tuyển dụng vị trí Giảng viên/Trợ giảng](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16895)
  - 29-7-2025: [Cập nhật lịch trình bày Trường hè "FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16892)
@@ -59,7 +60,6 @@ _Last update: **2025-08-01 16:19:56.527888+07:00**_
  - 24-7-2025: [Thông báo chuyên ngành chính thức sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16884)
  - 23-7-2025: [[CQ] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2021 đợt 2 (25/7 - 01/8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16883)
  - 23-7-2025: [Lễ trao bằng cử nhân công nghệ thông tin và kỷ niệm 15 năm chương trình đào tạo bằng đôi liên kết Việt - Pháp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16882)
- - 21-7-2025: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 34/2024 - bắt đầu học 21/7/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16879)
 
 ## Thông tin dành cho sinh viên
 - 31/07/2025: [Thông báo về việc thu học phí học kỳ 3 năm học 2024-2025 (học kỳ hè năm 2025) đối với sinh viên trình độ đại học hệ chính quy, chương trình đại trà   ](https://hcmus.edu.vn/57270-2/)
