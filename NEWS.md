@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-04 15:21:54.111950+07:00**_
+_Last update: **2025-08-04 16:25:48.458806+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-08-04 15:21:54.111950+07:00**_
  - 23-7-2025: [[CQ] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2021 đợt 2 (25/7 - 01/8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16883)
 
 ## Thông tin dành cho sinh viên
+- 04/08/2025: [THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số” năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so-nam-2025/)
 - 31/07/2025: [Thông báo về việc thu học phí học kỳ 3 năm học 2024-2025 (học kỳ hè năm 2025) đối với sinh viên trình độ đại học hệ chính quy, chương trình đại trà   ](https://hcmus.edu.vn/57270-2/)
 - 29/07/2025: [Thông báo về việc tổ chức cho sinh viên bậc đại học hệ chính quy khóa 2024 học môn Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/thong-bao-ve-viec-to-chuc-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-khoa-2024-hoc-mon-giao-duc-quoc-phong-an-ninh/)
 - 29/07/2025: [Thông báo thay đổi thời gian thi đánh giá năng lực tiếng Anh nội bộ năm 2025](https://hcmus.edu.vn/thong-bao-thay-doi-thoi-gian-thi-danh-gia-nang-luc-tieng-anh-noi-bo/)
@@ -71,7 +72,6 @@ _Last update: **2025-08-04 15:21:54.111950+07:00**_
 - 21/07/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình cho các đợt công bố danh sách tốt nghiệp tháng 9, 10 và 11 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-cac-dot-cong-bo-danh-sach-tot-nghiep-thang-9-10-va-11-nam-2025/)
 - 18/07/2025: [Thông báo cập nhật thông tin ngành/chuyên ngành cho sinh viên Khóa tuyển 2022 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-nganh-chuyen-nganh-cho-sinh-vien-khoa-tuyen-2022-tro-ve-truoc/)
 - 18/07/2025: [Thông báo Chương trình Học bổng Đinh Thiện Lý năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dinh-thien-ly-nam-hoc-2025-2026/)
-- 17/07/2025: [Công bố Ngưỡng đảm bảo chất lượng Phương thức 2 và Phương thức 3 năm 2025](https://hcmus.edu.vn/cong-bo-nguong-dam-bao-chat-luong-phuong-thuc-2-va-phuong-thuc-3-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/898-thong-bao-phuc-kh-o-hk2-24-25-h-chinh-quy)
