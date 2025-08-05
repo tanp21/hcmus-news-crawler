@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-05 10:42:34.411887+07:00**_
+_Last update: **2025-08-05 11:41:54.896545+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-08-05 10:42:34.411887+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 5-8-2025: [Thông báo đăng ký chương trình thực tập tại trường Kyoto Institute of Technology (KIT), Nhật Bản năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16901)
  - 4-8-2025: [[CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện KLTN lớp CNTN2021 (bảo vệ T8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16900)
  - 1-8-2025: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2021, đợt 2 (bảo vệ tháng 7, 8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16897)
  - 1-8-2025: [Thời khóa biểu lớp bổ túc kiến thức môn Cơ sở dữ liệu và Các thuật toán thông minh nhân tạo và ứng dụng khóa tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16896)
@@ -59,7 +60,6 @@ _Last update: **2025-08-05 10:42:34.411887+07:00**_
  - 28-7-2025: [Thông tin buổi báo cáo tiểu luận tổng quan và chuyên đề tiến sĩ tháng 7/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16889)
  - 28-7-2025: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Cao Xuân Nam (8g00, 31/7, phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16887)
  - 24-7-2025: [Thông báo chuyên ngành chính thức sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16884)
- - 23-7-2025: [[CQ] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2021 đợt 2 (25/7 - 01/8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16883)
 
 ## Thông tin dành cho sinh viên
 - 04/08/2025: [THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số” năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so-nam-2025/)
