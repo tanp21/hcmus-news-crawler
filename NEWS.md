@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-07 08:14:58.436011+07:00**_
+_Last update: **2025-08-07 10:39:41.007220+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-08-07 08:14:58.436011+07:00**_
  - 24-7-2025: [Thông báo chuyên ngành chính thức sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16884)
 
 ## Thông tin dành cho sinh viên
+- 07/08/2025: [[THÔNG BÁO] Chương trình DiscoverNUS 2026 – Đại học Quốc gia Singapore (NUS)](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-2026-dai-hoc-quoc-gia-singapore-nus/)
 - 06/08/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học, lớp Liên thông đại học hệ chính quy – đợt tháng 9 – 11/2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-lop-lien-thong-dai-hoc-he-chinh-quy-dot-thang-9-11-2025/)
 - 04/08/2025: [THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số” năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so-nam-2025/)
 - 31/07/2025: [Thông báo về việc thu học phí học kỳ 3 năm học 2024-2025 (học kỳ hè năm 2025) đối với sinh viên trình độ đại học hệ chính quy, chương trình đại trà   ](https://hcmus.edu.vn/57270-2/)
@@ -71,14 +72,13 @@ _Last update: **2025-08-07 08:14:58.436011+07:00**_
 - 21/07/2025: [Thông báo tuyển chọn sinh viên tham dự Chương trình học tập trải nghiệm ASEAN AUN lần thứ 4 tại Thái Lan](https://hcmus.edu.vn/thong-bao-tuyen-chon-sinh-vien-tham-du-chuong-trinh-hoc-tap-trai-nghiem-asean-aun-lan-thu-4-tai-thai-lan/)
 - 21/07/2025: [Thông báo tuyển chọn sinh viên tham gia Hội nghị Mạng lưới Công tác Sinh viên AUN (AUN-SAN) Voice, Opportunity, eXchange](https://hcmus.edu.vn/thong-bao-tuyen-chon-sinh-vien-tham-gia-hoi-nghi-mang-luoi-cong-tac-sinh-vien-aun-aun-san-voice-opportunity-exchange/)
 - 21/07/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình cho các đợt công bố danh sách tốt nghiệp tháng 9, 10 và 11 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-cac-dot-cong-bo-danh-sach-tot-nghiep-thang-9-10-va-11-nam-2025/)
-- 18/07/2025: [Thông báo cập nhật thông tin ngành/chuyên ngành cho sinh viên Khóa tuyển 2022 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-nganh-chuyen-nganh-cho-sinh-vien-khoa-tuyen-2022-tro-ve-truoc/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo về việc không thu lệ phí phúc khảo bài thi cuối kỳ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/900-thong-bao-v-vi-c-khong-thu-l-phi-phuc-kh-o-bai-thi-cu-i-ky)
  - [Thông báo phúc khảo HK2/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/898-thong-bao-phuc-kh-o-hk2-24-25-h-chinh-quy)
  - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
  - [Thông báo phúc khảo HK2/24-25 hệ Từ xa ngành CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/880-thong-bao-phuc-kh-o-hk2-24-25-h-t-xa-nganh-cntt)
  - [Thông báo thay đổi phòng thi HK2/24-25 tại Nguyễn Văn Cừ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/877-thong-bao-thay-d-i-phong-thi-hk2-24-25-t-i-nguy-n-van-c)
- - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt 2 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/876-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-2-nam-2025)
 
 ***
 
