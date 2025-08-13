@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-13 13:21:47.393538+07:00**_
+_Last update: **2025-08-13 14:15:54.412879+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-08-13 13:21:47.393538+07:00**_
  - 28-7-2025: [Thông tin buổi báo cáo tiểu luận tổng quan và chuyên đề tiến sĩ tháng 7/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16889)
 
 ## Thông tin dành cho sinh viên
+- 13/08/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2024-2025 Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2024-2025-chuong-trinh-de-an/)
 - 07/08/2025: [[THÔNG BÁO] Chương trình DiscoverNUS 2026 – Đại học Quốc gia Singapore (NUS)](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-2026-dai-hoc-quoc-gia-singapore-nus/)
 - 06/08/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học, lớp Liên thông đại học hệ chính quy – đợt tháng 9 – 11/2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-lop-lien-thong-dai-hoc-he-chinh-quy-dot-thang-9-11-2025/)
 - 04/08/2025: [THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số” năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so-nam-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-08-13 13:21:47.393538+07:00**_
 - 22/07/2025: [Thông báo nghỉ học môn Tư tưởng HCM, sáng 22/7/25 tại CS2](https://hcmus.edu.vn/thong-bao-nghi-hoc-mon-tu-tuong-hcm-sang-22-7-25-tai-cs2/)
 - 21/07/2025: [Thông báo tuyển chọn sinh viên tham dự Chương trình học tập trải nghiệm ASEAN AUN lần thứ 4 tại Thái Lan](https://hcmus.edu.vn/thong-bao-tuyen-chon-sinh-vien-tham-du-chuong-trinh-hoc-tap-trai-nghiem-asean-aun-lan-thu-4-tai-thai-lan/)
 - 21/07/2025: [Thông báo tuyển chọn sinh viên tham gia Hội nghị Mạng lưới Công tác Sinh viên AUN (AUN-SAN) Voice, Opportunity, eXchange](https://hcmus.edu.vn/thong-bao-tuyen-chon-sinh-vien-tham-gia-hoi-nghi-mang-luoi-cong-tac-sinh-vien-aun-aun-san-voice-opportunity-exchange/)
-- 21/07/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình cho các đợt công bố danh sách tốt nghiệp tháng 9, 10 và 11 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-cac-dot-cong-bo-danh-sach-tot-nghiep-thang-9-10-va-11-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo về việc không thu lệ phí phúc khảo bài thi cuối kỳ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/900-thong-bao-v-vi-c-khong-thu-l-phi-phuc-kh-o-bai-thi-cu-i-ky)
