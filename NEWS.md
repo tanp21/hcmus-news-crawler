@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-14 01:19:34.482148+07:00**_
+_Last update: **2025-08-14 02:11:16.234167+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -50,16 +50,6 @@ _Last update: **2025-08-14 01:19:34.482148+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
- - 13-8-2025: [Thông báo tuyển sinh Sau Đại học năm 2025 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16906)
- - 11-8-2025: [FIT30 - CUP 2025: Giải bóng đá kết nối thế hệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16904)
- - 9-8-2025: [Tổng kết Trường hè “FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16903)
- - 5-8-2025: [Thông báo đăng ký chương trình thực tập tại trường Kyoto Institute of Technology (KIT), Nhật Bản năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16901)
- - 4-8-2025: [[CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện KLTN lớp CNTN2021 (bảo vệ T8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16900)
- - 1-8-2025: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2021, đợt 2 (bảo vệ tháng 7, 8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16897)
- - 1-8-2025: [Thời khóa biểu lớp bổ túc kiến thức môn Cơ sở dữ liệu và Các thuật toán thông minh nhân tạo và ứng dụng khóa tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16896)
- - 31-7-2025: [Khoa Công nghệ thông tin tuyển dụng vị trí Giảng viên/Trợ giảng](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16895)
- - 29-7-2025: [Cập nhật lịch trình bày Trường hè "FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16892)
- - 28-7-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16890)
 
 ## Thông tin dành cho sinh viên
 - 13/08/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2024-2025 Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2024-2025-chuong-trinh-de-an/)
