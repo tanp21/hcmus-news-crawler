@@ -1,7 +1,8 @@
 # All news
-_Last update: **2025-08-13 11:24:54.262573+07:00**_
+_Last update: **2025-08-13 12:15:59.493394+07:00**_
 ## APCS
 ### Kế hoạch học tập
+ - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
  - 30/05/2025: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
  - 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
  - 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -11,7 +12,6 @@ _Last update: **2025-08-13 11:24:54.262573+07:00**_
  - 09/05/2023: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2023-2024/)
  - 30/09/2022: [[CTĐA] Kế hoạch mở học phần năm học 2022-2023 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2022-2023-du-kien/)
  - 29/09/2022: [CTĐA_Kế hoạch năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda_ke-hoach-nam-hoc-2022-2023/)
- - 09/06/2022: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2022/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2022-2023/)
 
 ### Giáo vụ
  - 11/08/2025: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2425](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-lich-thi-chi-tiet-cuoi-ky-hk3-2425/)
