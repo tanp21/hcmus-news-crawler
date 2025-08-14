@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-14 14:15:52.254155+07:00**_
+_Last update: **2025-08-14 15:19:50.049867+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-08-14 14:15:52.254155+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 14-8-2025: [Khoa Công nghệ Thông tin được tuyên dương là Đơn vị tiêu biểu xuất sắc Đại học Quốc gia TP.HCM giai đoạn 2020–2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16907)
  - 13-8-2025: [Thông báo tuyển sinh Sau Đại học năm 2025 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16906)
  - 11-8-2025: [FIT30 - CUP 2025: Giải bóng đá kết nối thế hệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16904)
  - 9-8-2025: [Tổng kết Trường hè “FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16903)
@@ -59,11 +60,10 @@ _Last update: **2025-08-14 14:15:52.254155+07:00**_
  - 1-8-2025: [Thời khóa biểu lớp bổ túc kiến thức môn Cơ sở dữ liệu và Các thuật toán thông minh nhân tạo và ứng dụng khóa tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16896)
  - 31-7-2025: [Khoa Công nghệ thông tin tuyển dụng vị trí Giảng viên/Trợ giảng](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16895)
  - 29-7-2025: [Cập nhật lịch trình bày Trường hè "FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16892)
- - 28-7-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16890)
 
 ## Thông tin dành cho sinh viên
 - 13/08/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2024-2025 Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2024-2025-chuong-trinh-de-an/)
-- 13/08/2025: [Trường Đại học Khoa học tự nhiên, ĐHQG-HCM ký kết hợp tác với Công ty Mee and More triển khai chương trình giáo dục khoa học và kỹ năng mềm cho sinh viên](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-ky-ket-hop-tac-voi-cong-ty-mee-and-more-trien-khai-chuong-trinh-giao-duc-khoa-hoc-va-ky-nang-mem-cho-sinh-vien/)
+- 08/08/2025: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM”](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm/)
 - 07/08/2025: [[THÔNG BÁO] Chương trình DiscoverNUS 2026 – Đại học Quốc gia Singapore (NUS)](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-2026-dai-hoc-quoc-gia-singapore-nus/)
 - 06/08/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học, lớp Liên thông đại học hệ chính quy – đợt tháng 9 – 11/2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-lop-lien-thong-dai-hoc-he-chinh-quy-dot-thang-9-11-2025/)
 - 04/08/2025: [THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số” năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so-nam-2025/)
