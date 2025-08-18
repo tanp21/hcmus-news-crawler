@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-18 13:23:31.640640+07:00**_
+_Last update: **2025-08-18 14:18:12.946960+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-08-18 13:23:31.640640+07:00**_
  - 29-7-2025: [Cập nhật lịch trình bày Trường hè "FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16892)
 
 ## Thông tin dành cho sinh viên
+- 18/08/2025: [Kết quả học bổng Vallet năm 2025](https://hcmus.edu.vn/ket-qua-hoc-bong-vallet-nam-2025/)
 - 14/08/2025: [[THÔNG BÁO] Học bổng đào tạo quốc tế năm học 2026-2027 tại Bỉ – Cơ quan Nghiên cứu và Giảng dạy Đại học (ARES)](https://hcmus.edu.vn/thong-bao-hoc-bong-dao-tao-quoc-te-nam-hoc-2026-2027-tai-bi-co-quan-nghien-cuu-va-giang-day-dai-hoc-ares/)
 - 13/08/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2024-2025 Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2024-2025-chuong-trinh-de-an/)
 - 08/08/2025: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM”](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm/)
@@ -71,7 +72,6 @@ _Last update: **2025-08-18 13:23:31.640640+07:00**_
 - 31/07/2025: [Thông báo về việc thu học phí học kỳ 3 năm học 2024-2025 (học kỳ hè năm 2025) đối với sinh viên trình độ đại học hệ chính quy, chương trình đại trà   ](https://hcmus.edu.vn/57270-2/)
 - 29/07/2025: [Thông báo về việc tổ chức cho sinh viên bậc đại học hệ chính quy khóa 2024 học môn Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/thong-bao-ve-viec-to-chuc-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-khoa-2024-hoc-mon-giao-duc-quoc-phong-an-ninh/)
 - 29/07/2025: [Thông báo thay đổi thời gian thi đánh giá năng lực tiếng Anh nội bộ năm 2025](https://hcmus.edu.vn/thong-bao-thay-doi-thoi-gian-thi-danh-gia-nang-luc-tieng-anh-noi-bo/)
-- 22/07/2025: [Thông báo nghỉ học môn Tư tưởng HCM, sáng 22/7/25 tại CS2](https://hcmus.edu.vn/thong-bao-nghi-hoc-mon-tu-tuong-hcm-sang-22-7-25-tai-cs2/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo về việc không thu lệ phí phúc khảo bài thi cuối kỳ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/900-thong-bao-v-vi-c-khong-thu-l-phi-phuc-kh-o-bai-thi-cu-i-ky)
