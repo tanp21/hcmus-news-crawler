@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-18 16:19:04.462967+07:00**_
+_Last update: **2025-08-18 17:16:12.438910+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -82,7 +82,7 @@ _Last update: **2025-08-18 16:19:04.462967+07:00**_
 
 ***
 
- - [Lịch thi cuối kỳ HK3/24-25 tại Linh trung](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/899-l-ch-thi-cu-i-ky-hk3-24-25-t-i-linh-trung)
+ - [Lịch thi cuối kỳ HK3/24-25 tại Linh trung (Cập nhật 18/08)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/899-l-ch-thi-cu-i-ky-hk3-24-25-t-i-linh-trung)
  - [Lịch thi cuối kỳ HK3/24-25 CT đề án khoa CNTT (Cập nhật 20/07)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/882-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-khoa-cntt)
  - [Lịch thi cuối kỳ HK3/24-25 CT đề án các khoa (CẬP NHẬT 11/07)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/879-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-cac-khoa)
  - [Lịch thi cuối kỳ HK3/24-25 CT đề án khoa Hóa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/878-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-khoa-hoa)
