@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-19 12:13:42.170011+07:00**_
+_Last update: **2025-08-19 13:20:39.491286+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-08-19 12:13:42.170011+07:00**_
  - 31-7-2025: [Khoa Công nghệ thông tin tuyển dụng vị trí Giảng viên/Trợ giảng](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16895)
 
 ## Thông tin dành cho sinh viên
+- 19/08/2025: [Thông báo Chương trình Học bổng Pony Chung năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2025-2026/)
 - 19/08/2025: [Thông báo đăng ký học phần học kỳ 1 năm học 2025-2026 –  Chương trình Chất lượng cao/Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2025-2026-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
 - 18/08/2025: [Thông báo đăng ký học phần học kỳ 1 năm học 2025-2026 cho sinh viên trình độ đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2025-2026-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
 - 18/08/2025: [Kết quả học bổng Vallet năm 2025](https://hcmus.edu.vn/ket-qua-hoc-bong-vallet-nam-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-08-19 12:13:42.170011+07:00**_
 - 07/08/2025: [[THÔNG BÁO] Chương trình DiscoverNUS 2026 – Đại học Quốc gia Singapore (NUS)](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-2026-dai-hoc-quoc-gia-singapore-nus/)
 - 06/08/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học, lớp Liên thông đại học hệ chính quy – đợt tháng 9 – 11/2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-lop-lien-thong-dai-hoc-he-chinh-quy-dot-thang-9-11-2025/)
 - 04/08/2025: [THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số” năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so-nam-2025/)
-- 31/07/2025: [Thông báo về việc thu học phí học kỳ 3 năm học 2024-2025 (học kỳ hè năm 2025) đối với sinh viên trình độ đại học hệ chính quy, chương trình đại trà   ](https://hcmus.edu.vn/57270-2/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo về việc không thu lệ phí phúc khảo bài thi cuối kỳ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/900-thong-bao-v-vi-c-khong-thu-l-phi-phuc-kh-o-bai-thi-cu-i-ky)
