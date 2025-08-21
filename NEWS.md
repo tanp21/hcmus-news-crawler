@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-21 17:14:16.718882+07:00**_
+_Last update: **2025-08-21 18:12:02.270651+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -14,6 +14,7 @@ _Last update: **2025-08-21 17:14:16.718882+07:00**_
  - 29/09/2022: [CTĐA_Kế hoạch năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda_ke-hoach-nam-hoc-2022-2023/)
 
 ### Giáo vụ
+ - 21/08/2025: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 2](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-2/)
  - 11/08/2025: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2425](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-lich-thi-chi-tiet-cuoi-ky-hk3-2425/)
  - 31/07/2025: [[CLC] – Thông báo đăng ký nguyện vọng chuyên ngành năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/07/clc-thong-bao-dang-ky-nguyen-vong-chuyen-nganh-nam-hoc-2024-2025/)
  - 11/07/2025: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2025/07/thong-bao-nop-don-dang-ky-bao-ve-huy-bao-ve-de-tai-tot-nghiep-khoa-2021-dot-thang-8-2025/)
@@ -23,7 +24,6 @@ _Last update: **2025-08-21 17:14:16.718882+07:00**_
  - 23/05/2025: [Mời tham gia sinh hoạt về việc hoàn thành khối kiến thức tốt nghiệp – Vào lúc 8:30 ngày 30/05/2025 (sáng thứ 6)](https://www.ctda.hcmus.edu.vn/vi/2025/05/moi-tham-gia-sinh-hoat-ve-viec-hoan-thanh-khoi-kien-thuc-tot-nghiep-vao-luc-830-ngay-30-05-2025-sang-thu-6/)
  - 21/05/2025: [[CTĐA] – Thông báo phúc khảo HK2/2425](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-thong-bao-phuc-khao-hk2-2425/)
  - 10/05/2025: [CTĐA_Thời khóa biểu học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda_thoi-khoa-bieu-hoc-ky-3-nam-hoc-2024-2025/)
- - 16/04/2025: [[CTĐA] Lịch thi chi tiết cuối kỳ HK2/2425](https://www.ctda.hcmus.edu.vn/vi/2025/04/ctda-lich-thi-chi-tiet-cuoi-ky-hk2-2425/)
 
 ### Trợ lí sinh viên
  - 22/05/2025: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2024 – 2025 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2025/05/danh-sach-sinh-vien-da-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2024-2025-cap-nhat/)
