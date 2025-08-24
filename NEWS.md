@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-24 12:12:57.981491+07:00**_
+_Last update: **2025-08-24 13:18:53.391969+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-08-24 12:12:57.981491+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 24-8-2025: [Thông báo địa điểm học tập Ngành Trí tuệ nhân tạo áp dụng từ khoá 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16918)
  - 22-8-2025: [Chúc mừng công trình nghiên cứu của nhóm AI-Thena được công bố trên tạp chí quốc tế uy tín Computers and Electrical Engineering (Q1, Elsevier)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16917)
  - 18-8-2025: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16914)
  - 14-8-2025: [Khoa Công nghệ Thông tin được tuyên dương là Đơn vị tiêu biểu xuất sắc Đại học Quốc gia TP.HCM giai đoạn 2020–2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16907)
@@ -59,9 +60,9 @@ _Last update: **2025-08-24 12:12:57.981491+07:00**_
  - 5-8-2025: [Thông báo đăng ký chương trình thực tập tại trường Kyoto Institute of Technology (KIT), Nhật Bản năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16901)
  - 4-8-2025: [[CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện KLTN lớp CNTN2021 (bảo vệ T8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16900)
  - 1-8-2025: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2021, đợt 2 (bảo vệ tháng 7, 8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16897)
- - 1-8-2025: [Thời khóa biểu lớp bổ túc kiến thức môn Cơ sở dữ liệu và Các thuật toán thông minh nhân tạo và ứng dụng khóa tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16896)
 
 ## Thông tin dành cho sinh viên
+- 24/08/2025: [Thông báo kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2024, 2025 và môn chung trong HK1/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2024-2025-va-mon-chung-trong-hk1-2025-2026-tai-co-so-2/)
 - 19/08/2025: [Thông báo Chương trình Học bổng Pony Chung năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2025-2026/)
 - 19/08/2025: [Thông báo đăng ký học phần học kỳ 1 năm học 2025-2026 –  Chương trình Chất lượng cao/Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2025-2026-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
 - 18/08/2025: [Thông báo đăng ký học phần học kỳ 1 năm học 2025-2026 cho sinh viên trình độ đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2025-2026-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
@@ -71,7 +72,6 @@ _Last update: **2025-08-24 12:12:57.981491+07:00**_
 - 08/08/2025: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM”](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm/)
 - 07/08/2025: [[THÔNG BÁO] Chương trình DiscoverNUS 2026 – Đại học Quốc gia Singapore (NUS)](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-2026-dai-hoc-quoc-gia-singapore-nus/)
 - 06/08/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học, lớp Liên thông đại học hệ chính quy – đợt tháng 9 – 11/2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-lop-lien-thong-dai-hoc-he-chinh-quy-dot-thang-9-11-2025/)
-- 04/08/2025: [THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số” năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo bổ sung HK2/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/901-thong-bao-phuc-kh-o-b-sung-hk2-24-25-h-chinh-quy)
