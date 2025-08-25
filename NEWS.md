@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-25 16:16:07.852796+07:00**_
+_Last update: **2025-08-25 17:15:39.833123+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-08-25 16:16:07.852796+07:00**_
  - 1-8-2025: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2021, đợt 2 (bảo vệ tháng 7, 8/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16897)
 
 ## Thông tin dành cho sinh viên
+- 25/08/2025: [Thông báo tuyển dụng sinh viên tốt nghiệp tại các trường đại học thành viên ĐHQG-HCM làm việc tại các công ty thành viên của Tập đoàn CT Group](https://hcmus.edu.vn/thong-bao-tuyen-dung-sinh-vien-tot-nghiep-tai-cac-truong-dai-hoc-thanh-vien-dhqg-hcm-lam-viec-tai-cac-cong-ty-thanh-vien-cua-tap-doan-ct-group/)
 - 24/08/2025: [Thông báo kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2024, 2025 và môn chung trong HK1/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2024-2025-va-mon-chung-trong-hk1-2025-2026-tai-co-so-2/)
 - 19/08/2025: [Thông báo Chương trình Học bổng Pony Chung năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2025-2026/)
 - 19/08/2025: [Thông báo đăng ký học phần học kỳ 1 năm học 2025-2026 –  Chương trình Chất lượng cao/Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2025-2026-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
@@ -71,7 +72,6 @@ _Last update: **2025-08-25 16:16:07.852796+07:00**_
 - 13/08/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2024-2025 Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2024-2025-chuong-trinh-de-an/)
 - 08/08/2025: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM”](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm/)
 - 07/08/2025: [[THÔNG BÁO] Chương trình DiscoverNUS 2026 – Đại học Quốc gia Singapore (NUS)](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-2026-dai-hoc-quoc-gia-singapore-nus/)
-- 06/08/2025: [Thông báo nộp hồ sơ xét tốt nghiệp đại học, lớp Liên thông đại học hệ chính quy – đợt tháng 9 – 11/2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-lop-lien-thong-dai-hoc-he-chinh-quy-dot-thang-9-11-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo bổ sung HK2/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/901-thong-bao-phuc-kh-o-b-sung-hk2-24-25-h-chinh-quy)
