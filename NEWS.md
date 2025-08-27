@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-27 08:03:10.262062+07:00**_
+_Last update: **2025-08-27 09:58:26.459652+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -68,7 +68,7 @@ _Last update: **2025-08-27 08:03:10.262062+07:00**_
 - 25/08/2025: [Sổ tay Sinh viên online Năm học 2025-2026](https://hcmus.edu.vn/so-tay-sinh-vien-online-nam-hoc-2025-2026/)
 - 25/08/2025: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn đầu ra tiếng Anh đối với sinh viên đại học hệ chính quy khóa tuyển 2025](https://hcmus.edu.vn/thong-bao-ve-viec-kiem-tra-anh-van-dau-khoa-quy-dinh-hoc-tieng-anh-va-chuan-dau-ra-tieng-anh-doi-voi-sinh-vien-dai-hoc-he-chinh-quy-khoa-tuyen-2025/)
 - 25/08/2025: [Thông báo tuyển dụng sinh viên tốt nghiệp tại các trường đại học thành viên ĐHQG-HCM làm việc tại các công ty thành viên của Tập đoàn CT Group](https://hcmus.edu.vn/thong-bao-tuyen-dung-sinh-vien-tot-nghiep-tai-cac-truong-dai-hoc-thanh-vien-dhqg-hcm-lam-viec-tai-cac-cong-ty-thanh-vien-cua-tap-doan-ct-group/)
-- 24/08/2025: [Thông báo kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2024, 2025 và môn chung trong HK1/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2024-2025-va-mon-chung-trong-hk1-2025-2026-tai-co-so-2/)
+- 24/08/2025: [Thông báo kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2024, 2025 và môn chung trong HK1/2025-2026 tại cơ sở 2 (Cập nhật)](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2024-2025-va-mon-chung-trong-hk1-2025-2026-tai-co-so-2/)
 - 19/08/2025: [Thông báo Chương trình Học bổng Pony Chung năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2025-2026/)
 - 19/08/2025: [Thông báo đăng ký học phần học kỳ 1 năm học 2025-2026 –  Chương trình Chất lượng cao/Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2025-2026-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
 - 18/08/2025: [Thông báo đăng ký học phần học kỳ 1 năm học 2025-2026 cho sinh viên trình độ đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2025-2026-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
