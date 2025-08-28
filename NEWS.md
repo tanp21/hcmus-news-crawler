@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-28 16:14:12.088777+07:00**_
+_Last update: **2025-08-28 17:13:58.012966+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -50,6 +50,8 @@ _Last update: **2025-08-28 16:14:12.088777+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 28-8-2025: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16926)
+ - 28-8-2025: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16925)
  - 26-8-2025: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2023, ĐHCQ chương trình Chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16921)
  - 25-8-2025: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16920)
  - 24-8-2025: [Thông báo địa điểm học tập Ngành Trí tuệ nhân tạo áp dụng từ khoá 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16918)
@@ -58,8 +60,6 @@ _Last update: **2025-08-28 16:14:12.088777+07:00**_
  - 14-8-2025: [Khoa Công nghệ Thông tin được tuyên dương là Đơn vị tiêu biểu xuất sắc Đại học Quốc gia TP.HCM giai đoạn 2020–2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16907)
  - 13-8-2025: [Thông báo tuyển sinh Sau Đại học năm 2025 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16906)
  - 11-8-2025: [FIT30 - CUP 2025: Giải bóng đá kết nối thế hệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16904)
- - 9-8-2025: [Tổng kết Trường hè “FIT@HCMUS Summer School on Generative AI and Multi-Agent Systems” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16903)
- - 5-8-2025: [Thông báo đăng ký chương trình thực tập tại trường Kyoto Institute of Technology (KIT), Nhật Bản năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16901)
 
 ## Thông tin dành cho sinh viên
 - 26/08/2025: [Thông báo kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2024, 2025 và môn chung trong HK1/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2024-2025-va-mon-chung-trong-hk1-2025-2026-tai-co-so-2-2/)
