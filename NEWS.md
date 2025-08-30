@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-30 13:17:12.711020+07:00**_
+_Last update: **2025-08-30 14:11:20.716654+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-08-30 13:17:12.711020+07:00**_
  - 11-8-2025: [FIT30 - CUP 2025: Giải bóng đá kết nối thế hệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16904)
 
 ## Thông tin dành cho sinh viên
+- 30/08/2025: [Thông báo thay đổi địa điểm kiểm tra tiếng Anh đầu khóa đối với ngành Trí tuệ nhân tạo (K2025)](https://hcmus.edu.vn/thong-bao-thay-doi-dia-diem-kiem-tra-tieng-anh-dau-khoa-doi-voi-nganh-tri-tue-nhan-tao-k2025/)
 - 29/08/2025: [Kế hoạch tiếp nhận, quản lý, rèn luyện và hoạt động ngoại khóa Khóa 454 – Giáo dục quốc phòng và an ninh](https://hcmus.edu.vn/ke-hoach-tiep-nhan-quan-ly-ren-luyen-va-hoat-dong-ngoai-khoa-khoa-454-giao-duc-quoc-phong-va-an-ninh/)
 - 28/08/2025: [Lịch kiểm tra trình độ tiếng Anh đầu khóa – trình độ đại học, hệ chính quy, khóa tuyển 2025](https://hcmus.edu.vn/lich-kiem-tra-trinh-do-tieng-anh-dau-khoa-trinh-do-dai-hoc-he-chinh-quy-khoa-tuyen-2025/)
 - 26/08/2025: [Thông báo kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2024, 2025 và môn chung trong HK1/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2024-2025-va-mon-chung-trong-hk1-2025-2026-tai-co-so-2-2/)
@@ -71,7 +72,6 @@ _Last update: **2025-08-30 13:17:12.711020+07:00**_
 - 25/08/2025: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn đầu ra tiếng Anh đối với sinh viên đại học hệ chính quy khóa tuyển 2025](https://hcmus.edu.vn/thong-bao-ve-viec-kiem-tra-anh-van-dau-khoa-quy-dinh-hoc-tieng-anh-va-chuan-dau-ra-tieng-anh-doi-voi-sinh-vien-dai-hoc-he-chinh-quy-khoa-tuyen-2025/)
 - 25/08/2025: [Thông báo tuyển dụng sinh viên tốt nghiệp tại các trường đại học thành viên ĐHQG-HCM làm việc tại các công ty thành viên của Tập đoàn CT Group](https://hcmus.edu.vn/thong-bao-tuyen-dung-sinh-vien-tot-nghiep-tai-cac-truong-dai-hoc-thanh-vien-dhqg-hcm-lam-viec-tai-cac-cong-ty-thanh-vien-cua-tap-doan-ct-group/)
 - 24/08/2025: [Thông báo kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2024, 2025 và môn chung trong HK1/2025-2026 tại cơ sở 2 (Cập nhật)](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2024-2025-va-mon-chung-trong-hk1-2025-2026-tai-co-so-2/)
-- 19/08/2025: [Thông báo Chương trình Học bổng Pony Chung năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2025-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/902-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-cac-khoa)
