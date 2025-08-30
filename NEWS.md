@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-08-30 18:09:26.004893+07:00**_
+_Last update: **2025-08-30 19:23:17.259609+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -65,7 +65,7 @@ _Last update: **2025-08-30 18:09:26.004893+07:00**_
 - 30/08/2025: [Thông báo thay đổi địa điểm kiểm tra tiếng Anh đầu khóa đối với ngành Trí tuệ nhân tạo (K2025)](https://hcmus.edu.vn/thong-bao-thay-doi-dia-diem-kiem-tra-tieng-anh-dau-khoa-doi-voi-nganh-tri-tue-nhan-tao-k2025/)
 - 29/08/2025: [Kế hoạch tiếp nhận, quản lý, rèn luyện và hoạt động ngoại khóa Khóa 454 – Giáo dục quốc phòng và an ninh](https://hcmus.edu.vn/ke-hoach-tiep-nhan-quan-ly-ren-luyen-va-hoat-dong-ngoai-khoa-khoa-454-giao-duc-quoc-phong-va-an-ninh/)
 - 28/08/2025: [Lịch kiểm tra trình độ tiếng Anh đầu khóa – trình độ đại học, hệ chính quy, khóa tuyển 2025](https://hcmus.edu.vn/lich-kiem-tra-trinh-do-tieng-anh-dau-khoa-trinh-do-dai-hoc-he-chinh-quy-khoa-tuyen-2025/)
-- 26/08/2025: [Thông báo kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2024, 2025 và môn chung trong HK1/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2024-2025-va-mon-chung-trong-hk1-2025-2026-tai-co-so-2-2/)
+- 26/08/2025: [Thông báo kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2024, 2025 và môn chung trong HK1/2025-2026 tại cơ sở 2 (đã cập nhật TKB K2025)](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2024-2025-va-mon-chung-trong-hk1-2025-2026-tai-co-so-2-2/)
 - 26/08/2025: [Thư chúc mừng tân sinh viên Khóa 2025 của Hiệu trưởng](https://hcmus.edu.vn/thu-chuc-mung-tan-sinh-vien-khoa-tuyen-2025-cua-hieu-truong/)
 - 25/08/2025: [Kế hoạch triển khai công tác chuẩn bị cho hoạt động giảng dạy và học tập HK1/2025-2026 cho tân sinh viên khóa tuyển 2025 – Hệ chính quy, chương trình chuẩn](https://hcmus.edu.vn/ke-hoach-trien-khai-cong-tac-chuan-bi-cho-hoat-dong-giang-day-va-hoc-tap-hk1-2025-2026-cho-tan-sinh-vien-khoa-tuyen-2025-he-chinh-quy-chuong-trinh-chuan/)
 - 25/08/2025: [Sổ tay Sinh viên online Năm học 2025-2026](https://hcmus.edu.vn/so-tay-sinh-vien-online-nam-hoc-2025-2026/)
