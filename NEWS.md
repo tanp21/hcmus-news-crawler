@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-03 16:13:49.574681+07:00**_
+_Last update: **2025-09-03 17:13:26.915213+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-09-03 16:13:49.574681+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 3-9-2025: [Thông báo tổ chức khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16931)
  - 28-8-2025: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16926)
  - 28-8-2025: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16925)
  - 28-8-2025: [Thông báo Chương trình tuyển Nghiên cứu sinh và Trợ giảng năm 2025 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16924)
@@ -59,7 +60,6 @@ _Last update: **2025-09-03 16:13:49.574681+07:00**_
  - 22-8-2025: [Chúc mừng công trình nghiên cứu của nhóm AI-Thena được công bố trên tạp chí quốc tế uy tín Computers and Electrical Engineering (Q1, Elsevier)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16917)
  - 18-8-2025: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16914)
  - 14-8-2025: [Khoa Công nghệ Thông tin được tuyên dương là Đơn vị tiêu biểu xuất sắc Đại học Quốc gia TP.HCM giai đoạn 2020–2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16907)
- - 13-8-2025: [Thông báo tuyển sinh Sau Đại học năm 2025 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16906)
 
 ## Thông tin dành cho sinh viên
 - 03/09/2025: [[THÔNG BÁO] Chương trình trao đổi học kỳ mùa xuân 2026 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2026-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
