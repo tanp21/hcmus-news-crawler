@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-04 14:12:23.552597+07:00**_
+_Last update: **2025-09-04 15:17:05.384343+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-09-04 14:12:23.552597+07:00**_
  - 14-8-2025: [Khoa Công nghệ Thông tin được tuyên dương là Đơn vị tiêu biểu xuất sắc Đại học Quốc gia TP.HCM giai đoạn 2020–2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16907)
 
 ## Thông tin dành cho sinh viên
+- 04/09/2025: [Phân phòng kiểm tra tiếng Anh đầu khóa đối với Tân sinh viên khóa 2025](https://hcmus.edu.vn/phan-phong-kiem-tra-tieng-anh-dau-khoa-doi-voi-tan-sinh-vien-khoa-2025/)
 - 04/09/2025: [THÔNG BÁO V/v khai báo thông tin địa chỉ mới trên hệ thống Student@VNUHCM-US đối với sinh viên trình độ đại học hệ chính quy khóa 2024 về trước](https://hcmus.edu.vn/thong-bao-v-v-khai-bao-thong-tin-dia-chi-moi-tren-he-thong-studentvnuhcm-us-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-khoa-2024-ve-truoc/)
 - 03/09/2025: [[THÔNG BÁO] Chương trình trao đổi học kỳ mùa xuân 2026 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2026-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
 - 30/08/2025: [Thông báo thay đổi địa điểm kiểm tra tiếng Anh đầu khóa đối với ngành Trí tuệ nhân tạo (K2025)](https://hcmus.edu.vn/thong-bao-thay-doi-dia-diem-kiem-tra-tieng-anh-dau-khoa-doi-voi-nganh-tri-tue-nhan-tao-k2025/)
@@ -71,6 +72,30 @@ _Last update: **2025-09-04 14:12:23.552597+07:00**_
 - 26/08/2025: [Thư chúc mừng tân sinh viên Khóa 2025 của Hiệu trưởng](https://hcmus.edu.vn/thu-chuc-mung-tan-sinh-vien-khoa-tuyen-2025-cua-hieu-truong/)
 - 25/08/2025: [Kế hoạch triển khai công tác chuẩn bị cho hoạt động giảng dạy và học tập HK1/2025-2026 cho tân sinh viên khóa tuyển 2025 – Hệ chính quy, chương trình chuẩn](https://hcmus.edu.vn/ke-hoach-trien-khai-cong-tac-chuan-bi-cho-hoat-dong-giang-day-va-hoc-tap-hk1-2025-2026-cho-tan-sinh-vien-khoa-tuyen-2025-he-chinh-quy-chuong-trinh-chuan/)
 - 25/08/2025: [Sổ tay Sinh viên online Năm học 2025-2026](https://hcmus.edu.vn/so-tay-sinh-vien-online-nam-hoc-2025-2026/)
-- 25/08/2025: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn đầu ra tiếng Anh đối với sinh viên đại học hệ chính quy khóa tuyển 2025](https://hcmus.edu.vn/thong-bao-ve-viec-kiem-tra-anh-van-dau-khoa-quy-dinh-hoc-tieng-anh-va-chuan-dau-ra-tieng-anh-doi-voi-sinh-vien-dai-hoc-he-chinh-quy-khoa-tuyen-2025/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo phúc khảo HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/902-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-cac-khoa)
+ - [Thông báo phúc khảo bổ sung HK2/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/901-thong-bao-phuc-kh-o-b-sung-hk2-24-25-h-chinh-quy)
+ - [Thông báo về việc không thu lệ phí phúc khảo bài thi cuối kỳ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/900-thong-bao-v-vi-c-khong-thu-l-phi-phuc-kh-o-bai-thi-cu-i-ky)
+ - [Thông báo phúc khảo HK2/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/898-thong-bao-phuc-kh-o-hk2-24-25-h-chinh-quy)
+ - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
+
+***
+
+ - [Lịch thi cuối kỳ HK3/24-25 tại Linh trung (Cập nhật 18/08)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/899-l-ch-thi-cu-i-ky-hk3-24-25-t-i-linh-trung)
+ - [Lịch thi cuối kỳ HK3/24-25 CT đề án khoa CNTT (Cập nhật 20/07)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/882-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-khoa-cntt)
+ - [Lịch thi cuối kỳ HK3/24-25 CT đề án các khoa (CẬP NHẬT 11/07)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/879-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-cac-khoa)
+ - [Lịch thi cuối kỳ HK3/24-25 CT đề án khoa Hóa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/878-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-khoa-hoa)
+ - [Lịch thi cuối kỳ (sớm) HK3/24-25 CT đề án khoa Sinh](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/875-l-ch-thi-cu-i-ky-s-m-hk3-24-25-ct-d-an-khoa-sinh)
+
+***
+
+ - [Thông báo về việc Tra cứu Kết quả học tập](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/798-thong-bao-v-vi-c-tra-c-u-k-t-qu-h-c-t-p)
+ - [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 20/12)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
+ - [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
+
+***
+
+ - [Kết quả phúc khảo HK2/22-23 CT Đề án khoa Hóa, Sinh-CNSH, ĐTVT và Môi trường](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/726-k-t-qu-phuc-kh-o-hk2-22-23-ct-d-an-khoa-hoa-sinh-cnsh-dtvt-va-moi-tru-ng)
+ - [Kết quả phúc khảo HK1/22-23 HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/723-k-t-qu-phuc-kh-o-hk1-22-23-hcdh-22hcb)
+ - [Kết quả phúc khảo HK1/22-23_Hệ CQ_Đợt cuối](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/691-k-t-qu-phuc-kh-o-hk1-22-23-h-cq-d-t-cu-i)
