@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-04 16:13:42.249192+07:00**_
+_Last update: **2025-09-04 17:13:54.778135+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -14,6 +14,7 @@ _Last update: **2025-09-04 16:13:42.249192+07:00**_
  - 29/09/2022: [CTĐA_Kế hoạch năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda_ke-hoach-nam-hoc-2022-2023/)
 
 ### Giáo vụ
+ - 04/09/2025: [Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2025 Khoa Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ve-viec-khao-sat-nang-luc-lap-trinh-dau-khoa-cho-sinh-vien-khoa-tuyen-2025-khoa-cong-nghe-thong-tin/)
  - 29/08/2025: [Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2025](https://www.ctda.hcmus.edu.vn/vi/2025/08/thong-bao-ve-viec-khao-sat-nang-luc-anh-van-dau-khoa-doi-voi-sinh-vien-chuong-trinh-de-an-khoa-cong-nghe-thong-tin-khoa-tuyen-2025/)
  - 29/08/2025: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2025 trở về sau](https://www.ctda.hcmus.edu.vn/vi/2025/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2025/)
  - 21/08/2025: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 2](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-2/)
@@ -23,7 +24,6 @@ _Last update: **2025-09-04 16:13:42.249192+07:00**_
  - 24/06/2025: [Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ T3/2026](https://www.ctda.hcmus.edu.vn/vi/2025/06/thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-t3-2026/)
  - 05/06/2025: [[CTĐA] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 04/2026](https://www.ctda.hcmus.edu.vn/vi/2025/06/ctda-thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-dot-bao-ve-04-2026/)
  - 27/05/2025: [Mời tham gia sinh hoạt phổ biến quy định về việc chia chuyên ngành – Dành cho sinh viên chương trình chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2025/05/moi-tham-gia-sinh-hoat-pho-bien-quy-dinh-ve-viec-chia-chuyen-nganh-danh-cho-sinh-vien-chuong-trinh-chat-luong-cao/)
- - 23/05/2025: [Mời tham gia sinh hoạt về việc hoàn thành khối kiến thức tốt nghiệp – Vào lúc 8:30 ngày 30/05/2025 (sáng thứ 6)](https://www.ctda.hcmus.edu.vn/vi/2025/05/moi-tham-gia-sinh-hoat-ve-viec-hoan-thanh-khoi-kien-thuc-tot-nghiep-vao-luc-830-ngay-30-05-2025-sang-thu-6/)
 
 ### Trợ lí sinh viên
  - 22/05/2025: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2024 – 2025 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2025/05/danh-sach-sinh-vien-da-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2024-2025-cap-nhat/)
