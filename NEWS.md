@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-04 11:15:25.169822+07:00**_
+_Last update: **2025-09-04 12:12:51.282588+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-09-04 11:15:25.169822+07:00**_
  - 14-8-2025: [Khoa Công nghệ Thông tin được tuyên dương là Đơn vị tiêu biểu xuất sắc Đại học Quốc gia TP.HCM giai đoạn 2020–2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16907)
 
 ## Thông tin dành cho sinh viên
+- 04/09/2025: [THÔNG BÁO V/v khai báo thông tin địa chỉ mới trên hệ thống Student@VNUHCM-US đối với sinh viên trình độ đại học hệ chính quy khóa 2024 về trước](https://hcmus.edu.vn/thong-bao-v-v-khai-bao-thong-tin-dia-chi-moi-tren-he-thong-studentvnuhcm-us-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-khoa-2024-ve-truoc/)
 - 03/09/2025: [[THÔNG BÁO] Chương trình trao đổi học kỳ mùa xuân 2026 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2026-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
 - 30/08/2025: [Thông báo thay đổi địa điểm kiểm tra tiếng Anh đầu khóa đối với ngành Trí tuệ nhân tạo (K2025)](https://hcmus.edu.vn/thong-bao-thay-doi-dia-diem-kiem-tra-tieng-anh-dau-khoa-doi-voi-nganh-tri-tue-nhan-tao-k2025/)
 - 29/08/2025: [Kế hoạch tiếp nhận, quản lý, rèn luyện và hoạt động ngoại khóa Khóa 454 – Giáo dục quốc phòng và an ninh](https://hcmus.edu.vn/ke-hoach-tiep-nhan-quan-ly-ren-luyen-va-hoat-dong-ngoai-khoa-khoa-454-giao-duc-quoc-phong-va-an-ninh/)
@@ -71,7 +72,6 @@ _Last update: **2025-09-04 11:15:25.169822+07:00**_
 - 25/08/2025: [Kế hoạch triển khai công tác chuẩn bị cho hoạt động giảng dạy và học tập HK1/2025-2026 cho tân sinh viên khóa tuyển 2025 – Hệ chính quy, chương trình chuẩn](https://hcmus.edu.vn/ke-hoach-trien-khai-cong-tac-chuan-bi-cho-hoat-dong-giang-day-va-hoc-tap-hk1-2025-2026-cho-tan-sinh-vien-khoa-tuyen-2025-he-chinh-quy-chuong-trinh-chuan/)
 - 25/08/2025: [Sổ tay Sinh viên online Năm học 2025-2026](https://hcmus.edu.vn/so-tay-sinh-vien-online-nam-hoc-2025-2026/)
 - 25/08/2025: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn đầu ra tiếng Anh đối với sinh viên đại học hệ chính quy khóa tuyển 2025](https://hcmus.edu.vn/thong-bao-ve-viec-kiem-tra-anh-van-dau-khoa-quy-dinh-hoc-tieng-anh-va-chuan-dau-ra-tieng-anh-doi-voi-sinh-vien-dai-hoc-he-chinh-quy-khoa-tuyen-2025/)
-- 25/08/2025: [Thông báo tuyển dụng sinh viên tốt nghiệp tại các trường đại học thành viên ĐHQG-HCM làm việc tại các công ty thành viên của Tập đoàn CT Group](https://hcmus.edu.vn/thong-bao-tuyen-dung-sinh-vien-tot-nghiep-tai-cac-truong-dai-hoc-thanh-vien-dhqg-hcm-lam-viec-tai-cac-cong-ty-thanh-vien-cua-tap-doan-ct-group/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/902-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-cac-khoa)
