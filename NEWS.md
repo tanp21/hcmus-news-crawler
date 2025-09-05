@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-05 11:15:59.358038+07:00**_
+_Last update: **2025-09-05 12:13:10.344965+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,7 +62,6 @@ _Last update: **2025-09-05 11:15:59.358038+07:00**_
  - 24-8-2025: [Thông báo địa điểm học tập Ngành Trí tuệ nhân tạo áp dụng từ khoá 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16918)
 
 ## Thông tin dành cho sinh viên
-- 05/09/2025: [Thư mời doanh nghiệp tham gia Ngày hội Sinh viên & Doanh nghiệp 2025](https://hcmus.edu.vn/thu-moi-doanh-nghiep-tham-gia-ngay-hoi-sinh-vien-doanh-nghiep-2025/)
 - 04/09/2025: [Phân phòng kiểm tra tiếng Anh đầu khóa đối với Tân sinh viên khóa 2025](https://hcmus.edu.vn/phan-phong-kiem-tra-tieng-anh-dau-khoa-doi-voi-tan-sinh-vien-khoa-2025/)
 - 04/09/2025: [THÔNG BÁO V/v khai báo thông tin địa chỉ mới trên hệ thống Student@VNUHCM-US đối với sinh viên trình độ đại học hệ chính quy khóa 2024 về trước](https://hcmus.edu.vn/thong-bao-v-v-khai-bao-thong-tin-dia-chi-moi-tren-he-thong-studentvnuhcm-us-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-khoa-2024-ve-truoc/)
 - 03/09/2025: [[THÔNG BÁO] Chương trình trao đổi học kỳ mùa xuân 2026 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2026-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
@@ -72,6 +71,7 @@ _Last update: **2025-09-05 11:15:59.358038+07:00**_
 - 26/08/2025: [Thông báo kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2024, 2025 và môn chung trong HK1/2025-2026 tại cơ sở 2 (đã cập nhật TKB K2025)](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2024-2025-va-mon-chung-trong-hk1-2025-2026-tai-co-so-2-2/)
 - 26/08/2025: [Thư chúc mừng tân sinh viên Khóa 2025 của Hiệu trưởng](https://hcmus.edu.vn/thu-chuc-mung-tan-sinh-vien-khoa-tuyen-2025-cua-hieu-truong/)
 - 25/08/2025: [Kế hoạch triển khai công tác chuẩn bị cho hoạt động giảng dạy và học tập HK1/2025-2026 cho tân sinh viên khóa tuyển 2025 – Hệ chính quy, chương trình chuẩn](https://hcmus.edu.vn/ke-hoach-trien-khai-cong-tac-chuan-bi-cho-hoat-dong-giang-day-va-hoc-tap-hk1-2025-2026-cho-tan-sinh-vien-khoa-tuyen-2025-he-chinh-quy-chuong-trinh-chuan/)
+- 25/08/2025: [Sổ tay Sinh viên online Năm học 2025-2026](https://hcmus.edu.vn/so-tay-sinh-vien-online-nam-hoc-2025-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/902-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-cac-khoa)
