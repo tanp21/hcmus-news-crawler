@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-08 08:04:35.180970+07:00**_
+_Last update: **2025-09-08 10:01:42.375213+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,7 +62,7 @@ _Last update: **2025-09-08 08:04:35.180970+07:00**_
  - 24-8-2025: [Thông báo địa điểm học tập Ngành Trí tuệ nhân tạo áp dụng từ khoá 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16918)
 
 ## Thông tin dành cho sinh viên
-- 05/09/2025: [THÔNG BÁO TỔ CHỨC TUẦN LỄ SINH HOẠT CÔNG DÂN – SINH VIÊN ĐỐI VỚI TÂN SINH VIÊN KHÓA TUYỂN 2025](https://hcmus.edu.vn/thong-bao-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2025/)
+- 05/09/2025: [THÔNG BÁO TỔ CHỨC TUẦN SINH HOẠT CÔNG DÂN – SINH VIÊN ĐỐI VỚI TÂN SINH VIÊN KHÓA TUYỂN 2025](https://hcmus.edu.vn/thong-bao-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2025/)
 - 05/09/2025: [Thư mời doanh nghiệp tham gia Ngày hội Sinh viên & Doanh nghiệp 2025](https://hcmus.edu.vn/thu-moi-doanh-nghiep-tham-gia-ngay-hoi-sinh-vien-doanh-nghiep-2025/)
 - 04/09/2025: [Phân phòng kiểm tra tiếng Anh đầu khóa đối với Tân sinh viên khóa 2025](https://hcmus.edu.vn/phan-phong-kiem-tra-tieng-anh-dau-khoa-doi-voi-tan-sinh-vien-khoa-2025/)
 - 04/09/2025: [THÔNG BÁO V/v khai báo thông tin địa chỉ mới trên hệ thống Student@VNUHCM-US đối với sinh viên trình độ đại học hệ chính quy khóa 2024 về trước](https://hcmus.edu.vn/thong-bao-v-v-khai-bao-thong-tin-dia-chi-moi-tren-he-thong-studentvnuhcm-us-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-khoa-2024-ve-truoc/)
