@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-10 01:15:47.319631+07:00**_
+_Last update: **2025-09-10 02:10:04.728422+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-09-10 01:15:47.319631+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 10-9-2025: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 3 năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16936)
  - 5-9-2025: [Thông báo v/v khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2025  Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16933)
  - 5-9-2025: [Đội HCMUS-AtCoder đạt thành tích xuất sắc tại ICPC World Finals 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16932)
  - 4-9-2025: [V/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16927)
@@ -59,7 +60,6 @@ _Last update: **2025-09-10 01:15:47.319631+07:00**_
  - 28-8-2025: [Thông báo Chương trình tuyển Nghiên cứu sinh và Trợ giảng năm 2025 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16924)
  - 26-8-2025: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2023, ĐHCQ chương trình Chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16921)
  - 25-8-2025: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16920)
- - 24-8-2025: [Thông báo địa điểm học tập Ngành Trí tuệ nhân tạo áp dụng từ khoá 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16918)
 
 ## Thông tin dành cho sinh viên
 - 09/09/2025: [Hướng dẫn đăng nhập Portal và Đăng ký học phần](https://hcmus.edu.vn/huong-dan-dang-nhap-portal-va-dang-ky-hoc-phan/)
