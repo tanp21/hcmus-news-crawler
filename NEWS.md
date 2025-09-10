@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-10 11:15:03.587191+07:00**_
+_Last update: **2025-09-10 12:12:25.116333+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-09-10 11:15:03.587191+07:00**_
  - 25-8-2025: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16920)
 
 ## Thông tin dành cho sinh viên
+- 10/09/2025: [Thông báo tăng sĩ số lớp khóa 2024](https://hcmus.edu.vn/tang-si-so-lop-khoa-2024/)
 - 10/09/2025: [Khảo sát nguyện vọng học bổ sung kiến thức khối tự nhiên đối với tân sinh viên khóa 2025](https://hcmus.edu.vn/khao-sat-nguyen-vong-hoc-bo-sung-kien-thuc-khoi-tu-nhien-doi-voi-tan-sinh-vien-khoa-2025/)
 - 09/09/2025: [Hướng dẫn đăng nhập Portal và Đăng ký học phần](https://hcmus.edu.vn/huong-dan-dang-nhap-portal-va-dang-ky-hoc-phan/)
 - 08/09/2025: [Thông báo kết quả dự kiến Điểm rèn luyện HK2/2024 – 2025 (CT Đại trà) và HK3/2024 – 2025 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2024-2025-ct-dai-tra-va-hk3-2024-2025-ct-de-an/)
@@ -71,7 +72,6 @@ _Last update: **2025-09-10 11:15:03.587191+07:00**_
 - 05/09/2025: [THÔNG BÁO TỔ CHỨC TUẦN SINH HOẠT CÔNG DÂN – SINH VIÊN ĐỐI VỚI TÂN SINH VIÊN KHÓA TUYỂN 2025](https://hcmus.edu.vn/thong-bao-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2025/)
 - 05/09/2025: [Thư mời doanh nghiệp tham gia Ngày hội Sinh viên & Doanh nghiệp 2025](https://hcmus.edu.vn/thu-moi-doanh-nghiep-tham-gia-ngay-hoi-sinh-vien-doanh-nghiep-2025/)
 - 04/09/2025: [Phân phòng kiểm tra tiếng Anh đầu khóa đối với Tân sinh viên khóa 2025](https://hcmus.edu.vn/phan-phong-kiem-tra-tieng-anh-dau-khoa-doi-voi-tan-sinh-vien-khoa-2025/)
-- 04/09/2025: [THÔNG BÁO V/v khai báo thông tin địa chỉ mới trên hệ thống Student@VNUHCM-US đối với sinh viên trình độ đại học hệ chính quy khóa 2024 về trước](https://hcmus.edu.vn/thong-bao-v-v-khai-bao-thong-tin-dia-chi-moi-tren-he-thong-studentvnuhcm-us-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-khoa-2024-ve-truoc/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/902-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-cac-khoa)
