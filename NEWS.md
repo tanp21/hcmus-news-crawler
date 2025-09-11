@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-11 15:17:50.065143+07:00**_
+_Last update: **2025-09-11 16:13:44.743947+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-09-11 15:17:50.065143+07:00**_
  - 28-8-2025: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16925)
 
 ## Thông tin dành cho sinh viên
+- 11/09/2025: [Thông báo Hủy các môn thuộc K2024 và mở bổ sung môn Tư tưởng HCM cho K2023 ngành Hóa học](https://hcmus.edu.vn/thong-bao-huy-cac-mon-thuoc-lop-thuoc-k2024-va-mo-bo-sung-mon-tu-tuong-hcm-cho-k2023-nganh-hoa-hoc/)
 - 11/09/2025: [Thông báo Đăng ký học phần HK1/2024-2025 đối với chương trình Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2024-2025-doi-voi-chuong-trinh-lien-thong-dai-hoc-he-chinh-quy/)
 - 10/09/2025: [Thông báo tăng sĩ số lớp khóa 2024](https://hcmus.edu.vn/tang-si-so-lop-khoa-2024/)
 - 10/09/2025: [Khảo sát nguyện vọng học bổ sung kiến thức khối tự nhiên đối với tân sinh viên khóa 2025](https://hcmus.edu.vn/khao-sat-nguyen-vong-hoc-bo-sung-kien-thuc-khoi-tu-nhien-doi-voi-tan-sinh-vien-khoa-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-09-11 15:17:50.065143+07:00**_
 - 08/09/2025: [Kết quả kiểm tra Anh văn đầu khóa đối với sinh viên đại học hệ chính quy khóa tuyển 2025](https://hcmus.edu.vn/58503-2/)
 - 07/09/2025: [Thông báo kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2024, 2025 và môn chung trong HK1/2025-2026 tại cơ sở 2 (đã cập nhật TKB K2025 và địa điểm học thể dục)](https://hcmus.edu.vn/thong-bao-ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2024-2025-va-mon-chung-trong-hk1-2025-2026-tai-co-so-2-2/)
 - 05/09/2025: [THÔNG BÁO TỔ CHỨC TUẦN SINH HOẠT CÔNG DÂN – SINH VIÊN ĐỐI VỚI TÂN SINH VIÊN KHÓA TUYỂN 2025](https://hcmus.edu.vn/thong-bao-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2025/)
-- 05/09/2025: [Thư mời doanh nghiệp tham gia Ngày hội Sinh viên & Doanh nghiệp 2025](https://hcmus.edu.vn/thu-moi-doanh-nghiep-tham-gia-ngay-hoi-sinh-vien-doanh-nghiep-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/902-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-cac-khoa)
