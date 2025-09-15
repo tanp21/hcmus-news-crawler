@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-15 11:16:16.886105+07:00**_
+_Last update: **2025-09-15 12:13:44.975852+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-09-15 11:16:16.886105+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 15-9-2025: [Thư mời tham dự "Hội thảo Kết nối Doanh nghiệp" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16945)
  - 10-9-2025: [Gia hạn đăng ký chương trình "Máy tính trao tay" 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16940)
  - 10-9-2025: [Thông báo về việc tiếp nhận hồ sơ đăng ký Học bổng Cựu sinh viên (ASF) năm học mới](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16939)
  - 10-9-2025: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16938)
@@ -59,7 +60,6 @@ _Last update: **2025-09-15 11:16:16.886105+07:00**_
  - 4-9-2025: [V/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16927)
  - 3-9-2025: [Thông báo tổ chức khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16931)
  - 28-8-2025: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16926)
- - 28-8-2025: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16925)
 
 ## Thông tin dành cho sinh viên
 - 15/09/2025: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2025-2026](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2025-2026/)
@@ -74,11 +74,11 @@ _Last update: **2025-09-15 11:16:16.886105+07:00**_
 - 08/09/2025: [Kết quả kiểm tra Anh văn đầu khóa đối với sinh viên đại học hệ chính quy khóa tuyển 2025](https://hcmus.edu.vn/58503-2/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
+ - [Thông báo phúc khảo HK3/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/904-thong-bao-phuc-kh-o-hk3-24-25-h-chinh-quy)
+ - [Thông báo phúc khảo bổ sung HK3/24-25 CT đề án khóa 2024](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/903-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-b-sung-cho-khoa-2024)
  - [Thông báo phúc khảo HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/902-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-cac-khoa)
  - [Thông báo phúc khảo bổ sung HK2/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/901-thong-bao-phuc-kh-o-b-sung-hk2-24-25-h-chinh-quy)
- - [Thông báo về việc không thu lệ phí phúc khảo bài thi cuối kỳ](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/900-thong-bao-v-vi-c-khong-thu-l-phi-phuc-kh-o-bai-thi-cu-i-ky)
- - [Thông báo phúc khảo HK2/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/898-thong-bao-phuc-kh-o-hk2-24-25-h-chinh-quy)
- - [Thông báo SV đánh giá môn học - GV HK3/2024-2025 (Chương trình đề án)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/881-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2024-2025-chuong-trinh-d-an)
 
 ***
 
