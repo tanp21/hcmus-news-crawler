@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-15 14:13:33.334626+07:00**_
+_Last update: **2025-09-15 15:18:27.567027+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-09-15 14:13:33.334626+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 15-9-2025: [Lịch trực Cố vấn học tập HK1/ NH 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16947)
  - 15-9-2025: [Thư mời tham dự "Hội thảo Kết nối Doanh nghiệp" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16945)
  - 10-9-2025: [Gia hạn đăng ký chương trình "Máy tính trao tay" 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16940)
  - 10-9-2025: [Thông báo về việc tiếp nhận hồ sơ đăng ký Học bổng Cựu sinh viên (ASF) năm học mới](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16939)
@@ -59,9 +60,9 @@ _Last update: **2025-09-15 14:13:33.334626+07:00**_
  - 5-9-2025: [Đội HCMUS-AtCoder đạt thành tích xuất sắc tại ICPC World Finals 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16932)
  - 4-9-2025: [V/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16927)
  - 3-9-2025: [Thông báo tổ chức khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16931)
- - 28-8-2025: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16926)
 
 ## Thông tin dành cho sinh viên
+- 15/09/2025: [[THÔNG BÁO] Về việc dự tuyển học bổng Thắp sáng niềm tin năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-ve-viec-du-tuyen-hoc-bong-thap-sang-niem-tin-nam-hoc-2025-2026/)
 - 15/09/2025: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2025-2026](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2025-2026/)
 - 11/09/2025: [Thông báo học bổng “Thắp sáng Ước mơ” năm 2025 (Đợt 2)](https://hcmus.edu.vn/thong-bao-hoc-bong-thap-sang-uoc-mo-nam-2025-dot-2/)
 - 11/09/2025: [Thông báo Hủy các môn thuộc K2024 và mở bổ sung môn Tư tưởng HCM cho K2023 ngành Hóa học](https://hcmus.edu.vn/thong-bao-huy-cac-mon-thuoc-lop-thuoc-k2024-va-mo-bo-sung-mon-tu-tuong-hcm-cho-k2023-nganh-hoa-hoc/)
@@ -71,7 +72,6 @@ _Last update: **2025-09-15 14:13:33.334626+07:00**_
 - 09/09/2025: [Hướng dẫn đăng nhập Portal và Đăng ký học phần](https://hcmus.edu.vn/huong-dan-dang-nhap-portal-va-dang-ky-hoc-phan/)
 - 08/09/2025: [Thông báo kết quả dự kiến Điểm rèn luyện HK2/2024 – 2025 (CT Đại trà) và HK3/2024 – 2025 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2024-2025-ct-dai-tra-va-hk3-2024-2025-ct-de-an/)
 - 08/09/2025: [Thông báo mở lớp môn Thực hành xác suất thống kê (MTH00085) trong HK1/2025-2026](https://hcmus.edu.vn/thong-bao-mo-lop-mon-thuc-hanh-xac-suat-thong-ke-mth00085-trong-hk1-2025-2026/)
-- 08/09/2025: [Kết quả kiểm tra Anh văn đầu khóa đối với sinh viên đại học hệ chính quy khóa tuyển 2025](https://hcmus.edu.vn/58503-2/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
