@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-16 14:13:21.573241+07:00**_
+_Last update: **2025-09-16 15:18:27.629097+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,6 +62,7 @@ _Last update: **2025-09-16 14:13:21.573241+07:00**_
  - 3-9-2025: [Thông báo tổ chức khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16931)
 
 ## Thông tin dành cho sinh viên
+- 16/09/2025: [Chương trình Học bổng Coherent Việt Nam (Đồng Nai)](https://hcmus.edu.vn/chuong-trinh-hoc-bong-coherent-viet-nam-dong-nai/)
 - 16/09/2025: [Thông báo về các chính sách tín dụng đối với người học](https://hcmus.edu.vn/thong-bao-ve-cac-chinh-sach-tin-dung-doi-voi-nguoi-hoc/)
 - 15/09/2025: [[THÔNG BÁO] Về việc dự tuyển học bổng Thắp sáng niềm tin năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-ve-viec-du-tuyen-hoc-bong-thap-sang-niem-tin-nam-hoc-2025-2026/)
 - 15/09/2025: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2025-2026](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2025-2026/)
@@ -71,7 +72,6 @@ _Last update: **2025-09-16 14:13:21.573241+07:00**_
 - 10/09/2025: [Thông báo tăng sĩ số lớp khóa 2024](https://hcmus.edu.vn/tang-si-so-lop-khoa-2024/)
 - 10/09/2025: [Khảo sát nguyện vọng học bổ sung kiến thức khối tự nhiên đối với tân sinh viên khóa 2025](https://hcmus.edu.vn/khao-sat-nguyen-vong-hoc-bo-sung-kien-thuc-khoi-tu-nhien-doi-voi-tan-sinh-vien-khoa-2025/)
 - 09/09/2025: [Hướng dẫn đăng nhập Portal và Đăng ký học phần](https://hcmus.edu.vn/huong-dan-dang-nhap-portal-va-dang-ky-hoc-phan/)
-- 08/09/2025: [Thông báo kết quả dự kiến Điểm rèn luyện HK2/2024 – 2025 (CT Đại trà) và HK3/2024 – 2025 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2024-2025-ct-dai-tra-va-hk3-2024-2025-ct-de-an/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
