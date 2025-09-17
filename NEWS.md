@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-17 17:13:05.658251+07:00**_
+_Last update: **2025-09-17 18:10:54.251917+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -50,6 +50,7 @@ _Last update: **2025-09-17 17:13:05.658251+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 17-9-2025: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16958)
  - 16-9-2025: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16953)
  - 16-9-2025: [[CQ] Danh sách lớp học phần hủy, HK1/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16952)
  - 15-9-2025: [Lịch trực Cố vấn học tập HK1/ NH 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16947)
@@ -59,7 +60,6 @@ _Last update: **2025-09-17 17:13:05.658251+07:00**_
  - 10-9-2025: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16938)
  - 10-9-2025: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 3 năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16936)
  - 5-9-2025: [Thông báo v/v khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2025  Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16933)
- - 5-9-2025: [Đội HCMUS-AtCoder đạt thành tích xuất sắc tại ICPC World Finals 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16932)
 
 ## Thông tin dành cho sinh viên
 - 17/09/2025: [Khảo sát mức độ sẵn sàng của tân sinh viên đối với ngành học, trường học và kênh tư vấn hướng nghiệp – tuyển sinh năm 2025](https://hcmus.edu.vn/58893-2/)
