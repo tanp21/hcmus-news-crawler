@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-18 15:17:18.654102+07:00**_
+_Last update: **2025-09-18 16:14:03.898153+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 13/08/2025: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
@@ -62,6 +62,8 @@ _Last update: **2025-09-18 15:17:18.654102+07:00**_
  - 5-9-2025: [Thông báo v/v khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2025  Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16933)
 
 ## Thông tin dành cho sinh viên
+- 18/09/2025: [Kết quả xét tốt nghiệp đại học đợt tháng 9 năm 2025](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-9-nam-2025/)
+- 18/09/2025: [Thông báo chương trình Học bổng Thường niên AmCham năm 2025 (ACS25)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2025-acs25/)
 - 17/09/2025: [Khảo sát mức độ sẵn sàng của tân sinh viên đối với ngành học, trường học và kênh tư vấn hướng nghiệp – tuyển sinh năm 2025](https://hcmus.edu.vn/58893-2/)
 - 16/09/2025: [Chương trình Học bổng Coherent Việt Nam (Đồng Nai)](https://hcmus.edu.vn/chuong-trinh-hoc-bong-coherent-viet-nam-dong-nai/)
 - 16/09/2025: [Thông báo về các chính sách tín dụng đối với người học](https://hcmus.edu.vn/thong-bao-ve-cac-chinh-sach-tin-dung-doi-voi-nguoi-hoc/)
@@ -70,8 +72,6 @@ _Last update: **2025-09-18 15:17:18.654102+07:00**_
 - 11/09/2025: [Thông báo học bổng “Thắp sáng Ước mơ” năm 2025 (Đợt 2)](https://hcmus.edu.vn/thong-bao-hoc-bong-thap-sang-uoc-mo-nam-2025-dot-2/)
 - 11/09/2025: [Thông báo Hủy các môn thuộc K2024 và mở bổ sung môn Tư tưởng HCM cho K2023 ngành Hóa học](https://hcmus.edu.vn/thong-bao-huy-cac-mon-thuoc-lop-thuoc-k2024-va-mo-bo-sung-mon-tu-tuong-hcm-cho-k2023-nganh-hoa-hoc/)
 - 11/09/2025: [Thông báo Đăng ký học phần HK1/2024-2025 đối với chương trình Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2024-2025-doi-voi-chuong-trinh-lien-thong-dai-hoc-he-chinh-quy/)
-- 10/09/2025: [Thông báo tăng sĩ số lớp khóa 2024](https://hcmus.edu.vn/tang-si-so-lop-khoa-2024/)
-- 10/09/2025: [Khảo sát nguyện vọng học bổ sung kiến thức khối tự nhiên đối với tân sinh viên khóa 2025](https://hcmus.edu.vn/khao-sat-nguyen-vong-hoc-bo-sung-kien-thuc-khoi-tu-nhien-doi-voi-tan-sinh-vien-khoa-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
