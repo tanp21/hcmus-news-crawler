@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-20 11:15:18.681263+07:00**_
+_Last update: **2025-09-20 12:12:04.495576+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-09-20 11:15:18.681263+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 20-9-2025: [Thông báo đăng ký tham gia CLB NCKH Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16961)
  - 17-9-2025: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16958)
  - 16-9-2025: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16953)
  - 16-9-2025: [[CQ] Danh sách lớp học phần hủy, HK1/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16952)
@@ -59,7 +60,6 @@ _Last update: **2025-09-20 11:15:18.681263+07:00**_
  - 10-9-2025: [Thông báo về việc tiếp nhận hồ sơ đăng ký Học bổng Cựu sinh viên (ASF) năm học mới](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16939)
  - 10-9-2025: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16938)
  - 10-9-2025: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 3 năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16936)
- - 5-9-2025: [Thông báo v/v khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2025  Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16933)
 
 ## Thông tin dành cho sinh viên
 - 20/09/2025: [Thông báo về việc cấp học bổng cho sinh viên vượt khó, học giỏi năm 2025 của Quỹ học bổng Quang Trung](https://hcmus.edu.vn/thong-bao-ve-viec-cap-hoc-bong-cho-sinh-vien-vuot-kho-hoc-gioi-nam-2025-cua-quy-hoc-bong-quang-trung/)
