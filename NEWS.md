@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-22 17:15:04.722900+07:00**_
+_Last update: **2025-09-22 18:11:36.561757+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-09-22 17:15:04.722900+07:00**_
  - 10-9-2025: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16938)
 
 ## Thông tin dành cho sinh viên
+- 22/09/2025: [Thông báo thay đổi phòng học tại CS2 từ ngày 22/9/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-22-9-2025/)
 - 22/09/2025: [Hướng dẫn đăng ký cấp các loại giấy tờ hành chính dành cho sinh viên, học viên cao học, nghiên cứu sinh](https://hcmus.edu.vn/huong-dan-dang-ky-cap-cac-loai-giay-to-hanh-chinh-danh-cho-sinh-vien-hoc-vien-cao-hoc-nghien-cuu-sinh/)
 - 22/09/2025: [THÔNG BÁO V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm sau Tuần Sinh hoạt Công dân – sinh viên đầu khóa năm học 2025-2026](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-sinh-hoa%cc%a3t-cong-dan-sinh-vien-dau-khoa-nam-ho%cc%a3c-2025-2026/)
 - 21/09/2025: [Danh sách các lớp hủy trong HK1/2025-2026 bổ sung](https://hcmus.edu.vn/danh-sach-cac-lop-huy-trong-hk1-2025-2026-bo-sung/)
@@ -71,7 +72,6 @@ _Last update: **2025-09-22 17:15:04.722900+07:00**_
 - 19/09/2025: [Thông báo thay đổi phòng học HK1/2025-2026](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-hk1-2025-2026/)
 - 19/09/2025: [Thông báo dời ngày bắt đầu học 1 số lớp trong HK1/2025-2026](https://hcmus.edu.vn/thong-bao-doi-ngay-bat-dau-hoc-1-so-lop-trong-hk1-2025-2026/)
 - 19/09/2025: [Thông báo các lớp học phần bị hủy trong HK1/2025-2026](https://hcmus.edu.vn/thong-bao-cac-lop-hoc-phan-bi-huy-trong-hk1-2025-2026/)
-- 18/09/2025: [Kết quả xét tốt nghiệp đại học đợt tháng 9 năm 2025](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-9-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
