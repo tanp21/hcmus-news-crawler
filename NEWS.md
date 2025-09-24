@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-24 14:13:06.563494+07:00**_
+_Last update: **2025-09-24 15:18:23.871522+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2025-09-24 14:13:06.563494+07:00**_
  - 30/09/2022: [[CTĐA] Kế hoạch mở học phần năm học 2022-2023 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2022-2023-du-kien/)
 
 ### Giáo vụ
+ - 24/09/2025: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021-đợt 2 (bảo vệ 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-04-2026/)
  - 21/09/2025: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2025 – Chương trình Chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2025-chuong-trinh-chat-luong-cao/)
  - 19/09/2025: [[CTĐA] – Thông báo phúc khảo HK3/2425](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-thong-bao-phuc-khao-hk3-2425/)
  - 04/09/2025: [Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2025 Khoa Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ve-viec-khao-sat-nang-luc-lap-trinh-dau-khoa-cho-sinh-vien-khoa-tuyen-2025-khoa-cong-nghe-thong-tin/)
@@ -23,7 +24,6 @@ _Last update: **2025-09-24 14:13:06.563494+07:00**_
  - 11/08/2025: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2425](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-lich-thi-chi-tiet-cuoi-ky-hk3-2425/)
  - 31/07/2025: [[CLC] – Thông báo đăng ký nguyện vọng chuyên ngành năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/07/clc-thong-bao-dang-ky-nguyen-vong-chuyen-nganh-nam-hoc-2024-2025/)
  - 11/07/2025: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2025/07/thong-bao-nop-don-dang-ky-bao-ve-huy-bao-ve-de-tai-tot-nghiep-khoa-2021-dot-thang-8-2025/)
- - 24/06/2025: [Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ T3/2026](https://www.ctda.hcmus.edu.vn/vi/2025/06/thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-t3-2026/)
 
 ### Trợ lí sinh viên
  - 18/09/2025: [Thông báo danh sách khảo sát trình độ tiếng Anh khoá 2025 – CTDA](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-danh-sach-khao-sat-trinh-do-tieng-anh-khoa-2025-ctda/)
@@ -62,6 +62,7 @@ _Last update: **2025-09-24 14:13:06.563494+07:00**_
  - 10-9-2025: [Thông báo về việc tiếp nhận hồ sơ đăng ký Học bổng Cựu sinh viên (ASF) năm học mới](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16939)
 
 ## Thông tin dành cho sinh viên
+- 24/09/2025: [TB Tổ chức hội thảo “Caravan Văn hóa SHTT Sinh viên ĐHQG-HCM lần 2”  Tại Trường Đại học Khoa học tự nhiên, ĐHQG-HCM](https://hcmus.edu.vn/tb-to-chuc-hoi-thao-caravan-van-hoa-shtt-sinh-vien-dhqg-hcm-lan-2-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 - 23/09/2025: [[THÔNG BÁO] Chương trình trao đổi kỳ học mùa xuân năm 2026 – Đại học Kyushu, Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-ky-hoc-mua-xuan-nam-2026-dai-hoc-kyushu-nhat-ban/)
 - 23/09/2025: [[THÔNG BÁO] Cuộc thi về Du học Ý và Ngày hội Thông tin du học Ý năm 2025](https://hcmus.edu.vn/thong-bao-cuoc-thi-ve-du-hoc-y-va-ngay-hoi-thong-tin-du-hoc-y-nam-2025/)
 - 23/09/2025: [Thông báo kết quả dự kiến HBKK HK2/2024-2025 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học&CNVL, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2024-2025-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
@@ -71,7 +72,6 @@ _Last update: **2025-09-24 14:13:06.563494+07:00**_
 - 21/09/2025: [Danh sách các lớp hủy trong HK1/2025-2026 bổ sung](https://hcmus.edu.vn/danh-sach-cac-lop-huy-trong-hk1-2025-2026-bo-sung/)
 - 20/09/2025: [Thông báo thay đổi phòng học HK1/2025-2026](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-hk1-2025-2026-2/)
 - 20/09/2025: [Thông báo chương trình học bổng VietHope Student Development Program (VSDP) 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-viethope-student-development-program-vsdp-2025/)
-- 20/09/2025: [Thông báo về việc cấp học bổng cho sinh viên vượt khó, học giỏi năm 2025 của Quỹ học bổng Quang Trung](https://hcmus.edu.vn/thong-bao-ve-viec-cap-hoc-bong-cho-sinh-vien-vuot-kho-hoc-gioi-nam-2025-cua-quy-hoc-bong-quang-trung/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
