@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-26 15:18:39.166814+07:00**_
+_Last update: **2025-09-26 16:14:09.161082+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-09-26 15:18:39.166814+07:00**_
  - 15-9-2025: [Thư mời tham dự "Hội thảo Kết nối Doanh nghiệp" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16945)
 
 ## Thông tin dành cho sinh viên
+- 26/09/2025: [Thông báo thay đổi lịch học,  phòng học tại CS2 từ ngày 29/9/2025](https://hcmus.edu.vn/thong-bao-thay-doi-lich-hoc-phong-hoc-tai-cs2-tu-ngay-29-9-2025/)
 - 26/09/2025: [Lịch học Thể dục 1 HK1/2025-2026 chính thức kèm thông tin giảng viên](https://hcmus.edu.vn/lich-hoc-the-duc-1-hk1-2025-2026-chinh-thuc-kem-thong-tin-giang-vien/)
 - 25/09/2025: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 1/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-1-2025-2026/)
 - 24/09/2025: [Thông báo thay đổi phòng học từ ngày 25/9 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tu-ngay-25-9-tai-co-so-2/)
@@ -71,7 +72,6 @@ _Last update: **2025-09-26 15:18:39.166814+07:00**_
 - 23/09/2025: [Thông báo kết quả dự kiến HBKK HK2/2024-2025 Khoa Công nghệ Thông tin, Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học&CNVL, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2024-2025-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
 - 22/09/2025: [Thông báo thay đổi phòng học tại CS2 từ ngày 22/9/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-22-9-2025/)
 - 22/09/2025: [Hướng dẫn đăng ký cấp các loại giấy tờ hành chính dành cho sinh viên, học viên cao học, nghiên cứu sinh](https://hcmus.edu.vn/huong-dan-dang-ky-cap-cac-loai-giay-to-hanh-chinh-danh-cho-sinh-vien-hoc-vien-cao-hoc-nghien-cuu-sinh/)
-- 22/09/2025: [THÔNG BÁO V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm sau Tuần Sinh hoạt Công dân – sinh viên đầu khóa năm học 2025-2026](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-sinh-hoa%cc%a3t-cong-dan-sinh-vien-dau-khoa-nam-ho%cc%a3c-2025-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
