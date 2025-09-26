@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-26 08:01:21.985285+07:00**_
+_Last update: **2025-09-26 09:55:11.586049+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-09-26 08:01:21.985285+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 26-9-2025: [Học bổng Toàn phần Chương trình Học giả Nghiên cứu Xuất sắc – VinUni & Viện Nghiên cứu Dữ liệu lớn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16968)
  - 23-9-2025: [Mời tham dự buổi bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16966)
  - 22-9-2025: [[CQ] Thông báo kiểm tra kết quả kiểm duyệt đăng ký học phần HK1, NH 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16963)
  - 20-9-2025: [Thông báo đăng ký tham gia CLB NCKH Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16961)
@@ -59,7 +60,6 @@ _Last update: **2025-09-26 08:01:21.985285+07:00**_
  - 15-9-2025: [Lịch trực Cố vấn học tập HK1/ NH 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16947)
  - 15-9-2025: [Thư mời tham dự "Hội thảo Kết nối Doanh nghiệp" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16945)
  - 10-9-2025: [Gia hạn đăng ký chương trình "Máy tính trao tay" 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16940)
- - 10-9-2025: [Thông báo về việc tiếp nhận hồ sơ đăng ký Học bổng Cựu sinh viên (ASF) năm học mới](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16939)
 
 ## Thông tin dành cho sinh viên
 - 25/09/2025: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 1/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-1-2025-2026/)
