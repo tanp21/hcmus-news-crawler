@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Crawler
 
-An automated news aggregation system that crawls and compiles news from various HCMUS (Ho Chi Minh City University of Science) websites. **The crawler runs automatically every hour via GitHub Actions** and updates the news in your repository.
+An automated news aggregation system that crawls and compiles news from various HCMUS (Ho Chi Minh City University of Science) websites. **The crawler runs automatically every hour via GitHub Actions** and updates the news to `NEWS.md`.
 
 
 ## News Sources
