@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-26 13:19:34.802956+07:00**_
+_Last update: **2025-09-26 14:13:10.316188+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-09-26 13:19:34.802956+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 26-9-2025: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16969)
  - 26-9-2025: [Học bổng Toàn phần Chương trình Học giả Nghiên cứu Xuất sắc – VinUni & Viện Nghiên cứu Dữ liệu lớn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16968)
  - 23-9-2025: [Mời tham dự buổi bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16966)
  - 22-9-2025: [[CQ] Thông báo kiểm tra kết quả kiểm duyệt đăng ký học phần HK1, NH 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16963)
@@ -59,7 +60,6 @@ _Last update: **2025-09-26 13:19:34.802956+07:00**_
  - 16-9-2025: [[CQ] Danh sách lớp học phần hủy, HK1/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16952)
  - 15-9-2025: [Lịch trực Cố vấn học tập HK1/ NH 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16947)
  - 15-9-2025: [Thư mời tham dự "Hội thảo Kết nối Doanh nghiệp" năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16945)
- - 10-9-2025: [Gia hạn đăng ký chương trình "Máy tính trao tay" 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16940)
 
 ## Thông tin dành cho sinh viên
 - 26/09/2025: [Lịch học Thể dục 1 HK1/2025-2026 chính thức kèm thông tin giảng viên](https://hcmus.edu.vn/lich-hoc-the-duc-1-hk1-2025-2026-chinh-thuc-kem-thong-tin-giang-vien/)
