@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-09-29 at 10:06 +07***
+*Last updated: **2025-09-29 at 11:27 +07***
 
 ---
 
@@ -30,6 +30,8 @@
 
 ### Academic Affairs
 
+• **29/09/2025**: [TCTA_Thông báo về việc sử dụng tài khoản học vụ Khoá 2025](https://www.ctda.hcmus.edu.vn/vi/2025/09/tcta_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2025/)
+
 • **24/09/2025**: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021-đợt 2 (bảo vệ 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-04-2026/)
 
 • **21/09/2025**: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2025 – Chương trình Chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2025-chuong-trinh-chat-luong-cao/)
@@ -47,8 +49,6 @@
 • **11/08/2025**: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2425](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-lich-thi-chi-tiet-cuoi-ky-hk3-2425/)
 
 • **31/07/2025**: [[CLC] – Thông báo đăng ký nguyện vọng chuyên ngành năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/07/clc-thong-bao-dang-ky-nguyen-vong-chuyen-nganh-nam-hoc-2024-2025/)
-
-• **11/07/2025**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2025/07/thong-bao-nop-don-dang-ky-bao-ve-huy-bao-ve-de-tai-tot-nghiep-khoa-2021-dot-thang-8-2025/)
 
 ### Student Support
 
