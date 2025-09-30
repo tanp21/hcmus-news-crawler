@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-09-30 at 15:30 +07***
+*Last updated: **2025-09-30 at 16:24 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **30-9-2025**: [Thông báo đăng ký tham dự Chuỗi Hội thảo kỹ năng - Công nghệ 2025](Default.aspx?tabid=292&newsid=16972)
+
 • **26-9-2025**: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T3/2026)](Default.aspx?tabid=292&newsid=16969)
 
 • **26-9-2025**: [Học bổng Toàn phần Chương trình Học giả Nghiên cứu Xuất sắc – VinUni & Viện Nghiên cứu Dữ liệu lớn](Default.aspx?tabid=292&newsid=16968)
@@ -113,8 +115,6 @@
 • **16-9-2025**: [[CQ] Danh sách lớp học phần hủy, HK1/2025-2026](Default.aspx?tabid=292&newsid=16952)
 
 • **15-9-2025**: [Lịch trực Cố vấn học tập HK1/ NH 2025-2026](Default.aspx?tabid=292&newsid=16947)
-
-• **15-9-2025**: [Thư mời tham dự "Hội thảo Kết nối Doanh nghiệp" năm 2025](Default.aspx?tabid=292&newsid=16945)
 
 ## Student Information
 
