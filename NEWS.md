@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-01 at 16:24 +07***
+*Last updated: **2025-10-01 at 17:23 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **01/10/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 từ ngày 02/10/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-tu-ngay-02-10-2025/)
+
 • **01/10/2025**: [THÔNG BÁO về việc đeo thẻ sinh viên, học viên khi vào khuôn viên Trường](https://hcmus.edu.vn/thong-bao-ve-viec-deo-the-sinh-vien-hoc-vien-khi-vao-khuon-vien-truong/)
 
 • **01/10/2025**: [TB Chương trình học bổng tài năng Công nghệ CT group năm học 2025-2026](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-tai-nang-cong-nghe-ct-group-nam-hoc-2025-2026/)
@@ -135,8 +137,6 @@
 • **26/09/2025**: [Lịch học Thể dục 1 HK1/2025-2026 chính thức kèm thông tin giảng viên](https://hcmus.edu.vn/lich-hoc-the-duc-1-hk1-2025-2026-chinh-thuc-kem-thong-tin-giang-vien/)
 
 • **25/09/2025**: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 1/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-1-2025-2026/)
-
-• **24/09/2025**: [Thông báo thay đổi phòng học từ ngày 25/9 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tu-ngay-25-9-tai-co-so-2/)
 
 ## Exam Announcements
 
