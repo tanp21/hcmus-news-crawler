@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-01 at 14:22 +07***
+*Last updated: **2025-10-01 at 15:29 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **01/10/2025**: [TB Chương trình học bổng tài năng Công nghệ CT group năm học 2025-2026](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-tai-nang-cong-nghe-ct-group-nam-hoc-2025-2026/)
+
 • **01/10/2025**: [THÔNG BÁO về việc lộ trình triển khai giới hạn dung lượng tài khoản email sinh viên](https://hcmus.edu.vn/thong-bao-ve-viec-lo-trinh-trien-khai-gioi-han-dung-luong-tai-khoan-email-sinh-vien/)
 
 • **29/09/2025**: [Thông báo thay đổi phòng học tại CS2 từ ngày 30/9/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-30-9-2025/)
@@ -135,8 +137,6 @@
 • **24/09/2025**: [Thông báo thay đổi phòng học từ ngày 25/9 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tu-ngay-25-9-tai-co-so-2/)
 
 • **24/09/2025**: [Thông báo Tổ chức hội thảo “Caravan Văn hóa SHTT Sinh viên ĐHQG-HCM lần 2” Tại Trường Đại học Khoa học tự nhiên, ĐHQG-HCM](https://hcmus.edu.vn/tb-to-chuc-hoi-thao-caravan-van-hoa-shtt-sinh-vien-dhqg-hcm-lan-2-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
-
-• **23/09/2025**: [[THÔNG BÁO] Chương trình trao đổi kỳ học mùa xuân năm 2026 – Đại học Kyushu, Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-ky-hoc-mua-xuan-nam-2026-dai-hoc-kyushu-nhat-ban/)
 
 ## Exam Announcements
 
