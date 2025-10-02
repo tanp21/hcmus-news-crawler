@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-02 at 15:28 +07***
+*Last updated: **2025-10-02 at 16:22 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **2-10-2025**: [Tổng kết Chương trình ngày 29/9/2025 - Lễ khánh thành các Phòng thí nghiệm, Buổi ra mắt Câu lạc bộ Nghiên cứu Khoa học và Seminar Học thuật của Sinh viên Công nghệ thông tin](Default.aspx?tabid=292&newsid=16978)
+
 • **30-9-2025**: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9/2025](Default.aspx?tabid=292&newsid=16973)
 
 • **30-9-2025**: [Thông báo đăng ký tham dự Chuỗi Hội thảo kỹ năng - Công nghệ 2025](Default.aspx?tabid=292&newsid=16972)
@@ -113,8 +115,6 @@
 • **17-9-2025**: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 9/2025](Default.aspx?tabid=292&newsid=16958)
 
 • **16-9-2025**: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2025](Default.aspx?tabid=292&newsid=16953)
-
-• **16-9-2025**: [[CQ] Danh sách lớp học phần hủy, HK1/2025-2026](Default.aspx?tabid=292&newsid=16952)
 
 ## Student Information
 
