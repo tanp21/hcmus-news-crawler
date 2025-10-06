@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-06 at 08:43 +07***
+*Last updated: **2025-10-06 at 10:03 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **06/10/2025**: [Thông báo kết quả chính thức HBKK HK2/2024-2025 Khoa Công nghệ Thông tin, Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-2024-2025-khoa-cong-nghe-thong-tin-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
+
 • **03/10/2025**: [Thông báo thay đổi phòng học tại CS2 từ ngày 06/10/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-06-10-2025/)
 
 • **01/10/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 từ ngày 02/10/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-tu-ngay-02-10-2025/)
@@ -135,8 +137,6 @@
 • **26/09/2025**: [THÔNG BÁO V/v triển khai khảo sát sự hài lòng của người học với trải nghiệm học tập tại Đại học Quốc gia Thành phố Hồ Chí Minh năm 2025](https://hcmus.edu.vn/thong-bao-v-v-trien-khai-khao-sat-su-hai-long-cua-nguoi-hoc-voi-trai-nghiem-hoc-tap-tai-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh-nam-2025/)
 
 • **26/09/2025**: [Thông báo thay đổi lịch học, phòng học tại CS2 từ ngày 29/9/2025](https://hcmus.edu.vn/thong-bao-thay-doi-lich-hoc-phong-hoc-tai-cs2-tu-ngay-29-9-2025/)
-
-• **26/09/2025**: [Lịch học Thể dục 1 HK1/2025-2026 chính thức kèm thông tin giảng viên](https://hcmus.edu.vn/lich-hoc-the-duc-1-hk1-2025-2026-chinh-thuc-kem-thong-tin-giang-vien/)
 
 ## Exam Announcements
 
