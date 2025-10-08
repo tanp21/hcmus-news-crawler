@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-08 at 08:41 +07***
+*Last updated: **2025-10-08 at 09:59 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **8-10-2025**: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 17/10](Default.aspx?tabid=292&newsid=16984)
+
 • **7-10-2025**: [Đăng ký tham quan công ty DXC Vietnam ngày 21/10](Default.aspx?tabid=292&newsid=16983)
 
 • **2-10-2025**: [Tổng kết Chương trình ngày 29/9/2025 - Lễ khánh thành các Phòng thí nghiệm, Buổi ra mắt Câu lạc bộ Nghiên cứu Khoa học và Seminar Học thuật của Sinh viên Công nghệ thông tin](Default.aspx?tabid=292&newsid=16978)
@@ -113,8 +115,6 @@
 • **22-9-2025**: [[CQ] Thông báo kiểm tra kết quả kiểm duyệt đăng ký học phần HK1, NH 2025-2026](Default.aspx?tabid=292&newsid=16963)
 
 • **20-9-2025**: [Thông báo đăng ký tham gia CLB NCKH Khoa CNTT](Default.aspx?tabid=292&newsid=16961)
-
-• **17-9-2025**: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 9/2025](Default.aspx?tabid=292&newsid=16958)
 
 ## Student Information
 
