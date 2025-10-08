@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-08 at 14:21 +07***
+*Last updated: **2025-10-08 at 15:30 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **8-10-2025**: [Không gian Triển lãm FIT30 – Nơi hành trình được kể bằng hình ảnh](Default.aspx?tabid=292&newsid=16989)
+
 • **8-10-2025**: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2025](Default.aspx?tabid=292&newsid=16985)
 
 • **8-10-2025**: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 17/10](Default.aspx?tabid=292&newsid=16984)
@@ -113,8 +115,6 @@
 • **26-9-2025**: [Học bổng Toàn phần Chương trình Học giả Nghiên cứu Xuất sắc – VinUni & Viện Nghiên cứu Dữ liệu lớn](Default.aspx?tabid=292&newsid=16968)
 
 • **23-9-2025**: [Mời tham dự buổi bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt tháng 9/2025](Default.aspx?tabid=292&newsid=16966)
-
-• **22-9-2025**: [[CQ] Thông báo kiểm tra kết quả kiểm duyệt đăng ký học phần HK1, NH 2025-2026](Default.aspx?tabid=292&newsid=16963)
 
 ## Student Information
 
