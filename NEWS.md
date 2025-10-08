@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-08 at 18:18 +07***
+*Last updated: **2025-10-08 at 19:46 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **8-10-2025**: [Danh sách sinh viên tham quan công ty DXC Vietnam](Default.aspx?tabid=292&newsid=16990)
+
 • **8-10-2025**: [Không gian Triển lãm FIT30 – Nơi hành trình được kể bằng hình ảnh](Default.aspx?tabid=292&newsid=16989)
 
 • **8-10-2025**: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2025](Default.aspx?tabid=292&newsid=16985)
@@ -113,8 +115,6 @@
 • **26-9-2025**: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T3/2026)](Default.aspx?tabid=292&newsid=16969)
 
 • **26-9-2025**: [Học bổng Toàn phần Chương trình Học giả Nghiên cứu Xuất sắc – VinUni & Viện Nghiên cứu Dữ liệu lớn](Default.aspx?tabid=292&newsid=16968)
-
-• **23-9-2025**: [Mời tham dự buổi bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt tháng 9/2025](Default.aspx?tabid=292&newsid=16966)
 
 ## Student Information
 
