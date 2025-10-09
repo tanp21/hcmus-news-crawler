@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-09 at 14:21 +07***
+*Last updated: **2025-10-09 at 15:30 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **9-10-2025**: [Đăng ký tham gia Mini-course Introduction to Multiagent Learning](Default.aspx?tabid=292&newsid=16994)
+
 • **8-10-2025**: [Danh sách sinh viên tham quan công ty DXC Vietnam](Default.aspx?tabid=292&newsid=16990)
 
 • **8-10-2025**: [Không gian Triển lãm FIT30 – Nơi hành trình được kể bằng hình ảnh](Default.aspx?tabid=292&newsid=16989)
@@ -113,8 +115,6 @@
 • **30-9-2025**: [Thông báo đăng ký tham dự Chuỗi Hội thảo kỹ năng - Công nghệ 2025](Default.aspx?tabid=292&newsid=16972)
 
 • **26-9-2025**: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T3/2026)](Default.aspx?tabid=292&newsid=16969)
-
-• **26-9-2025**: [Học bổng Toàn phần Chương trình Học giả Nghiên cứu Xuất sắc – VinUni & Viện Nghiên cứu Dữ liệu lớn](Default.aspx?tabid=292&newsid=16968)
 
 ## Student Information
 
