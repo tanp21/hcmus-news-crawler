@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-12 at 06:18 +07***
+*Last updated: **2025-10-12 at 08:45 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **12-10-2025**: [Đăng ký tham quan công ty Endava ngày 30/10](Default.aspx?tabid=292&newsid=16996)
+
 • **9-10-2025**: [Đăng ký tham gia Mini-course Introduction to Multiagent Learning](Default.aspx?tabid=292&newsid=16994)
 
 • **8-10-2025**: [Danh sách sinh viên tham quan công ty DXC Vietnam](Default.aspx?tabid=292&newsid=16990)
@@ -113,8 +115,6 @@
 • **30-9-2025**: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9/2025](Default.aspx?tabid=292&newsid=16973)
 
 • **30-9-2025**: [Thông báo đăng ký tham dự Chuỗi Hội thảo kỹ năng - Công nghệ 2025](Default.aspx?tabid=292&newsid=16972)
-
-• **26-9-2025**: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T3/2026)](Default.aspx?tabid=292&newsid=16969)
 
 ## Student Information
 
