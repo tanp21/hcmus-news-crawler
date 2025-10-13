@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-13 at 16:27 +07***
+*Last updated: **2025-10-13 at 17:26 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **13-10-2025**: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 34/2024](Default.aspx?tabid=292&newsid=17000)
+
 • **13-10-2025**: [Khảo sát chủ đề hội thảo sinh viên đang quan tâm](Default.aspx?tabid=292&newsid=16999)
 
 • **13-10-2025**: [Khoa Công nghệ thông tin - 30 năm Ươm mầm tinh hoa, Vững bước vươn xa](Default.aspx?tabid=292&newsid=16998)
@@ -113,8 +115,6 @@
 • **8-10-2025**: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 17/10](Default.aspx?tabid=292&newsid=16984)
 
 • **7-10-2025**: [Đăng ký tham quan công ty DXC Vietnam ngày 21/10](Default.aspx?tabid=292&newsid=16983)
-
-• **2-10-2025**: [Tổng kết Chương trình ngày 29/9/2025 - Lễ khánh thành các Phòng thí nghiệm, Buổi ra mắt Câu lạc bộ Nghiên cứu Khoa học và Seminar Học thuật của Sinh viên Công nghệ thông tin](Default.aspx?tabid=292&newsid=16978)
 
 ## Student Information
 
