@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-14 at 21:23 +07***
+*Last updated: **2025-10-14 at 22:25 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **14-10-2025**: [Đăng ký tham gia Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](Default.aspx?tabid=292&newsid=17002)
+
 • **13-10-2025**: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 34/2024](Default.aspx?tabid=292&newsid=17000)
 
 • **13-10-2025**: [Khảo sát chủ đề hội thảo sinh viên đang quan tâm](Default.aspx?tabid=292&newsid=16999)
@@ -113,8 +115,6 @@
 • **8-10-2025**: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2025](Default.aspx?tabid=292&newsid=16985)
 
 • **8-10-2025**: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 17/10](Default.aspx?tabid=292&newsid=16984)
-
-• **7-10-2025**: [Đăng ký tham quan công ty DXC Vietnam ngày 21/10](Default.aspx?tabid=292&newsid=16983)
 
 ## Student Information
 
