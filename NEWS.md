@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-16 at 08:44 +07***
+*Last updated: **2025-10-16 at 10:05 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **16-10-2025**: [Hội thảo trực tuyến Japan-ASEAN Online Program Towards SDGs 2025](Default.aspx?tabid=292&newsid=17005)
+
 • **15-10-2025**: [Đăng ký tham quan Bosch Global Software Technologies ngày 6/11](Default.aspx?tabid=292&newsid=17004)
 
 • **14-10-2025**: [Đăng ký tham gia Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](Default.aspx?tabid=292&newsid=17002)
@@ -113,8 +115,6 @@
 • **8-10-2025**: [Danh sách sinh viên tham quan công ty DXC Vietnam](Default.aspx?tabid=292&newsid=16990)
 
 • **8-10-2025**: [Không gian Triển lãm FIT30 – Nơi hành trình được kể bằng hình ảnh](Default.aspx?tabid=292&newsid=16989)
-
-• **8-10-2025**: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2025](Default.aspx?tabid=292&newsid=16985)
 
 ## Student Information
 
