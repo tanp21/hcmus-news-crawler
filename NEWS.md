@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-16 at 10:05 +07***
+*Last updated: **2025-10-16 at 11:26 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **16/10/2025**: [Thông tin về chương trình trao đổi Học kỳ hè năm 2026 tại Đại học OTH Regensburg-CHLB Đức](https://hcmus.edu.vn/thong-tin-ve-chuong-trinh-trao-doi-hoc-ky-he-nam-2026-tai-dai-hoc-oth-regensburg-chlb-duc/)
+
 • **08/10/2025**: [Triển khai chương trình “ACB đồng hành cùng sinh viên ĐHQG-HCM” Đợt 2](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-dot-2/)
 
 • **08/10/2025**: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2025-2026/)
@@ -135,8 +137,6 @@
 • **01/10/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 từ ngày 02/10/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-tu-ngay-02-10-2025/)
 
 • **01/10/2025**: [THÔNG BÁO về việc đeo thẻ sinh viên, học viên khi vào khuôn viên Trường](https://hcmus.edu.vn/thong-bao-ve-viec-deo-the-sinh-vien-hoc-vien-khi-vao-khuon-vien-truong/)
-
-• **01/10/2025**: [TB Chương trình học bổng tài năng Công nghệ CT group năm học 2025-2026](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-tai-nang-cong-nghe-ct-group-nam-hoc-2025-2026/)
 
 ## Exam Announcements
 
