@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-16 at 15:31 +07***
+*Last updated: **2025-10-16 at 16:25 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **16-10-2025**: [Danh sách sinh viên tham quan công ty Endava ngày 30/10](Default.aspx?tabid=292&newsid=17007)
+
 • **16-10-2025**: [Hội thảo Kết nối Doanh nghiệp lần thứ 15: Nâng cao chất lượng đào tạo trong kỷ nguyên AI](Default.aspx?tabid=292&newsid=17006)
 
 • **16-10-2025**: [Hội thảo trực tuyến Japan-ASEAN Online Program Towards SDGs 2025](Default.aspx?tabid=292&newsid=17005)
@@ -113,8 +115,6 @@
 • **12-10-2025**: [Đăng ký tham quan công ty Endava ngày 30/10](Default.aspx?tabid=292&newsid=16996)
 
 • **9-10-2025**: [Đăng ký tham gia Mini-course Introduction to Multiagent Learning](Default.aspx?tabid=292&newsid=16994)
-
-• **8-10-2025**: [Danh sách sinh viên tham quan công ty DXC Vietnam](Default.aspx?tabid=292&newsid=16990)
 
 ## Student Information
 
