@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-17 at 15:30 +07***
+*Last updated: **2025-10-17 at 16:24 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **17-10-2025**: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 07-08/2026](Default.aspx?tabid=292&newsid=17008)
+
 • **16-10-2025**: [Danh sách sinh viên tham quan công ty Endava ngày 30/10](Default.aspx?tabid=292&newsid=17007)
 
 • **16-10-2025**: [Hội thảo Kết nối Doanh nghiệp lần thứ 15: Nâng cao chất lượng đào tạo trong kỷ nguyên AI](Default.aspx?tabid=292&newsid=17006)
@@ -113,8 +115,6 @@
 • **13-10-2025**: [Khoa Công nghệ thông tin - 30 năm Ươm mầm tinh hoa, Vững bước vươn xa](Default.aspx?tabid=292&newsid=16998)
 
 • **12-10-2025**: [Đăng ký tham quan công ty Endava ngày 30/10](Default.aspx?tabid=292&newsid=16996)
-
-• **9-10-2025**: [Đăng ký tham gia Mini-course Introduction to Multiagent Learning](Default.aspx?tabid=292&newsid=16994)
 
 ## Student Information
 
