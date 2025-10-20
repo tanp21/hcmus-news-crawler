@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-20 at 14:22 +07***
+*Last updated: **2025-10-20 at 15:30 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **20/10/2025**: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk2-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
+
 • **19/10/2025**: [THÔNG BÁO Đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2025-2026/)
 
 • **16/10/2025**: [Thông báo khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2025-2026 (Đối với sinh viên từ khóa 2024 trở về trước)](https://hcmus.edu.vn/thong-bao-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2025-2026-doi-voi-sinh-vien-tu-khoa-2024-tro-ve-truoc/)
@@ -135,8 +137,6 @@
 • **06/10/2025**: [Thông báo tổ chức hoạt động Workshop “Hơn một lần cố gắng”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-hon-mot-lan-co-gang/)
 
 • **06/10/2025**: [Thông báo kết quả chính thức HBKK HK2/2024-2025 Khoa Công nghệ Thông tin, Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-2024-2025-khoa-cong-nghe-thong-tin-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
-
-• **03/10/2025**: [Thông báo thay đổi phòng học tại CS2 từ ngày 06/10/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-06-10-2025/)
 
 ## Exam Announcements
 
