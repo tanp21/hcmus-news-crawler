@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-20 at 20:31 +07***
+*Last updated: **2025-10-20 at 21:22 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **20-10-2025**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2025](Default.aspx?tabid=292&newsid=17011)
+
 • **20-10-2025**: [Danh sách sinh viên tham quan công ty Bosch Global Software Technologies ngày 6/11](Default.aspx?tabid=292&newsid=17010)
 
 • **20-10-2025**: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](Default.aspx?tabid=292&newsid=17009)
@@ -113,8 +115,6 @@
 • **14-10-2025**: [Đăng ký tham gia Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](Default.aspx?tabid=292&newsid=17002)
 
 • **13-10-2025**: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 34/2024](Default.aspx?tabid=292&newsid=17000)
-
-• **13-10-2025**: [Khảo sát chủ đề hội thảo sinh viên đang quan tâm](Default.aspx?tabid=292&newsid=16999)
 
 ## Student Information
 
