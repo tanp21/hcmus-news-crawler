@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-20 at 11:28 +07***
+*Last updated: **2025-10-20 at 12:23 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **20-10-2025**: [Danh sách sinh viên tham quan công ty Bosch Global Software Technologies ngày 6/11](Default.aspx?tabid=292&newsid=17010)
+
 • **17-10-2025**: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 07-08/2026](Default.aspx?tabid=292&newsid=17008)
 
 • **16-10-2025**: [Danh sách sinh viên tham quan công ty Endava ngày 30/10](Default.aspx?tabid=292&newsid=17007)
@@ -113,8 +115,6 @@
 • **13-10-2025**: [Khảo sát chủ đề hội thảo sinh viên đang quan tâm](Default.aspx?tabid=292&newsid=16999)
 
 • **13-10-2025**: [Khoa Công nghệ thông tin - 30 năm Ươm mầm tinh hoa, Vững bước vươn xa](Default.aspx?tabid=292&newsid=16998)
-
-• **12-10-2025**: [Đăng ký tham quan công ty Endava ngày 30/10](Default.aspx?tabid=292&newsid=16996)
 
 ## Student Information
 
