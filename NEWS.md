@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-20 at 10:18 +07***
+*Last updated: **2025-10-20 at 11:28 +07***
 
 ---
 
@@ -118,7 +118,7 @@
 
 ## Student Information
 
-• **19/10/2025**: [THÔNG BÁO Đăng ký lịch Sinh hoạt Công dân Đầu năm, năm học 2025-2026](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2025-2026/)
+• **19/10/2025**: [THÔNG BÁO Đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2025-2026/)
 
 • **16/10/2025**: [Thông báo khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2025-2026 (Đối với sinh viên từ khóa 2024 trở về trước)](https://hcmus.edu.vn/thong-bao-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2025-2026-doi-voi-sinh-vien-tu-khoa-2024-tro-ve-truoc/)
 
