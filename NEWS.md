@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-20 at 15:30 +07***
+*Last updated: **2025-10-20 at 16:26 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **20/10/2025**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2024-2025 (CT Đại trà) và HK3/2024-2025 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2024-2025-ct-dai-tra-va-hk3-2024-2025-ct-de-an/)
+
 • **20/10/2025**: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk2-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
 
 • **19/10/2025**: [THÔNG BÁO Đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2025-2026/)
@@ -135,8 +137,6 @@
 • **06/10/2025**: [Kết quả xét tốt nghiệp đợt tháng 9/2025 – các chương trình Tiên tiến, Chất lượng cao, Việt Pháp](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-9-2025-cac-chuong-trinh-tien-tien-chat-luong-cao-viet-phap/)
 
 • **06/10/2025**: [Thông báo tổ chức hoạt động Workshop “Hơn một lần cố gắng”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-hon-mot-lan-co-gang/)
-
-• **06/10/2025**: [Thông báo kết quả chính thức HBKK HK2/2024-2025 Khoa Công nghệ Thông tin, Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-2024-2025-khoa-cong-nghe-thong-tin-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
 
 ## Exam Announcements
 
