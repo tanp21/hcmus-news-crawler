@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-21 at 13:33 +07***
+*Last updated: **2025-10-21 at 14:22 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **21-10-2025**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 2](Default.aspx?tabid=292&newsid=17015)
+
 • **21-10-2025**: [Đăng ký đội thi Olympic AI Việt Nam 2025](Default.aspx?tabid=292&newsid=17014)
 
 • **21-10-2025**: [Đăng ký tham quan TMA Tech Group ngày 5/11](Default.aspx?tabid=292&newsid=17013)
@@ -113,8 +115,6 @@
 • **16-10-2025**: [Danh sách sinh viên tham quan công ty Endava ngày 30/10](Default.aspx?tabid=292&newsid=17007)
 
 • **16-10-2025**: [Hội thảo Kết nối Doanh nghiệp lần thứ 15: Nâng cao chất lượng đào tạo trong kỷ nguyên AI](Default.aspx?tabid=292&newsid=17006)
-
-• **16-10-2025**: [Hội thảo trực tuyến Japan-ASEAN Online Program Towards SDGs 2025](Default.aspx?tabid=292&newsid=17005)
 
 ## Student Information
 
