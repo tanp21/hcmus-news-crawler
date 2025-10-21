@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-21 at 10:07 +07***
+*Last updated: **2025-10-21 at 11:26 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **21-10-2025**: [Đăng ký đội thi Olympic AI Việt Nam 2025](Default.aspx?tabid=292&newsid=17014)
+
+• **21-10-2025**: [Đăng ký tham quan TMA Tech Group ngày 5/11](Default.aspx?tabid=292&newsid=17013)
+
 • **20-10-2025**: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 34/2024 đối với sinh viên khóa 2022 liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17012)
 
 • **20-10-2025**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2025](Default.aspx?tabid=292&newsid=17011)
@@ -111,10 +115,6 @@
 • **16-10-2025**: [Hội thảo Kết nối Doanh nghiệp lần thứ 15: Nâng cao chất lượng đào tạo trong kỷ nguyên AI](Default.aspx?tabid=292&newsid=17006)
 
 • **16-10-2025**: [Hội thảo trực tuyến Japan-ASEAN Online Program Towards SDGs 2025](Default.aspx?tabid=292&newsid=17005)
-
-• **15-10-2025**: [Đăng ký tham quan Bosch Global Software Technologies ngày 6/11](Default.aspx?tabid=292&newsid=17004)
-
-• **14-10-2025**: [Đăng ký tham gia Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](Default.aspx?tabid=292&newsid=17002)
 
 ## Student Information
 
