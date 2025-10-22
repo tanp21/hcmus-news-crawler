@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-22 at 14:22 +07***
+*Last updated: **2025-10-22 at 15:32 +07***
 
 ---
 
@@ -30,6 +30,8 @@
 
 ### Academic Affairs
 
+• **22/10/2025**: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 2 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/10/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-thang-04-2026/)
+
 • **18/10/2025**: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2022](https://www.ctda.hcmus.edu.vn/vi/2025/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2022/)
 
 • **29/09/2025**: [CTTT_Thông báo về việc sử dụng tài khoản học vụ Khoá 2025](https://www.ctda.hcmus.edu.vn/vi/2025/09/cttt_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2025/)
@@ -47,8 +49,6 @@
 • **29/08/2025**: [Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2025](https://www.ctda.hcmus.edu.vn/vi/2025/08/thong-bao-ve-viec-khao-sat-nang-luc-anh-van-dau-khoa-doi-voi-sinh-vien-chuong-trinh-de-an-khoa-cong-nghe-thong-tin-khoa-tuyen-2025/)
 
 • **29/08/2025**: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2025 trở về sau](https://www.ctda.hcmus.edu.vn/vi/2025/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2025/)
-
-• **21/08/2025**: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 2](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-2/)
 
 ### Student Support
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **22-10-2025**: [Các mốc thời gian đăng ký và thực hiện đề tài tốt nghiệp Khóa 2022 (cập nhật)](Default.aspx?tabid=292&newsid=17020)
+
 • **22-10-2025**: [Tổng kết Mini-course Introduction to Multiagent Learning](Default.aspx?tabid=292&newsid=17017)
 
 • **21-10-2025**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 2](Default.aspx?tabid=292&newsid=17015)
@@ -113,8 +115,6 @@
 • **20-10-2025**: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](Default.aspx?tabid=292&newsid=17009)
 
 • **17-10-2025**: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 07-08/2026](Default.aspx?tabid=292&newsid=17008)
-
-• **16-10-2025**: [Danh sách sinh viên tham quan công ty Endava ngày 30/10](Default.aspx?tabid=292&newsid=17007)
 
 ## Student Information
 
