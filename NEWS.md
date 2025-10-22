@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-22 at 08:49 +07***
+*Last updated: **2025-10-22 at 10:13 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **22/10/2025**: [THÔNG BÁO CHƯƠNG TRÌNH HỌC BỔNG ĐỒNG HÀNH NĂM HỌC 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-nam-hoc-2025-2026/)
+
 • **20/10/2025**: [Thông báo tổ chức Chuyên đề “Nhận diện thủ đoạn lừa đảo công nghệ cao – bảo vệ bản thân trên không gian mạng”](https://hcmus.edu.vn/thong-bao-to-chuc-chuyen-de-nhan-dien-thu-doan-lua-dao-cong-nghe-cao-bao-ve-ban-than-tren-khong-gian-mang/)
 
 • **20/10/2025**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2024-2025 (CT Đại trà) và HK3/2024-2025 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2024-2025-ct-dai-tra-va-hk3-2024-2025-ct-de-an/)
@@ -135,8 +137,6 @@
 • **08/10/2025**: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2025-2026/)
 
 • **08/10/2025**: [[THÔNG BÁO] Chương trình Trường Lãnh đạo trẻ Đông Nam Á (YouLead 2025) – Universiti Kebangsaan Malaysia (UKM)](https://hcmus.edu.vn/thong-bao-chuong-trinh-truong-lanh-dao-tre-dong-nam-a-youlead-2025-universiti-kebangsaan-malaysia-ukm/)
-
-• **06/10/2025**: [Kết quả xét tốt nghiệp đợt tháng 9/2025 – các chương trình Tiên tiến, Chất lượng cao, Việt Pháp](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-9-2025-cac-chuong-trinh-tien-tien-chat-luong-cao-viet-phap/)
 
 ## Exam Announcements
 
