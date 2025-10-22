@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-22 at 16:26 +07***
+*Last updated: **2025-10-22 at 17:25 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **22-10-2025**: [STUDENT RESEARCH WORKSHOP - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17022)
+
 • **22-10-2025**: [Các mốc thời gian đăng ký và thực hiện đề tài tốt nghiệp Khóa 2022 (cập nhật)](Default.aspx?tabid=292&newsid=17020)
 
 • **22-10-2025**: [Tổng kết Mini-course Introduction to Multiagent Learning](Default.aspx?tabid=292&newsid=17017)
@@ -113,8 +115,6 @@
 • **20-10-2025**: [Danh sách sinh viên tham quan công ty Bosch Global Software Technologies ngày 6/11](Default.aspx?tabid=292&newsid=17010)
 
 • **20-10-2025**: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](Default.aspx?tabid=292&newsid=17009)
-
-• **17-10-2025**: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 07-08/2026](Default.aspx?tabid=292&newsid=17008)
 
 ## Student Information
 
