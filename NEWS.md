@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-23 at 14:22 +07***
+*Last updated: **2025-10-23 at 15:31 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **23-10-2025**: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 34/2024 - bắt đầu học 27/10/2025](Default.aspx?tabid=292&newsid=17024)
+
 • **22-10-2025**: [STUDENT RESEARCH WORKSHOP - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17022)
 
 • **22-10-2025**: [Các mốc thời gian đăng ký và thực hiện đề tài tốt nghiệp Khóa 2022 (cập nhật)](Default.aspx?tabid=292&newsid=17020)
@@ -113,8 +115,6 @@
 • **20-10-2025**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2025](Default.aspx?tabid=292&newsid=17011)
 
 • **20-10-2025**: [Danh sách sinh viên tham quan công ty Bosch Global Software Technologies ngày 6/11](Default.aspx?tabid=292&newsid=17010)
-
-• **20-10-2025**: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](Default.aspx?tabid=292&newsid=17009)
 
 ## Student Information
 
