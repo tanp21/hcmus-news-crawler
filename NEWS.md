@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-24 at 00:19 +07***
+*Last updated: **2025-10-24 at 01:32 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **24-10-2025**: [Tổng kết Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](Default.aspx?tabid=292&newsid=17026)
+
 • **23-10-2025**: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 34/2024 - bắt đầu học 27/10/2025](Default.aspx?tabid=292&newsid=17024)
 
 • **22-10-2025**: [STUDENT RESEARCH WORKSHOP - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17022)
@@ -113,8 +115,6 @@
 • **20-10-2025**: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 34/2024 đối với sinh viên khóa 2022 liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17012)
 
 • **20-10-2025**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2025](Default.aspx?tabid=292&newsid=17011)
-
-• **20-10-2025**: [Danh sách sinh viên tham quan công ty Bosch Global Software Technologies ngày 6/11](Default.aspx?tabid=292&newsid=17010)
 
 ## Student Information
 
