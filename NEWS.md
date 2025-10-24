@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-24 at 16:24 +07***
+*Last updated: **2025-10-24 at 17:25 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **24/10/2025**: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin – hệ đào tạo từ xa năm 2025 đợt 2](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-nam-2025-dot-2/)
+
 • **23/10/2025**: [Thông báo về chương trình “Học bổng Future VPBanker 2025”](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-future-vpbanker-2025/)
 
 • **22/10/2025**: [Thông báo nộp học phí HK1/2025-2026, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-dai-tra/)
@@ -135,8 +137,6 @@
 • **19/10/2025**: [THÔNG BÁO Đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2025-2026/)
 
 • **16/10/2025**: [Thông báo khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2025-2026 (Đối với sinh viên từ khóa 2024 trở về trước)](https://hcmus.edu.vn/thong-bao-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2025-2026-doi-voi-sinh-vien-tu-khoa-2024-tro-ve-truoc/)
-
-• **16/10/2025**: [Thông tin về chương trình trao đổi Học kỳ hè năm 2026 tại Đại học OTH Regensburg-CHLB Đức](https://hcmus.edu.vn/thong-tin-ve-chuong-trinh-trao-doi-hoc-ky-he-nam-2026-tai-dai-hoc-oth-regensburg-chlb-duc/)
 
 ## Exam Announcements
 
