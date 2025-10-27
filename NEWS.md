@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-27 at 08:55 +07***
+*Last updated: **2025-10-27 at 10:22 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **27-10-2025**: [Đăng ký tham quan VNG ngày 10/11](Default.aspx?tabid=292&newsid=17030)
+
 • **24-10-2025**: [Danh sách sinh viên tham quan TMA Tech Group ngày 5/11](Default.aspx?tabid=292&newsid=17027)
 
 • **24-10-2025**: [Tổng kết Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](Default.aspx?tabid=292&newsid=17026)
@@ -114,9 +116,9 @@
 
 • **21-10-2025**: [Đăng ký tham quan TMA Tech Group ngày 5/11](Default.aspx?tabid=292&newsid=17013)
 
-• **20-10-2025**: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 34/2024 đối với sinh viên khóa 2022 liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17012)
-
 ## Student Information
+
+• **27/10/2025**: [Thông báo Tổ chức hoạt động Workshop “Tâm bất biến giữa dòng đời vạn biến”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-tam-bat-bien-giua-dong-doi-van-bien/)
 
 • **24/10/2025**: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin – hệ đào tạo từ xa năm 2025 đợt 2](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-nam-2025-dot-2/)
 
@@ -135,8 +137,6 @@
 • **20/10/2025**: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk2-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
 
 • **19/10/2025**: [THÔNG BÁO Đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2025-2026/)
-
-• **16/10/2025**: [Thông báo khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2025-2026 (Đối với sinh viên từ khóa 2024 trở về trước)](https://hcmus.edu.vn/thong-bao-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2025-2026-doi-voi-sinh-vien-tu-khoa-2024-tro-ve-truoc/)
 
 ## Exam Announcements
 
