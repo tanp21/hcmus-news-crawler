@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-27 at 15:31 +07***
+*Last updated: **2025-10-27 at 16:28 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 • **27-10-2025**: [Đăng ký tham quan VNG ngày 10/11](Default.aspx?tabid=292&newsid=17030)
 
+• **27-10-2025**: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](Default.aspx?tabid=292&newsid=17019)
+
 • **24-10-2025**: [Danh sách sinh viên tham quan TMA Tech Group ngày 5/11](Default.aspx?tabid=292&newsid=17027)
 
 • **24-10-2025**: [Tổng kết Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](Default.aspx?tabid=292&newsid=17026)
@@ -113,8 +115,6 @@
 • **22-10-2025**: [Tổng kết Mini-course Introduction to Multiagent Learning](Default.aspx?tabid=292&newsid=17017)
 
 • **21-10-2025**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 2](Default.aspx?tabid=292&newsid=17015)
-
-• **21-10-2025**: [Đăng ký đội thi Olympic AI Việt Nam 2025](Default.aspx?tabid=292&newsid=17014)
 
 ## Student Information
 
