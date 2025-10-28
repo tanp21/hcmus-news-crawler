@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-28 at 14:22 +07***
+*Last updated: **2025-10-28 at 15:31 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **28/10/2025**: [Học bổng LOTTE năm 2025](https://hcmus.edu.vn/hoc-bong-lotte-nam-2025/)
+
 • **28/10/2025**: [Thông báo Học bổng Nâng Bước Thủ Khoa 2025](https://hcmus.edu.vn/thong-bao-hoc-bong-nang-buoc-thu-khoa-2025/)
 
 • **27/10/2025**: [Thông báo Tổ chức hoạt động Workshop “Tâm bất biến giữa dòng đời vạn biến”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-tam-bat-bien-giua-dong-doi-van-bien/)
@@ -135,8 +137,6 @@
 • **20/10/2025**: [Thông báo tổ chức Chuyên đề “Nhận diện thủ đoạn lừa đảo công nghệ cao – bảo vệ bản thân trên không gian mạng”](https://hcmus.edu.vn/thong-bao-to-chuc-chuyen-de-nhan-dien-thu-doan-lua-dao-cong-nghe-cao-bao-ve-ban-than-tren-khong-gian-mang/)
 
 • **20/10/2025**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2024-2025 (CT Đại trà) và HK3/2024-2025 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2024-2025-ct-dai-tra-va-hk3-2024-2025-ct-de-an/)
-
-• **20/10/2025**: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk2-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
 
 ## Exam Announcements
 
