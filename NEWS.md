@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-28 at 10:09 +07***
+*Last updated: **2025-10-28 at 11:26 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **28-10-2025**: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 1, NH 2025 - 2026](Default.aspx?tabid=292&newsid=17034)
+
 • **27-10-2025**: [Đăng ký tham quan FireGroup ngày 17/11](Default.aspx?tabid=292&newsid=17031)
 
 • **27-10-2025**: [Đăng ký tham quan VNG ngày 10/11](Default.aspx?tabid=292&newsid=17030)
@@ -113,8 +115,6 @@
 • **22-10-2025**: [Các mốc thời gian đăng ký và thực hiện đề tài tốt nghiệp Khóa 2022 (cập nhật)](Default.aspx?tabid=292&newsid=17020)
 
 • **22-10-2025**: [Tổng kết Mini-course Introduction to Multiagent Learning](Default.aspx?tabid=292&newsid=17017)
-
-• **21-10-2025**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 2](Default.aspx?tabid=292&newsid=17015)
 
 ## Student Information
 
