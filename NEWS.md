@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-29 at 08:51 +07***
+*Last updated: **2025-10-29 at 10:18 +07***
 
 ---
 
@@ -30,6 +30,10 @@
 
 ### Academic Affairs
 
+• **29/10/2025**: [Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2022 bảo vệ T8/2026](https://www.ctda.hcmus.edu.vn/vi/2025/10/thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2022-bao-ve-t8-2026/)
+
+• **29/10/2025**: [Quy định đăng ký thực hiện và bảo vệ đề tài tốt nghiệp áp dụng từ HK1/2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/10/quy-dinh-dang-ky-thuc-hien-va-bao-ve-de-tai-tot-nghiep-ap-dung-tu-hk1-2025-2026/)
+
 • **22/10/2025**: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 2 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/10/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-thang-04-2026/)
 
 • **18/10/2025**: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2022](https://www.ctda.hcmus.edu.vn/vi/2025/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2022/)
@@ -45,10 +49,6 @@
 • **19/09/2025**: [[CTĐA] – Thông báo phúc khảo HK3/2425](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-thong-bao-phuc-khao-hk3-2425/)
 
 • **04/09/2025**: [Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2025 Khoa Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ve-viec-khao-sat-nang-luc-lap-trinh-dau-khoa-cho-sinh-vien-khoa-tuyen-2025-khoa-cong-nghe-thong-tin/)
-
-• **29/08/2025**: [Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2025](https://www.ctda.hcmus.edu.vn/vi/2025/08/thong-bao-ve-viec-khao-sat-nang-luc-anh-van-dau-khoa-doi-voi-sinh-vien-chuong-trinh-de-an-khoa-cong-nghe-thong-tin-khoa-tuyen-2025/)
-
-• **29/08/2025**: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2025 trở về sau](https://www.ctda.hcmus.edu.vn/vi/2025/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2025/)
 
 ### Student Support
 
