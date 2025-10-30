@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-10-30 at 10:13 +07***
+*Last updated: **2025-10-30 at 11:26 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **30-10-2025**: [Hai nữ sinh Khoa Công nghệ Thông tin được vinh danh Giải thưởng “Nữ sinh Khoa học Công nghệ Việt Nam” năm 2025](Default.aspx?tabid=292&newsid=17038)
+
 • **28-10-2025**: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 1, NH 2025 - 2026](Default.aspx?tabid=292&newsid=17034)
 
 • **27-10-2025**: [Đăng ký tham quan FireGroup ngày 17/11](Default.aspx?tabid=292&newsid=17031)
@@ -113,8 +115,6 @@
 • **22-10-2025**: [STUDENT RESEARCH WORKSHOP - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17022)
 
 • **22-10-2025**: [Các mốc thời gian đăng ký và thực hiện đề tài tốt nghiệp Khóa 2022 (cập nhật)](Default.aspx?tabid=292&newsid=17020)
-
-• **22-10-2025**: [Tổng kết Mini-course Introduction to Multiagent Learning](Default.aspx?tabid=292&newsid=17017)
 
 ## Student Information
 
