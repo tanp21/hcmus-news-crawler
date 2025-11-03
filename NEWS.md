@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-03 at 08:53 +07***
+*Last updated: **2025-11-03 at 10:20 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **3-11-2025**: [Danh sách sinh viên tham quan VNG ngày 10/11](Default.aspx?tabid=292&newsid=17040)
+
 • **30-10-2025**: [Khảo sát sử dụng công cụ AI trong học tập](Default.aspx?tabid=292&newsid=17039)
 
 • **30-10-2025**: [Hai nữ sinh Khoa Công nghệ Thông tin được vinh danh Giải thưởng “Nữ sinh Khoa học Công nghệ Việt Nam” năm 2025](Default.aspx?tabid=292&newsid=17038)
@@ -113,8 +115,6 @@
 • **24-10-2025**: [Tổng kết Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](Default.aspx?tabid=292&newsid=17026)
 
 • **23-10-2025**: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 34/2024 - bắt đầu học 27/10/2025](Default.aspx?tabid=292&newsid=17024)
-
-• **22-10-2025**: [STUDENT RESEARCH WORKSHOP - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17022)
 
 ## Student Information
 
