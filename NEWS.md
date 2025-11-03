@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-03 at 14:22 +07***
+*Last updated: **2025-11-03 at 15:32 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **3-11-2025**: [Tổng kết Student Research Workshop - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17043)
+
 • **3-11-2025**: [Danh sách sinh viên tham quan FireGroup ngày 17/11](Default.aspx?tabid=292&newsid=17041)
 
 • **3-11-2025**: [Danh sách sinh viên tham quan VNG ngày 10/11](Default.aspx?tabid=292&newsid=17040)
@@ -113,8 +115,6 @@
 • **27-10-2025**: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](Default.aspx?tabid=292&newsid=17019)
 
 • **24-10-2025**: [Danh sách sinh viên tham quan TMA Tech Group ngày 5/11](Default.aspx?tabid=292&newsid=17027)
-
-• **24-10-2025**: [Tổng kết Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](Default.aspx?tabid=292&newsid=17026)
 
 ## Student Information
 
