@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-04 at 18:20 +07***
+*Last updated: **2025-11-04 at 19:51 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **4-11-2025**: [Lễ trao học bổng Cựu sinh viên khoa Công nghệ thông tin ASF – TIẾP SỨC VƯƠN XA, LAN TỎA YÊU THƯƠNG](Default.aspx?tabid=292&newsid=17049)
+
 • **4-11-2025**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024](Default.aspx?tabid=292&newsid=17048)
 
 • **4-11-2025**: [Đăng ký tham gia Seminar chủ đề “Autonomous Machine Learning for Decision Support in Complex Environments”](Default.aspx?tabid=292&newsid=17045)
@@ -113,8 +115,6 @@
 • **28-10-2025**: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 1, NH 2025 - 2026](Default.aspx?tabid=292&newsid=17034)
 
 • **27-10-2025**: [Đăng ký tham quan FireGroup ngày 17/11](Default.aspx?tabid=292&newsid=17031)
-
-• **27-10-2025**: [Đăng ký tham quan VNG ngày 10/11](Default.aspx?tabid=292&newsid=17030)
 
 ## Student Information
 
