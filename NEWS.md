@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-04 at 16:26 +07***
+*Last updated: **2025-11-04 at 17:27 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
+
 • **04/11/2025**: [Thông báo kết quả đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026 (Chuyên đề A)](https://hcmus.edu.vn/thong-bao-ket-qua-dang-ky-lich-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a/)
 
 • **31/10/2025**: [[THÔNG BÁO] Chương trình thực tập nghiên cứu 2026 – Viện Kỹ thuật Toyota (TTI), Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-nghien-cuu-2026-vien-ky-thuat-toyota-tti-nhat-ban/)
@@ -135,8 +137,6 @@
 • **24/10/2025**: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin – hệ đào tạo từ xa năm 2025 đợt 2](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-nam-2025-dot-2/)
 
 • **23/10/2025**: [Thông báo về chương trình “Học bổng Future VPBanker 2025”](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-future-vpbanker-2025/)
-
-• **22/10/2025**: [Thông báo nộp học phí HK1/2025-2026, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-dai-tra/)
 
 ## Exam Announcements
 
