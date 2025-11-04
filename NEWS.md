@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-04 at 15:32 +07***
+*Last updated: **2025-11-04 at 16:26 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **4-11-2025**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024](Default.aspx?tabid=292&newsid=17048)
+
 • **4-11-2025**: [Đăng ký tham gia Seminar chủ đề “Autonomous Machine Learning for Decision Support in Complex Environments”](Default.aspx?tabid=292&newsid=17045)
 
 • **3-11-2025**: [Tổng kết Student Research Workshop - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17043)
@@ -113,8 +115,6 @@
 • **27-10-2025**: [Đăng ký tham quan FireGroup ngày 17/11](Default.aspx?tabid=292&newsid=17031)
 
 • **27-10-2025**: [Đăng ký tham quan VNG ngày 10/11](Default.aspx?tabid=292&newsid=17030)
-
-• **27-10-2025**: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](Default.aspx?tabid=292&newsid=17019)
 
 ## Student Information
 
