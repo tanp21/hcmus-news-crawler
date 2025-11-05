@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-05 at 15:31 +07***
+*Last updated: **2025-11-05 at 16:26 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **5-11-2025**: [Chương trình giao lưu sinh viên BioXplore 2025](Default.aspx?tabid=292&newsid=17054)
+
 • **5-11-2025**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 14/11](Default.aspx?tabid=292&newsid=17053)
 
 • **5-11-2025**: [Đăng ký tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](Default.aspx?tabid=292&newsid=17052)
@@ -113,8 +115,6 @@
 • **3-11-2025**: [Danh sách sinh viên tham quan FireGroup ngày 17/11](Default.aspx?tabid=292&newsid=17041)
 
 • **3-11-2025**: [Danh sách sinh viên tham quan VNG ngày 10/11](Default.aspx?tabid=292&newsid=17040)
-
-• **30-10-2025**: [Khảo sát sử dụng công cụ AI trong học tập](Default.aspx?tabid=292&newsid=17039)
 
 ## Student Information
 
