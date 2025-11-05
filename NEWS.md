@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-05 at 08:49 +07***
+*Last updated: **2025-11-05 at 10:14 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **5-11-2025**: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](Default.aspx?tabid=292&newsid=17050)
+
 • **4-11-2025**: [Lễ trao học bổng Cựu sinh viên khoa Công nghệ thông tin ASF – TIẾP SỨC VƯƠN XA, LAN TỎA YÊU THƯƠNG](Default.aspx?tabid=292&newsid=17049)
 
 • **4-11-2025**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024](Default.aspx?tabid=292&newsid=17048)
@@ -113,8 +115,6 @@
 • **30-10-2025**: [Hai nữ sinh Khoa Công nghệ Thông tin được vinh danh Giải thưởng “Nữ sinh Khoa học Công nghệ Việt Nam” năm 2025](Default.aspx?tabid=292&newsid=17038)
 
 • **28-10-2025**: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 1, NH 2025 - 2026](Default.aspx?tabid=292&newsid=17034)
-
-• **27-10-2025**: [Đăng ký tham quan FireGroup ngày 17/11](Default.aspx?tabid=292&newsid=17031)
 
 ## Student Information
 
