@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-07 at 14:21 +07***
+*Last updated: **2025-11-07 at 15:31 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **7-11-2025**: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 14/11](Default.aspx?tabid=292&newsid=17060)
+
 • **5-11-2025**: [Chương trình giao lưu sinh viên BioXplore 2025](Default.aspx?tabid=292&newsid=17054)
 
 • **5-11-2025**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 14/11](Default.aspx?tabid=292&newsid=17053)
@@ -113,8 +115,6 @@
 • **3-11-2025**: [Tổng kết Student Research Workshop - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17043)
 
 • **3-11-2025**: [Danh sách sinh viên tham quan FireGroup ngày 17/11](Default.aspx?tabid=292&newsid=17041)
-
-• **3-11-2025**: [Danh sách sinh viên tham quan VNG ngày 10/11](Default.aspx?tabid=292&newsid=17040)
 
 ## Student Information
 
