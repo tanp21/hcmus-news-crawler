@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-07 at 16:24 +07***
+*Last updated: **2025-11-07 at 17:25 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **7-11-2025**: [Đăng ký tham gia Hội thảo Clean code](Default.aspx?tabid=292&newsid=17062)
+
 • **7-11-2025**: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2025](Default.aspx?tabid=292&newsid=17061)
 
 • **7-11-2025**: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 14/11](Default.aspx?tabid=292&newsid=17060)
@@ -113,8 +115,6 @@
 • **4-11-2025**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024](Default.aspx?tabid=292&newsid=17048)
 
 • **4-11-2025**: [Đăng ký tham gia Seminar chủ đề “Autonomous Machine Learning for Decision Support in Complex Environments”](Default.aspx?tabid=292&newsid=17045)
-
-• **3-11-2025**: [Tổng kết Student Research Workshop - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17043)
 
 ## Student Information
 
