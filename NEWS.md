@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-09 at 18:16 +07***
+*Last updated: **2025-11-09 at 19:41 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **09/11/2025**: [THÔNG BÁO Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật 2025”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat-2/)
+
 • **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
 
 • **05/11/2025**: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
@@ -135,8 +137,6 @@
 • **28/10/2025**: [Học bổng LOTTE năm 2025](https://hcmus.edu.vn/hoc-bong-lotte-nam-2025/)
 
 • **28/10/2025**: [Thông báo Học bổng Nâng Bước Thủ Khoa 2025](https://hcmus.edu.vn/thong-bao-hoc-bong-nang-buoc-thu-khoa-2025/)
-
-• **27/10/2025**: [Thông báo Tổ chức hoạt động Workshop “Tâm bất biến giữa dòng đời vạn biến”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-tam-bat-bien-giua-dong-doi-van-bien/)
 
 ## Exam Announcements
 
