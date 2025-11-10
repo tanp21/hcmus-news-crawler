@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-10 at 11:30 +07***
+*Last updated: **2025-11-10 at 12:24 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **10-11-2025**: [Danh sách tham gia hội thảo Clean code](Default.aspx?tabid=292&newsid=17064)
+
 • **10-11-2025**: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 12/2025](Default.aspx?tabid=292&newsid=17063)
 
 • **7-11-2025**: [Đăng ký tham gia Hội thảo Clean code](Default.aspx?tabid=292&newsid=17062)
@@ -113,8 +115,6 @@
 • **5-11-2025**: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](Default.aspx?tabid=292&newsid=17050)
 
 • **4-11-2025**: [Lễ trao học bổng Cựu sinh viên khoa Công nghệ thông tin ASF – TIẾP SỨC VƯƠN XA, LAN TỎA YÊU THƯƠNG](Default.aspx?tabid=292&newsid=17049)
-
-• **4-11-2025**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024](Default.aspx?tabid=292&newsid=17048)
 
 ## Student Information
 
