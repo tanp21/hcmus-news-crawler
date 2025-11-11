@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-11 at 15:30 +07***
+*Last updated: **2025-11-11 at 16:25 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **11-11-2025**: [Danh sách sinh viên tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](Default.aspx?tabid=292&newsid=17067)
+
+• **11-11-2025**: [Đăng ký tham quan công ty OPSWAT ngày 27/11](Default.aspx?tabid=292&newsid=17066)
+
 • **11-11-2025**: [Đăng ký tham dự lễ tốt nghiệp Khoa CNTT năm 2025](Default.aspx?tabid=292&newsid=17065)
 
 • **10-11-2025**: [Danh sách tham gia hội thảo Clean code](Default.aspx?tabid=292&newsid=17064)
@@ -111,10 +115,6 @@
 • **5-11-2025**: [Chương trình giao lưu sinh viên BioXplore 2025](Default.aspx?tabid=292&newsid=17054)
 
 • **5-11-2025**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 14/11](Default.aspx?tabid=292&newsid=17053)
-
-• **5-11-2025**: [Đăng ký tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](Default.aspx?tabid=292&newsid=17052)
-
-• **5-11-2025**: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](Default.aspx?tabid=292&newsid=17050)
 
 ## Student Information
 
