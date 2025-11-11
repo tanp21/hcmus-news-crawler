@@ -1,8 +1,12 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-11 at 08:50 +07***
+*Last updated: **2025-11-11 at 10:17 +07***
 
 ---
+
+## ⚠️ Errors
+
+• FIT: Failed to load FIT news
 
 ## APCS
 
@@ -96,25 +100,7 @@
 
 ## FIT
 
-• **10-11-2025**: [Danh sách tham gia hội thảo Clean code](Default.aspx?tabid=292&newsid=17064)
-
-• **10-11-2025**: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 12/2025](Default.aspx?tabid=292&newsid=17063)
-
-• **7-11-2025**: [Đăng ký tham gia Hội thảo Clean code](Default.aspx?tabid=292&newsid=17062)
-
-• **7-11-2025**: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2025](Default.aspx?tabid=292&newsid=17061)
-
-• **7-11-2025**: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 14/11](Default.aspx?tabid=292&newsid=17060)
-
-• **5-11-2025**: [Chương trình giao lưu sinh viên BioXplore 2025](Default.aspx?tabid=292&newsid=17054)
-
-• **5-11-2025**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 14/11](Default.aspx?tabid=292&newsid=17053)
-
-• **5-11-2025**: [Đăng ký tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](Default.aspx?tabid=292&newsid=17052)
-
-• **5-11-2025**: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](Default.aspx?tabid=292&newsid=17050)
-
-• **4-11-2025**: [Lễ trao học bổng Cựu sinh viên khoa Công nghệ thông tin ASF – TIẾP SỨC VƯƠN XA, LAN TỎA YÊU THƯƠNG](Default.aspx?tabid=292&newsid=17049)
+*Failed to load FIT news*
 
 ## Student Information
 
