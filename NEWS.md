@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-13 at 14:22 +07***
+*Last updated: **2025-11-13 at 15:31 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **13-11-2025**: [Đăng ký tham dự hội thảo : Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17069)
+
 • **11-11-2025**: [Danh sách sinh viên tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](Default.aspx?tabid=292&newsid=17067)
 
 • **11-11-2025**: [Đăng ký tham quan công ty OPSWAT ngày 27/11](Default.aspx?tabid=292&newsid=17066)
@@ -114,9 +116,9 @@
 
 • **5-11-2025**: [Chương trình giao lưu sinh viên BioXplore 2025](Default.aspx?tabid=292&newsid=17054)
 
-• **5-11-2025**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 14/11](Default.aspx?tabid=292&newsid=17053)
-
 ## Student Information
+
+• **13/11/2025**: [Thông báo điều chỉnh thời gian công bố danh sách tốt nghiệp đợt tháng 11 năm 2025 đối với sinh viên trình độ đại học hệ chính quy và hệ đào tạo từ xa](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-cong-bo-danh-sach-tot-nghiep-dot-thang-11-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-he-dao-tao-tu-xa/)
 
 • **13/11/2025**: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt Công dân – sinh viên đầu năm, năm học 2025 – 2026 (Chuyên đề A), ngày 08-09/11/2025](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a-ngay-08-09-11-2025/)
 
@@ -135,8 +137,6 @@
 • **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
 
 • **05/11/2025**: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
-
-• **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 
 ## Exam Announcements
 
