@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-14 at 11:27 +07***
+*Last updated: **2025-11-14 at 12:22 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **14-11-2025**: [Đăng ký tham quan công ty KMS Technology ngày 26/11](Default.aspx?tabid=292&newsid=17071)
+
 • **14-11-2025**: [Danh sách sinh viên tham quan công ty OPSWAT ngày 27/11](Default.aspx?tabid=292&newsid=17070)
 
 • **13-11-2025**: [Đăng ký tham dự hội thảo : Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17069)
@@ -113,8 +115,6 @@
 • **7-11-2025**: [Đăng ký tham gia Hội thảo Clean code](Default.aspx?tabid=292&newsid=17062)
 
 • **7-11-2025**: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2025](Default.aspx?tabid=292&newsid=17061)
-
-• **7-11-2025**: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 14/11](Default.aspx?tabid=292&newsid=17060)
 
 ## Student Information
 
