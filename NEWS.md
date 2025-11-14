@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-14 at 08:50 +07***
+*Last updated: **2025-11-14 at 10:15 +07***
 
 ---
 
@@ -118,7 +118,7 @@
 
 ## Student Information
 
-• **13/11/2025**: [Thông báonhận bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho các đợt xét tốt nghiệp tháng 8, 9 và 10 năm2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
+• **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
 • **13/11/2025**: [Thông báo điều chỉnh thời gian công bố danh sách tốt nghiệp đợt tháng 11 năm 2025 đối với sinh viên trình độ đại học hệ chính quy và hệ đào tạo từ xa](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-cong-bo-danh-sach-tot-nghiep-dot-thang-11-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-he-dao-tao-tu-xa/)
 
