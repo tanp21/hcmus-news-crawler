@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-17 at 13:35 +07***
+*Last updated: **2025-11-17 at 14:23 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **17-11-2025**: [Đăng ký tham quan công ty Netcompany ngày 3/12](Default.aspx?tabid=292&newsid=17076)
+
 • **14-11-2025**: [Tổng kết Seminar chủ đề “Autonomous Machine Learning for Decision Support in Complex Environments”](Default.aspx?tabid=292&newsid=17073)
 
 • **14-11-2025**: [HCMUS-AleaJactaEst Vô địch Quốc Gia ICPC Việt Nam 2025](Default.aspx?tabid=292&newsid=17072)
@@ -113,8 +115,6 @@
 • **11-11-2025**: [Đăng ký tham dự lễ tốt nghiệp Khoa CNTT năm 2025](Default.aspx?tabid=292&newsid=17065)
 
 • **10-11-2025**: [Danh sách tham gia hội thảo Clean code](Default.aspx?tabid=292&newsid=17064)
-
-• **10-11-2025**: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 12/2025](Default.aspx?tabid=292&newsid=17063)
 
 ## Student Information
 
