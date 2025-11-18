@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-18 at 20:34 +07***
+*Last updated: **2025-11-18 at 21:24 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **18/11/2025**: [THÔNG BÁO ĐĂNG KÝ CHUYÊN ĐỀ “TÌNH HÌNH CHÍNH TRỊ – XÃ HỘI VIỆT NAM HƯỚNG TỚI ĐẠI HỘI ĐẠI BIỂU TOÀN QUỐC LẦN THỨ XIV CỦA ĐẢNG”](https://hcmus.edu.vn/thong-bao-dang-ky-chuyen-de-tinh-hinh-chinh-tri-xa-hoi-viet-nam-huong-toi-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang/)
+
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
 • **13/11/2025**: [Thông báo điều chỉnh thời gian công bố danh sách tốt nghiệp đợt tháng 11 năm 2025 đối với sinh viên trình độ đại học hệ chính quy và hệ đào tạo từ xa](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-cong-bo-danh-sach-tot-nghiep-dot-thang-11-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-he-dao-tao-tu-xa/)
@@ -135,8 +137,6 @@
 • **10/11/2025**: [THÔNG BÁO VV TIẾP NHẬN ĐỀ XUẤT NHIỆM VỤ, CHUỖI NHIỆM VỤ, CỤM NHIỆM VỤ KHOA HỌC, CÔNG NGHỆ VÀ ĐỔI MỚI SÁNG TẠO ĐẾN NĂM 2030](https://hcmus.edu.vn/thong-bao-vv-tiep-nhan-de-xuat-nhiem-vu-chuoi-nhiem-vu-cum-nhiem-vu-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-den-nam-2030/)
 
 • **09/11/2025**: [THÔNG BÁO Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật 2025”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat-2/)
-
-• **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
 
 ## Exam Announcements
 
