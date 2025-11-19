@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-19 at 14:22 +07***
+*Last updated: **2025-11-19 at 15:31 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **19-11-2025**: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17080)
+
 • **18-11-2025**: [Danh sách tham quan công ty KMS Technology ngày 26/11](Default.aspx?tabid=292&newsid=17078)
 
 • **17-11-2025**: [Đăng ký tham quan công ty Netcompany ngày 3/12](Default.aspx?tabid=292&newsid=17076)
@@ -113,8 +115,6 @@
 • **11-11-2025**: [Danh sách sinh viên tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](Default.aspx?tabid=292&newsid=17067)
 
 • **11-11-2025**: [Đăng ký tham quan công ty OPSWAT ngày 27/11](Default.aspx?tabid=292&newsid=17066)
-
-• **11-11-2025**: [Đăng ký tham dự lễ tốt nghiệp Khoa CNTT năm 2025](Default.aspx?tabid=292&newsid=17065)
 
 ## Student Information
 
