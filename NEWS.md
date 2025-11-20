@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-20 at 14:22 +07***
+*Last updated: **2025-11-20 at 15:32 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **20/11/2025**: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2025/)
+
 • **20/11/2025**: [Thông báo kết quả dự kiến HBKK HK3/2024-2025 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học&CNVL, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
 
 • **18/11/2025**: [THÔNG BÁO ĐĂNG KÝ CHUYÊN ĐỀ “TÌNH HÌNH CHÍNH TRỊ – XÃ HỘI VIỆT NAM HƯỚNG TỚI ĐẠI HỘI ĐẠI BIỂU TOÀN QUỐC LẦN THỨ XIV CỦA ĐẢNG”](https://hcmus.edu.vn/thong-bao-dang-ky-chuyen-de-tinh-hinh-chinh-tri-xa-hoi-viet-nam-huong-toi-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang/)
@@ -135,8 +137,6 @@
 • **12/11/2025**: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2025/)
 
 • **10/11/2025**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
-
-• **10/11/2025**: [THÔNG BÁO VV TIẾP NHẬN ĐỀ XUẤT NHIỆM VỤ, CHUỖI NHIỆM VỤ, CỤM NHIỆM VỤ KHOA HỌC, CÔNG NGHỆ VÀ ĐỔI MỚI SÁNG TẠO ĐẾN NĂM 2030](https://hcmus.edu.vn/thong-bao-vv-tiep-nhan-de-xuat-nhiem-vu-chuoi-nhiem-vu-cum-nhiem-vu-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-den-nam-2030/)
 
 ## Exam Announcements
 
