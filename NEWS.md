@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-22 at 15:28 +07***
+*Last updated: **2025-11-22 at 16:21 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **22-11-2025**: [Đăng ký tham gia Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction"](Default.aspx?tabid=292&newsid=17083)
+
 • **20-11-2025**: [Danh sách sinh viên tham quan Netcompany ngày 3/12](Default.aspx?tabid=292&newsid=17081)
 
 • **19-11-2025**: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17080)
@@ -113,8 +115,6 @@
 • **14-11-2025**: [Danh sách sinh viên tham quan công ty OPSWAT ngày 27/11](Default.aspx?tabid=292&newsid=17070)
 
 • **13-11-2025**: [Đăng ký tham dự hội thảo : Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17069)
-
-• **11-11-2025**: [Danh sách sinh viên tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](Default.aspx?tabid=292&newsid=17067)
 
 ## Student Information
 
