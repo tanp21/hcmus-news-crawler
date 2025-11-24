@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-24 at 18:20 +07***
+*Last updated: **2025-11-24 at 19:50 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **24/11/2025**: [Thông báo tổ chức chuyên đề “Nhận diện thủ đoạn lừa đảo công nghệ cao – bảo vệ bản thân trên không gian mạng”](https://hcmus.edu.vn/thong-bao-to-chuc-chuyen-de-nhan-dien-thu-doan-lua-dao-cong-nghe-cao-bao-ve-ban-than-tren-khong-gian-mang-2/)
+
 • **24/11/2025**: [[THÔNG BÁO] TIN TUYỂN DỤNG – TRUYỀN THÔNG CHƯƠNG TRÌNH QUẢN TRỊ VIÊN DỰ NGUỒN HOA SEN HOME](https://hcmus.edu.vn/thong-bao-tin-tuyen-dung-truyen-thong-chuong-trinh-quan-tri-vien-du-nguon-hoa-sen-home/)
 
 • **20/11/2025**: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2025/)
@@ -135,8 +137,6 @@
 • **13/11/2025**: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt Công dân – sinh viên đầu năm, năm học 2025 – 2026 (Chuyên đề A), ngày 08-09/11/2025](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a-ngay-08-09-11-2025/)
 
 • **13/11/2025**: [Thông báo cung cấp thông tin lưu trú năm học 2025-2026 (Dành cho sinh viên Khóa 2025)](https://hcmus.edu.vn/thong-bao-cung-cap-thong-tin-luu-tru-nam-hoc-2025-2026-danh-cho-sinh-vien-khoa-2025/)
-
-• **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
 
 ## Exam Announcements
 
