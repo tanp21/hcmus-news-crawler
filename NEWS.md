@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-24 at 08:57 +07***
+*Last updated: **2025-11-24 at 10:38 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **24-11-2025**: [Quỹ SLA Unity - Chương trình Hỗ trợ Sinh viên vùng lũ](Default.aspx?tabid=292&newsid=17084)
+
 • **22-11-2025**: [Đăng ký tham gia Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction"](Default.aspx?tabid=292&newsid=17083)
 
 • **20-11-2025**: [Danh sách sinh viên tham quan Netcompany ngày 3/12](Default.aspx?tabid=292&newsid=17081)
@@ -113,8 +115,6 @@
 • **14-11-2025**: [Đăng ký tham quan công ty KMS Technology ngày 26/11](Default.aspx?tabid=292&newsid=17071)
 
 • **14-11-2025**: [Danh sách sinh viên tham quan công ty OPSWAT ngày 27/11](Default.aspx?tabid=292&newsid=17070)
-
-• **13-11-2025**: [Đăng ký tham dự hội thảo : Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17069)
 
 ## Student Information
 
