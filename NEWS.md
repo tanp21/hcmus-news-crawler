@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-24 at 13:36 +07***
+*Last updated: **2025-11-24 at 14:23 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **24-11-2025**: [Đăng ký tham dự Hội thảo “AI – Từ công cụ đến cộng sự”](Default.aspx?tabid=292&newsid=17086)
+
 • **24-11-2025**: [Quỹ SLA Unity - Chương trình Hỗ trợ Sinh viên vùng lũ](Default.aspx?tabid=292&newsid=17084)
 
 • **22-11-2025**: [Đăng ký tham gia Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction"](Default.aspx?tabid=292&newsid=17083)
@@ -113,8 +115,6 @@
 • **14-11-2025**: [HCMUS-AleaJactaEst Vô địch Quốc Gia ICPC Việt Nam 2025](Default.aspx?tabid=292&newsid=17072)
 
 • **14-11-2025**: [Đăng ký tham quan công ty KMS Technology ngày 26/11](Default.aspx?tabid=292&newsid=17071)
-
-• **14-11-2025**: [Danh sách sinh viên tham quan công ty OPSWAT ngày 27/11](Default.aspx?tabid=292&newsid=17070)
 
 ## Student Information
 
