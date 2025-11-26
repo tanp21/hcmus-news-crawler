@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-26 at 15:32 +07***
+*Last updated: **2025-11-26 at 16:27 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **26-11-2025**: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 10/12](Default.aspx?tabid=292&newsid=17093)
+
 • **25-11-2025**: [[Quỹ học bổng Cựu sinh viên ASF] Thông báo tiếp nhận hỗ trợ dành cho sinh viên CNTT ảnh hưởng bởi bão lũ](Default.aspx?tabid=292&newsid=17088)
 
 • **24-11-2025**: [Đăng ký tham dự Hội thảo “AI – Từ công cụ đến cộng sự”](Default.aspx?tabid=292&newsid=17086)
@@ -113,8 +115,6 @@
 • **17-11-2025**: [Đăng ký tham quan công ty Netcompany ngày 3/12](Default.aspx?tabid=292&newsid=17076)
 
 • **14-11-2025**: [Tổng kết Seminar chủ đề “Autonomous Machine Learning for Decision Support in Complex Environments”](Default.aspx?tabid=292&newsid=17073)
-
-• **14-11-2025**: [HCMUS-AleaJactaEst Vô địch Quốc Gia ICPC Việt Nam 2025](Default.aspx?tabid=292&newsid=17072)
 
 ## Student Information
 
