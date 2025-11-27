@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-27 at 14:23 +07***
+*Last updated: **2025-11-27 at 15:32 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **27-11-2025**: [Kết quả tuyển sinh Sau Đại học năm 2025 – đợt 2](Default.aspx?tabid=292&newsid=17094)
+
 • **26-11-2025**: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 10/12](Default.aspx?tabid=292&newsid=17093)
 
 • **25-11-2025**: [[Quỹ học bổng Cựu sinh viên ASF] Thông báo tiếp nhận hỗ trợ dành cho sinh viên CNTT ảnh hưởng bởi bão lũ](Default.aspx?tabid=292&newsid=17088)
@@ -113,8 +115,6 @@
 • **18-11-2025**: [Danh sách tham quan công ty KMS Technology ngày 26/11](Default.aspx?tabid=292&newsid=17078)
 
 • **17-11-2025**: [Đăng ký tham quan công ty Netcompany ngày 3/12](Default.aspx?tabid=292&newsid=17076)
-
-• **14-11-2025**: [Tổng kết Seminar chủ đề “Autonomous Machine Learning for Decision Support in Complex Environments”](Default.aspx?tabid=292&newsid=17073)
 
 ## Student Information
 
