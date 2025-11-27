@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-27 at 10:14 +07***
+*Last updated: **2025-11-27 at 11:28 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **27/11/2025**: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt Công dân – sinh viên đầu năm, năm học 2025 – 2026 (Chuyên đề A), ngày 15-16-22/11/2025](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a-ngay-15-16-22-11-2025/)
+
 • **25/11/2025**: [Giới thiệu Sổ tay Chăm sóc Sức khỏe Tinh thần dành cho sinh viên, học sinh và đội ngũ tư vấn học đường](https://hcmus.edu.vn/gioi-thieu-so-tay-cham-soc-suc-khoe-tinh-than-danh-cho-sinh-vien-hoc-sinh-va-doi-ngu-tu-van-hoc-duong/)
 
 • **25/11/2025**: [Thông báo Tổ chức hoạt động Workshop: “The Butterfly Effect: Cánh bướm nhỏ, thay đổi lớn”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-the-butterfly-effect-canh-buom-nho-thay-doi-lon/)
@@ -135,8 +137,6 @@
 • **17/11/2025**: [Lễ Công bố Quỹ học bổng GS. Trần Kim Thạch trị giá 1 tỷ đồng](https://hcmus.edu.vn/le-cong-bo-quy-hoc-bong-gs-tran-kim-thach-tri-gia-1-ty-dong/)
 
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
-
-• **13/11/2025**: [Thông báo điều chỉnh thời gian công bố danh sách tốt nghiệp đợt tháng 11 năm 2025 đối với sinh viên trình độ đại học hệ chính quy và hệ đào tạo từ xa](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-cong-bo-danh-sach-tot-nghiep-dot-thang-11-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-he-dao-tao-tu-xa/)
 
 ## Exam Announcements
 
