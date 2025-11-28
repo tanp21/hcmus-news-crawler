@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-28 at 21:23 +07***
+*Last updated: **2025-11-28 at 22:24 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **28/11/2025**: [Thông báo kết quả dự kiến học bổng khuyến khích học tập HK2/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2024-2025-chuong-trinh-chuan/)
+
 • **28/11/2025**: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://hcmus.edu.vn/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
 
 • **27/11/2025**: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt Công dân – sinh viên đầu năm, năm học 2025 – 2026 (Chuyên đề A), ngày 15-16-22/11/2025](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a-ngay-15-16-22-11-2025/)
@@ -135,8 +137,6 @@
 • **20/11/2025**: [Thông báo kết quả dự kiến HBKK HK3/2024-2025 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học&CNVL, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
 
 • **18/11/2025**: [THÔNG BÁO ĐĂNG KÝ CHUYÊN ĐỀ “TÌNH HÌNH CHÍNH TRỊ – XÃ HỘI VIỆT NAM HƯỚNG TỚI ĐẠI HỘI ĐẠI BIỂU TOÀN QUỐC LẦN THỨ XIV CỦA ĐẢNG”](https://hcmus.edu.vn/thong-bao-dang-ky-chuyen-de-tinh-hinh-chinh-tri-xa-hoi-viet-nam-huong-toi-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang/)
-
-• **17/11/2025**: [Lễ Công bố Quỹ học bổng GS. Trần Kim Thạch trị giá 1 tỷ đồng](https://hcmus.edu.vn/le-cong-bo-quy-hoc-bong-gs-tran-kim-thach-tri-gia-1-ty-dong/)
 
 ## Exam Announcements
 
