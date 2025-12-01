@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-01 at 09:09 +07***
+*Last updated: **2025-12-01 at 11:12 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **1-12-2025**: [Danh sách sinh viên tham dự Hội thảo AI – Từ công cụ đến cộng sự](Default.aspx?tabid=292&newsid=17098)
+
 • **28-11-2025**: [DSHV Khóa 34/2024 đăng ký đề tài luận văn/ đồ án tốt nghiệp](Default.aspx?tabid=292&newsid=17095)
 
 • **27-11-2025**: [Kết quả tuyển sinh Sau Đại học năm 2025 – đợt 2](Default.aspx?tabid=292&newsid=17094)
@@ -114,9 +116,9 @@
 
 • **19-11-2025**: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17080)
 
-• **18-11-2025**: [Danh sách tham quan công ty KMS Technology ngày 26/11](Default.aspx?tabid=292&newsid=17078)
-
 ## Student Information
+
+• **01/12/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 
 • **28/11/2025**: [Thông báo kết quả dự kiến học bổng khuyến khích học tập HK2/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2024-2025-chuong-trinh-chuan/)
 
@@ -135,8 +137,6 @@
 • **20/11/2025**: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2025/)
 
 • **20/11/2025**: [Thông báo kết quả dự kiến HBKK HK3/2024-2025 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học&CNVL, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
-
-• **18/11/2025**: [THÔNG BÁO ĐĂNG KÝ CHUYÊN ĐỀ “TÌNH HÌNH CHÍNH TRỊ – XÃ HỘI VIỆT NAM HƯỚNG TỚI ĐẠI HỘI ĐẠI BIỂU TOÀN QUỐC LẦN THỨ XIV CỦA ĐẢNG”](https://hcmus.edu.vn/thong-bao-dang-ky-chuyen-de-tinh-hinh-chinh-tri-xa-hoi-viet-nam-huong-toi-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang/)
 
 ## Exam Announcements
 
