@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-04 at 08:53 +07***
+*Last updated: **2025-12-04 at 10:22 +07***
 
 ---
 
@@ -52,6 +52,8 @@
 
 ### Student Support
 
+• **04/12/2025**: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://www.ctda.hcmus.edu.vn/vi/2025/12/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
+
 • **18/09/2025**: [Thông báo danh sách khảo sát trình độ tiếng Anh khoá 2025 – CTDA](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-danh-sach-khao-sat-trinh-do-tieng-anh-khoa-2025-ctda/)
 
 • **13/09/2025**: [Thông báo về việc cấp email đối với sinh viên chương trình đề án khoa Công nghệ thông tin khóa 2025](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ve-viec-cap-email-doi-voi-sinh-vien-chuong-trinh-de-an-khoa-cong-nghe-thong-tin-khoa-2025/)
@@ -69,8 +71,6 @@
 • **13/09/2024**: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
 
 • **07/09/2024**: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
-
-• **05/08/2024**: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 
 ### Accounting & Finance
 
