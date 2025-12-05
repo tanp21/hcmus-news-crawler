@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-05 at 10:21 +07***
+*Last updated: **2025-12-05 at 11:32 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **5-12-2025**: [Đăng ký tham quan công ty ELCA](Default.aspx?tabid=292&newsid=17107)
+
 • **5-12-2025**: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ (Lớp 2)](Default.aspx?tabid=292&newsid=17106)
 
 • **2-12-2025**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 9/12 (lớp 2)](Default.aspx?tabid=292&newsid=17103)
@@ -113,8 +115,6 @@
 • **25-11-2025**: [[Quỹ học bổng Cựu sinh viên ASF] Thông báo tiếp nhận hỗ trợ dành cho sinh viên CNTT ảnh hưởng bởi bão lũ](Default.aspx?tabid=292&newsid=17088)
 
 • **24-11-2025**: [Đăng ký tham dự Hội thảo “AI – Từ công cụ đến cộng sự”](Default.aspx?tabid=292&newsid=17086)
-
-• **24-11-2025**: [Quỹ SLA Unity - Chương trình Hỗ trợ Sinh viên vùng lũ](Default.aspx?tabid=292&newsid=17084)
 
 ## Student Information
 
