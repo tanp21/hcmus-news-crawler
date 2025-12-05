@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-05 at 08:54 +07***
+*Last updated: **2025-12-05 at 10:21 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **5-12-2025**: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ (Lớp 2)](Default.aspx?tabid=292&newsid=17106)
+
 • **2-12-2025**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 9/12 (lớp 2)](Default.aspx?tabid=292&newsid=17103)
 
 • **1-12-2025**: [Danh sách sinh viên tham quan Saritasa Việt Nam ngày 10/12](Default.aspx?tabid=292&newsid=17100)
@@ -113,8 +115,6 @@
 • **24-11-2025**: [Đăng ký tham dự Hội thảo “AI – Từ công cụ đến cộng sự”](Default.aspx?tabid=292&newsid=17086)
 
 • **24-11-2025**: [Quỹ SLA Unity - Chương trình Hỗ trợ Sinh viên vùng lũ](Default.aspx?tabid=292&newsid=17084)
-
-• **22-11-2025**: [Đăng ký tham gia Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction"](Default.aspx?tabid=292&newsid=17083)
 
 ## Student Information
 
