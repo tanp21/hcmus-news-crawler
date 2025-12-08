@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-08 at 10:24 +07***
+*Last updated: **2025-12-08 at 11:36 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **8-12-2025**: [Khoa Công nghệ Thông tin ghi dấu ấn tại Giải thưởng Sinh viên Nghiên cứu Khoa học Euréka lần thứ 27, năm 2025](Default.aspx?tabid=292&newsid=17110)
+
 • **8-12-2025**: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (K2022-Đợt 2, bảo vệ 07/2026)](Default.aspx?tabid=292&newsid=17109)
 
 • **7-12-2025**: [Tổng kết Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction”](Default.aspx?tabid=292&newsid=17108)
@@ -113,8 +115,6 @@
 • **28-11-2025**: [DSHV Khóa 34/2024 đăng ký đề tài luận văn/ đồ án tốt nghiệp](Default.aspx?tabid=292&newsid=17095)
 
 • **27-11-2025**: [Kết quả tuyển sinh Sau Đại học năm 2025 – đợt 2](Default.aspx?tabid=292&newsid=17094)
-
-• **26-11-2025**: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 10/12](Default.aspx?tabid=292&newsid=17093)
 
 ## Student Information
 
