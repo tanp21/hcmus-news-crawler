@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-08 at 14:27 +07***
+*Last updated: **2025-12-08 at 15:35 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **08/12/2025**: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2024-2025-chuong-trinh-chuan/)
+
 • **08/12/2025**: [TB Cuộc thi tuyên truyền phòng chống lừa đảo trực tuyến, đảm bảo an toàn, an ninh mạng “Không một mình – Cùng nhau an toàn trực tuyến”](https://hcmus.edu.vn/tb-cuoc-thi-tuyen-truyen-phong-chong-lua-dao-truc-tuyen-dam-bao-an-toan-an-ninh-mang-khong-mot-minh-cung-nhau-an-toan-truc-tuyen/)
 
 • **04/12/2025**: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
@@ -135,8 +137,6 @@
 • **25/11/2025**: [Giới thiệu Sổ tay Chăm sóc Sức khỏe Tinh thần dành cho sinh viên, học sinh và đội ngũ tư vấn học đường](https://hcmus.edu.vn/gioi-thieu-so-tay-cham-soc-suc-khoe-tinh-than-danh-cho-sinh-vien-hoc-sinh-va-doi-ngu-tu-van-hoc-duong/)
 
 • **25/11/2025**: [Thông báo Tổ chức hoạt động Workshop: “The Butterfly Effect: Cánh bướm nhỏ, thay đổi lớn”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-the-butterfly-effect-canh-buom-nho-thay-doi-lon/)
-
-• **24/11/2025**: [Thông báo tổ chức chuyên đề “Nhận diện thủ đoạn lừa đảo công nghệ cao – bảo vệ bản thân trên không gian mạng”](https://hcmus.edu.vn/thong-bao-to-chuc-chuyen-de-nhan-dien-thu-doan-lua-dao-cong-nghe-cao-bao-ve-ban-than-tren-khong-gian-mang-2/)
 
 ## Exam Announcements
 
