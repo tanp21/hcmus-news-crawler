@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-09 at 06:22 +07***
+*Last updated: **2025-12-09 at 08:54 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **9-12-2025**: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2025](Default.aspx?tabid=292&newsid=17111)
+
 • **8-12-2025**: [Khoa Công nghệ Thông tin ghi dấu ấn tại Giải thưởng Sinh viên Nghiên cứu Khoa học Euréka lần thứ 27, năm 2025](Default.aspx?tabid=292&newsid=17110)
 
 • **8-12-2025**: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (K2022-Đợt 2, bảo vệ 07/2026)](Default.aspx?tabid=292&newsid=17109)
@@ -114,9 +116,9 @@
 
 • **28-11-2025**: [DSHV Khóa 34/2024 đăng ký đề tài luận văn/ đồ án tốt nghiệp](Default.aspx?tabid=292&newsid=17095)
 
-• **27-11-2025**: [Kết quả tuyển sinh Sau Đại học năm 2025 – đợt 2](Default.aspx?tabid=292&newsid=17094)
-
 ## Student Information
+
+• **09/12/2025**: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 2 năm 2025 do Trường tổ chức ngày 29/11, 04/12 và 06/12/2025](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2025-do-truong-to-chuc-ngay-29-11-04-12-va-06-12-2025/)
 
 • **08/12/2025**: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (bổ sung Chương trình Tiên tiến)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
 
@@ -135,8 +137,6 @@
 • **27/11/2025**: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt Công dân – sinh viên đầu năm, năm học 2025 – 2026 (Chuyên đề A), ngày 15-16-22/11/2025](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a-ngay-15-16-22-11-2025/)
 
 • **25/11/2025**: [Giới thiệu Sổ tay Chăm sóc Sức khỏe Tinh thần dành cho sinh viên, học sinh và đội ngũ tư vấn học đường](https://hcmus.edu.vn/gioi-thieu-so-tay-cham-soc-suc-khoe-tinh-than-danh-cho-sinh-vien-hoc-sinh-va-doi-ngu-tu-van-hoc-duong/)
-
-• **25/11/2025**: [Thông báo Tổ chức hoạt động Workshop: “The Butterfly Effect: Cánh bướm nhỏ, thay đổi lớn”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-the-butterfly-effect-canh-buom-nho-thay-doi-lon/)
 
 ## Exam Announcements
 
