@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-09 at 11:31 +07***
+*Last updated: **2025-12-09 at 12:24 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **9-12-2025**: [Mời bình chọn cho sinh viên Võ Ngọc Minh Anh – Ứng viên “Công dân trẻ tiêu biểu TP.HCM 2025”](Default.aspx?tabid=292&newsid=17112)
+
 • **9-12-2025**: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2025](Default.aspx?tabid=292&newsid=17111)
 
 • **8-12-2025**: [Khoa Công nghệ Thông tin ghi dấu ấn tại Giải thưởng Sinh viên Nghiên cứu Khoa học Euréka lần thứ 27, năm 2025](Default.aspx?tabid=292&newsid=17110)
@@ -113,8 +115,6 @@
 • **1-12-2025**: [Danh sách sinh viên tham quan Saritasa Việt Nam ngày 10/12](Default.aspx?tabid=292&newsid=17100)
 
 • **1-12-2025**: [Danh sách sinh viên tham dự Hội thảo AI – Từ công cụ đến cộng sự](Default.aspx?tabid=292&newsid=17098)
-
-• **28-11-2025**: [DSHV Khóa 34/2024 đăng ký đề tài luận văn/ đồ án tốt nghiệp](Default.aspx?tabid=292&newsid=17095)
 
 ## Student Information
 
