@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-09 at 15:35 +07***
+*Last updated: **2025-12-09 at 16:28 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **9-12-2025**: [Tổng kết Chuyên đề “Kỹ năng mềm - Tư duy và Tranh biện trong học tập và cuộc sống” dành cho Tân sinh viên khóa tuyển 2025](Default.aspx?tabid=292&newsid=17113)
+
+• **9-12-2025**: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 12 năm 2025: Không gian kết nối và lan tỏa](Default.aspx?tabid=292&newsid=17115)
+
 • **9-12-2025**: [Mời bình chọn cho sinh viên Võ Ngọc Minh Anh – Ứng viên “Công dân trẻ tiêu biểu TP.HCM 2025”](Default.aspx?tabid=292&newsid=17112)
 
 • **9-12-2025**: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2025](Default.aspx?tabid=292&newsid=17111)
@@ -111,10 +115,6 @@
 • **5-12-2025**: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ (Lớp 2)](Default.aspx?tabid=292&newsid=17106)
 
 • **2-12-2025**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 9/12 (lớp 2)](Default.aspx?tabid=292&newsid=17103)
-
-• **1-12-2025**: [Danh sách sinh viên tham quan Saritasa Việt Nam ngày 10/12](Default.aspx?tabid=292&newsid=17100)
-
-• **1-12-2025**: [Danh sách sinh viên tham dự Hội thảo AI – Từ công cụ đến cộng sự](Default.aspx?tabid=292&newsid=17098)
 
 ## Student Information
 
