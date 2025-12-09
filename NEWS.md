@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-09 at 17:29 +07***
+*Last updated: **2025-12-09 at 18:22 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **9-12-2025**: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 12/2025](Default.aspx?tabid=292&newsid=17116)
+
 • **9-12-2025**: [Tổng kết Chuyên đề “Kỹ năng mềm - Tư duy và Tranh biện trong học tập và cuộc sống” dành cho Tân sinh viên khóa tuyển 2025](Default.aspx?tabid=292&newsid=17113)
 
 • **9-12-2025**: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 12 năm 2025: Không gian kết nối và lan tỏa](Default.aspx?tabid=292&newsid=17115)
@@ -113,8 +115,6 @@
 • **5-12-2025**: [Đăng ký tham quan công ty ELCA](Default.aspx?tabid=292&newsid=17107)
 
 • **5-12-2025**: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ (Lớp 2)](Default.aspx?tabid=292&newsid=17106)
-
-• **2-12-2025**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 9/12 (lớp 2)](Default.aspx?tabid=292&newsid=17103)
 
 ## Student Information
 
