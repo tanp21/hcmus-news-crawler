@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-10 at 16:29 +07***
+*Last updated: **2025-12-10 at 17:29 +07***
 
 ---
 
@@ -112,9 +112,9 @@
 
 • **7-12-2025**: [Tổng kết Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction”](Default.aspx?tabid=292&newsid=17108)
 
-• **5-12-2025**: [Đăng ký tham quan công ty ELCA](Default.aspx?tabid=292&newsid=17107)
+• **5-12-2025**: [Lịch sinh hoạt đầu khóa dành cho học viên, nghiên cứu sinh Khóa 35/2025](Default.aspx?tabid=292&newsid=17118)
 
-• **5-12-2025**: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ (Lớp 2)](Default.aspx?tabid=292&newsid=17106)
+• **5-12-2025**: [Đăng ký tham quan công ty ELCA](Default.aspx?tabid=292&newsid=17107)
 
 ## Student Information
 
