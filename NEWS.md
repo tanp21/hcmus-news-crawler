@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-10 at 18:21 +07***
+*Last updated: **2025-12-10 at 19:53 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **10-12-2025**: [Đội tuyển Khoa Công nghệ Thông tin đạt thành tích xuất sắc tại Olympic Trí tuệ nhân tạo Sinh viên Việt Nam lần thứ nhất, 2025](Default.aspx?tabid=292&newsid=17119)
+
 • **9-12-2025**: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 12/2025](Default.aspx?tabid=292&newsid=17116)
 
 • **9-12-2025**: [Lịch sinh hoạt đầu khóa dành cho học viên, nghiên cứu sinh Khóa 35/2025](Default.aspx?tabid=292&newsid=17118)
@@ -113,8 +115,6 @@
 • **8-12-2025**: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (K2022-Đợt 2, bảo vệ 07/2026)](Default.aspx?tabid=292&newsid=17109)
 
 • **7-12-2025**: [Tổng kết Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction”](Default.aspx?tabid=292&newsid=17108)
-
-• **5-12-2025**: [Đăng ký tham quan công ty ELCA](Default.aspx?tabid=292&newsid=17107)
 
 ## Student Information
 
