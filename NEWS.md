@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-11 at 16:29 +07***
+*Last updated: **2025-12-11 at 17:29 +07***
 
 ---
 
@@ -118,6 +118,10 @@
 
 ## Student Information
 
+• **11/12/2025**: [Kết quả xét Hoàn tất chương trình – đợt tháng 11/2025](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-11-2025/)
+
+• **11/12/2025**: [Thông báo đăng ký học phần HK2/2025-2026 – chương trình CLC, TCTA và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2025-2026-chuong-trinh-clc-tcta-va-viet-phap/)
+
 • **10/12/2025**: [SAIH RA MẮT ĐỊNH HƯỚNG HOẠT ĐỘNG: CHÍNH THỨC MỞ CỔNG ĐĂNG KÝ TUYỂN CHỌN DỰ ÁN NGHIÊN CỨU AI](https://hcmus.edu.vn/saih-ra-mat-dinh-huong-hoat-dong-chinh-thuc-mo-cong-dang-ky-tuyen-chon-du-an-nghien-cuu-ai/)
 
 • **09/12/2025**: [Thông báo kết quả dự kiến Học bổng khuyến khích HK2/2024-2025 Chương trình cử nhân tài năng Khoa Công nghệ Thông tin](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2024-2025-chuong-trinh-cu-nhan-tai-nang-khoa-cong-nghe-thong-tin/)
@@ -133,10 +137,6 @@
 • **01/12/2025**: [Thông báo kết quả chính thức HBKK HK3/2024-2025 Khoa Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
 
 • **01/12/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
-
-• **28/11/2025**: [Thông báo kết quả dự kiến học bổng khuyến khích học tập HK2/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2024-2025-chuong-trinh-chuan/)
-
-• **28/11/2025**: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://hcmus.edu.vn/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
 
 ## Exam Announcements
 
