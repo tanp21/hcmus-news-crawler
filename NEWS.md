@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-17 at 08:52 +07***
+*Last updated: **2025-12-17 at 10:23 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **17-12-2025**: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 35/2025 đối với sinh viên khóa 2022 liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17122)
+
 • **11-12-2025**: [Danh sách tham quan ELCA ngày 17/12](Default.aspx?tabid=292&newsid=17121)
 
 • **10-12-2025**: [Đội tuyển Khoa Công nghệ Thông tin đạt thành tích xuất sắc tại Olympic Trí tuệ nhân tạo Sinh viên Việt Nam lần thứ nhất, 2025](Default.aspx?tabid=292&newsid=17119)
@@ -113,8 +115,6 @@
 • **9-12-2025**: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2025](Default.aspx?tabid=292&newsid=17111)
 
 • **8-12-2025**: [Khoa Công nghệ Thông tin ghi dấu ấn tại Giải thưởng Sinh viên Nghiên cứu Khoa học Euréka lần thứ 27, năm 2025](Default.aspx?tabid=292&newsid=17110)
-
-• **8-12-2025**: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (K2022-Đợt 2, bảo vệ 07/2026)](Default.aspx?tabid=292&newsid=17109)
 
 ## Student Information
 
