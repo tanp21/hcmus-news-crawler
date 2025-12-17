@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-17 at 13:38 +07***
+*Last updated: **2025-12-17 at 14:26 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **17/12/2025**: [Thông báo kết quả chính thức học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
+
 • **16/12/2025**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 2) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 
 • **15/12/2025**: [Thông báo Giải thưởng lương văn can lần thứ 12](https://hcmus.edu.vn/thong-bao-giai-thuong-luong-van-can-lan-thu-12/)
@@ -135,8 +137,6 @@
 • **09/12/2025**: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 2 năm 2025 do Trường tổ chức ngày 29/11, 04/12 và 06/12/2025](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2025-do-truong-to-chuc-ngay-29-11-04-12-va-06-12-2025/)
 
 • **08/12/2025**: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (bổ sung Chương trình Tiên tiến)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
-
-• **08/12/2025**: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2024-2025-chuong-trinh-chuan/)
 
 ## Exam Announcements
 
