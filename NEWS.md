@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-17 at 16:32 +07***
+*Last updated: **2025-12-17 at 17:29 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **17-12-2025**: [Mời tham dự buổi bảo vệ luận văn/đồ án tốt nghiệp thạc sĩ đợt tháng 12/2025](Default.aspx?tabid=292&newsid=17124)
+
 • **17-12-2025**: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 35/2025 đối với sinh viên khóa 2022 liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17122)
 
 • **11-12-2025**: [Danh sách tham quan ELCA ngày 17/12](Default.aspx?tabid=292&newsid=17121)
@@ -113,8 +115,6 @@
 • **9-12-2025**: [Mời bình chọn cho sinh viên Võ Ngọc Minh Anh – Ứng viên “Công dân trẻ tiêu biểu TP.HCM 2025”](Default.aspx?tabid=292&newsid=17112)
 
 • **9-12-2025**: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2025](Default.aspx?tabid=292&newsid=17111)
-
-• **8-12-2025**: [Khoa Công nghệ Thông tin ghi dấu ấn tại Giải thưởng Sinh viên Nghiên cứu Khoa học Euréka lần thứ 27, năm 2025](Default.aspx?tabid=292&newsid=17110)
 
 ## Student Information
 
