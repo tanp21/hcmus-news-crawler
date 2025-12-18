@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-18 at 06:23 +07***
+*Last updated: **2025-12-18 at 08:53 +07***
 
 ---
 
@@ -118,7 +118,7 @@
 
 ## Student Information
 
-• **17/12/2025**: [Thông báo kết quả chính thức học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
+• **18/12/2025**: [Thông báo kết quả chính thức học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
 
 • **16/12/2025**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 2) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 
