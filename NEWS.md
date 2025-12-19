@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-19 at 19:50 +07***
+*Last updated: **2025-12-19 at 20:35 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **19-12-2025**: [Thời khóa biểu có phòng các lớp Học phần 1 Khóa 35/2025 - bắt đầu học 22/12/2025](Default.aspx?tabid=292&newsid=17129)
+
 • **18-12-2025**: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](Default.aspx?tabid=292&newsid=17126)
 
 • **17-12-2025**: [Mời tham dự buổi bảo vệ luận văn/đồ án tốt nghiệp thạc sĩ đợt tháng 12/2025](Default.aspx?tabid=292&newsid=17124)
@@ -113,8 +115,6 @@
 • **9-12-2025**: [Tổng kết Chuyên đề “Kỹ năng mềm - Tư duy và Tranh biện trong học tập và cuộc sống” dành cho Tân sinh viên khóa tuyển 2025](Default.aspx?tabid=292&newsid=17113)
 
 • **9-12-2025**: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 12 năm 2025: Không gian kết nối và lan tỏa](Default.aspx?tabid=292&newsid=17115)
-
-• **9-12-2025**: [Mời bình chọn cho sinh viên Võ Ngọc Minh Anh – Ứng viên “Công dân trẻ tiêu biểu TP.HCM 2025”](Default.aspx?tabid=292&newsid=17112)
 
 ## Student Information
 
