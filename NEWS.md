@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-22 at 13:40 +07***
+*Last updated: **2025-12-22 at 14:27 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **22-12-2025**: [Mời tham dự buổi bảo vệ luận án tiến sĩ cấp đơn vị chuyên môn của NCS Phạm Minh Hoàng (14g00, 26/12, phòng F102)](Default.aspx?tabid=292&newsid=17130)
+
 • **19-12-2025**: [Thời khóa biểu có phòng các lớp Học phần 1 Khóa 35/2025 - bắt đầu học 22/12/2025](Default.aspx?tabid=292&newsid=17129)
 
 • **18-12-2025**: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](Default.aspx?tabid=292&newsid=17126)
@@ -113,8 +115,6 @@
 • **9-12-2025**: [Lịch sinh hoạt đầu khóa dành cho học viên, nghiên cứu sinh Khóa 35/2025](Default.aspx?tabid=292&newsid=17118)
 
 • **9-12-2025**: [Tổng kết Chuyên đề “Kỹ năng mềm - Tư duy và Tranh biện trong học tập và cuộc sống” dành cho Tân sinh viên khóa tuyển 2025](Default.aspx?tabid=292&newsid=17113)
-
-• **9-12-2025**: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 12 năm 2025: Không gian kết nối và lan tỏa](Default.aspx?tabid=292&newsid=17115)
 
 ## Student Information
 
