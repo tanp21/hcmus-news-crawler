@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-22 at 09:02 +07***
+*Last updated: **2025-12-22 at 11:05 +07***
 
 ---
 
@@ -30,6 +30,8 @@
 
 ### Academic Affairs
 
+• **22/12/2025**: [[CTĐA] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/12/ctda-thong-bao-nop-don-dang-ky-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-thang-08-2026/)
+
 • **17/12/2025**: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2526](https://www.ctda.hcmus.edu.vn/vi/2025/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2526/)
 
 • **12/11/2025**: [THÔNG BÁO ĐĂNG KÝ LỄ TỐT NGHIỆP KHOA CÔNG NGHỆ THÔNG TIN NĂM 2025](https://www.ctda.hcmus.edu.vn/vi/2025/11/thong-bao-dang-ky-le-tot-nghiep-khoa-cong-nghe-thong-tin-nam-2025/)
@@ -47,8 +49,6 @@
 • **29/09/2025**: [CTTT_Thông báo về việc sử dụng tài khoản học vụ Khoá 2025](https://www.ctda.hcmus.edu.vn/vi/2025/09/cttt_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2025/)
 
 • **29/09/2025**: [TCTA_Thông báo về việc sử dụng tài khoản học vụ Khoá 2025](https://www.ctda.hcmus.edu.vn/vi/2025/09/tcta_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2025/)
-
-• **24/09/2025**: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021-đợt 2 (bảo vệ 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-04-2026/)
 
 ### Student Support
 
