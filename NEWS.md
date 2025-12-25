@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-25 at 08:58 +07***
+*Last updated: **2025-12-25 at 10:41 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **25/12/2025**: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Chương trình Tiên tiến K2022 (Khoa Công nghệ Thông tin)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk3-2024-2025-chuong-trinh-tien-tien-k2022-khoa-cong-nghe-thong-tin/)
+
 • **24/12/2025**: [Thông báo nghỉ Tết Dương lịch năm 2026](https://hcmus.edu.vn/thong-bao-nghi-tet-duong-lich-nam-2026/)
 
 • **23/12/2025**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 3) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-3-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
@@ -135,8 +137,6 @@
 • **11/12/2025**: [Kết quả xét Hoàn tất chương trình – đợt tháng 11/2025](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-11-2025/)
 
 • **11/12/2025**: [Thông báo đăng ký học phần HK2/2025-2026 – chương trình CLC, TCTA và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2025-2026-chuong-trinh-clc-tcta-va-viet-phap/)
-
-• **10/12/2025**: [SAIH RA MẮT ĐỊNH HƯỚNG HOẠT ĐỘNG: CHÍNH THỨC MỞ CỔNG ĐĂNG KÝ TUYỂN CHỌN DỰ ÁN NGHIÊN CỨU AI](https://hcmus.edu.vn/saih-ra-mat-dinh-huong-hoat-dong-chinh-thuc-mo-cong-dang-ky-tuyen-chon-du-an-nghien-cuu-ai/)
 
 ## Exam Announcements
 
