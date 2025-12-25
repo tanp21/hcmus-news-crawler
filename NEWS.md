@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-25 at 15:33 +07***
+*Last updated: **2025-12-25 at 16:27 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **25/12/2025**: [Thông báo Chương trình học bổng Vừ A Dính năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-2025/)
+
 • **25/12/2025**: [[POSTECH] Call for 2026 POSTECH Summer Program (Research Intensive)](https://hcmus.edu.vn/postech-call-for-2026-postech-summer-program-research-intensive/)
 
 • **25/12/2025**: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Chương trình Tiên tiến K2022 (Khoa Công nghệ Thông tin)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk3-2024-2025-chuong-trinh-tien-tien-k2022-khoa-cong-nghe-thong-tin/)
@@ -135,8 +137,6 @@
 • **15/12/2025**: [Thông báo Giải thưởng lương văn can lần thứ 12](https://hcmus.edu.vn/thong-bao-giai-thuong-luong-van-can-lan-thu-12/)
 
 • **12/12/2025**: [THÔNG BÁO KẾT QUẢ GIẢI THƯỞNG LÊ VĂN THỚI 2025](https://hcmus.edu.vn/thong-bao-ket-qua-giai-thuong-le-van-thoi-2025/)
-
-• **11/12/2025**: [Kết quả xét Hoàn tất chương trình – đợt tháng 11/2025](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-11-2025/)
 
 ## Exam Announcements
 
