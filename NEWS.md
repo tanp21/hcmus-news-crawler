@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-26 at 15:33 +07***
+*Last updated: **2025-12-26 at 16:26 +07***
 
 ---
 
@@ -96,7 +96,9 @@
 
 ## FIT
 
-• **26-12-2025**: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T12/2025](Default.aspx?tabid=292&newsid=17134)
+• **26-12-2025**: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](Default.aspx?tabid=292&newsid=17135)
+
+• **26-12-2025**: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T12/2025](Default.aspx?tabid=292&newsid=17134)
 
 • **22-12-2025**: [Mời tham dự buổi bảo vệ luận án tiến sĩ cấp đơn vị chuyên môn của NCS Phạm Minh Hoàng (14g00, 26/12, phòng F102)](Default.aspx?tabid=292&newsid=17130)
 
@@ -114,9 +116,9 @@
 
 • **9-12-2025**: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 12/2025](Default.aspx?tabid=292&newsid=17116)
 
-• **9-12-2025**: [Lịch sinh hoạt đầu khóa dành cho học viên, nghiên cứu sinh Khóa 35/2025](Default.aspx?tabid=292&newsid=17118)
-
 ## Student Information
+
+• **26/12/2025**: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2025, môn chung khóa 2024 về trước trong HK2/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2025-mon-chung-khoa-2024-ve-truoc-trong-hk2-2025-2026-tai-co-so-2/)
 
 • **25/12/2025**: [Thông báo Chương trình học bổng Vừ A Dính năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-2025/)
 
@@ -135,8 +137,6 @@
 • **16/12/2025**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 2) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 
 • **15/12/2025**: [Thông báo Giải thưởng lương văn can lần thứ 12](https://hcmus.edu.vn/thong-bao-giai-thuong-luong-van-can-lan-thu-12/)
-
-• **12/12/2025**: [THÔNG BÁO KẾT QUẢ GIẢI THƯỞNG LÊ VĂN THỚI 2025](https://hcmus.edu.vn/thong-bao-ket-qua-giai-thuong-le-van-thoi-2025/)
 
 ## Exam Announcements
 
