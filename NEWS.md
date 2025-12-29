@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-12-29 at 13:40 +07***
+*Last updated: **2025-12-29 at 14:29 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **29-12-2025**: [Đăng ký tham gia Seminar giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2027 - 2028](Default.aspx?tabid=292&newsid=17141)
+
+• **29-12-2025**: [Đăng ký tham gia Seminar Ph.D. Opportunities at Singapore Management University and Innovative Research in Mobile and Pervasive Computing](Default.aspx?tabid=292&newsid=17140)
+
 • **26-12-2025**: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](Default.aspx?tabid=292&newsid=17135)
 
 • **26-12-2025**: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T12/2025](Default.aspx?tabid=292&newsid=17134)
@@ -111,10 +115,6 @@
 • **17-12-2025**: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 35/2025 đối với sinh viên khóa 2022 liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17122)
 
 • **11-12-2025**: [Danh sách tham quan ELCA ngày 17/12](Default.aspx?tabid=292&newsid=17121)
-
-• **10-12-2025**: [Đội tuyển Khoa Công nghệ Thông tin đạt thành tích xuất sắc tại Olympic Trí tuệ nhân tạo Sinh viên Việt Nam lần thứ nhất, 2025](Default.aspx?tabid=292&newsid=17119)
-
-• **9-12-2025**: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 12/2025](Default.aspx?tabid=292&newsid=17116)
 
 ## Student Information
 
