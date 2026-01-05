@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-05 at 06:23 +07***
+*Last updated: **2026-01-05 at 09:10 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **05/01/2026**: [Thông báo kết quả chính thức Học bổng khuyến khích HK3/2024-2025 Chương trình Tiên tiến K2022 (Khoa Công nghệ Thông tin)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hk3-2024-2025-chuong-trinh-tien-tien-k2022-khoa-cong-nghe-thong-tin/)
+
 • **30/12/2025**: [[THÔNG BÁO] Chương trình Winter Camp 2026 – The Chinese University of Hong Kong, Shenzhen](https://hcmus.edu.vn/thong-bao-chuong-trinh-winter-camp-2026-the-chinese-university-of-hong-kong-shenzhen/)
 
 • **26/12/2025**: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2025, môn chung khóa 2024 về trước trong HK2/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2025-mon-chung-khoa-2024-ve-truoc-trong-hk2-2025-2026-tai-co-so-2/)
@@ -135,8 +137,6 @@
 • **19/12/2025**: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2024-2025 Chương trình cử nhân tài năng Khoa Công nghệ Thông tin](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2024-2025-chuong-trinh-cu-nhan-tai-nang-khoa-cong-nghe-thong-tin/)
 
 • **18/12/2025**: [Thông báo kết quả chính thức học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
-
-• **16/12/2025**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 2) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 
 ## Exam Announcements
 
