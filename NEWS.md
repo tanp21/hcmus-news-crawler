@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-06 at 10:44 +07***
+*Last updated: **2026-01-06 at 11:42 +07***
 
 ---
 
@@ -135,8 +135,6 @@
 • **24/12/2025**: [Thông báo nghỉ Tết Dương lịch năm 2026](https://hcmus.edu.vn/thong-bao-nghi-tet-duong-lich-nam-2026/)
 
 • **23/12/2025**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 3) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-3-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
-
-• **19/12/2025**: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2024-2025 Chương trình cử nhân tài năng Khoa Công nghệ Thông tin](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2024-2025-chuong-trinh-cu-nhan-tai-nang-khoa-cong-nghe-thong-tin/)
 
 ## Exam Announcements
 
