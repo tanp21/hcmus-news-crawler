@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-07 at 10:44 +07***
+*Last updated: **2026-01-07 at 11:43 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **7-1-2026**: [[CQ] DSSV nộp đơn đăng ký thực hiện đề tài tốt nghiệp khóa 2022, đợt 2 (bảo vệ tháng 7/2026)](Default.aspx?tabid=292&newsid=17158)
+
 • **7-1-2026**: [Tổng kết Seminar Ph.D. Opportunities at Singapore Management University and Innovative Research in Mobile and Pervasive Computing](Default.aspx?tabid=292&newsid=17157)
 
 • **6-1-2026**: [Kết quả "Vòng quay may mắn" khảo sát ngành Trí tuệ nhân tạo](Default.aspx?tabid=292&newsid=17156)
@@ -113,8 +115,6 @@
 • **22-12-2025**: [Mời tham dự buổi bảo vệ luận án tiến sĩ cấp đơn vị chuyên môn của NCS Phạm Minh Hoàng (14g00, 26/12, phòng F102)](Default.aspx?tabid=292&newsid=17130)
 
 • **19-12-2025**: [Thời khóa biểu có phòng các lớp Học phần 1 Khóa 35/2025 - bắt đầu học 22/12/2025](Default.aspx?tabid=292&newsid=17129)
-
-• **18-12-2025**: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](Default.aspx?tabid=292&newsid=17126)
 
 ## Student Information
 
