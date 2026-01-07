@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-07 at 06:24 +07***
+*Last updated: **2026-01-07 at 08:59 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **7-1-2026**: [Tổng kết Seminar Ph.D. Opportunities at Singapore Management University and Innovative Research in Mobile and Pervasive Computing](Default.aspx?tabid=292&newsid=17157)
+
 • **6-1-2026**: [Kết quả "Vòng quay may mắn" khảo sát ngành Trí tuệ nhân tạo](Default.aspx?tabid=292&newsid=17156)
 
 • **31-12-2025**: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](Default.aspx?tabid=292&newsid=17148)
@@ -113,8 +115,6 @@
 • **19-12-2025**: [Thời khóa biểu có phòng các lớp Học phần 1 Khóa 35/2025 - bắt đầu học 22/12/2025](Default.aspx?tabid=292&newsid=17129)
 
 • **18-12-2025**: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](Default.aspx?tabid=292&newsid=17126)
-
-• **17-12-2025**: [Mời tham dự buổi bảo vệ luận văn/đồ án tốt nghiệp thạc sĩ đợt tháng 12/2025](Default.aspx?tabid=292&newsid=17124)
 
 ## Student Information
 
