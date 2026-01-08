@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-08 at 13:39 +07***
+*Last updated: **2026-01-08 at 14:28 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **8-1-2026**: [[SĐH] Thông báo thay đổi tên/số phòng học các lớp HP1 Khóa 35/2025 từ 08/1/2026](Default.aspx?tabid=292&newsid=17162)
+
 • **8-1-2026**: [Lịch trực Cố vấn học tập HK2/ NH 2025-2026](Default.aspx?tabid=292&newsid=17161)
 
 • **8-1-2026**: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2025-2026](Default.aspx?tabid=292&newsid=17152)
@@ -113,8 +115,6 @@
 • **29-12-2025**: [Đăng ký tham gia Seminar Ph.D. Opportunities at Singapore Management University and Innovative Research in Mobile and Pervasive Computing](Default.aspx?tabid=292&newsid=17140)
 
 • **26-12-2025**: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](Default.aspx?tabid=292&newsid=17135)
-
-• **26-12-2025**: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T12/2025](Default.aspx?tabid=292&newsid=17134)
 
 ## Student Information
 
