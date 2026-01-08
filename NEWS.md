@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-08 at 06:24 +07***
+*Last updated: **2026-01-08 at 09:00 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **8-1-2026**: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2025-2026](Default.aspx?tabid=292&newsid=17152)
+
 • **7-1-2026**: [[CQ] DSSV nộp đơn đăng ký thực hiện đề tài tốt nghiệp khóa 2022, đợt 2 (bảo vệ tháng 7/2026)](Default.aspx?tabid=292&newsid=17158)
 
 • **7-1-2026**: [Tổng kết Seminar Ph.D. Opportunities at Singapore Management University and Innovative Research in Mobile and Pervasive Computing](Default.aspx?tabid=292&newsid=17157)
@@ -114,9 +116,9 @@
 
 • **22-12-2025**: [Mời tham dự buổi bảo vệ luận án tiến sĩ cấp đơn vị chuyên môn của NCS Phạm Minh Hoàng (14g00, 26/12, phòng F102)](Default.aspx?tabid=292&newsid=17130)
 
-• **19-12-2025**: [Thời khóa biểu có phòng các lớp Học phần 1 Khóa 35/2025 - bắt đầu học 22/12/2025](Default.aspx?tabid=292&newsid=17129)
-
 ## Student Information
+
+• **06/01/2026**: [Thông báo tổ chức đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/63051-2/)
 
 • **06/01/2026**: [Thông báo triển khai thu thập thông tin sức khỏe sinh viên năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-trien-khai-thu-thap-thong-tin-suc-khoe-sinh-vien-nam-hoc-2025-2026/)
 
