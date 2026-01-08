@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-08 at 09:00 +07***
+*Last updated: **2026-01-08 at 10:45 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **8-1-2026**: [Lịch trực Cố vấn học tập HK2/ NH 2025-2026](Default.aspx?tabid=292&newsid=17161)
+
 • **8-1-2026**: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2025-2026](Default.aspx?tabid=292&newsid=17152)
 
 • **7-1-2026**: [[CQ] DSSV nộp đơn đăng ký thực hiện đề tài tốt nghiệp khóa 2022, đợt 2 (bảo vệ tháng 7/2026)](Default.aspx?tabid=292&newsid=17158)
@@ -113,8 +115,6 @@
 • **26-12-2025**: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](Default.aspx?tabid=292&newsid=17135)
 
 • **26-12-2025**: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T12/2025](Default.aspx?tabid=292&newsid=17134)
-
-• **22-12-2025**: [Mời tham dự buổi bảo vệ luận án tiến sĩ cấp đơn vị chuyên môn của NCS Phạm Minh Hoàng (14g00, 26/12, phòng F102)](Default.aspx?tabid=292&newsid=17130)
 
 ## Student Information
 
