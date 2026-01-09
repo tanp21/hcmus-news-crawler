@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-09 at 16:32 +07***
+*Last updated: **2026-01-09 at 17:28 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **9-1-2026**: [Buổi giao lưu giữa chuyên gia Đại học Stanford với sinh viên, giảng viên Đại học Quốc gia Thành phố Hồ Chí Minh về các vấn đề mới trong phát triển bền vững tại Đông Nam Á](Default.aspx?tabid=292&newsid=17165)
+
 • **8-1-2026**: [[SĐH] Thông báo thay đổi tên/số phòng học các lớp HP1 Khóa 35/2025 từ 08/1/2026](Default.aspx?tabid=292&newsid=17162)
 
 • **8-1-2026**: [Lịch trực Cố vấn học tập HK2/ NH 2025-2026](Default.aspx?tabid=292&newsid=17161)
@@ -113,8 +115,6 @@
 • **29-12-2025**: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2027 - 2028](Default.aspx?tabid=292&newsid=17141)
 
 • **29-12-2025**: [Đăng ký tham gia Seminar Ph.D. Opportunities at Singapore Management University and Innovative Research in Mobile and Pervasive Computing](Default.aspx?tabid=292&newsid=17140)
-
-• **26-12-2025**: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](Default.aspx?tabid=292&newsid=17135)
 
 ## Student Information
 
