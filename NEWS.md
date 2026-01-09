@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-09 at 09:01 +07***
+*Last updated: **2026-01-09 at 11:03 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **09/01/2026**: [THƯ MỜI THÚC ĐẨY CHUYỂN GIAO CÔNG NGHỆ VÀ THƯƠNG MẠI HÓA KẾT QUẢ NGHIÊN CỨU TẠI TRƯỜNG ĐH KHTN, ĐHQG-HCM](https://hcmus.edu.vn/thu-moi-thuc-day-chuyen-giao-cong-nghe-va-thuong-mai-hoa-ket-qua-nghien-cuu-tai-truong-dh-khtn-dhqg-hcm/)
+
 • **06/01/2026**: [Thông báo tổ chức đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/63051-2/)
 
 • **06/01/2026**: [Thông báo triển khai thu thập thông tin sức khỏe sinh viên năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-trien-khai-thu-thap-thong-tin-suc-khoe-sinh-vien-nam-hoc-2025-2026/)
@@ -135,8 +137,6 @@
 • **25/12/2025**: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Chương trình Tiên tiến K2022 (Khoa Công nghệ Thông tin)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk3-2024-2025-chuong-trinh-tien-tien-k2022-khoa-cong-nghe-thong-tin/)
 
 • **24/12/2025**: [Thông báo nghỉ Tết Dương lịch năm 2026](https://hcmus.edu.vn/thong-bao-nghi-tet-duong-lich-nam-2026/)
-
-• **23/12/2025**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 3) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-3-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 
 ## Exam Announcements
 
