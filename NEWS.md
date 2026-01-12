@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-12 at 06:23 +07***
+*Last updated: **2026-01-12 at 09:06 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **12-1-2026**: [Đăng ký tham gia Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](Default.aspx?tabid=292&newsid=17167)
+
 • **10-1-2026**: [Cập nhật kết quả triển khai hỗ trợ sinh viên ở vùng ảnh hưởng bão lũ](Default.aspx?tabid=292&newsid=17166)
 
 • **9-1-2026**: [Buổi giao lưu giữa chuyên gia Đại học Stanford với sinh viên, giảng viên Đại học Quốc gia Thành phố Hồ Chí Minh về các vấn đề mới trong phát triển bền vững tại Đông Nam Á](Default.aspx?tabid=292&newsid=17165)
@@ -113,8 +115,6 @@
 • **6-1-2026**: [Kết quả "Vòng quay may mắn" khảo sát ngành Trí tuệ nhân tạo](Default.aspx?tabid=292&newsid=17156)
 
 • **31-12-2025**: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](Default.aspx?tabid=292&newsid=17148)
-
-• **29-12-2025**: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2027 - 2028](Default.aspx?tabid=292&newsid=17141)
 
 ## Student Information
 
