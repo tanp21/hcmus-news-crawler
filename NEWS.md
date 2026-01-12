@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-12 at 09:06 +07***
+*Last updated: **2026-01-12 at 11:12 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **12-1-2026**: [Hội nghị khoa học trẻ Trường Đại học Khoa học tự nhiên, ĐHQG-HCM Lần 3](Default.aspx?tabid=292&newsid=17168)
+
 • **12-1-2026**: [Đăng ký tham gia Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](Default.aspx?tabid=292&newsid=17167)
 
 • **10-1-2026**: [Cập nhật kết quả triển khai hỗ trợ sinh viên ở vùng ảnh hưởng bão lũ](Default.aspx?tabid=292&newsid=17166)
@@ -113,8 +115,6 @@
 • **7-1-2026**: [Tổng kết Seminar Ph.D. Opportunities at Singapore Management University and Innovative Research in Mobile and Pervasive Computing](Default.aspx?tabid=292&newsid=17157)
 
 • **6-1-2026**: [Kết quả "Vòng quay may mắn" khảo sát ngành Trí tuệ nhân tạo](Default.aspx?tabid=292&newsid=17156)
-
-• **31-12-2025**: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](Default.aspx?tabid=292&newsid=17148)
 
 ## Student Information
 
