@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-12 at 15:37 +07***
+*Last updated: **2026-01-12 at 16:36 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **12/01/2026**: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2025-2026/)
+
 • **12/01/2026**: [Thông báo thời gian nghỉ Tết Nguyên đán năm 2026](https://hcmus.edu.vn/thong-bao-thoi-gian-nghi-tet-nguyen-dan-nam-2026/)
 
 • **09/01/2026**: [THƯ MỜI THÚC ĐẨY CHUYỂN GIAO CÔNG NGHỆ VÀ THƯƠNG MẠI HÓA KẾT QUẢ NGHIÊN CỨU TẠI TRƯỜNG ĐH KHTN, ĐHQG-HCM](https://hcmus.edu.vn/thu-moi-thuc-day-chuyen-giao-cong-nghe-va-thuong-mai-hoa-ket-qua-nghien-cuu-tai-truong-dh-khtn-dhqg-hcm/)
@@ -135,8 +137,6 @@
 • **25/12/2025**: [Thông báo Chương trình học bổng Vừ A Dính năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-2025/)
 
 • **25/12/2025**: [[POSTECH] Call for 2026 POSTECH Summer Program (Research Intensive)](https://hcmus.edu.vn/postech-call-for-2026-postech-summer-program-research-intensive/)
-
-• **25/12/2025**: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Chương trình Tiên tiến K2022 (Khoa Công nghệ Thông tin)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk3-2024-2025-chuong-trinh-tien-tien-k2022-khoa-cong-nghe-thong-tin/)
 
 ## Exam Announcements
 
