@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-16 at 14:27 +07***
+*Last updated: **2026-01-16 at 15:35 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **16-1-2026**: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2025](Default.aspx?tabid=292&newsid=17175)
+
 • **13-1-2026**: [Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 33/2023](Default.aspx?tabid=292&newsid=17173)
 
 • **12-1-2026**: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2025 - 2026](Default.aspx?tabid=292&newsid=17171)
@@ -113,8 +115,6 @@
 • **8-1-2026**: [Lịch trực Cố vấn học tập HK2/ NH 2025-2026](Default.aspx?tabid=292&newsid=17161)
 
 • **8-1-2026**: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2025-2026](Default.aspx?tabid=292&newsid=17152)
-
-• **7-1-2026**: [[CQ] DSSV nộp đơn đăng ký thực hiện đề tài tốt nghiệp khóa 2022, đợt 2 (bảo vệ tháng 7/2026)](Default.aspx?tabid=292&newsid=17158)
 
 ## Student Information
 
