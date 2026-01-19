@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-19 at 16:38 +07***
+*Last updated: **2026-01-19 at 17:33 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **17-1-2026**: [Tổng kết Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](Default.aspx?tabid=292&newsid=17176)
+
 • **16-1-2026**: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2025](Default.aspx?tabid=292&newsid=17175)
 
 • **13-1-2026**: [Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 33/2023](Default.aspx?tabid=292&newsid=17173)
@@ -113,8 +115,6 @@
 • **8-1-2026**: [[SĐH] Thông báo thay đổi tên/số phòng học các lớp HP1 Khóa 35/2025 từ 08/1/2026](Default.aspx?tabid=292&newsid=17162)
 
 • **8-1-2026**: [Lịch trực Cố vấn học tập HK2/ NH 2025-2026](Default.aspx?tabid=292&newsid=17161)
-
-• **8-1-2026**: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2025-2026](Default.aspx?tabid=292&newsid=17152)
 
 ## Student Information
 
