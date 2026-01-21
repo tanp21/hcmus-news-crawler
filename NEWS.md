@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-21 at 11:07 +07***
+*Last updated: **2026-01-21 at 12:32 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **21/01/2026**: [TB Về việc tích lũy hoạt động cho chuyên đề B trong đợt Sinh hoạt công dân – sinh viên đầu năm học, năm học 2026-2027](https://hcmus.edu.vn/tb-ve-viec-tich-luy-hoat-dong-cho-chuyen-de-b-trong-dot-sinh-hoat-cong-dan-sinh-vien-dau-nam-hoc-nam-hoc-2026-2027/)
+
 • **20/01/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – De la Salle University (DLSU), Philippines](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-de-la-salle-university-dlsu-philippines/)
 
 • **19/01/2026**: [[THÔNG BÁO] Chương trình hè UBC Vancouver 2026 – ĐH British Columbia, Canada](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-ubc-vancouver-2026-dh-british-columbia-canada/)
@@ -135,8 +137,6 @@
 • **05/01/2026**: [Thông báo kết quả chính thức Học bổng khuyến khích HK3/2024-2025 Chương trình Tiên tiến K2022 (Khoa Công nghệ Thông tin)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hk3-2024-2025-chuong-trinh-tien-tien-k2022-khoa-cong-nghe-thong-tin/)
 
 • **30/12/2025**: [[THÔNG BÁO] Chương trình Winter Camp 2026 – The Chinese University of Hong Kong, Shenzhen](https://hcmus.edu.vn/thong-bao-chuong-trinh-winter-camp-2026-the-chinese-university-of-hong-kong-shenzhen/)
-
-• **26/12/2025**: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2025, môn chung khóa 2024 về trước trong HK2/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2025-mon-chung-khoa-2024-ve-truoc-trong-hk2-2025-2026-tai-co-so-2/)
 
 ## Exam Announcements
 
