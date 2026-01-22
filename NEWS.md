@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-22 at 13:40 +07***
+*Last updated: **2026-01-22 at 14:31 +07***
 
 ---
 
@@ -30,6 +30,8 @@
 
 ### Academic Affairs
 
+• **22/01/2026**: [[CTĐA] – Thông báo phúc khảo HK1/2526](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda-thong-bao-phuc-khao-hk1-2526/)
+
 • **06/01/2026**: [[CTĐA] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda-thong-bao-nop-bao-cao-tien-do-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-thang-04-2026/)
 
 • **01/01/2026**: [Thông báo kết quả Vòng quay may mắn – Khảo sát sử dụng công cụ AI trong học tập](https://www.ctda.hcmus.edu.vn/vi/2026/01/thong-bao-ket-qua-vong-quay-may-man-khao-sat-su-dung-cong-cu-ai-trong-hoc-tap/)
@@ -47,8 +49,6 @@
 • **29/10/2025**: [Quy định đăng ký thực hiện và bảo vệ đề tài tốt nghiệp áp dụng từ HK1/2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/10/quy-dinh-dang-ky-thuc-hien-va-bao-ve-de-tai-tot-nghiep-ap-dung-tu-hk1-2025-2026/)
 
 • **22/10/2025**: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 2 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/10/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-thang-04-2026/)
-
-• **18/10/2025**: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2022](https://www.ctda.hcmus.edu.vn/vi/2025/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2022/)
 
 ### Student Support
 
