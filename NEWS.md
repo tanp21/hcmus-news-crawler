@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-22 at 19:58 +07***
+*Last updated: **2026-01-22 at 20:52 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **22-1-2026**: [Tổng kết Seminar giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2027 - 2028](Default.aspx?tabid=292&newsid=17178)
+
 • **17-1-2026**: [Tổng kết Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](Default.aspx?tabid=292&newsid=17176)
 
 • **16-1-2026**: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2025](Default.aspx?tabid=292&newsid=17175)
@@ -113,8 +115,6 @@
 • **9-1-2026**: [Buổi giao lưu giữa chuyên gia Đại học Stanford với sinh viên, giảng viên Đại học Quốc gia Thành phố Hồ Chí Minh về các vấn đề mới trong phát triển bền vững tại Đông Nam Á](Default.aspx?tabid=292&newsid=17165)
 
 • **8-1-2026**: [[SĐH] Thông báo thay đổi tên/số phòng học các lớp HP1 Khóa 35/2025 từ 08/1/2026](Default.aspx?tabid=292&newsid=17162)
-
-• **8-1-2026**: [Lịch trực Cố vấn học tập HK2/ NH 2025-2026](Default.aspx?tabid=292&newsid=17161)
 
 ## Student Information
 
