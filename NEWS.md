@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-23 at 15:35 +07***
+*Last updated: **2026-01-23 at 16:34 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **23/01/2026**: [Thông báo nhận bằng tốt nghiệp đại học, cao đẳng (đợt tháng 11 /2025)](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dai-hoc-cao-dang-dot-thang-11-2025/)
+
 • **22/01/2026**: [THÔNG BÁO Về Chương trình Học bổng Love Fund của Tập đoàn HQTS](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-love-fund-cua-tap-doan-hqts/)
 
 • **22/01/2026**: [Thông báo thu học phí học kỳ 2 năm học 2025-2026 đối với sinh viên trình độ đại học các chương trình theo đề án](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-cac-chuong-trinh-theo-de-an/)
@@ -135,8 +137,6 @@
 • **09/01/2026**: [THƯ MỜI THÚC ĐẨY CHUYỂN GIAO CÔNG NGHỆ VÀ THƯƠNG MẠI HÓA KẾT QUẢ NGHIÊN CỨU TẠI TRƯỜNG ĐH KHTN, ĐHQG-HCM](https://hcmus.edu.vn/thu-moi-thuc-day-chuyen-giao-cong-nghe-va-thuong-mai-hoa-ket-qua-nghien-cuu-tai-truong-dh-khtn-dhqg-hcm/)
 
 • **06/01/2026**: [Thông báo tổ chức đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/63051-2/)
-
-• **06/01/2026**: [Thông báo triển khai thu thập thông tin sức khỏe sinh viên năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-trien-khai-thu-thap-thong-tin-suc-khoe-sinh-vien-nam-hoc-2025-2026/)
 
 ## Exam Announcements
 
