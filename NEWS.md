@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-26 at 09:11 +07***
+*Last updated: **2026-01-26 at 11:18 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **26-1-2026**: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2026](Default.aspx?tabid=292&newsid=17180)
+
+• **26-1-2026**: [[CQ] Điều chỉnh thời gian bảo vệ các đề tài tốt nghiệp Khóa 2022-1 (tháng 3/2026)](Default.aspx?tabid=292&newsid=17179)
+
 • **22-1-2026**: [Tổng kết Seminar giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2027 - 2028](Default.aspx?tabid=292&newsid=17178)
 
 • **17-1-2026**: [Tổng kết Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](Default.aspx?tabid=292&newsid=17176)
@@ -111,10 +115,6 @@
 • **12-1-2026**: [Đăng ký tham gia Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](Default.aspx?tabid=292&newsid=17167)
 
 • **10-1-2026**: [Cập nhật kết quả triển khai hỗ trợ sinh viên ở vùng ảnh hưởng bão lũ](Default.aspx?tabid=292&newsid=17166)
-
-• **9-1-2026**: [Buổi giao lưu giữa chuyên gia Đại học Stanford với sinh viên, giảng viên Đại học Quốc gia Thành phố Hồ Chí Minh về các vấn đề mới trong phát triển bền vững tại Đông Nam Á](Default.aspx?tabid=292&newsid=17165)
-
-• **8-1-2026**: [[SĐH] Thông báo thay đổi tên/số phòng học các lớp HP1 Khóa 35/2025 từ 08/1/2026](Default.aspx?tabid=292&newsid=17162)
 
 ## Student Information
 
