@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-01-29 at 09:26 +07***
+*Last updated: **2026-01-29 at 11:41 +07***
 
 ---
 
@@ -118,6 +118,10 @@
 
 ## Student Information
 
+• **29/01/2026**: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026 đối với sinh viên trình độ đại học hệ chính quy các chương trình, công bố danh sách tốt nghiệp vào tháng 4 và tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-cong-bo-danh-sach-tot-nghiep-vao-thang-4-va-thang-6-nam-2026/)
+
+• **29/01/2026**: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2022 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2022-tro-ve-truoc/)
+
 • **23/01/2026**: [Thông báo nhận bằng tốt nghiệp đại học, cao đẳng (đợt tháng 11 /2025)](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dai-hoc-cao-dang-dot-thang-11-2025/)
 
 • **22/01/2026**: [THÔNG BÁO Về Chương trình Học bổng Love Fund của Tập đoàn HQTS](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-love-fund-cua-tap-doan-hqts/)
@@ -133,10 +137,6 @@
 • **12/01/2026**: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2025-2026/)
 
 • **12/01/2026**: [Thông báo thời gian nghỉ Tết Nguyên đán năm 2026](https://hcmus.edu.vn/thong-bao-thoi-gian-nghi-tet-nguyen-dan-nam-2026/)
-
-• **09/01/2026**: [THƯ MỜI THÚC ĐẨY CHUYỂN GIAO CÔNG NGHỆ VÀ THƯƠNG MẠI HÓA KẾT QUẢ NGHIÊN CỨU TẠI TRƯỜNG ĐH KHTN, ĐHQG-HCM](https://hcmus.edu.vn/thu-moi-thuc-day-chuyen-giao-cong-nghe-va-thuong-mai-hoa-ket-qua-nghien-cuu-tai-truong-dh-khtn-dhqg-hcm/)
-
-• **06/01/2026**: [Thông báo tổ chức đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/63051-2/)
 
 ## Exam Announcements
 
