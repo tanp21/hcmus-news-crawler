@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-02 at 17:52 +07***
+*Last updated: **2026-02-02 at 18:38 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **2-2-2026**: [[SĐH] Kế hoạch bảo vệ đề tài tốt nghiệp dành cho học viên cao học năm 2026](Default.aspx?tabid=292&newsid=17189)
+
 • **2-2-2026**: [Thông báo xét tuyển sinh viên tham gia chương trình liên thông môn học ĐH-ThS năm 2026](Default.aspx?tabid=292&newsid=17188)
 
 • **26-1-2026**: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2026](Default.aspx?tabid=292&newsid=17180)
@@ -113,8 +115,6 @@
 • **12-1-2026**: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2025 - 2026](Default.aspx?tabid=292&newsid=17171)
 
 • **12-1-2026**: [Hội nghị khoa học trẻ Trường Đại học Khoa học tự nhiên, ĐHQG-HCM Lần 3](Default.aspx?tabid=292&newsid=17168)
-
-• **12-1-2026**: [Đăng ký tham gia Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](Default.aspx?tabid=292&newsid=17167)
 
 ## Student Information
 
