@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-02 at 06:29 +07***
+*Last updated: **2026-02-02 at 09:35 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **02/02/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – ​Universitas Airlangga (UNAIR), Indonesia](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universitas-airlangga-unair-indonesia/)
+
 • **29/01/2026**: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026 đối với sinh viên trình độ đại học hệ chính quy các chương trình, công bố danh sách tốt nghiệp vào tháng 4 và tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-cong-bo-danh-sach-tot-nghiep-vao-thang-4-va-thang-6-nam-2026/)
 
 • **29/01/2026**: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2022 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2022-tro-ve-truoc/)
@@ -135,8 +137,6 @@
 • **19/01/2026**: [[THÔNG BÁO] Chương trình hè UBC Vancouver 2026 – ĐH British Columbia, Canada](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-ubc-vancouver-2026-dh-british-columbia-canada/)
 
 • **12/01/2026**: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2025-2026/)
-
-• **12/01/2026**: [Thông báo thời gian nghỉ Tết Nguyên đán năm 2026](https://hcmus.edu.vn/thong-bao-thoi-gian-nghi-tet-nguyen-dan-nam-2026/)
 
 ## Exam Announcements
 
