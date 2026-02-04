@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-04 at 14:50 +07***
+*Last updated: **2026-02-04 at 15:50 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **04/02/2026**: [Thông báo mở lớp học lại (vét) môn MTH00083-Thực hành Đại số tuyến tính cho khóa tuyển 2024 về trước các nhóm ngành CNTT, Trí tuệ nhân tạo, KH dữ liệu](https://hcmus.edu.vn/thong-bao-mo-lop-hoc-lai-vet-mon-mth00083-thuc-hanh-dai-so-tuyen-tinh-cho-khoa-tuyen-2024-ve-truoc-cac-nhom-nganh-cntt-tri-tue-nhan-tao-kh-du-lieu/)
+
 • **03/02/2026**: [[THÔNG BÁO] Chương trình học bổng Okazaki Kaheita 2027 – Quỹ học bổng Okazaki Kaheita, Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-okazaki-kaheita-2027-quy-hoc-bong-okazaki-kaheita-nhat-ban/)
 
 • **02/02/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – ​Universitas Airlangga (UNAIR), Indonesia](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universitas-airlangga-unair-indonesia/)
@@ -135,8 +137,6 @@
 • **21/01/2026**: [TB Về việc tích lũy hoạt động cho chuyên đề B trong đợt Sinh hoạt công dân – sinh viên đầu năm học, năm học 2026-2027](https://hcmus.edu.vn/tb-ve-viec-tich-luy-hoat-dong-cho-chuyen-de-b-trong-dot-sinh-hoat-cong-dan-sinh-vien-dau-nam-hoc-nam-hoc-2026-2027/)
 
 • **20/01/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – De la Salle University (DLSU), Philippines](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-de-la-salle-university-dlsu-philippines/)
-
-• **19/01/2026**: [[THÔNG BÁO] Chương trình hè UBC Vancouver 2026 – ĐH British Columbia, Canada](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-ubc-vancouver-2026-dh-british-columbia-canada/)
 
 ## Exam Announcements
 
