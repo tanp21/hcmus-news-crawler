@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-10 at 16:00 +07***
+*Last updated: **2026-02-10 at 17:56 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **10-2-2026**: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T7/2026)](Default.aspx?tabid=292&newsid=17195)
+
 • **9-2-2026**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 1 (tháng 3/2026)](Default.aspx?tabid=292&newsid=17194)
 
 • **6-2-2026**: [[SĐH] Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Cao Xuân Nam (8g00, 10/02, phòng F102)](Default.aspx?tabid=292&newsid=17193)
@@ -113,8 +115,6 @@
 • **17-1-2026**: [Tổng kết Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](Default.aspx?tabid=292&newsid=17176)
 
 • **16-1-2026**: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2025](Default.aspx?tabid=292&newsid=17175)
-
-• **13-1-2026**: [Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 33/2023](Default.aspx?tabid=292&newsid=17173)
 
 ## Student Information
 
