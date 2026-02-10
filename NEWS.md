@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-10 at 09:44 +07***
+*Last updated: **2026-02-10 at 12:07 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **10/02/2026**: [[THÔNG BÁO] Chương trình thực tập tại Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-tai-truong-ky-thuat-dai-hoc-quoc-lap-chung-cheng-dai-loan-nam-2026/)
+
 • **06/02/2026**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 4) đối với sinh viên và học viên Sau Đại học](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-4-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc/)
 
 • **05/02/2026**: [Thông báo điều chỉnh thời gian đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên Đại học hệ chính quy, chương trình đại trà](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
@@ -135,8 +137,6 @@
 • **29/01/2026**: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026 đối với sinh viên trình độ đại học hệ chính quy các chương trình, công bố danh sách tốt nghiệp vào tháng 4 và tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-cong-bo-danh-sach-tot-nghiep-vao-thang-4-va-thang-6-nam-2026/)
 
 • **29/01/2026**: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2022 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2022-tro-ve-truoc/)
-
-• **23/01/2026**: [Thông báo nhận bằng tốt nghiệp đại học, cao đẳng (đợt tháng 11 /2025)](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dai-hoc-cao-dang-dot-thang-11-2025/)
 
 ## Exam Announcements
 
