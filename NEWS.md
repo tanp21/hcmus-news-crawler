@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-11 at 15:55 +07***
+*Last updated: **2026-02-11 at 16:57 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **11-2-2026**: [Thầy Cao Xuân Nam bảo vệ thành công Luận án Tiến sĩ ngành Khoa học máy tính](Default.aspx?tabid=292&newsid=17196)
+
 • **10-2-2026**: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T7/2026)](Default.aspx?tabid=292&newsid=17195)
 
 • **9-2-2026**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 1 (tháng 3/2026)](Default.aspx?tabid=292&newsid=17194)
@@ -114,9 +116,11 @@
 
 • **17-1-2026**: [Tổng kết Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](Default.aspx?tabid=292&newsid=17176)
 
-• **16-1-2026**: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2025](Default.aspx?tabid=292&newsid=17175)
-
 ## Student Information
+
+• **11/02/2026**: [Thông báo hủy các lớp Thể dục 2, Anh văn 2 K2025](https://hcmus.edu.vn/thong-bao-huy-cac-lop-the-duc-2-anh-van-2-k2025/)
+
+• **11/02/2026**: [Thông báo Hủy các lớp Anh văn 1, Anh văn 3 trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-huy-cac-lop-anh-van-1-anh-van-3-trong-hk2-2025-2026/)
 
 • **11/02/2026**: [Thông báo mở bổ sung các lớp môn Lịch sử đảng, Tư tưởng HCM trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-mon-lich-su-dang-tu-tuong-hcm-trong-hk2-2025-2026/)
 
@@ -133,10 +137,6 @@
 • **04/02/2026**: [Thông báo mở lớp học lại (vét) môn MTH00083-Thực hành Đại số tuyến tính cho khóa tuyển 2024 về trước các nhóm ngành CNTT, Trí tuệ nhân tạo, KH dữ liệu](https://hcmus.edu.vn/thong-bao-mo-lop-hoc-lai-vet-mon-mth00083-thuc-hanh-dai-so-tuyen-tinh-cho-khoa-tuyen-2024-ve-truoc-cac-nhom-nganh-cntt-tri-tue-nhan-tao-kh-du-lieu/)
 
 • **03/02/2026**: [[THÔNG BÁO] Chương trình học bổng Okazaki Kaheita 2027 – Quỹ học bổng Okazaki Kaheita, Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-okazaki-kaheita-2027-quy-hoc-bong-okazaki-kaheita-nhat-ban/)
-
-• **02/02/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – ​Universitas Airlangga (UNAIR), Indonesia](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universitas-airlangga-unair-indonesia/)
-
-• **29/01/2026**: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026 đối với sinh viên trình độ đại học hệ chính quy các chương trình, công bố danh sách tốt nghiệp vào tháng 4 và tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-cong-bo-danh-sach-tot-nghiep-vao-thang-4-va-thang-6-nam-2026/)
 
 ## Exam Announcements
 
