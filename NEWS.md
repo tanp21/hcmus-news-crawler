@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-11 at 12:05 +07***
+*Last updated: **2026-02-11 at 14:06 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **11/02/2026**: [Thông báo mở bổ sung các lớp môn Lịch sử đảng, Tư tưởng HCM trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-mon-lich-su-dang-tu-tuong-hcm-trong-hk2-2025-2026/)
+
 • **10/02/2026**: [[THÔNG BÁO] Chương trình thực tập tại Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-tai-truong-ky-thuat-dai-hoc-quoc-lap-chung-cheng-dai-loan-nam-2026/)
 
 • **06/02/2026**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 4) đối với sinh viên và học viên Sau Đại học](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-4-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc/)
@@ -135,8 +137,6 @@
 • **02/02/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – ​Universitas Airlangga (UNAIR), Indonesia](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universitas-airlangga-unair-indonesia/)
 
 • **29/01/2026**: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026 đối với sinh viên trình độ đại học hệ chính quy các chương trình, công bố danh sách tốt nghiệp vào tháng 4 và tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-cong-bo-danh-sach-tot-nghiep-vao-thang-4-va-thang-6-nam-2026/)
-
-• **29/01/2026**: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2022 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2022-tro-ve-truoc/)
 
 ## Exam Announcements
 
