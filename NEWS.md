@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-13 at 15:50 +07***
+*Last updated: **2026-02-13 at 16:51 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **13-2-2026**: [[CQ] Danh sách lớp hủy HK2/25-26 do không đủ số lượng mở lớp](Default.aspx?tabid=292&newsid=17202)
+
 • **11-2-2026**: [Thầy Cao Xuân Nam bảo vệ thành công Luận án Tiến sĩ ngành Khoa học máy tính](Default.aspx?tabid=292&newsid=17196)
 
 • **10-2-2026**: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T7/2026)](Default.aspx?tabid=292&newsid=17195)
@@ -113,8 +115,6 @@
 • **26-1-2026**: [[CQ] Điều chỉnh thời gian bảo vệ các đề tài tốt nghiệp Khóa 2022-1 (tháng 3/2026)](Default.aspx?tabid=292&newsid=17179)
 
 • **22-1-2026**: [Tổng kết Seminar giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2027 - 2028](Default.aspx?tabid=292&newsid=17178)
-
-• **17-1-2026**: [Tổng kết Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](Default.aspx?tabid=292&newsid=17176)
 
 ## Student Information
 
