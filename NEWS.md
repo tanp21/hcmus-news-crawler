@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-23 at 14:09 +07***
+*Last updated: **2026-02-23 at 15:55 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **23-2-2026**: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 5/3/2026](Default.aspx?tabid=292&newsid=17203)
+
 • **13-2-2026**: [[CQ] Danh sách lớp hủy HK2/25-26 do không đủ số lượng mở lớp](Default.aspx?tabid=292&newsid=17202)
 
 • **11-2-2026**: [Thầy Cao Xuân Nam bảo vệ thành công Luận án Tiến sĩ ngành Khoa học máy tính](Default.aspx?tabid=292&newsid=17196)
@@ -113,8 +115,6 @@
 • **26-1-2026**: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2026](Default.aspx?tabid=292&newsid=17180)
 
 • **26-1-2026**: [[CQ] Điều chỉnh thời gian bảo vệ các đề tài tốt nghiệp Khóa 2022-1 (tháng 3/2026)](Default.aspx?tabid=292&newsid=17179)
-
-• **22-1-2026**: [Tổng kết Seminar giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2027 - 2028](Default.aspx?tabid=292&newsid=17178)
 
 ## Student Information
 
