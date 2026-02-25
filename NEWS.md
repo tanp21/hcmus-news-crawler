@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-25 at 06:36 +07***
+*Last updated: **2026-02-25 at 09:32 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **25/02/2026**: [Thông báo mở lớp bổ sung môn Lịch sử đảng, Tư tưởng HCM K2024](https://hcmus.edu.vn/thong-bao-mo-lop-bo-sung-mon-lich-su-dang-tu-tuong-hcm-k2024/)
+
 • **11/02/2026**: [Thông báo hủy các lớp Thể dục 2, Anh văn 2 K2025](https://hcmus.edu.vn/thong-bao-huy-cac-lop-the-duc-2-anh-van-2-k2025/)
 
 • **11/02/2026**: [Thông báo Hủy các lớp Anh văn 1, Anh văn 3 trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-huy-cac-lop-anh-van-1-anh-van-3-trong-hk2-2025-2026/)
@@ -135,8 +137,6 @@
 • **04/02/2026**: [Thông báo Kế hoạch dạy và học các môn chính trị trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-ke-hoach-day-va-hoc-cac-mon-chinh-tri-trong-hk2-2025-2026/)
 
 • **04/02/2026**: [Thông báo mở lớp học lại (vét) môn MTH00083-Thực hành Đại số tuyến tính cho khóa tuyển 2024 về trước các nhóm ngành CNTT, Trí tuệ nhân tạo, KH dữ liệu](https://hcmus.edu.vn/thong-bao-mo-lop-hoc-lai-vet-mon-mth00083-thuc-hanh-dai-so-tuyen-tinh-cho-khoa-tuyen-2024-ve-truoc-cac-nhom-nganh-cntt-tri-tue-nhan-tao-kh-du-lieu/)
-
-• **03/02/2026**: [[THÔNG BÁO] Chương trình học bổng Okazaki Kaheita 2027 – Quỹ học bổng Okazaki Kaheita, Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-okazaki-kaheita-2027-quy-hoc-bong-okazaki-kaheita-nhat-ban/)
 
 ## Exam Announcements
 
