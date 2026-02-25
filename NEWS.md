@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-25 at 14:54 +07***
+*Last updated: **2026-02-25 at 15:55 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **25-2-2026**: [Đăng ký tham gia Workshop on Sensor Informatics](Default.aspx?tabid=292&newsid=17206)
+
 • **23-2-2026**: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 5/3/2026](Default.aspx?tabid=292&newsid=17203)
 
 • **13-2-2026**: [[CQ] Danh sách lớp hủy HK2/25-26 do không đủ số lượng mở lớp](Default.aspx?tabid=292&newsid=17202)
@@ -113,8 +115,6 @@
 • **2-2-2026**: [Thông báo xét tuyển sinh viên tham gia chương trình liên thông môn học ĐH-ThS năm 2026](Default.aspx?tabid=292&newsid=17188)
 
 • **26-1-2026**: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2026](Default.aspx?tabid=292&newsid=17180)
-
-• **26-1-2026**: [[CQ] Điều chỉnh thời gian bảo vệ các đề tài tốt nghiệp Khóa 2022-1 (tháng 3/2026)](Default.aspx?tabid=292&newsid=17179)
 
 ## Student Information
 
