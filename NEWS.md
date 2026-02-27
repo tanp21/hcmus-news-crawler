@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-27 at 09:27 +07***
+*Last updated: **2026-02-27 at 11:48 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **27-2-2026**: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 1 (T3/2026)](Default.aspx?tabid=292&newsid=17209)
+
 • **26-2-2026**: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 5/3](Default.aspx?tabid=292&newsid=17207)
 
 • **25-2-2026**: [Đăng ký tham gia Workshop on Sensor Informatics](Default.aspx?tabid=292&newsid=17206)
@@ -114,9 +116,9 @@
 
 • **2-2-2026**: [[SĐH] Kế hoạch bảo vệ đề tài tốt nghiệp dành cho học viên cao học năm 2026](Default.aspx?tabid=292&newsid=17189)
 
-• **2-2-2026**: [Thông báo xét tuyển sinh viên tham gia chương trình liên thông môn học ĐH-ThS năm 2026](Default.aspx?tabid=292&newsid=17188)
-
 ## Student Information
+
+• **27/02/2026**: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 2/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2025-2026/)
 
 • **25/02/2026**: [[THÔNG BÁO] Học bổng toàn phần ICCR năm học 2026–2027 – Chính phủ Ấn Độ](https://hcmus.edu.vn/thong-bao-hoc-bong-toan-phan-iccr-nam-hoc-2026-2027-chinh-phu-an-do/)
 
@@ -135,8 +137,6 @@
 • **05/02/2026**: [Thông báo điều chỉnh thời gian đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên Đại học hệ chính quy, chương trình đại trà](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
 
 • **05/02/2026**: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026 đối với sinh viên hệ chính quy chương trình liên thông đại học](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-lien-thong-dai-hoc/)
-
-• **04/02/2026**: [Thông báo Kế hoạch dạy và học các môn chính trị trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-ke-hoach-day-va-hoc-cac-mon-chinh-tri-trong-hk2-2025-2026/)
 
 ## Exam Announcements
 
