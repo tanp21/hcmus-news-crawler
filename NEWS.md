@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-02-27 at 16:48 +07***
+*Last updated: **2026-02-27 at 17:42 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **27-2-2026**: [[CQ] TKB lý thuyết có phòng học kỳ 2, năm học 2025-2026](Default.aspx?tabid=292&newsid=17212)
+
 • **27-2-2026**: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 1 (T3/2026)](Default.aspx?tabid=292&newsid=17209)
 
 • **26-2-2026**: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 5/3](Default.aspx?tabid=292&newsid=17207)
@@ -113,8 +115,6 @@
 • **9-2-2026**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 1 (tháng 3/2026)](Default.aspx?tabid=292&newsid=17194)
 
 • **6-2-2026**: [[SĐH] Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Cao Xuân Nam (8g00, 10/02, phòng F102)](Default.aspx?tabid=292&newsid=17193)
-
-• **2-2-2026**: [[SĐH] Kế hoạch bảo vệ đề tài tốt nghiệp dành cho học viên cao học năm 2026](Default.aspx?tabid=292&newsid=17189)
 
 ## Student Information
 
