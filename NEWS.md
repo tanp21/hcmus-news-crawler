@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-02 at 15:51 +07***
+*Last updated: **2026-03-02 at 16:55 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **2-3-2026**: [Đăng ký tham quan công ty BioTuring ngày 9/3](Default.aspx?tabid=292&newsid=17215)
+
 • **2-3-2026**: [[CQ] Thông báo nghỉ học lớp Hệ thống viễn thông và Mạng máy tính ngày 4/3/2026](Default.aspx?tabid=292&newsid=17214)
 
 • **27-2-2026**: [[CQ] TKB lý thuyết có phòng học kỳ 2, năm học 2025-2026](Default.aspx?tabid=292&newsid=17212)
@@ -113,8 +115,6 @@
 • **11-2-2026**: [Thầy Cao Xuân Nam bảo vệ thành công Luận án Tiến sĩ ngành Khoa học máy tính](Default.aspx?tabid=292&newsid=17196)
 
 • **10-2-2026**: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T7/2026)](Default.aspx?tabid=292&newsid=17195)
-
-• **9-2-2026**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 1 (tháng 3/2026)](Default.aspx?tabid=292&newsid=17194)
 
 ## Student Information
 
