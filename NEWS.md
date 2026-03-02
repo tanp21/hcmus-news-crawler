@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-02 at 14:04 +07***
+*Last updated: **2026-03-02 at 15:51 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **2-3-2026**: [[CQ] Thông báo nghỉ học lớp Hệ thống viễn thông và Mạng máy tính ngày 4/3/2026](Default.aspx?tabid=292&newsid=17214)
+
 • **27-2-2026**: [[CQ] TKB lý thuyết có phòng học kỳ 2, năm học 2025-2026](Default.aspx?tabid=292&newsid=17212)
 
 • **27-2-2026**: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 1 (T3/2026)](Default.aspx?tabid=292&newsid=17209)
@@ -114,9 +116,11 @@
 
 • **9-2-2026**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 1 (tháng 3/2026)](Default.aspx?tabid=292&newsid=17194)
 
-• **6-2-2026**: [[SĐH] Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Cao Xuân Nam (8g00, 10/02, phòng F102)](Default.aspx?tabid=292&newsid=17193)
-
 ## Student Information
+
+• **02/03/2026**: [Thông báo hủy các lớp Kinh tế ĐC, Lịch sử Đảng, PP luận sáng tạo do không đủ số lượng đăng ký tại cơ sở 2,](https://hcmus.edu.vn/thong-bao-huy-cac-lop-kinh-te-dc-lich-su-dang-pp-luan-sang-tao-do-khong-du-so-luong-dang-ky-tai-co-so-2/)
+
+• **02/03/2026**: [Thông báo cập nhật TKB Thể dục 2 HK2/2025-2026](https://hcmus.edu.vn/thong-bao-cap-nhat-tkb-the-duc-2-hk2-2025-2026/)
 
 • **27/02/2026**: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 2/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2025-2026/)
 
@@ -133,10 +137,6 @@
 • **10/02/2026**: [[THÔNG BÁO] Chương trình thực tập tại Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-tai-truong-ky-thuat-dai-hoc-quoc-lap-chung-cheng-dai-loan-nam-2026/)
 
 • **06/02/2026**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 4) đối với sinh viên và học viên Sau Đại học](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-4-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc/)
-
-• **05/02/2026**: [Thông báo điều chỉnh thời gian đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên Đại học hệ chính quy, chương trình đại trà](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
-
-• **05/02/2026**: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026 đối với sinh viên hệ chính quy chương trình liên thông đại học](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-lien-thong-dai-hoc/)
 
 ## Exam Announcements
 
