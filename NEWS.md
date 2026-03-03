@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-03 at 13:58 +07***
+*Last updated: **2026-03-03 at 14:48 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **3-3-2026**: [Thời khóa biểu lớp bổ túc kiến thức khóa tháng 3/2026 dành cho học viên cao học](Default.aspx?tabid=292&newsid=17221)
+
 • **3-3-2026**: [Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17220)
 
 • **3-3-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 4/2026](Default.aspx?tabid=292&newsid=17219)
@@ -113,8 +115,6 @@
 • **26-2-2026**: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 5/3](Default.aspx?tabid=292&newsid=17207)
 
 • **25-2-2026**: [Đăng ký tham gia Workshop on Sensor Informatics](Default.aspx?tabid=292&newsid=17206)
-
-• **23-2-2026**: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 5/3/2026](Default.aspx?tabid=292&newsid=17203)
 
 ## Student Information
 
