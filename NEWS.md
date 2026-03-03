@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-03 at 09:32 +07***
+*Last updated: **2026-03-03 at 11:49 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **3-3-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 4/2026](Default.aspx?tabid=292&newsid=17219)
+
 • **3-3-2026**: [[CQ] Thông báo nghỉ học lớp Trực quan hóa dữ liệu ngày 5/3/2026 (Thứ 5)](Default.aspx?tabid=292&newsid=17216)
 
 • **2-3-2026**: [Đăng ký tham quan công ty BioTuring ngày 9/3](Default.aspx?tabid=292&newsid=17215)
@@ -114,13 +116,11 @@
 
 • **13-2-2026**: [[CQ] Danh sách lớp hủy HK2/25-26 do không đủ số lượng mở lớp](Default.aspx?tabid=292&newsid=17202)
 
-• **11-2-2026**: [Thầy Cao Xuân Nam bảo vệ thành công Luận án Tiến sĩ ngành Khoa học máy tính](Default.aspx?tabid=292&newsid=17196)
-
 ## Student Information
 
 • **03/03/2026**: [Thông báo Kết quả dự kiến Điểm rèn luyện HK1/2025 – 2026 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien/)
 
-• **02/03/2026**: [Thông báo hủy các lớp Kinh tế ĐC, Lịch sử Đảng, PP luận sáng tạo do không đủ số lượng đăng ký tại cơ sở 2,](https://hcmus.edu.vn/thong-bao-huy-cac-lop-kinh-te-dc-lich-su-dang-pp-luan-sang-tao-do-khong-du-so-luong-dang-ky-tai-co-so-2/)
+• **02/03/2026**: [Thông báo ghép các lớp Kinh tế ĐC, Lịch sử Đảng, PP luận sáng tạo do không đủ số lượng đăng ký tại cơ sở 2](https://hcmus.edu.vn/thong-bao-huy-cac-lop-kinh-te-dc-lich-su-dang-pp-luan-sang-tao-do-khong-du-so-luong-dang-ky-tai-co-so-2/)
 
 • **02/03/2026**: [Thông báo cập nhật TKB Thể dục 2 HK2/2025-2026](https://hcmus.edu.vn/thong-bao-cap-nhat-tkb-the-duc-2-hk2-2025-2026/)
 
