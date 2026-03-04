@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-04 at 13:54 +07***
+*Last updated: **2026-03-04 at 14:39 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **4-3-2026**: [Mời tham dự hội thảo: Giới thiệu chương trình liên thông môn học ĐH–ThS và Sau đại học (07/3/2026)](Default.aspx?tabid=292&newsid=17227)
+
 • **3-3-2026**: [Thời khóa biểu lớp bổ túc kiến thức khóa tháng 3/2026 dành cho học viên cao học](Default.aspx?tabid=292&newsid=17221)
 
 • **3-3-2026**: [Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17220)
@@ -113,8 +115,6 @@
 • **27-2-2026**: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 1 (T3/2026)](Default.aspx?tabid=292&newsid=17209)
 
 • **26-2-2026**: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 5/3](Default.aspx?tabid=292&newsid=17207)
-
-• **25-2-2026**: [Đăng ký tham gia Workshop on Sensor Informatics](Default.aspx?tabid=292&newsid=17206)
 
 ## Student Information
 
