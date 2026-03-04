@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-04 at 06:31 +07***
+*Last updated: **2026-03-04 at 09:25 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **04/03/2026**: [Kế hoạch học tập môn Thực tập Sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2-2/)
+
 • **03/03/2026**: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-1-nam-2026/)
 
 • **03/03/2026**: [Thông báo Kết quả dự kiến Điểm rèn luyện HK1/2025 – 2026 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien/)
@@ -135,8 +137,6 @@
 • **11/02/2026**: [Thông báo hủy các lớp Thể dục 2, Anh văn 2 K2025](https://hcmus.edu.vn/thong-bao-huy-cac-lop-the-duc-2-anh-van-2-k2025/)
 
 • **11/02/2026**: [Thông báo Hủy các lớp Anh văn 1, Anh văn 3 trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-huy-cac-lop-anh-van-1-anh-van-3-trong-hk2-2025-2026/)
-
-• **11/02/2026**: [Thông báo mở bổ sung các lớp môn Lịch sử đảng, Tư tưởng HCM trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-mon-lich-su-dang-tu-tuong-hcm-trong-hk2-2025-2026/)
 
 ## Exam Announcements
 
