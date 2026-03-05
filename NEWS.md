@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-05 at 09:28 +07***
+*Last updated: **2026-03-05 at 11:47 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **5-3-2026**: [Danh sách sinh viên tham quan công ty BioTuring ngày 9/3](Default.aspx?tabid=292&newsid=17231)
+
+• **5-3-2026**: [[CQ] Thông báo mở lại lớp Chuyên đề tốt nghiệp mạng máy tính và mở thêm 1 lớp Nhập môn điện toán đám mây HK2/25-26](Default.aspx?tabid=292&newsid=17230)
+
 • **4-3-2026**: [Mời tham dự hội thảo: Giới thiệu chương trình liên thông môn học ĐH–ThS và Sau đại học (07/3/2026)](Default.aspx?tabid=292&newsid=17227)
 
 • **3-3-2026**: [Thời khóa biểu lớp bổ túc kiến thức khóa tháng 3/2026 dành cho học viên cao học](Default.aspx?tabid=292&newsid=17221)
@@ -111,10 +115,6 @@
 • **2-3-2026**: [[CQ] Thông báo nghỉ học lớp Hệ thống viễn thông và Mạng máy tính ngày 4/3/2026](Default.aspx?tabid=292&newsid=17214)
 
 • **27-2-2026**: [[CQ] TKB lý thuyết có phòng học kỳ 2, năm học 2025-2026](Default.aspx?tabid=292&newsid=17212)
-
-• **27-2-2026**: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 1 (T3/2026)](Default.aspx?tabid=292&newsid=17209)
-
-• **26-2-2026**: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 5/3](Default.aspx?tabid=292&newsid=17207)
 
 ## Student Information
 
