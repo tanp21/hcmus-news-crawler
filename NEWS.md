@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-05 at 15:50 +07***
+*Last updated: **2026-03-05 at 16:50 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **5-3-2026**: [Đăng ký tham quan công ty Netcompany ngày 27/3](Default.aspx?tabid=292&newsid=17233)
+
 • **5-3-2026**: [Danh sách sinh viên tham quan công ty BioTuring ngày 9/3](Default.aspx?tabid=292&newsid=17231)
 
 • **5-3-2026**: [[CQ] Thông báo mở lại lớp Chuyên đề tốt nghiệp mạng máy tính và mở thêm 1 lớp Nhập môn điện toán đám mây HK2/25-26](Default.aspx?tabid=292&newsid=17230)
@@ -113,8 +115,6 @@
 • **2-3-2026**: [Đăng ký tham quan công ty BioTuring ngày 9/3](Default.aspx?tabid=292&newsid=17215)
 
 • **2-3-2026**: [[CQ] Thông báo nghỉ học lớp Hệ thống viễn thông và Mạng máy tính ngày 4/3/2026](Default.aspx?tabid=292&newsid=17214)
-
-• **27-2-2026**: [[CQ] TKB lý thuyết có phòng học kỳ 2, năm học 2025-2026](Default.aspx?tabid=292&newsid=17212)
 
 ## Student Information
 
