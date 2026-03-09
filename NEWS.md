@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-09 at 13:00 +07***
+*Last updated: **2026-03-09 at 14:51 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **9-3-2026**: [Mời tham dự buổi bảo vệ LATS cấp đơn vị chuyên môn của NCS Hồ Thị Hoàng Vy (8g00, 12/3, phòng F102)](Default.aspx?tabid=292&newsid=17237)
+
 • **6-3-2026**: [Đăng ký tham gia Seminar Physical Reservoir Computing Using Oscillator Networks](Default.aspx?tabid=292&newsid=17235)
 
 • **5-3-2026**: [Đăng ký tham quan công ty Netcompany ngày 27/3](Default.aspx?tabid=292&newsid=17233)
@@ -113,8 +115,6 @@
 • **3-3-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 4/2026](Default.aspx?tabid=292&newsid=17219)
 
 • **3-3-2026**: [[CQ] Thông báo nghỉ học lớp Trực quan hóa dữ liệu ngày 5/3/2026 (Thứ 5)](Default.aspx?tabid=292&newsid=17216)
-
-• **2-3-2026**: [Đăng ký tham quan công ty BioTuring ngày 9/3](Default.aspx?tabid=292&newsid=17215)
 
 ## Student Information
 
