@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-09 at 06:28 +07***
+*Last updated: **2026-03-09 at 09:32 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **09/03/2026**: [TB Về việc đăng ký tiếp tục tham gia “Chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM”, học kỳ 2 năm học 2025–2026](https://hcmus.edu.vn/tb-ve-viec-dang-ky-tiep-tuc-tham-gia-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
+
 • **04/03/2026**: [[Thông báo] Đăng ký tham dự lớp Masterclass title: AI-Driven Security Analysis – SMU](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-lop-masterclass-title-ai-driven-security-analysis-smu/)
 
 • **04/03/2026**: [Kế hoạch học tập môn Thực tập Sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2-2/)
@@ -135,8 +137,6 @@
 • **25/02/2026**: [[THÔNG BÁO] Học bổng toàn phần ICCR năm học 2026–2027 – Chính phủ Ấn Độ](https://hcmus.edu.vn/thong-bao-hoc-bong-toan-phan-iccr-nam-hoc-2026-2027-chinh-phu-an-do/)
 
 • **25/02/2026**: [Thông báo mở lớp bổ sung môn Lịch sử đảng, Tư tưởng HCM K2024](https://hcmus.edu.vn/thong-bao-mo-lop-bo-sung-mon-lich-su-dang-tu-tuong-hcm-k2024/)
-
-• **11/02/2026**: [Thông báo hủy các lớp Thể dục 2, Anh văn 2 K2025](https://hcmus.edu.vn/thong-bao-huy-cac-lop-the-duc-2-anh-van-2-k2025/)
 
 ## Exam Announcements
 
