@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-09 at 15:51 +07***
+*Last updated: **2026-03-09 at 16:56 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **09/03/2026**: [Triển khai chương trình “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 1](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
+
 • **09/03/2026**: [TB Về việc đăng ký tiếp tục tham gia “Chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM”, học kỳ 2 năm học 2025–2026](https://hcmus.edu.vn/tb-ve-viec-dang-ky-tiep-tuc-tham-gia-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
 
 • **04/03/2026**: [[Thông báo] Đăng ký tham dự lớp Masterclass title: AI-Driven Security Analysis – SMU](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-lop-masterclass-title-ai-driven-security-analysis-smu/)
@@ -135,8 +137,6 @@
 • **27/02/2026**: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 2/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2025-2026/)
 
 • **25/02/2026**: [[THÔNG BÁO] Học bổng toàn phần ICCR năm học 2026–2027 – Chính phủ Ấn Độ](https://hcmus.edu.vn/thong-bao-hoc-bong-toan-phan-iccr-nam-hoc-2026-2027-chinh-phu-an-do/)
-
-• **25/02/2026**: [Thông báo mở lớp bổ sung môn Lịch sử đảng, Tư tưởng HCM K2024](https://hcmus.edu.vn/thong-bao-mo-lop-bo-sung-mon-lich-su-dang-tu-tuong-hcm-k2024/)
 
 ## Exam Announcements
 
