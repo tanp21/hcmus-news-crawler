@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-10 at 13:56 +07***
+*Last updated: **2026-03-10 at 14:45 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **10-3-2026**: [Danh sách sinh viên tham quan công ty Netcompany ngày 27/3](Default.aspx?tabid=292&newsid=17240)
+
 • **10-3-2026**: [[CQ] Thông báo mở lại lớp Mạng máy tính HK2/25-26](Default.aspx?tabid=292&newsid=17239)
 
 • **9-3-2026**: [Mời tham dự buổi bảo vệ LATS cấp đơn vị chuyên môn của NCS Hồ Thị Hoàng Vy (8g00, 12/3, phòng F102)](Default.aspx?tabid=292&newsid=17237)
@@ -113,8 +115,6 @@
 • **3-3-2026**: [Thời khóa biểu lớp bổ túc kiến thức khóa tháng 3/2026 dành cho học viên cao học](Default.aspx?tabid=292&newsid=17221)
 
 • **3-3-2026**: [Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17220)
-
-• **3-3-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 4/2026](Default.aspx?tabid=292&newsid=17219)
 
 ## Student Information
 
