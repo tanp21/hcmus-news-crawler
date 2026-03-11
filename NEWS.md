@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-12 at 02:01 +07***
+*Last updated: **2026-03-12 at 03:38 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **12-3-2026**: [Tổng kết Workshop on Sensor Informatics](Default.aspx?tabid=292&newsid=17248)
+
 • **10-3-2026**: [Danh sách sinh viên tham quan công ty Netcompany ngày 27/3](Default.aspx?tabid=292&newsid=17240)
 
 • **10-3-2026**: [[CQ] Thông báo mở lại lớp Mạng máy tính HK2/25-26](Default.aspx?tabid=292&newsid=17239)
@@ -113,8 +115,6 @@
 • **4-3-2026**: [Mời tham dự hội thảo: Giới thiệu chương trình liên thông môn học ĐH–ThS và Sau đại học (07/3/2026)](Default.aspx?tabid=292&newsid=17227)
 
 • **3-3-2026**: [Thời khóa biểu lớp bổ túc kiến thức khóa tháng 3/2026 dành cho học viên cao học](Default.aspx?tabid=292&newsid=17221)
-
-• **3-3-2026**: [Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17220)
 
 ## Student Information
 
