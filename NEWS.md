@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-12 at 09:30 +07***
+*Last updated: **2026-03-12 at 11:49 +07***
 
 ---
 
@@ -36,6 +36,8 @@
 
 • **22/01/2026**: [[CTĐA] – Thông báo phúc khảo HK1/2526](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda-thong-bao-phuc-khao-hk1-2526/)
 
+• **09/01/2026**: [CTĐA_Thời khóa biểu HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda_thoi-khoa-bieu-hk2-2526/)
+
 • **06/01/2026**: [[CTĐA] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda-thong-bao-nop-bao-cao-tien-do-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-thang-04-2026/)
 
 • **01/01/2026**: [Thông báo kết quả Vòng quay may mắn – Khảo sát sử dụng công cụ AI trong học tập](https://www.ctda.hcmus.edu.vn/vi/2026/01/thong-bao-ket-qua-vong-quay-may-man-khao-sat-su-dung-cong-cu-ai-trong-hoc-tap/)
@@ -47,8 +49,6 @@
 • **12/11/2025**: [THÔNG BÁO ĐĂNG KÝ LỄ TỐT NGHIỆP KHOA CÔNG NGHỆ THÔNG TIN NĂM 2025](https://www.ctda.hcmus.edu.vn/vi/2025/11/thong-bao-dang-ky-le-tot-nghiep-khoa-cong-nghe-thong-tin-nam-2025/)
 
 • **29/10/2025**: [Khảo sát sử dụng công cụ AI trong học tập](https://www.ctda.hcmus.edu.vn/vi/2025/10/khao-sat-su-dung-cong-cu-ai-trong-hoc-tap/)
-
-• **29/10/2025**: [Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2022 bảo vệ T8/2026](https://www.ctda.hcmus.edu.vn/vi/2025/10/thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2022-bao-ve-t8-2026/)
 
 ### Student Support
 
