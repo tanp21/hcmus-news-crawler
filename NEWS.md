@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-13 at 15:48 +07***
+*Last updated: **2026-03-13 at 16:43 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **13-3-2026**: [Lịch thi kết thúc học phần 1 các lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17254)
+
 • **13-3-2026**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 9/4](Default.aspx?tabid=292&newsid=17253)
 
 • **12-3-2026**: [Tổng kết Workshop on Sensor Informatics](Default.aspx?tabid=292&newsid=17248)
@@ -114,9 +116,9 @@
 
 • **5-3-2026**: [[CQ] Thông báo mở lại lớp Chuyên đề tốt nghiệp mạng máy tính và mở thêm 1 lớp Nhập môn điện toán đám mây HK2/25-26](Default.aspx?tabid=292&newsid=17230)
 
-• **4-3-2026**: [Mời tham dự hội thảo: Giới thiệu chương trình liên thông môn học ĐH–ThS và Sau đại học (07/3/2026)](Default.aspx?tabid=292&newsid=17227)
-
 ## Student Information
+
+• **13/03/2026**: [THÔNG BÁO GIẢI THƯỞNG KHCN DÀNH CHO SINH VIÊN CƠ SỞ GDĐH NĂM 2026](https://hcmus.edu.vn/thong-bao-giai-thuong-khcn-danh-cho-sinh-vien-co-so-gddh-nam-2026/)
 
 • **10/03/2026**: [[THÔNG BÁO] TRIỂN LÃM GIÁO DỤC CANADA MÙA XUÂN 2026](https://hcmus.edu.vn/thong-bao-trien-lam-giao-duc-canada-mua-xuan-2026/)
 
@@ -135,8 +137,6 @@
 • **02/03/2026**: [Thông báo ghép các lớp Kinh tế ĐC, Lịch sử Đảng, PP luận sáng tạo do không đủ số lượng đăng ký tại cơ sở 2](https://hcmus.edu.vn/thong-bao-huy-cac-lop-kinh-te-dc-lich-su-dang-pp-luan-sang-tao-do-khong-du-so-luong-dang-ky-tai-co-so-2/)
 
 • **02/03/2026**: [Thông báo cập nhật TKB Thể dục 2 HK2/2025-2026](https://hcmus.edu.vn/thong-bao-cap-nhat-tkb-the-duc-2-hk2-2025-2026/)
-
-• **27/02/2026**: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 2/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2025-2026/)
 
 ## Exam Announcements
 
