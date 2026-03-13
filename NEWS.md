@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-13 at 09:28 +07***
+*Last updated: **2026-03-13 at 11:47 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **13-3-2026**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 9/4](Default.aspx?tabid=292&newsid=17253)
+
 • **12-3-2026**: [Tổng kết Workshop on Sensor Informatics](Default.aspx?tabid=292&newsid=17248)
 
 • **10-3-2026**: [Danh sách sinh viên tham quan công ty Netcompany ngày 27/3](Default.aspx?tabid=292&newsid=17240)
@@ -113,8 +115,6 @@
 • **5-3-2026**: [[CQ] Thông báo mở lại lớp Chuyên đề tốt nghiệp mạng máy tính và mở thêm 1 lớp Nhập môn điện toán đám mây HK2/25-26](Default.aspx?tabid=292&newsid=17230)
 
 • **4-3-2026**: [Mời tham dự hội thảo: Giới thiệu chương trình liên thông môn học ĐH–ThS và Sau đại học (07/3/2026)](Default.aspx?tabid=292&newsid=17227)
-
-• **3-3-2026**: [Thời khóa biểu lớp bổ túc kiến thức khóa tháng 3/2026 dành cho học viên cao học](Default.aspx?tabid=292&newsid=17221)
 
 ## Student Information
 
