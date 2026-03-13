@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-13 at 16:43 +07***
+*Last updated: **2026-03-13 at 17:41 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **13-3-2026**: [Tổng kết Seminar Physical Reservoir Computing Using Oscillator Networks](Default.aspx?tabid=292&newsid=17256)
+
 • **13-3-2026**: [Lịch thi kết thúc học phần 1 các lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17254)
 
 • **13-3-2026**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 9/4](Default.aspx?tabid=292&newsid=17253)
@@ -113,8 +115,6 @@
 • **5-3-2026**: [Đăng ký tham quan công ty Netcompany ngày 27/3](Default.aspx?tabid=292&newsid=17233)
 
 • **5-3-2026**: [Danh sách sinh viên tham quan công ty BioTuring ngày 9/3](Default.aspx?tabid=292&newsid=17231)
-
-• **5-3-2026**: [[CQ] Thông báo mở lại lớp Chuyên đề tốt nghiệp mạng máy tính và mở thêm 1 lớp Nhập môn điện toán đám mây HK2/25-26](Default.aspx?tabid=292&newsid=17230)
 
 ## Student Information
 
