@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-14 at 12:49 +07***
+*Last updated: **2026-03-14 at 13:53 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **14/03/2026**: [Thông báo Cuộc thi trực tuyến “HCMUS: Unlock the Rules” 2026](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-hcmus-unlock-the-rules-2026/)
+
 • **13/03/2026**: [THÔNG BÁO GIẢI THƯỞNG KHCN DÀNH CHO SINH VIÊN CƠ SỞ GDĐH NĂM 2026](https://hcmus.edu.vn/thong-bao-giai-thuong-khcn-danh-cho-sinh-vien-co-so-gddh-nam-2026/)
 
 • **10/03/2026**: [[THÔNG BÁO] TRIỂN LÃM GIÁO DỤC CANADA MÙA XUÂN 2026](https://hcmus.edu.vn/thong-bao-trien-lam-giao-duc-canada-mua-xuan-2026/)
@@ -135,8 +137,6 @@
 • **03/03/2026**: [Thông báo Kết quả dự kiến Điểm rèn luyện HK1/2025 – 2026 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien/)
 
 • **02/03/2026**: [Thông báo ghép các lớp Kinh tế ĐC, Lịch sử Đảng, PP luận sáng tạo do không đủ số lượng đăng ký tại cơ sở 2](https://hcmus.edu.vn/thong-bao-huy-cac-lop-kinh-te-dc-lich-su-dang-pp-luan-sang-tao-do-khong-du-so-luong-dang-ky-tai-co-so-2/)
-
-• **02/03/2026**: [Thông báo cập nhật TKB Thể dục 2 HK2/2025-2026](https://hcmus.edu.vn/thong-bao-cap-nhat-tkb-the-duc-2-hk2-2025-2026/)
 
 ## Exam Announcements
 
