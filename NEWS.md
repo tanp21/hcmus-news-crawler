@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-16 at 16:02 +07***
+*Last updated: **2026-03-16 at 17:57 +07***
 
 ---
 
@@ -118,6 +118,10 @@
 
 ## Student Information
 
+• **16/03/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Burapha University (BUU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-burapha-university-buu/)
+
+• **16/03/2026**: [THÔNG BÁO ĐĂNG KÝ CỤM/CHUỖI NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-dang-ky-cum-chuoi-nhiem-vu-khoa-hoc-va-cong-nghe-cap-dhqg-hcm/)
+
 • **16/03/2026**: [Thông báo tổ chức hoạt động Workshop “Hệ phương trình 2 ẩn: Anh và Em”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-he-phuong-trinh-2-an-anh-va-em/)
 
 • **14/03/2026**: [Thông báo Cuộc thi trực tuyến “HCMUS: Unlock the Rules” 2026](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-hcmus-unlock-the-rules-2026/)
@@ -133,10 +137,6 @@
 • **04/03/2026**: [[Thông báo] Đăng ký tham dự lớp Masterclass title: AI-Driven Security Analysis – SMU](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-lop-masterclass-title-ai-driven-security-analysis-smu/)
 
 • **04/03/2026**: [Kế hoạch học tập môn Thực tập Sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2-2/)
-
-• **03/03/2026**: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-1-nam-2026/)
-
-• **03/03/2026**: [Thông báo Kết quả dự kiến Điểm rèn luyện HK1/2025 – 2026 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien/)
 
 ## Exam Announcements
 
