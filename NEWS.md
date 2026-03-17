@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-17 at 09:30 +07***
+*Last updated: **2026-03-17 at 11:55 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **17-3-2026**: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17261)
+
 • **16-3-2026**: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 1](Default.aspx?tabid=292&newsid=17260)
 
 • **16-3-2026**: [[CQ] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 1 (17/3 - 20/3/2026)](Default.aspx?tabid=292&newsid=17257)
@@ -113,8 +115,6 @@
 • **10-3-2026**: [[CQ] Thông báo mở lại lớp Mạng máy tính HK2/25-26](Default.aspx?tabid=292&newsid=17239)
 
 • **9-3-2026**: [Mời tham dự buổi bảo vệ LATS cấp đơn vị chuyên môn của NCS Hồ Thị Hoàng Vy (8g00, 12/3, phòng F102)](Default.aspx?tabid=292&newsid=17237)
-
-• **6-3-2026**: [Đăng ký tham gia Seminar Physical Reservoir Computing Using Oscillator Networks](Default.aspx?tabid=292&newsid=17235)
 
 ## Student Information
 
