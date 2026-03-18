@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-18 at 14:55 +07***
+*Last updated: **2026-03-18 at 15:55 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **18-3-2026**: [[CQ] Thông báo thay đổi phòng học một số lớp từ ngày 23/3 đến 29/3/2026 (HK2/25-26)](Default.aspx?tabid=292&newsid=17265)
+
 • **17-3-2026**: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17261)
 
 • **16-3-2026**: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 1](Default.aspx?tabid=292&newsid=17260)
@@ -113,8 +115,6 @@
 • **10-3-2026**: [Danh sách sinh viên tham quan công ty Netcompany ngày 27/3](Default.aspx?tabid=292&newsid=17240)
 
 • **10-3-2026**: [[CQ] Thông báo mở lại lớp Mạng máy tính HK2/25-26](Default.aspx?tabid=292&newsid=17239)
-
-• **9-3-2026**: [Mời tham dự buổi bảo vệ LATS cấp đơn vị chuyên môn của NCS Hồ Thị Hoàng Vy (8g00, 12/3, phòng F102)](Default.aspx?tabid=292&newsid=17237)
 
 ## Student Information
 
