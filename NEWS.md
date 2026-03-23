@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-23 at 12:06 +07***
+*Last updated: **2026-03-23 at 14:16 +07***
 
 ---
 
@@ -118,6 +118,10 @@
 
 ## Student Information
 
+• **23/03/2026**: [Thông báo nộp học phí học kỳ 2/2025-2026 chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-2-2025-2026-chuong-trinh-dai-tra/)
+
+• **23/03/2026**: [THÔNG BÁO CỦA SỞ KHOA HỌC VÀ CÔNG NGHỆ TỈNH AN GIANG VV TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN THỰC HIỆN NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP CƠ SỞ NĂM 2026](https://hcmus.edu.vn/thong-bao-cua-so-khoa-hoc-va-cong-nghe-tinh-an-giang-vv-tuyen-chon-to-chuc-ca-nhan-thuc-hien-nhiem-vu-khoa-hoc-va-cong-nghe-cap-co-so-nam-2026/)
+
 • **20/03/2026**: [Chương trình học bổng Christina Noble Education Programme dành cho sinh viên năm cuối và kế cuối, hệ đại học chính quy năm học 2025-2026](https://hcmus.edu.vn/chuong-trinh-hoc-bong-christina-noble-education-programme-danh-cho-sinh-vien-nam-cuoi-va-ke-cuoi-he-dai-hoc-chinh-quy-nam-hoc-2025-2026/)
 
 • **20/03/2026**: [Thông báo học bổng Cao Minh Thì năm 2026](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi-nam-2026/)
@@ -133,10 +137,6 @@
 • **13/03/2026**: [THÔNG BÁO GIẢI THƯỞNG KHCN DÀNH CHO SINH VIÊN CƠ SỞ GDĐH NĂM 2026](https://hcmus.edu.vn/thong-bao-giai-thuong-khcn-danh-cho-sinh-vien-co-so-gddh-nam-2026/)
 
 • **10/03/2026**: [[THÔNG BÁO] TRIỂN LÃM GIÁO DỤC CANADA MÙA XUÂN 2026](https://hcmus.edu.vn/thong-bao-trien-lam-giao-duc-canada-mua-xuan-2026/)
-
-• **09/03/2026**: [Triển khai chương trình “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 1](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
-
-• **09/03/2026**: [TB Về việc đăng ký tiếp tục tham gia “Chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM”, học kỳ 2 năm học 2025–2026](https://hcmus.edu.vn/tb-ve-viec-dang-ky-tiep-tuc-tham-gia-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
 
 ## Exam Announcements
 
