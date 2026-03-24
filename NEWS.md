@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-24 at 13:04 +07***
+*Last updated: **2026-03-24 at 14:55 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **24-3-2026**: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 3/2026)](Default.aspx?tabid=292&newsid=17273)
+
 • **20-3-2026**: [Thông báo đổi phòng thực hành các lớp Thứ 2 và Thứ 6, áp dụng từ tuần 23/3/2026](Default.aspx?tabid=292&newsid=17270)
 
 • **20-3-2026**: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 9/4](Default.aspx?tabid=292&newsid=17269)
@@ -114,9 +116,9 @@
 
 • **13-3-2026**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 9/4](Default.aspx?tabid=292&newsid=17253)
 
-• **12-3-2026**: [Tổng kết Workshop on Sensor Informatics](Default.aspx?tabid=292&newsid=17248)
-
 ## Student Information
+
+• **24/03/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Mahidol University (MU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-mahidol-university-mu/)
 
 • **24/03/2026**: [THÔNG BÁO GIẢI BÓNG ĐÁ SINH VIÊN HCMUS CUP 2026](https://hcmus.edu.vn/giai-bong-da-sinh-vien-hcmus-cup-2026/)
 
@@ -135,8 +137,6 @@
 • **16/03/2026**: [THÔNG BÁO ĐĂNG KÝ CỤM/CHUỖI NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-dang-ky-cum-chuoi-nhiem-vu-khoa-hoc-va-cong-nghe-cap-dhqg-hcm/)
 
 • **16/03/2026**: [Thông báo tổ chức hoạt động Workshop “Hệ phương trình 2 ẩn: Anh và Em”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-he-phuong-trinh-2-an-anh-va-em/)
-
-• **14/03/2026**: [Thông báo Cuộc thi trực tuyến “HCMUS: Unlock the Rules” 2026](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-hcmus-unlock-the-rules-2026/)
 
 ## Exam Announcements
 
