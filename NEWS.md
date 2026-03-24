@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-24 at 09:29 +07***
+*Last updated: **2026-03-24 at 11:57 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **24/03/2026**: [THÔNG BÁO GIẢI BÓNG ĐÁ SINH VIÊN HCMUS CUP 2026](https://hcmus.edu.vn/giai-bong-da-sinh-vien-hcmus-cup-2026/)
+
 • **23/03/2026**: [Chương trình học bổng toàn phần dành cho sinh viên có hoàn cảnh đặc biệt khó khăn, khuyết tật năm học 2025-2026](https://hcmus.edu.vn/chuong-trinh-hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-dac-biet-kho-khan-khuyet-tat-nam-hoc-2025-2026/)
 
 • **23/03/2026**: [Thông báo nộp học phí học kỳ 2/2025-2026 chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-2-2025-2026-chuong-trinh-dai-tra/)
@@ -135,8 +137,6 @@
 • **16/03/2026**: [Thông báo tổ chức hoạt động Workshop “Hệ phương trình 2 ẩn: Anh và Em”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-he-phuong-trinh-2-an-anh-va-em/)
 
 • **14/03/2026**: [Thông báo Cuộc thi trực tuyến “HCMUS: Unlock the Rules” 2026](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-hcmus-unlock-the-rules-2026/)
-
-• **13/03/2026**: [THÔNG BÁO GIẢI THƯỞNG KHCN DÀNH CHO SINH VIÊN CƠ SỞ GDĐH NĂM 2026](https://hcmus.edu.vn/thong-bao-giai-thuong-khcn-danh-cho-sinh-vien-co-so-gddh-nam-2026/)
 
 ## Exam Announcements
 
