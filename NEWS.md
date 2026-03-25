@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-25 at 09:34 +07***
+*Last updated: **2026-03-25 at 11:57 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **25-3-2026**: [Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2026](Default.aspx?tabid=292&newsid=17275)
+
 • **24-3-2026**: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 3/2026)](Default.aspx?tabid=292&newsid=17273)
 
 • **20-3-2026**: [Thông báo đổi phòng thực hành các lớp Thứ 2 và Thứ 6, áp dụng từ tuần 23/3/2026](Default.aspx?tabid=292&newsid=17270)
@@ -113,8 +115,6 @@
 • **13-3-2026**: [Tổng kết Seminar Physical Reservoir Computing Using Oscillator Networks](Default.aspx?tabid=292&newsid=17256)
 
 • **13-3-2026**: [Lịch thi kết thúc học phần 1 các lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17254)
-
-• **13-3-2026**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 9/4](Default.aspx?tabid=292&newsid=17253)
 
 ## Student Information
 
