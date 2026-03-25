@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-25 at 15:56 +07***
+*Last updated: **2026-03-25 at 17:00 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **25-3-2026**: [Lê Kiến Thành – từ bảng vàng tin học đến danh hiệu Gương mặt trẻ Việt Nam tiêu biểu 2025](Default.aspx?tabid=292&newsid=17276)
+
 • **25-3-2026**: [Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2026](Default.aspx?tabid=292&newsid=17275)
 
 • **24-3-2026**: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 3/2026)](Default.aspx?tabid=292&newsid=17273)
@@ -114,9 +116,9 @@
 
 • **13-3-2026**: [Tổng kết Seminar Physical Reservoir Computing Using Oscillator Networks](Default.aspx?tabid=292&newsid=17256)
 
-• **13-3-2026**: [Lịch thi kết thúc học phần 1 các lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17254)
-
 ## Student Information
+
+• **25/03/2026**: [Chính sách học bổng cho sinh viên](https://hcmus.edu.vn/chinh-sach-hoc-bong-cho-sinh-vien/)
 
 • **24/03/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Mahidol University (MU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-mahidol-university-mu/)
 
@@ -135,8 +137,6 @@
 • **16/03/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Burapha University (BUU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-burapha-university-buu/)
 
 • **16/03/2026**: [THÔNG BÁO ĐĂNG KÝ CỤM/CHUỖI NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-dang-ky-cum-chuoi-nhiem-vu-khoa-hoc-va-cong-nghe-cap-dhqg-hcm/)
-
-• **16/03/2026**: [Thông báo tổ chức hoạt động Workshop “Hệ phương trình 2 ẩn: Anh và Em”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-he-phuong-trinh-2-an-anh-va-em/)
 
 ## Exam Announcements
 
