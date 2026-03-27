@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-27 at 09:44 +07***
+*Last updated: **2026-03-27 at 12:10 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **27-3-2026**: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Hồ Thị Thanh Tuyến (8g00, 03/4, Phòng F.102)](Default.aspx?tabid=292&newsid=17279)
+
 • **25-3-2026**: [Lê Kiến Thành – từ bảng vàng tin học đến danh hiệu Gương mặt trẻ Việt Nam tiêu biểu 2025](Default.aspx?tabid=292&newsid=17276)
 
 • **25-3-2026**: [Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2026](Default.aspx?tabid=292&newsid=17275)
@@ -113,8 +115,6 @@
 • **16-3-2026**: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 1](Default.aspx?tabid=292&newsid=17260)
 
 • **16-3-2026**: [[CQ] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 1 (17/3 - 20/3/2026)](Default.aspx?tabid=292&newsid=17257)
-
-• **13-3-2026**: [Tổng kết Seminar Physical Reservoir Computing Using Oscillator Networks](Default.aspx?tabid=292&newsid=17256)
 
 ## Student Information
 
