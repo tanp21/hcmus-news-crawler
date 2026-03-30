@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-30 at 14:48 +07***
+*Last updated: **2026-03-30 at 16:17 +07***
 
 ---
 
@@ -106,6 +106,8 @@
 
 • **24-3-2026**: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 3/2026)](Default.aspx?tabid=292&newsid=17273)
 
+• **23-3-2026**: [Thông báo đăng ký tín chỉ học phần 2 chương trình cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17282)
+
 • **20-3-2026**: [Thông báo đổi phòng thực hành các lớp Thứ 2 và Thứ 6, áp dụng từ tuần 23/3/2026](Default.aspx?tabid=292&newsid=17270)
 
 • **20-3-2026**: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 9/4](Default.aspx?tabid=292&newsid=17269)
@@ -113,8 +115,6 @@
 • **18-3-2026**: [[CQ] Thông báo thay đổi phòng học một số lớp từ ngày 23/3 đến 29/3/2026 (HK2/25-26)](Default.aspx?tabid=292&newsid=17265)
 
 • **17-3-2026**: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17261)
-
-• **16-3-2026**: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 1](Default.aspx?tabid=292&newsid=17260)
 
 ## Student Information
 
