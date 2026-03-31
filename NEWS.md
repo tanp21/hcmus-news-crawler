@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-31 at 06:39 +07***
+*Last updated: **2026-03-31 at 09:43 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **31-3-2026**: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2026](Default.aspx?tabid=292&newsid=17283)
+
 • **27-3-2026**: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 22/4](Default.aspx?tabid=292&newsid=17280)
 
 • **27-3-2026**: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Hồ Thị Thanh Tuyến (8g00, 03/4, Phòng F.102)](Default.aspx?tabid=292&newsid=17279)
@@ -114,9 +116,9 @@
 
 • **18-3-2026**: [[CQ] Thông báo thay đổi phòng học một số lớp từ ngày 23/3 đến 29/3/2026 (HK2/25-26)](Default.aspx?tabid=292&newsid=17265)
 
-• **17-3-2026**: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17261)
-
 ## Student Information
+
+• **31/03/2026**: [Thông báo nghỉ lễ Giỗ Tổ Hùng Vương 10/3 âm lịch, ngày Chiến thắng 30/4 và ngày Quốc tế Lao động 01/5 năm 2026](https://hcmus.edu.vn/thong-bao-nghi-le-gio-to-hung-vuong-10-3-am-lich-ngay-chien-thang-30-4-va-ngay-quoc-te-lao-dong-01-5-nam-2026/)
 
 • **30/03/2026**: [Thông báo danh sách sinh viên được miễn, giảm học phí học kỳ 2 năm học 2025-2026 (Đợt 1)](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-duoc-mien-giam-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-dot-1/)
 
@@ -135,8 +137,6 @@
 • **20/03/2026**: [Chương trình học bổng Christina Noble Education Programme dành cho sinh viên năm cuối và kế cuối, hệ đại học chính quy năm học 2025-2026](https://hcmus.edu.vn/chuong-trinh-hoc-bong-christina-noble-education-programme-danh-cho-sinh-vien-nam-cuoi-va-ke-cuoi-he-dai-hoc-chinh-quy-nam-hoc-2025-2026/)
 
 • **20/03/2026**: [Thông báo học bổng Cao Minh Thì năm 2026](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi-nam-2026/)
-
-• **16/03/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Burapha University (BUU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-burapha-university-buu/)
 
 ## Exam Announcements
 
