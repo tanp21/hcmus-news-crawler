@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-03-31 at 14:21 +07***
+*Last updated: **2026-03-31 at 16:05 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **31-3-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](Default.aspx?tabid=292&newsid=17284)
+
 • **31-3-2026**: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2026](Default.aspx?tabid=292&newsid=17283)
 
 • **27-3-2026**: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 22/4](Default.aspx?tabid=292&newsid=17280)
@@ -113,8 +115,6 @@
 • **20-3-2026**: [Thông báo đổi phòng thực hành các lớp Thứ 2 và Thứ 6, áp dụng từ tuần 23/3/2026](Default.aspx?tabid=292&newsid=17270)
 
 • **20-3-2026**: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 9/4](Default.aspx?tabid=292&newsid=17269)
-
-• **18-3-2026**: [[CQ] Thông báo thay đổi phòng học một số lớp từ ngày 23/3 đến 29/3/2026 (HK2/25-26)](Default.aspx?tabid=292&newsid=17265)
 
 ## Student Information
 
