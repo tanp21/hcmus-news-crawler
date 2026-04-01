@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-01 at 06:37 +07***
+*Last updated: **2026-04-01 at 09:55 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **1-4-2026**: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2026](Default.aspx?tabid=292&newsid=17285)
+
 • **31-3-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](Default.aspx?tabid=292&newsid=17284)
 
 • **31-3-2026**: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2026](Default.aspx?tabid=292&newsid=17283)
@@ -113,8 +115,6 @@
 • **23-3-2026**: [Thông báo đăng ký tín chỉ học phần 2 chương trình cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17282)
 
 • **20-3-2026**: [Thông báo đổi phòng thực hành các lớp Thứ 2 và Thứ 6, áp dụng từ tuần 23/3/2026](Default.aspx?tabid=292&newsid=17270)
-
-• **20-3-2026**: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 9/4](Default.aspx?tabid=292&newsid=17269)
 
 ## Student Information
 
