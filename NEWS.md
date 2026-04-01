@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-01 at 14:27 +07***
+*Last updated: **2026-04-01 at 16:11 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **01/04/2026**: [Thông báo tổ chức Chương trình tập huấn Ban cán sự lớp “Thực hành kỹ năng quan sát, lắng nghe & kết nối trong hỗ trợ bạn học cùng lớp” (Chuyên đề 1)](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-thuc-hanh-ky-nang-quan-sat-lang-nghe-ket-noi-trong-ho-tro-ban-hoc-cung-lop-chuyen-de-1/)
+
 • **01/04/2026**: [Thông báo chương trình học bổng vượt khó học tốt năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-ho%cc%a3c-2025-2026/)
 
 • **31/03/2026**: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2026](https://hcmus.edu.vn/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2026/)
@@ -135,8 +137,6 @@
 • **23/03/2026**: [Chương trình học bổng toàn phần dành cho sinh viên có hoàn cảnh đặc biệt khó khăn, khuyết tật năm học 2025-2026](https://hcmus.edu.vn/chuong-trinh-hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-dac-biet-kho-khan-khuyet-tat-nam-hoc-2025-2026/)
 
 • **23/03/2026**: [Thông báo nộp học phí học kỳ 2/2025-2026 chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-2-2025-2026-chuong-trinh-dai-tra/)
-
-• **23/03/2026**: [THÔNG BÁO CỦA SỞ KHOA HỌC VÀ CÔNG NGHỆ TỈNH AN GIANG VV TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN THỰC HIỆN NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP CƠ SỞ NĂM 2026](https://hcmus.edu.vn/thong-bao-cua-so-khoa-hoc-va-cong-nghe-tinh-an-giang-vv-tuyen-chon-to-chuc-ca-nhan-thuc-hien-nhiem-vu-khoa-hoc-va-cong-nghe-cap-co-so-nam-2026/)
 
 ## Exam Announcements
 
