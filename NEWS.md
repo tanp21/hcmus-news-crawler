@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-02 at 09:40 +07***
+*Last updated: **2026-04-02 at 12:06 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **2-4-2026**: [Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 35/2025 đối với sinh viên liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17292)
+
+• **2-4-2026**: [Kết quả xét duyệt sinh viên khóa 2023 tham gia chương trình liên thông môn học ĐH-ThS năm 2026](Default.aspx?tabid=292&newsid=17291)
+
 • **1-4-2026**: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2026](Default.aspx?tabid=292&newsid=17285)
 
 • **31-3-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](Default.aspx?tabid=292&newsid=17284)
@@ -111,10 +115,6 @@
 • **25-3-2026**: [Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2026](Default.aspx?tabid=292&newsid=17275)
 
 • **24-3-2026**: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 3/2026)](Default.aspx?tabid=292&newsid=17273)
-
-• **23-3-2026**: [Thông báo đăng ký tín chỉ học phần 2 chương trình cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17282)
-
-• **20-3-2026**: [Thông báo đổi phòng thực hành các lớp Thứ 2 và Thứ 6, áp dụng từ tuần 23/3/2026](Default.aspx?tabid=292&newsid=17270)
 
 ## Student Information
 
