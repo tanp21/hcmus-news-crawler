@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-02 at 16:02 +07***
+*Last updated: **2026-04-02 at 17:55 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **2-4-2026**: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](Default.aspx?tabid=292&newsid=17297)
+
+• **2-4-2026**: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2025](Default.aspx?tabid=292&newsid=17296)
+
 • **2-4-2026**: [Đăng ký tham gia Hội thảo Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT](Default.aspx?tabid=292&newsid=17295)
 
 • **2-4-2026**: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 22/4](Default.aspx?tabid=292&newsid=17294)
@@ -111,10 +115,6 @@
 • **31-3-2026**: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2026](Default.aspx?tabid=292&newsid=17283)
 
 • **27-3-2026**: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 22/4](Default.aspx?tabid=292&newsid=17280)
-
-• **27-3-2026**: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Hồ Thị Thanh Tuyến (8g00, 03/4, Phòng F.102)](Default.aspx?tabid=292&newsid=17279)
-
-• **25-3-2026**: [Lê Kiến Thành – từ bảng vàng tin học đến danh hiệu Gương mặt trẻ Việt Nam tiêu biểu 2025](Default.aspx?tabid=292&newsid=17276)
 
 ## Student Information
 
