@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-03 at 09:42 +07***
+*Last updated: **2026-04-03 at 12:08 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **3-4-2026**: [[CQ] DSSV nộp đề cương đề tài tốt nghiệp K2022 đợt 2 (bảo vệ tháng 7/2026), HK2/25-26](Default.aspx?tabid=292&newsid=17298)
+
 • **2-4-2026**: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](Default.aspx?tabid=292&newsid=17297)
 
 • **2-4-2026**: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2025](Default.aspx?tabid=292&newsid=17296)
@@ -113,8 +115,6 @@
 • **31-3-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](Default.aspx?tabid=292&newsid=17284)
 
 • **31-3-2026**: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2026](Default.aspx?tabid=292&newsid=17283)
-
-• **27-3-2026**: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 22/4](Default.aspx?tabid=292&newsid=17280)
 
 ## Student Information
 
