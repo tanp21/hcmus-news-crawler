@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-07 at 12:12 +07***
+*Last updated: **2026-04-07 at 14:23 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **7-4-2026**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17308)
+
 • **7-4-2026**: [Danh sách sinh viên tham gia hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng](Default.aspx?tabid=292&newsid=17304)
 
 • **6-4-2026**: [[Tech talk VNG x FIT@HCMUS] Chinh phục DSA & System Design - Mở lối vào công ty công nghệ hàng đầu](Default.aspx?tabid=292&newsid=17303)
@@ -114,9 +116,9 @@
 
 • **2-4-2026**: [Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 35/2025 đối với sinh viên liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17292)
 
-• **2-4-2026**: [Kết quả xét duyệt sinh viên khóa 2023 tham gia chương trình liên thông môn học ĐH-ThS năm 2026](Default.aspx?tabid=292&newsid=17291)
-
 ## Student Information
+
+• **07/04/2026**: [Kết quả đăng ký Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026/)
 
 • **01/04/2026**: [Thông báo tổ chức Chương trình tập huấn Ban cán sự lớp “Thực hành kỹ năng quan sát, lắng nghe & kết nối trong hỗ trợ bạn học cùng lớp” (Chuyên đề 1)](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-thuc-hanh-ky-nang-quan-sat-lang-nghe-ket-noi-trong-ho-tro-ban-hoc-cung-lop-chuyen-de-1/)
 
@@ -135,8 +137,6 @@
 • **24/03/2026**: [THÔNG BÁO GIẢI BÓNG ĐÁ SINH VIÊN HCMUS CUP 2026](https://hcmus.edu.vn/giai-bong-da-sinh-vien-hcmus-cup-2026/)
 
 • **23/03/2026**: [Chương trình học bổng toàn phần dành cho sinh viên có hoàn cảnh đặc biệt khó khăn, khuyết tật năm học 2025-2026](https://hcmus.edu.vn/chuong-trinh-hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-dac-biet-kho-khan-khuyet-tat-nam-hoc-2025-2026/)
-
-• **23/03/2026**: [Thông báo nộp học phí học kỳ 2/2025-2026 chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-2-2025-2026-chuong-trinh-dai-tra/)
 
 ## Exam Announcements
 
