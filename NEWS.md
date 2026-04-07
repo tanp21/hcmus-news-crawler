@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-07 at 14:23 +07***
+*Last updated: **2026-04-07 at 16:08 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **7-4-2026**: [Ngày hội việc làm Khoa Công nghệ thông tin 2026](Default.aspx?tabid=292&newsid=17309)
+
 • **7-4-2026**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17308)
 
 • **7-4-2026**: [Danh sách sinh viên tham gia hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng](Default.aspx?tabid=292&newsid=17304)
@@ -114,9 +116,9 @@
 
 • **2-4-2026**: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 22/4](Default.aspx?tabid=292&newsid=17294)
 
-• **2-4-2026**: [Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 35/2025 đối với sinh viên liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17292)
-
 ## Student Information
+
+• **07/04/2026**: [Triển khai chương trình “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 2](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026-dot-2/)
 
 • **07/04/2026**: [Kết quả đăng ký Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026/)
 
@@ -135,8 +137,6 @@
 • **24/03/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Mahidol University (MU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-mahidol-university-mu/)
 
 • **24/03/2026**: [THÔNG BÁO GIẢI BÓNG ĐÁ SINH VIÊN HCMUS CUP 2026](https://hcmus.edu.vn/giai-bong-da-sinh-vien-hcmus-cup-2026/)
-
-• **23/03/2026**: [Chương trình học bổng toàn phần dành cho sinh viên có hoàn cảnh đặc biệt khó khăn, khuyết tật năm học 2025-2026](https://hcmus.edu.vn/chuong-trinh-hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-dac-biet-kho-khan-khuyet-tat-nam-hoc-2025-2026/)
 
 ## Exam Announcements
 
