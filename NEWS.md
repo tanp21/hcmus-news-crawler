@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-07 at 06:40 +07***
+*Last updated: **2026-04-07 at 09:45 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **7-4-2026**: [Danh sách sinh viên tham gia hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng](Default.aspx?tabid=292&newsid=17304)
+
 • **6-4-2026**: [[Tech talk VNG x FIT@HCMUS] Chinh phục DSA & System Design - Mở lối vào công ty công nghệ hàng đầu](Default.aspx?tabid=292&newsid=17303)
 
 • **3-4-2026**: [Danh sách sinh viên tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](Default.aspx?tabid=292&newsid=17299)
@@ -113,8 +115,6 @@
 • **2-4-2026**: [Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 35/2025 đối với sinh viên liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17292)
 
 • **2-4-2026**: [Kết quả xét duyệt sinh viên khóa 2023 tham gia chương trình liên thông môn học ĐH-ThS năm 2026](Default.aspx?tabid=292&newsid=17291)
-
-• **1-4-2026**: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2026](Default.aspx?tabid=292&newsid=17285)
 
 ## Student Information
 
