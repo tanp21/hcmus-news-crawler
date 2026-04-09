@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-09 at 14:42 +07***
+*Last updated: **2026-04-09 at 16:12 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **9-4-2026**: [Danh sách sinh viên tham dự hội thảo Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 14/4](Default.aspx?tabid=292&newsid=17313)
+
 • **7-4-2026**: [Ngày hội việc làm Khoa Công nghệ thông tin 2026](Default.aspx?tabid=292&newsid=17309)
 
 • **7-4-2026**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17308)
@@ -113,8 +115,6 @@
 • **2-4-2026**: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2025](Default.aspx?tabid=292&newsid=17296)
 
 • **2-4-2026**: [Đăng ký tham gia Hội thảo Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT](Default.aspx?tabid=292&newsid=17295)
-
-• **2-4-2026**: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 22/4](Default.aspx?tabid=292&newsid=17294)
 
 ## Student Information
 
