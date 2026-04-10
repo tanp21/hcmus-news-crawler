@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-10 at 16:15 +07***
+*Last updated: **2026-04-10 at 17:59 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **10-4-2026**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 3](Default.aspx?tabid=292&newsid=17315)
+
 • **10-4-2026**: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 35/2025 - bắt đầu học 13/4/2026](Default.aspx?tabid=292&newsid=17314)
 
 • **9-4-2026**: [Danh sách sinh viên tham dự hội thảo Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 14/4](Default.aspx?tabid=292&newsid=17313)
@@ -113,8 +115,6 @@
 • **3-4-2026**: [[CQ] DSSV nộp đề cương đề tài tốt nghiệp K2022 đợt 2 (bảo vệ tháng 7/2026), HK2/25-26](Default.aspx?tabid=292&newsid=17298)
 
 • **2-4-2026**: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](Default.aspx?tabid=292&newsid=17297)
-
-• **2-4-2026**: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2025](Default.aspx?tabid=292&newsid=17296)
 
 ## Student Information
 
