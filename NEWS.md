@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-10 at 09:52 +07***
+*Last updated: **2026-04-10 at 12:28 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **10-4-2026**: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 35/2025 - bắt đầu học 13/4/2026](Default.aspx?tabid=292&newsid=17314)
+
 • **9-4-2026**: [Danh sách sinh viên tham dự hội thảo Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 14/4](Default.aspx?tabid=292&newsid=17313)
 
 • **7-4-2026**: [Ngày hội việc làm Khoa Công nghệ thông tin 2026](Default.aspx?tabid=292&newsid=17309)
@@ -113,8 +115,6 @@
 • **2-4-2026**: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](Default.aspx?tabid=292&newsid=17297)
 
 • **2-4-2026**: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2025](Default.aspx?tabid=292&newsid=17296)
-
-• **2-4-2026**: [Đăng ký tham gia Hội thảo Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT](Default.aspx?tabid=292&newsid=17295)
 
 ## Student Information
 
