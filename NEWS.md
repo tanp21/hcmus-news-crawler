@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-10 at 14:48 +07***
+*Last updated: **2026-04-10 at 16:15 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **10/04/2026**: [Thông báo tổ chức Talkshow “Sa mạc nở hoa & hành trình vượt lên chính mình”](https://hcmus.edu.vn/thong-bao-to-chuc-talkshow-sa-mac-no-hoa-hanh-trinh-vuot-len-chinh-minh/)
+
 • **08/04/2026**: [[THÔNG BÁO] BUỔI NÓI CHUYỆN GIỚI THIỆU CHƯƠNG TRÌNH VEF 2.0 – HỌC KỲ FALL 2027](https://hcmus.edu.vn/thong-bao-buoi-noi-chuyen-gioi-thieu-chuong-trinh-vef-2-0-hoc-ky-fall-2027/)
 
 • **07/04/2026**: [Triển khai chương trình “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 2](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026-dot-2/)
@@ -135,8 +137,6 @@
 • **30/03/2026**: [Thông báo danh sách sinh viên được miễn, giảm học phí học kỳ 2 năm học 2025-2026 (Đợt 1)](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-duoc-mien-giam-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-dot-1/)
 
 • **25/03/2026**: [Chính sách học bổng cho sinh viên](https://hcmus.edu.vn/chinh-sach-hoc-bong-cho-sinh-vien/)
-
-• **24/03/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Mahidol University (MU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-mahidol-university-mu/)
 
 ## Exam Announcements
 
