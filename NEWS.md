@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-13 at 10:21 +07***
+*Last updated: **2026-04-13 at 13:18 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **13-4-2026**: [QUỸ VINIF - Thông báo các chương trình hợp tác, tài trợ năm 2026](Default.aspx?tabid=292&newsid=17321)
+
 • **10-4-2026**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 3](Default.aspx?tabid=292&newsid=17315)
 
 • **10-4-2026**: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 35/2025 - bắt đầu học 13/4/2026](Default.aspx?tabid=292&newsid=17314)
@@ -113,8 +115,6 @@
 • **3-4-2026**: [Danh sách sinh viên tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](Default.aspx?tabid=292&newsid=17299)
 
 • **3-4-2026**: [[CQ] DSSV nộp đề cương đề tài tốt nghiệp K2022 đợt 2 (bảo vệ tháng 7/2026), HK2/25-26](Default.aspx?tabid=292&newsid=17298)
-
-• **2-4-2026**: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](Default.aspx?tabid=292&newsid=17297)
 
 ## Student Information
 
