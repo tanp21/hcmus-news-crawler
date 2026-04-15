@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-15 at 14:53 +07***
+*Last updated: **2026-04-15 at 16:24 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **15-4-2026**: [Đăng ký tham quan công ty DXC Vietnam ngày 13/5/2026](Default.aspx?tabid=292&newsid=17336)
+
 • **15-4-2026**: [Tổng kết Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](Default.aspx?tabid=292&newsid=17332)
 
 • **14-4-2026**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 1](Default.aspx?tabid=292&newsid=17331)
@@ -113,8 +115,6 @@
 • **9-4-2026**: [Danh sách sinh viên tham dự hội thảo Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 14/4](Default.aspx?tabid=292&newsid=17313)
 
 • **7-4-2026**: [Ngày hội việc làm Khoa Công nghệ thông tin 2026](Default.aspx?tabid=292&newsid=17309)
-
-• **7-4-2026**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17308)
 
 ## Student Information
 
