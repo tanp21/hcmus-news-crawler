@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-15 at 09:51 +07***
+*Last updated: **2026-04-15 at 12:27 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **15-4-2026**: [Tổng kết Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](Default.aspx?tabid=292&newsid=17332)
+
 • **14-4-2026**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 1](Default.aspx?tabid=292&newsid=17331)
 
 • **14-4-2026**: [Khoa Công nghệ thông tin đẩy mạnh nâng cao chất lượng hoạt động với trí tuệ nhân tạo](Default.aspx?tabid=292&newsid=17330)
@@ -114,9 +116,9 @@
 
 • **7-4-2026**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17308)
 
-• **7-4-2026**: [Danh sách sinh viên tham gia hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng](Default.aspx?tabid=292&newsid=17304)
-
 ## Student Information
+
+• **15/04/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk1-2025-2026/)
 
 • **14/04/2026**: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026 (Chuyên đề A), ngày 11-12/04/2026](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026-chuyen-de-a-ngay-11-12-04-2026/)
 
@@ -135,8 +137,6 @@
 • **01/04/2026**: [Thông báo chương trình học bổng vượt khó học tốt năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-ho%cc%a3c-2025-2026/)
 
 • **31/03/2026**: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2026](https://hcmus.edu.vn/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2026/)
-
-• **31/03/2026**: [Thông báo nghỉ lễ Giỗ Tổ Hùng Vương 10/3 âm lịch, ngày Chiến thắng 30/4 và ngày Quốc tế Lao động 01/5 năm 2026](https://hcmus.edu.vn/thong-bao-nghi-le-gio-to-hung-vuong-10-3-am-lich-ngay-chien-thang-30-4-va-ngay-quoc-te-lao-dong-01-5-nam-2026/)
 
 ## Exam Announcements
 
