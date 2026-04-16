@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-16 at 06:47 +07***
+*Last updated: **2026-04-16 at 10:18 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **16/04/2026**: [Thông báo Triển khai đăng ký tham gia Cuộc thi chính luận về bảo vệ nền tảng tư tưởng của Đảng lần thứ Sáu, năm 2026](https://hcmus.edu.vn/thong-bao-trie%cc%89n-khai-dang-ky-tham-gia-cuoc-thi-chinh-luan-ve-bao-ve-nen-tang-tu-tuong-cua-dang-lan-thu-sau-nam-2026/)
+
 • **15/04/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk1-2025-2026/)
 
 • **14/04/2026**: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026 (Chuyên đề A), ngày 11-12/04/2026](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026-chuyen-de-a-ngay-11-12-04-2026/)
@@ -135,8 +137,6 @@
 • **01/04/2026**: [Thông báo tổ chức Chương trình tập huấn Ban cán sự lớp “Thực hành kỹ năng quan sát, lắng nghe & kết nối trong hỗ trợ bạn học cùng lớp” (Chuyên đề 1)](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-thuc-hanh-ky-nang-quan-sat-lang-nghe-ket-noi-trong-ho-tro-ban-hoc-cung-lop-chuyen-de-1/)
 
 • **01/04/2026**: [Thông báo chương trình học bổng vượt khó học tốt năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-ho%cc%a3c-2025-2026/)
-
-• **31/03/2026**: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2026](https://hcmus.edu.vn/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2026/)
 
 ## Exam Announcements
 
