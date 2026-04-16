@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-16 at 15:27 +07***
+*Last updated: **2026-04-16 at 17:17 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **16-4-2026**: [Đăng ký tham dự Hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](Default.aspx?tabid=292&newsid=17343)
+
 • **15-4-2026**: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](Default.aspx?tabid=292&newsid=17337)
 
 • **15-4-2026**: [Đăng ký tham quan công ty DXC Vietnam ngày 13/5/2026](Default.aspx?tabid=292&newsid=17336)
@@ -114,9 +116,9 @@
 
 • **10-4-2026**: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 35/2025 - bắt đầu học 13/4/2026](Default.aspx?tabid=292&newsid=17314)
 
-• **9-4-2026**: [Danh sách sinh viên tham dự hội thảo Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 14/4](Default.aspx?tabid=292&newsid=17313)
-
 ## Student Information
+
+• **16/04/2026**: [Kết quả xét tốt nghiệp đợt 1 năm 2026](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-1-nam-2026/)
 
 • **16/04/2026**: [Thông báo Triển khai đăng ký tham gia Cuộc thi chính luận về bảo vệ nền tảng tư tưởng của Đảng lần thứ Sáu, năm 2026](https://hcmus.edu.vn/thong-bao-trie%cc%89n-khai-dang-ky-tham-gia-cuoc-thi-chinh-luan-ve-bao-ve-nen-tang-tu-tuong-cua-dang-lan-thu-sau-nam-2026/)
 
@@ -135,8 +137,6 @@
 • **07/04/2026**: [Kết quả đăng ký Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026/)
 
 • **01/04/2026**: [Thông báo tổ chức Chương trình tập huấn Ban cán sự lớp “Thực hành kỹ năng quan sát, lắng nghe & kết nối trong hỗ trợ bạn học cùng lớp” (Chuyên đề 1)](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-thuc-hanh-ky-nang-quan-sat-lang-nghe-ket-noi-trong-ho-tro-ban-hoc-cung-lop-chuyen-de-1/)
-
-• **01/04/2026**: [Thông báo chương trình học bổng vượt khó học tốt năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-ho%cc%a3c-2025-2026/)
 
 ## Exam Announcements
 
