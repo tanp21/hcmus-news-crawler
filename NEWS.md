@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-17 at 06:44 +07***
+*Last updated: **2026-04-17 at 09:54 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **17/04/2026**: [Thông báo đăng ký học phần học kỳ 3 năm học 2025-2026 – Chương trình Chất lượng cao / Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-nam-hoc-2025-2026-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
+
 • **16/04/2026**: [Kết quả xét tốt nghiệp đợt 1 năm 2026](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-1-nam-2026/)
 
 • **16/04/2026**: [Thông báo Triển khai đăng ký tham gia Cuộc thi chính luận về bảo vệ nền tảng tư tưởng của Đảng lần thứ Sáu, năm 2026](https://hcmus.edu.vn/thong-bao-trie%cc%89n-khai-dang-ky-tham-gia-cuoc-thi-chinh-luan-ve-bao-ve-nen-tang-tu-tuong-cua-dang-lan-thu-sau-nam-2026/)
@@ -135,8 +137,6 @@
 • **07/04/2026**: [Triển khai chương trình “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 2](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026-dot-2/)
 
 • **07/04/2026**: [Kết quả đăng ký Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026/)
-
-• **01/04/2026**: [Thông báo tổ chức Chương trình tập huấn Ban cán sự lớp “Thực hành kỹ năng quan sát, lắng nghe & kết nối trong hỗ trợ bạn học cùng lớp” (Chuyên đề 1)](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-thuc-hanh-ky-nang-quan-sat-lang-nghe-ket-noi-trong-ho-tro-ban-hoc-cung-lop-chuyen-de-1/)
 
 ## Exam Announcements
 
