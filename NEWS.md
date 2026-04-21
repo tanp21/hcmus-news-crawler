@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-21 at 14:58 +07***
+*Last updated: **2026-04-21 at 16:47 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **21/04/2026**: [THÔNG BÁO Triển khai Chương trình Phát triển Nhân tài số 2026](https://hcmus.edu.vn/thong-bao-trien-khai-chuong-trinh-phat-trien-nhan-tai-so-2026/)
+
 • **21/04/2026**: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026 (Chuyên đề A), ngày 19/4/2026](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026-chuyen-de-a-ngay-19-4-2026/)
 
 • **17/04/2026**: [Thông báo đăng ký học phần học kỳ 3 năm học 2025-2026 – Chương trình Chất lượng cao / Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-nam-hoc-2025-2026-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
@@ -135,8 +137,6 @@
 • **10/04/2026**: [Thông báo tổ chức Talkshow “Sa mạc nở hoa & hành trình vượt lên chính mình”](https://hcmus.edu.vn/thong-bao-to-chuc-talkshow-sa-mac-no-hoa-hanh-trinh-vuot-len-chinh-minh/)
 
 • **08/04/2026**: [[THÔNG BÁO] BUỔI NÓI CHUYỆN GIỚI THIỆU CHƯƠNG TRÌNH VEF 2.0 – HỌC KỲ FALL 2027](https://hcmus.edu.vn/thong-bao-buoi-noi-chuyen-gioi-thieu-chuong-trinh-vef-2-0-hoc-ky-fall-2027/)
-
-• **07/04/2026**: [Triển khai chương trình “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 2](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026-dot-2/)
 
 ## Exam Announcements
 
