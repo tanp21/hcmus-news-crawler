@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-21 at 09:55 +07***
+*Last updated: **2026-04-21 at 12:31 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **21-4-2026**: [Danh sách tham quan DXC Vietnam ngày 13/5](Default.aspx?tabid=292&newsid=17353)
+
+• **21-4-2026**: [[Phỏng vấn thử - việc thật] Nộp giấy xác nhận phỏng vấn tại sự kiện Ngày hội việc làm 2026](Default.aspx?tabid=292&newsid=17350)
+
 • **21-4-2026**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024 (đợt tháng 5/2026)](Default.aspx?tabid=292&newsid=17349)
 
 • **20-4-2026**: [Mời tham dự buổi bảo vệ luận văn tốt nghiệp thạc sĩ đợt tháng 4/2026](Default.aspx?tabid=292&newsid=17347)
@@ -111,10 +115,6 @@
 • **14-4-2026**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 1](Default.aspx?tabid=292&newsid=17331)
 
 • **14-4-2026**: [Khoa Công nghệ thông tin đẩy mạnh nâng cao chất lượng hoạt động với trí tuệ nhân tạo](Default.aspx?tabid=292&newsid=17330)
-
-• **13-4-2026**: [Danh sách sinh viên tham dự hội thảo Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 22/4](Default.aspx?tabid=292&newsid=17322)
-
-• **13-4-2026**: [QUỸ VINIF - Thông báo các chương trình hợp tác, tài trợ năm 2026](Default.aspx?tabid=292&newsid=17321)
 
 ## Student Information
 
