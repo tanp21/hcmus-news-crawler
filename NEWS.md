@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-21 at 16:47 +07***
+*Last updated: **2026-04-21 at 18:12 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **21-4-2026**: [Danh sách học phần tiến sĩ mở cho Nghiên cứu sinh khóa tuyển năm 2025](Default.aspx?tabid=292&newsid=17356)
+
 • **21-4-2026**: [Danh sách tham quan DXC Vietnam ngày 13/5](Default.aspx?tabid=292&newsid=17353)
 
 • **21-4-2026**: [[Phỏng vấn thử - việc thật] Nộp giấy xác nhận phỏng vấn tại sự kiện Ngày hội việc làm 2026](Default.aspx?tabid=292&newsid=17350)
@@ -113,8 +115,6 @@
 • **15-4-2026**: [Tổng kết Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](Default.aspx?tabid=292&newsid=17332)
 
 • **14-4-2026**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 1](Default.aspx?tabid=292&newsid=17331)
-
-• **14-4-2026**: [Khoa Công nghệ thông tin đẩy mạnh nâng cao chất lượng hoạt động với trí tuệ nhân tạo](Default.aspx?tabid=292&newsid=17330)
 
 ## Student Information
 
