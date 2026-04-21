@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-21 at 06:49 +07***
+*Last updated: **2026-04-21 at 09:55 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **21-4-2026**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024 (đợt tháng 5/2026)](Default.aspx?tabid=292&newsid=17349)
+
 • **20-4-2026**: [Mời tham dự buổi bảo vệ luận văn tốt nghiệp thạc sĩ đợt tháng 4/2026](Default.aspx?tabid=292&newsid=17347)
 
 • **16-4-2026**: [Đăng ký tham dự Hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](Default.aspx?tabid=292&newsid=17343)
@@ -113,8 +115,6 @@
 • **13-4-2026**: [Danh sách sinh viên tham dự hội thảo Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 22/4](Default.aspx?tabid=292&newsid=17322)
 
 • **13-4-2026**: [QUỸ VINIF - Thông báo các chương trình hợp tác, tài trợ năm 2026](Default.aspx?tabid=292&newsid=17321)
-
-• **10-4-2026**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 3](Default.aspx?tabid=292&newsid=17315)
 
 ## Student Information
 
