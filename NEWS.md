@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-22 at 06:38 +07***
+*Last updated: **2026-04-22 at 09:53 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **22/04/2026**: [Chương trình đào tạo trình độ đại học khóa 2025](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2025/)
+
 • **21/04/2026**: [THÔNG BÁO Triển khai Chương trình Phát triển Nhân tài số 2026](https://hcmus.edu.vn/thong-bao-trien-khai-chuong-trinh-phat-trien-nhan-tai-so-2026/)
 
 • **21/04/2026**: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026 (Chuyên đề A), ngày 19/4/2026](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026-chuyen-de-a-ngay-19-4-2026/)
@@ -135,8 +137,6 @@
 • **14/04/2026**: [[THÔNG BÁO] Chương trình thực tập quốc tế NYCU năm 2026 – National Yang Ming Chiao Tung University](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-quoc-te-nycu-nam-2026-national-yang-ming-chiao-tung-university/)
 
 • **10/04/2026**: [Thông báo tổ chức Talkshow “Sa mạc nở hoa & hành trình vượt lên chính mình”](https://hcmus.edu.vn/thong-bao-to-chuc-talkshow-sa-mac-no-hoa-hanh-trinh-vuot-len-chinh-minh/)
-
-• **08/04/2026**: [[THÔNG BÁO] BUỔI NÓI CHUYỆN GIỚI THIỆU CHƯƠNG TRÌNH VEF 2.0 – HỌC KỲ FALL 2027](https://hcmus.edu.vn/thong-bao-buoi-noi-chuyen-gioi-thieu-chuong-trinh-vef-2-0-hoc-ky-fall-2027/)
 
 ## Exam Announcements
 
