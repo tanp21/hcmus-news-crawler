@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-23 at 15:01 +07***
+*Last updated: **2026-04-23 at 17:23 +07***
 
 ---
 
@@ -118,6 +118,10 @@
 
 ## Student Information
 
+• **23/04/2026**: [THÔNG BÁO TUYỂN CHỌN NHIỆM VỤ KHCN CẤP ĐHQG-HCM KẾ HOẠCH 2026-2027](https://hcmus.edu.vn/thong-bao-tuyen-chon-nhiem-vu-khcn-cap-dhqg-hcm-ke-hoach-2026-2027/)
+
+• **23/04/2026**: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin, hình thức đào tạo từ xa năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-tu-xa-nam-2026/)
+
 • **22/04/2026**: [QUY TRÌNH THU HỌC PHÍ, LỆ PHÍ VÀ CÁC KHOẢN THU KHÁC CỦA NGƯỜI HỌC](https://hcmus.edu.vn/quy-trinh-thu-hoc-phi-le-phi-va-cac-khoan-thu-khac-cua-nguoi-hoc/)
 
 • **22/04/2026**: [[THÔNG BÁO] Trại hè về ngôn ngữ và văn hóa MCUT 2026 – Trường ĐH Kỹ thuật Ming Chi, Đài Loan](https://hcmus.edu.vn/thong-bao-trai-he-ve-ngon-ngu-va-van-hoa-mcut-2026-truong-dh-ky-thuat-ming-chi-dai-loan/)
@@ -133,10 +137,6 @@
 • **17/04/2026**: [Thông báo đăng ký học phần học kỳ 3 năm học 2025-2026 – Chương trình Chất lượng cao / Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-nam-hoc-2025-2026-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
 
 • **16/04/2026**: [Kết quả xét tốt nghiệp đợt 1 năm 2026](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-1-nam-2026/)
-
-• **16/04/2026**: [Thông báo Triển khai đăng ký tham gia Cuộc thi chính luận về bảo vệ nền tảng tư tưởng của Đảng lần thứ Sáu, năm 2026](https://hcmus.edu.vn/thong-bao-trie%cc%89n-khai-dang-ky-tham-gia-cuoc-thi-chinh-luan-ve-bao-ve-nen-tang-tu-tuong-cua-dang-lan-thu-sau-nam-2026/)
-
-• **15/04/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk1-2025-2026/)
 
 ## Exam Announcements
 
