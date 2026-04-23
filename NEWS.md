@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-23 at 12:36 +07***
+*Last updated: **2026-04-23 at 15:01 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **23-4-2026**: [Thông báo đóng học phí học phần 2 các lớp cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17359)
+
+• **23-4-2026**: [Ngày hội việc làm Khoa Công nghệ thông tin - Kết nối và định hướng nghề nghiệp](Default.aspx?tabid=292&newsid=17358)
+
 • **21-4-2026**: [Danh sách học phần tiến sĩ mở cho Nghiên cứu sinh khóa tuyển năm 2025](Default.aspx?tabid=292&newsid=17356)
 
 • **21-4-2026**: [Danh sách tham quan DXC Vietnam ngày 13/5](Default.aspx?tabid=292&newsid=17353)
@@ -111,10 +115,6 @@
 • **15-4-2026**: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](Default.aspx?tabid=292&newsid=17337)
 
 • **15-4-2026**: [Đăng ký tham quan công ty DXC Vietnam ngày 13/5/2026](Default.aspx?tabid=292&newsid=17336)
-
-• **15-4-2026**: [Tổng kết Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](Default.aspx?tabid=292&newsid=17332)
-
-• **14-4-2026**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 1](Default.aspx?tabid=292&newsid=17331)
 
 ## Student Information
 
