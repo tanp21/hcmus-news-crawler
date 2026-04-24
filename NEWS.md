@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-24 at 15:10 +07***
+*Last updated: **2026-04-24 at 17:25 +07***
 
 ---
 
@@ -30,6 +30,8 @@
 
 ### Academic Affairs
 
+• **24/04/2026**: [[CTĐA] Lịch thi chi tiết cuối kỳ HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-lich-thi-chi-tiet-cuoi-ky-hk2-2526/)
+
 • **20/04/2026**: [[CTĐA] DSSV nộp đề cương đề tài tốt nghiệp K2022 đợt 1 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-dssv-nop-de-cuong-de-tai-tot-nghiep-k2022-dot-1-bao-ve-thang-08-2026/)
 
 • **08/04/2026**: [[CTĐA] Thông báo nộp đề tài tốt nghiệp SAU bảo vệ khóa 2021, đợt 2 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-thong-bao-nop-de-tai-tot-nghiep-sau-bao-ve-khoa-2021-dot-2-bao-ve-thang-04-2026/)
@@ -47,8 +49,6 @@
 • **02/02/2026**: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 1 (bảo vệ 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2022-dot-1-bao-ve-08-2026/)
 
 • **22/01/2026**: [[CTĐA] – Thông báo phúc khảo HK1/2526](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda-thong-bao-phuc-khao-hk1-2526/)
-
-• **09/01/2026**: [CTĐA_Thời khóa biểu HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda_thoi-khoa-bieu-hk2-2526/)
 
 ### Student Support
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **24-4-2026**: [Đăng ký tham quan công ty FAST](Default.aspx?tabid=292&newsid=17364)
+
 • **24-4-2026**: [Danh sách sinh viên tham dự hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](Default.aspx?tabid=292&newsid=17363)
 
 • **24-4-2026**: [Chương trình tham quan Nhà máy Bosch Việt Nam, Long Thành](Default.aspx?tabid=292&newsid=17360)
@@ -113,8 +115,6 @@
 • **21-4-2026**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024 (đợt tháng 5/2026)](Default.aspx?tabid=292&newsid=17349)
 
 • **20-4-2026**: [Mời tham dự buổi bảo vệ luận văn tốt nghiệp thạc sĩ đợt tháng 4/2026](Default.aspx?tabid=292&newsid=17347)
-
-• **16-4-2026**: [Đăng ký tham dự Hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](Default.aspx?tabid=292&newsid=17343)
 
 ## Student Information
 
