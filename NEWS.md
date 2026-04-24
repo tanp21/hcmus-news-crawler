@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-24 at 06:51 +07***
+*Last updated: **2026-04-24 at 09:57 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **24-4-2026**: [Chương trình tham quan Nhà máy Bosch Việt Nam, Long Thành](Default.aspx?tabid=292&newsid=17360)
+
 • **23-4-2026**: [Thông báo đóng học phí học phần 2 các lớp cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17359)
 
 • **23-4-2026**: [Ngày hội việc làm Khoa Công nghệ thông tin - Kết nối và định hướng nghề nghiệp](Default.aspx?tabid=292&newsid=17358)
@@ -113,8 +115,6 @@
 • **16-4-2026**: [Đăng ký tham dự Hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](Default.aspx?tabid=292&newsid=17343)
 
 • **15-4-2026**: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](Default.aspx?tabid=292&newsid=17337)
-
-• **15-4-2026**: [Đăng ký tham quan công ty DXC Vietnam ngày 13/5/2026](Default.aspx?tabid=292&newsid=17336)
 
 ## Student Information
 
