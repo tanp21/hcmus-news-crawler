@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-28 at 06:59 +07***
+*Last updated: **2026-04-28 at 10:59 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **28-4-2026**: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](Default.aspx?tabid=292&newsid=17366)
+
 • **24-4-2026**: [Đăng ký tham quan công ty FAST](Default.aspx?tabid=292&newsid=17364)
 
 • **24-4-2026**: [Danh sách sinh viên tham dự hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](Default.aspx?tabid=292&newsid=17363)
@@ -113,8 +115,6 @@
 • **21-4-2026**: [[Phỏng vấn thử - việc thật] Nộp giấy xác nhận phỏng vấn tại sự kiện Ngày hội việc làm 2026](Default.aspx?tabid=292&newsid=17350)
 
 • **21-4-2026**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024 (đợt tháng 5/2026)](Default.aspx?tabid=292&newsid=17349)
-
-• **20-4-2026**: [Mời tham dự buổi bảo vệ luận văn tốt nghiệp thạc sĩ đợt tháng 4/2026](Default.aspx?tabid=292&newsid=17347)
 
 ## Student Information
 
