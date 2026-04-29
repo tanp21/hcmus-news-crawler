@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-04-29 at 06:57 +07***
+*Last updated: **2026-04-29 at 10:54 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **29-4-2026**: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T4/2026](Default.aspx?tabid=292&newsid=17367)
+
 • **28-4-2026**: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](Default.aspx?tabid=292&newsid=17366)
 
 • **24-4-2026**: [Đăng ký tham quan công ty FAST](Default.aspx?tabid=292&newsid=17364)
@@ -113,8 +115,6 @@
 • **21-4-2026**: [Danh sách tham quan DXC Vietnam ngày 13/5](Default.aspx?tabid=292&newsid=17353)
 
 • **21-4-2026**: [[Phỏng vấn thử - việc thật] Nộp giấy xác nhận phỏng vấn tại sự kiện Ngày hội việc làm 2026](Default.aspx?tabid=292&newsid=17350)
-
-• **21-4-2026**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024 (đợt tháng 5/2026)](Default.aspx?tabid=292&newsid=17349)
 
 ## Student Information
 
