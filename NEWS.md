@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-04 at 10:35 +07***
+*Last updated: **2026-05-04 at 13:42 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **4-5-2026**: [Đăng ký tham quan NAB Vietnam ngày 21/5](Default.aspx?tabid=292&newsid=17375)
+
 • **4-5-2026**: [Danh sách tham quan FAST ngày 15/5](Default.aspx?tabid=292&newsid=17373)
 
 • **4-5-2026**: [Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn–Khóa 2023](Default.aspx?tabid=292&newsid=17370)
@@ -113,8 +115,6 @@
 • **23-4-2026**: [Thông báo đóng học phí học phần 2 các lớp cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17359)
 
 • **23-4-2026**: [Ngày hội việc làm Khoa Công nghệ thông tin - Kết nối và định hướng nghề nghiệp](Default.aspx?tabid=292&newsid=17358)
-
-• **21-4-2026**: [Danh sách học phần tiến sĩ mở cho Nghiên cứu sinh khóa tuyển năm 2025](Default.aspx?tabid=292&newsid=17356)
 
 ## Student Information
 
