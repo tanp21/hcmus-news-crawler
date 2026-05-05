@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-05 at 06:56 +07***
+*Last updated: **2026-05-05 at 10:38 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **5-5-2026**: [Danh sách tham quan NAB Vietnam ngày 21/5](Default.aspx?tabid=292&newsid=17380)
+
 • **4-5-2026**: [Đăng ký tham quan NAB Vietnam ngày 21/5](Default.aspx?tabid=292&newsid=17375)
 
 • **4-5-2026**: [Danh sách tham quan FAST ngày 15/5](Default.aspx?tabid=292&newsid=17373)
@@ -113,8 +115,6 @@
 • **24-4-2026**: [Chương trình tham quan Nhà máy Bosch Việt Nam, Long Thành](Default.aspx?tabid=292&newsid=17360)
 
 • **23-4-2026**: [Thông báo đóng học phí học phần 2 các lớp cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17359)
-
-• **23-4-2026**: [Ngày hội việc làm Khoa Công nghệ thông tin - Kết nối và định hướng nghề nghiệp](Default.aspx?tabid=292&newsid=17358)
 
 ## Student Information
 
