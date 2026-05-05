@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-05 at 18:17 +07***
+*Last updated: **2026-05-05 at 23:26 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **05/05/2026**: [Thông báo về việc hoàn thành nghĩa vụ học phí trước khi xét học bổng khuyến khích HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-hoan-thanh-nghia-vu-hoc-phi-truoc-khi-xet-hoc-bong-khuyen-khich-hoc-ky-1-nam-hoc-2025-2026/)
+
 • **28/04/2026**: [THƯ MỜI ĐĂNG KÝ VÀ VIẾT BÀI THAM GIA HỘI NGHỊ XÚC TÁC VÀ HẤP PHỤ TOÀN QUỐC LẦN THỨ XIII](https://hcmus.edu.vn/thu-moi-dang-ky-va-viet-bai-tham-gia-hoi-nghi-xuc-tac-va-hap-phu-toan-quoc-lan-thu-xiii/)
 
 • **24/04/2026**: [TRIỂN KHAI CHƯƠNG TRÌNH ƯU ĐÃI “ĐI BUÝT XANH – VỀ TẾT MIỄN PHÍ”](https://hcmus.edu.vn/trien-khai-chuong-trinh-uu-dai-di-buyt-xanh-ve-tet-mien-phi/)
@@ -135,8 +137,6 @@
 • **22/04/2026**: [Chương trình đào tạo trình độ đại học khóa 2025](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2025/)
 
 • **21/04/2026**: [THÔNG BÁO Triển khai Chương trình Phát triển Nhân tài số 2026](https://hcmus.edu.vn/thong-bao-trien-khai-chuong-trinh-phat-trien-nhan-tai-so-2026/)
-
-• **21/04/2026**: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026 (Chuyên đề A), ngày 19/4/2026](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026-chuyen-de-a-ngay-19-4-2026/)
 
 ## Exam Announcements
 
