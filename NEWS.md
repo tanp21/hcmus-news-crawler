@@ -1,12 +1,8 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-06 at 06:53 +07***
+*Last updated: **2026-05-06 at 10:32 +07***
 
 ---
-
-## ⚠️ Errors
-
-• Exam Announcements: Failed to load exam announcements
 
 ## APCS
 
@@ -144,5 +140,5 @@
 
 ## Exam Announcements
 
-*Failed to load exam announcements*
+*No news items found*
 
