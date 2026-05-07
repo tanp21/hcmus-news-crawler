@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-07 at 10:32 +07***
+*Last updated: **2026-05-07 at 13:39 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **7-5-2026**: [Đăng ký tham quan FireGroup ngày 22/5](Default.aspx?tabid=292&newsid=17381)
+
 • **5-5-2026**: [Danh sách tham quan NAB Vietnam ngày 21/5](Default.aspx?tabid=292&newsid=17380)
 
 • **4-5-2026**: [Đăng ký tham quan NAB Vietnam ngày 21/5](Default.aspx?tabid=292&newsid=17375)
@@ -114,9 +116,9 @@
 
 • **24-4-2026**: [Chương trình tham quan Nhà máy Bosch Việt Nam, Long Thành](Default.aspx?tabid=292&newsid=17360)
 
-• **23-4-2026**: [Thông báo đóng học phí học phần 2 các lớp cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17359)
-
 ## Student Information
+
+• **07/05/2026**: [[THÔNG BÁO] Tuyển sinh đi học tại Ca-dắc-xtan & Ma-rốc năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-ca-dac-xtan-ma-roc-nam-2026/)
 
 • **05/05/2026**: [Thông báo về việc hoàn thành nghĩa vụ học phí trước khi xét học bổng khuyến khích HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-hoan-thanh-nghia-vu-hoc-phi-truoc-khi-xet-hoc-bong-khuyen-khich-hoc-ky-1-nam-hoc-2025-2026/)
 
@@ -135,8 +137,6 @@
 • **22/04/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 202​6 – Universiti Brunei Darussalam (UBD)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universiti-brunei-darussalam-ubd/)
 
 • **22/04/2026**: [Chương trình đào tạo trình độ đại học khóa 2025](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2025/)
-
-• **21/04/2026**: [THÔNG BÁO Triển khai Chương trình Phát triển Nhân tài số 2026](https://hcmus.edu.vn/thong-bao-trien-khai-chuong-trinh-phat-trien-nhan-tai-so-2026/)
 
 ## Exam Announcements
 
