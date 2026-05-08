@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-08 at 13:00 +07***
+*Last updated: **2026-05-08 at 14:54 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **8-5-2026**: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2025 - 2026 (dành cho sinh viên năm 4)](Default.aspx?tabid=292&newsid=17385)
+
 • **7-5-2026**: [Đăng ký tham quan FireGroup ngày 22/5](Default.aspx?tabid=292&newsid=17381)
 
 • **5-5-2026**: [Danh sách tham quan NAB Vietnam ngày 21/5](Default.aspx?tabid=292&newsid=17380)
@@ -113,8 +115,6 @@
 • **24-4-2026**: [Đăng ký tham quan công ty FAST](Default.aspx?tabid=292&newsid=17364)
 
 • **24-4-2026**: [Danh sách sinh viên tham dự hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](Default.aspx?tabid=292&newsid=17363)
-
-• **24-4-2026**: [Chương trình tham quan Nhà máy Bosch Việt Nam, Long Thành](Default.aspx?tabid=292&newsid=17360)
 
 ## Student Information
 
