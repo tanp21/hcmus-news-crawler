@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-08 at 14:54 +07***
+*Last updated: **2026-05-08 at 16:27 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **08/05/2026**: [Thông báo Tổ chức Chương trình tập huấn Ban cán sự lớp – Chuyên đề 2 “Thực hành mô phỏng tình huống sơ cứu tâm lý cho bạn học và kỹ thuật tự chăm sóc sức khỏe tinh thần cho bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-chuyen-de-2-thuc-hanh-mo-phong-tinh-huong-so-cuu-tam-ly-cho-ban-hoc-va-ky-thuat-tu-cham-soc-suc-khoe-tinh-than-cho-ba%cc%89n-tha/)
+
 • **07/05/2026**: [[THÔNG BÁO] Tuyển sinh đi học tại Ca-dắc-xtan & Ma-rốc năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-ca-dac-xtan-ma-roc-nam-2026/)
 
 • **05/05/2026**: [Thông báo về việc hoàn thành nghĩa vụ học phí trước khi xét học bổng khuyến khích HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-hoan-thanh-nghia-vu-hoc-phi-truoc-khi-xet-hoc-bong-khuyen-khich-hoc-ky-1-nam-hoc-2025-2026/)
@@ -135,8 +137,6 @@
 • **22/04/2026**: [[THÔNG BÁO] Trại hè về ngôn ngữ và văn hóa MCUT 2026 – Trường ĐH Kỹ thuật Ming Chi, Đài Loan](https://hcmus.edu.vn/thong-bao-trai-he-ve-ngon-ngu-va-van-hoa-mcut-2026-truong-dh-ky-thuat-ming-chi-dai-loan/)
 
 • **22/04/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 202​6 – Universiti Brunei Darussalam (UBD)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universiti-brunei-darussalam-ubd/)
-
-• **22/04/2026**: [Chương trình đào tạo trình độ đại học khóa 2025](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2025/)
 
 ## Exam Announcements
 
