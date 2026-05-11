@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-11 at 06:55 +07***
+*Last updated: **2026-05-11 at 10:57 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **11-5-2026**: [Đăng ký tham quan VNG ngày 25/5](Default.aspx?tabid=292&newsid=17386)
+
 • **8-5-2026**: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2025 - 2026 (dành cho sinh viên năm 4)](Default.aspx?tabid=292&newsid=17385)
 
 • **7-5-2026**: [Đăng ký tham quan FireGroup ngày 22/5](Default.aspx?tabid=292&newsid=17381)
@@ -113,8 +115,6 @@
 • **28-4-2026**: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](Default.aspx?tabid=292&newsid=17366)
 
 • **24-4-2026**: [Đăng ký tham quan công ty FAST](Default.aspx?tabid=292&newsid=17364)
-
-• **24-4-2026**: [Danh sách sinh viên tham dự hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](Default.aspx?tabid=292&newsid=17363)
 
 ## Student Information
 
