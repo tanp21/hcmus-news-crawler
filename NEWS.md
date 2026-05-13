@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-13 at 23:22 +07***
+*Last updated: **2026-05-14 at 01:57 +07***
 
 ---
 
