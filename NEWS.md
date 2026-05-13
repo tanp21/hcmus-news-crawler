@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-13 at 14:51 +07***
+*Last updated: **2026-05-13 at 17:32 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **13-5-2026**: [Thông tin chương trình tài trợ câu lạc bộ tài năng nghiên cứu khoa học của Quỹ Đổi mới sáng tạo Vingroup (VINIF)](Default.aspx?tabid=292&newsid=17391)
+
 • **12-5-2026**: [Danh sách tham quan FireGroup ngày 22/5](Default.aspx?tabid=292&newsid=17390)
 
 • **11-5-2026**: [Danh sách sinh viên tham quan VNG ngày 25/5](Default.aspx?tabid=292&newsid=17388)
@@ -113,8 +115,6 @@
 • **4-5-2026**: [Danh sách tham quan FAST ngày 15/5](Default.aspx?tabid=292&newsid=17373)
 
 • **4-5-2026**: [Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn–Khóa 2023](Default.aspx?tabid=292&newsid=17370)
-
-• **29-4-2026**: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T4/2026](Default.aspx?tabid=292&newsid=17367)
 
 ## Student Information
 
