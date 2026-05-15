@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-15 at 22:20 +07***
+*Last updated: **2026-05-16 at 00:42 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **15-5-2026**: [Đăng ký tham gia Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17396)
+
 • **15-5-2026**: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2025 - 2026](Default.aspx?tabid=292&newsid=17395)
 
 • **15-5-2026**: [Khoa Công nghệ thông tin đổi mới chương trình đào tạo, chuẩn bị nguồn nhân lực cho kỷ nguyên AI](Default.aspx?tabid=292&newsid=17393)
@@ -113,8 +115,6 @@
 • **7-5-2026**: [Đăng ký tham quan FireGroup ngày 22/5](Default.aspx?tabid=292&newsid=17381)
 
 • **5-5-2026**: [Danh sách tham quan NAB Vietnam ngày 21/5](Default.aspx?tabid=292&newsid=17380)
-
-• **4-5-2026**: [Đăng ký tham quan NAB Vietnam ngày 21/5](Default.aspx?tabid=292&newsid=17375)
 
 ## Student Information
 
