@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-15 at 11:53 +07***
+*Last updated: **2026-05-15 at 17:27 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **15-5-2026**: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2025 - 2026](Default.aspx?tabid=292&newsid=17395)
+
+• **15-5-2026**: [Khoa Công nghệ thông tin đổi mới chương trình đào tạo, chuẩn bị nguồn nhân lực cho kỷ nguyên AI](Default.aspx?tabid=292&newsid=17393)
+
 • **13-5-2026**: [Thông tin chương trình tài trợ câu lạc bộ tài năng nghiên cứu khoa học của Quỹ Đổi mới sáng tạo Vingroup (VINIF)](Default.aspx?tabid=292&newsid=17391)
 
 • **12-5-2026**: [Danh sách tham quan FireGroup ngày 22/5](Default.aspx?tabid=292&newsid=17390)
@@ -111,10 +115,6 @@
 • **5-5-2026**: [Danh sách tham quan NAB Vietnam ngày 21/5](Default.aspx?tabid=292&newsid=17380)
 
 • **4-5-2026**: [Đăng ký tham quan NAB Vietnam ngày 21/5](Default.aspx?tabid=292&newsid=17375)
-
-• **4-5-2026**: [Danh sách tham quan FAST ngày 15/5](Default.aspx?tabid=292&newsid=17373)
-
-• **4-5-2026**: [Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn–Khóa 2023](Default.aspx?tabid=292&newsid=17370)
 
 ## Student Information
 
