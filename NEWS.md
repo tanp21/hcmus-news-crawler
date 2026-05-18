@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-18 at 11:01 +07***
+*Last updated: **2026-05-18 at 15:46 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **18-5-2026**: [Khảo sát mức độ quan tâm ngành/ chuyên ngành Khóa 2024 - Chương trình chuẩn ĐHCQ](Default.aspx?tabid=292&newsid=17400)
+
 • **17-5-2026**: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Ngọc Trung](Default.aspx?tabid=292&newsid=17397)
 
 • **15-5-2026**: [Đăng ký tham gia Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17396)
@@ -114,9 +116,9 @@
 
 • **8-5-2026**: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2025 - 2026 (dành cho sinh viên năm 4)](Default.aspx?tabid=292&newsid=17385)
 
-• **7-5-2026**: [Đăng ký tham quan FireGroup ngày 22/5](Default.aspx?tabid=292&newsid=17381)
-
 ## Student Information
+
+• **18/05/2026**: [Thông báo chương trình học bổng vượt khó học tốt do ACB tài trợ năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-ho%cc%a3c-2025-2026-2/)
 
 • **14/05/2026**: [THÔNG BÁO Đăng ký tham gia Giải thưởng Sáng tạo tương lai – VietFuture Awards 2026](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-sang-tao-tuong-lai-vietfuture-awards-2026/)
 
@@ -135,8 +137,6 @@
 • **24/04/2026**: [TRIỂN KHAI CHƯƠNG TRÌNH ƯU ĐÃI “ĐI BUÝT XANH – VỀ TẾT MIỄN PHÍ”](https://hcmus.edu.vn/trien-khai-chuong-trinh-uu-dai-di-buyt-xanh-ve-tet-mien-phi/)
 
 • **23/04/2026**: [THÔNG BÁO TUYỂN CHỌN NHIỆM VỤ KHCN CẤP ĐHQG-HCM KẾ HOẠCH 2026-2027](https://hcmus.edu.vn/thong-bao-tuyen-chon-nhiem-vu-khcn-cap-dhqg-hcm-ke-hoach-2026-2027/)
-
-• **23/04/2026**: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin, hình thức đào tạo từ xa năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-tu-xa-nam-2026/)
 
 ## Exam Announcements
 
