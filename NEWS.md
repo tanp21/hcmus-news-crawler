@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-19 at 07:11 +07***
+*Last updated: **2026-05-19 at 12:04 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **19-5-2026**: [Thông báo chuyên ngành chính thức cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn Khóa 2023](Default.aspx?tabid=292&newsid=17402)
+
 • **18-5-2026**: [Khảo sát mức độ quan tâm ngành/ chuyên ngành Khóa 2024 - Chương trình chuẩn ĐHCQ](Default.aspx?tabid=292&newsid=17400)
 
 • **17-5-2026**: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Ngọc Trung](Default.aspx?tabid=292&newsid=17397)
@@ -113,8 +115,6 @@
 • **11-5-2026**: [Danh sách sinh viên tham quan VNG ngày 25/5](Default.aspx?tabid=292&newsid=17388)
 
 • **11-5-2026**: [Đăng ký tham quan VNG ngày 25/5](Default.aspx?tabid=292&newsid=17386)
-
-• **8-5-2026**: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2025 - 2026 (dành cho sinh viên năm 4)](Default.aspx?tabid=292&newsid=17385)
 
 ## Student Information
 
