@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-21 at 11:04 +07***
+*Last updated: **2026-05-21 at 15:33 +07***
 
 ---
 
@@ -118,6 +118,10 @@
 
 ## Student Information
 
+• **21/05/2026**: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần chương trình chuẩn/đại trà trong HK3/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-chuong-trinh-chuan-dai-tra-trong-hk3-2025-2026-tai-co-so-2/)
+
+• **21/05/2026**: [Thông báo v/v phát thuốc tẩy giun Đợt 1 năm 2026 cho VC-NLĐ và người học Trường ĐH Khoa học tự nhiên](https://hcmus.edu.vn/thong-bao-v-v-phat-thuoc-tay-giun-dot-1-nam-2026-cho-vc-nld-va-nguoi-hoc-truong-dh-khoa-hoc-tu-nhien/)
+
 • **18/05/2026**: [Thông báo chương trình học bổng vượt khó học tốt do ACB tài trợ năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-ho%cc%a3c-2025-2026-2/)
 
 • **14/05/2026**: [THÔNG BÁO Đăng ký tham gia Giải thưởng Sáng tạo tương lai – VietFuture Awards 2026](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-sang-tao-tuong-lai-vietfuture-awards-2026/)
@@ -133,10 +137,6 @@
 • **05/05/2026**: [Thông báo về việc hoàn thành nghĩa vụ học phí trước khi xét học bổng khuyến khích HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-hoan-thanh-nghia-vu-hoc-phi-truoc-khi-xet-hoc-bong-khuyen-khich-hoc-ky-1-nam-hoc-2025-2026/)
 
 • **28/04/2026**: [THƯ MỜI ĐĂNG KÝ VÀ VIẾT BÀI THAM GIA HỘI NGHỊ XÚC TÁC VÀ HẤP PHỤ TOÀN QUỐC LẦN THỨ XIII](https://hcmus.edu.vn/thu-moi-dang-ky-va-viet-bai-tham-gia-hoi-nghi-xuc-tac-va-hap-phu-toan-quoc-lan-thu-xiii/)
-
-• **24/04/2026**: [TRIỂN KHAI CHƯƠNG TRÌNH ƯU ĐÃI “ĐI BUÝT XANH – VỀ TẾT MIỄN PHÍ”](https://hcmus.edu.vn/trien-khai-chuong-trinh-uu-dai-di-buyt-xanh-ve-tet-mien-phi/)
-
-• **23/04/2026**: [THÔNG BÁO TUYỂN CHỌN NHIỆM VỤ KHCN CẤP ĐHQG-HCM KẾ HOẠCH 2026-2027](https://hcmus.edu.vn/thong-bao-tuyen-chon-nhiem-vu-khcn-cap-dhqg-hcm-ke-hoach-2026-2027/)
 
 ## Exam Announcements
 
