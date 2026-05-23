@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-23 at 20:43 +07***
+*Last updated: **2026-05-23 at 22:03 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **23-5-2026**: [Tọa đàm “Giải mã ngành/chuyên ngành cho sinh viên khóa tuyển 2024 – Chương trình Chuẩn”](Default.aspx?tabid=292&newsid=17408)
+
 • **19-5-2026**: [Thông báo chuyên ngành chính thức cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn Khóa 2023](Default.aspx?tabid=292&newsid=17402)
 
 • **18-5-2026**: [Khảo sát mức độ quan tâm ngành/ chuyên ngành Khóa 2024 - Chương trình chuẩn ĐHCQ](Default.aspx?tabid=292&newsid=17400)
@@ -113,8 +115,6 @@
 • **12-5-2026**: [Danh sách tham quan FireGroup ngày 22/5](Default.aspx?tabid=292&newsid=17390)
 
 • **11-5-2026**: [Danh sách sinh viên tham quan VNG ngày 25/5](Default.aspx?tabid=292&newsid=17388)
-
-• **11-5-2026**: [Đăng ký tham quan VNG ngày 25/5](Default.aspx?tabid=292&newsid=17386)
 
 ## Student Information
 
