@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-26 at 10:55 +07***
+*Last updated: **2026-05-26 at 14:54 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **26-5-2026**: [[CQ] Kế hoạch giảng dạy học kỳ 3, năm học 2025-2026 (học kỳ hè)](Default.aspx?tabid=292&newsid=17414)
+
 • **23-5-2026**: [Tọa đàm “Giải mã ngành/chuyên ngành cho sinh viên khóa tuyển 2024 – Chương trình Chuẩn”](Default.aspx?tabid=292&newsid=17408)
 
 • **19-5-2026**: [Thông báo chuyên ngành chính thức cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn Khóa 2023](Default.aspx?tabid=292&newsid=17402)
@@ -113,8 +115,6 @@
 • **13-5-2026**: [Thông tin chương trình tài trợ câu lạc bộ tài năng nghiên cứu khoa học của Quỹ Đổi mới sáng tạo Vingroup (VINIF)](Default.aspx?tabid=292&newsid=17391)
 
 • **12-5-2026**: [Danh sách tham quan FireGroup ngày 22/5](Default.aspx?tabid=292&newsid=17390)
-
-• **11-5-2026**: [Danh sách sinh viên tham quan VNG ngày 25/5](Default.aspx?tabid=292&newsid=17388)
 
 ## Student Information
 
