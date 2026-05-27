@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-27 at 12:19 +07***
+*Last updated: **2026-05-27 at 16:59 +07***
 
 ---
 
@@ -30,6 +30,8 @@
 
 ### Academic Affairs
 
+• **27/05/2026**: [[CTĐA] Thời khoá biểu HK3 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/05/ctda-thoi-khoa-bieu-hk3-nam-hoc-2025-2026/)
+
 • **13/05/2026**: [[CTĐA] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/05/ctda-thong-bao-nop-bao-cao-tien-do-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-thang-08-2026/)
 
 • **24/04/2026**: [[CTĐA] Lịch thi chi tiết cuối kỳ HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-lich-thi-chi-tiet-cuoi-ky-hk2-2526/)
@@ -47,8 +49,6 @@
 • **19/03/2026**: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/03/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2025-2026/)
 
 • **24/02/2026**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt tháng 4/2026](https://www.ctda.hcmus.edu.vn/vi/2026/02/thong-bao-nop-don-dang-ky-bao-ve-huy-bao-ve-de-tai-tot-nghiep-khoa-2021-dot-thang-4-2026/)
-
-• **02/02/2026**: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 1 (bảo vệ 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2022-dot-1-bao-ve-08-2026/)
 
 ### Student Support
 
