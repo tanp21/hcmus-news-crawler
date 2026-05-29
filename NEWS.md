@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-05-29 at 10:59 +07***
+*Last updated: **2026-05-29 at 15:05 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **29-5-2026**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17420)
+
 • **29-5-2026**: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 23/5](Default.aspx?tabid=292&newsid=17419)
 
 • **28-5-2026**: [Đăng ký tham quan công ty KMS Technology ngày 10/6](Default.aspx?tabid=292&newsid=17418)
@@ -113,8 +115,6 @@
 • **15-5-2026**: [Đăng ký tham gia Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17396)
 
 • **15-5-2026**: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2025 - 2026](Default.aspx?tabid=292&newsid=17395)
-
-• **15-5-2026**: [Khoa Công nghệ thông tin đổi mới chương trình đào tạo, chuẩn bị nguồn nhân lực cho kỷ nguyên AI](Default.aspx?tabid=292&newsid=17393)
 
 ## Student Information
 
