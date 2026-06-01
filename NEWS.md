@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-01 at 06:02 +07***
+*Last updated: **2026-06-01 at 11:25 +07***
 
 ---
 
@@ -96,6 +96,10 @@
 
 ## FIT
 
+• **1-6-2026**: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Trần Thống](Default.aspx?tabid=292&newsid=17422)
+
+• **31-5-2026**: [Danh sách sinh viên tham dự hội thảo Hội thảo Interview Mindset: Làm chủ buổi phỏng vấn công nghệ.](Default.aspx?tabid=292&newsid=17421)
+
 • **29-5-2026**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17420)
 
 • **29-5-2026**: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 23/5](Default.aspx?tabid=292&newsid=17419)
@@ -112,11 +116,9 @@
 
 • **17-5-2026**: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Ngọc Trung](Default.aspx?tabid=292&newsid=17397)
 
-• **15-5-2026**: [Đăng ký tham gia Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17396)
-
-• **15-5-2026**: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2025 - 2026](Default.aspx?tabid=292&newsid=17395)
-
 ## Student Information
+
+• **01/06/2026**: [Thông tin về Chương trình Học bổng Synopsys IC Design Scholarship 2026](https://hcmus.edu.vn/thong-tin-ve-chuong-trinh-hoc-bong-synopsys-ic-design-scholarship-2026/)
 
 • **30/05/2026**: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo trình độ đại học hệ chính quy – Đợt tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-dot-thang-6-nam-2026/)
 
@@ -135,8 +137,6 @@
 • **08/05/2026**: [Thông báo Tổ chức Chương trình tập huấn Ban cán sự lớp – Chuyên đề 2 “Thực hành mô phỏng tình huống sơ cứu tâm lý cho bạn học và kỹ thuật tự chăm sóc sức khỏe tinh thần cho bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-chuyen-de-2-thuc-hanh-mo-phong-tinh-huong-so-cuu-tam-ly-cho-ban-hoc-va-ky-thuat-tu-cham-soc-suc-khoe-tinh-than-cho-ba%cc%89n-tha/)
 
 • **07/05/2026**: [[THÔNG BÁO] Tuyển sinh đi học tại Ca-dắc-xtan & Ma-rốc năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-ca-dac-xtan-ma-roc-nam-2026/)
-
-• **05/05/2026**: [Thông báo về việc hoàn thành nghĩa vụ học phí trước khi xét học bổng khuyến khích HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-hoan-thanh-nghia-vu-hoc-phi-truoc-khi-xet-hoc-bong-khuyen-khich-hoc-ky-1-nam-hoc-2025-2026/)
 
 ## Exam Announcements
 
