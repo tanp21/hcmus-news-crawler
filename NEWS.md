@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-01 at 17:22 +07***
+*Last updated: **2026-06-01 at 23:39 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **1-6-2026**: [Danh sách tham quan KMS Technology ngày 10/6](Default.aspx?tabid=292&newsid=17426)
+
 • **1-6-2026**: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Trần Thống](Default.aspx?tabid=292&newsid=17422)
 
 • **31-5-2026**: [Danh sách sinh viên tham dự hội thảo Hội thảo Interview Mindset: Làm chủ buổi phỏng vấn công nghệ.](Default.aspx?tabid=292&newsid=17421)
@@ -113,8 +115,6 @@
 • **19-5-2026**: [Thông báo chuyên ngành chính thức cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn Khóa 2023](Default.aspx?tabid=292&newsid=17402)
 
 • **18-5-2026**: [Khảo sát mức độ quan tâm ngành/ chuyên ngành Khóa 2024 - Chương trình chuẩn ĐHCQ](Default.aspx?tabid=292&newsid=17400)
-
-• **17-5-2026**: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Ngọc Trung](Default.aspx?tabid=292&newsid=17397)
 
 ## Student Information
 
