@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-02 at 06:04 +07***
+*Last updated: **2026-06-02 at 11:19 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **02/06/2026**: [Thông báo Chương trình học bổng Vallet 2026 (Dành cho Sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-vallet-2026-danh-cho-sinh-vien-dai-hoc/)
+
 • **01/06/2026**: [Thông tin về Chương trình Học bổng Synopsys IC Design Scholarship 2026](https://hcmus.edu.vn/thong-tin-ve-chuong-trinh-hoc-bong-synopsys-ic-design-scholarship-2026/)
 
 • **30/05/2026**: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo trình độ đại học hệ chính quy – Đợt tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-dot-thang-6-nam-2026/)
@@ -135,8 +137,6 @@
 • **12/05/2026**: [[THÔNG BÁO] Chương trình AUN Summer Camp 202​6 – Chulalongkorn University](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-chulalongkorn-university/)
 
 • **08/05/2026**: [Thông báo Tổ chức Chương trình tập huấn Ban cán sự lớp – Chuyên đề 2 “Thực hành mô phỏng tình huống sơ cứu tâm lý cho bạn học và kỹ thuật tự chăm sóc sức khỏe tinh thần cho bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-chuyen-de-2-thuc-hanh-mo-phong-tinh-huong-so-cuu-tam-ly-cho-ban-hoc-va-ky-thuat-tu-cham-soc-suc-khoe-tinh-than-cho-ba%cc%89n-tha/)
-
-• **07/05/2026**: [[THÔNG BÁO] Tuyển sinh đi học tại Ca-dắc-xtan & Ma-rốc năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-ca-dac-xtan-ma-roc-nam-2026/)
 
 ## Exam Announcements
 
