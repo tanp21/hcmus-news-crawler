@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-05 at 16:57 +07***
+*Last updated: **2026-06-05 at 19:44 +07***
 
 ---
 
@@ -104,6 +104,8 @@
 
 • **31-5-2026**: [Danh sách sinh viên tham dự hội thảo Hội thảo Interview Mindset: Làm chủ buổi phỏng vấn công nghệ.](Default.aspx?tabid=292&newsid=17421)
 
+• **29-5-2026**: [Thông báo về việc tổ chức Lễ tốt nghiệp Thạc sĩ, Tiến sĩ năm 2026](Default.aspx?tabid=292&newsid=17430)
+
 • **29-5-2026**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17420)
 
 • **29-5-2026**: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 23/5](Default.aspx?tabid=292&newsid=17419)
@@ -113,8 +115,6 @@
 • **26-5-2026**: [[CQ] Kế hoạch giảng dạy học kỳ 3, năm học 2025-2026 (học kỳ hè)](Default.aspx?tabid=292&newsid=17414)
 
 • **23-5-2026**: [Tọa đàm “Giải mã ngành/chuyên ngành cho sinh viên khóa tuyển 2024 – Chương trình Chuẩn”](Default.aspx?tabid=292&newsid=17408)
-
-• **19-5-2026**: [Thông báo chuyên ngành chính thức cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn Khóa 2023](Default.aspx?tabid=292&newsid=17402)
 
 ## Student Information
 
