@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-08 at 18:02 +07***
+*Last updated: **2026-06-08 at 22:59 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **8-6-2026**: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 6/6](Default.aspx?tabid=292&newsid=17432)
+
 • **3-6-2026**: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2025](Default.aspx?tabid=292&newsid=17427)
 
 • **1-6-2026**: [Danh sách tham quan KMS Technology ngày 10/6](Default.aspx?tabid=292&newsid=17426)
@@ -113,8 +115,6 @@
 • **28-5-2026**: [Đăng ký tham quan công ty KMS Technology ngày 10/6](Default.aspx?tabid=292&newsid=17418)
 
 • **26-5-2026**: [[CQ] Kế hoạch giảng dạy học kỳ 3, năm học 2025-2026 (học kỳ hè)](Default.aspx?tabid=292&newsid=17414)
-
-• **23-5-2026**: [Tọa đàm “Giải mã ngành/chuyên ngành cho sinh viên khóa tuyển 2024 – Chương trình Chuẩn”](Default.aspx?tabid=292&newsid=17408)
 
 ## Student Information
 
