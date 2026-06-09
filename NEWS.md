@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-09 at 14:53 +07***
+*Last updated: **2026-06-09 at 18:19 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **9-6-2026**: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2023](Default.aspx?tabid=292&newsid=17433)
+
 • **8-6-2026**: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 6/6](Default.aspx?tabid=292&newsid=17432)
 
 • **3-6-2026**: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2025](Default.aspx?tabid=292&newsid=17427)
@@ -113,8 +115,6 @@
 • **29-5-2026**: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 23/5](Default.aspx?tabid=292&newsid=17419)
 
 • **28-5-2026**: [Đăng ký tham quan công ty KMS Technology ngày 10/6](Default.aspx?tabid=292&newsid=17418)
-
-• **26-5-2026**: [[CQ] Kế hoạch giảng dạy học kỳ 3, năm học 2025-2026 (học kỳ hè)](Default.aspx?tabid=292&newsid=17414)
 
 ## Student Information
 
