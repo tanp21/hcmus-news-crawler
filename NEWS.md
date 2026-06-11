@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-11 at 07:18 +07***
+*Last updated: **2026-06-11 at 12:51 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **11/06/2026**: [Thông báo đăng ký học phần học kỳ 3 năm học 2025-2026 cho sinh viên Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy/)
+
 • **05/06/2026**: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK1/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk1-2025-2026-chuong-trinh-chuan/)
 
 • **04/06/2026**: [Thông báo tổ chức Workshop: “Hội chứng Dunning – Kruger, nhận thức đúng về năng lực bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-workshop-hoi-chung-dunning-kruger-nhan-thuc-dung-ve-nang-luc-ban-than/)
@@ -135,8 +137,6 @@
 • **21/05/2026**: [Thông báo v/v phát thuốc tẩy giun Đợt 1 năm 2026 cho VC-NLĐ và người học Trường ĐH Khoa học tự nhiên](https://hcmus.edu.vn/thong-bao-v-v-phat-thuoc-tay-giun-dot-1-nam-2026-cho-vc-nld-va-nguoi-hoc-truong-dh-khoa-hoc-tu-nhien/)
 
 • **18/05/2026**: [Thông báo chương trình học bổng vượt khó học tốt do ACB tài trợ năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-ho%cc%a3c-2025-2026-2/)
-
-• **14/05/2026**: [THÔNG BÁO Đăng ký tham gia Giải thưởng Sáng tạo tương lai – VietFuture Awards 2026](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-sang-tao-tuong-lai-vietfuture-awards-2026/)
 
 ## Exam Announcements
 
