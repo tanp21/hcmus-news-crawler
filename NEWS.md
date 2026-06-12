@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-12 at 16:00 +07***
+*Last updated: **2026-06-12 at 19:27 +07***
 
 ---
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **12/06/2026**: [Thông báo nhận bằng tốt nghiệp bậc Đại học/Liên thông đại học hệ Chính quy, bậc Cao đẳng ngành Công nghệ thông tin và hệ Đào tạo từ xa cho các đợt xét tốt nghiệp tháng 3 và tháng 4 năm 2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-lien-thong-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-va-he-dao-tao-tu-xa-cho-cac-dot-xet-tot-nghiep-thang-3-va-thang-4-nam-2026/)
+
 • **11/06/2026**: [Thông báo đăng ký học phần học kỳ 3 năm học 2025-2026 cho sinh viên Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy/)
 
 • **05/06/2026**: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK1/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk1-2025-2026-chuong-trinh-chuan/)
@@ -135,8 +137,6 @@
 • **21/05/2026**: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần chương trình chuẩn/đại trà trong HK3/2025-2026 tại cơ sở 2 (cập nhật)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-chuong-trinh-chuan-dai-tra-trong-hk3-2025-2026-tai-co-so-2/)
 
 • **21/05/2026**: [Thông báo v/v phát thuốc tẩy giun Đợt 1 năm 2026 cho VC-NLĐ và người học Trường ĐH Khoa học tự nhiên](https://hcmus.edu.vn/thong-bao-v-v-phat-thuoc-tay-giun-dot-1-nam-2026-cho-vc-nld-va-nguoi-hoc-truong-dh-khoa-hoc-tu-nhien/)
-
-• **18/05/2026**: [Thông báo chương trình học bổng vượt khó học tốt do ACB tài trợ năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-ho%cc%a3c-2025-2026-2/)
 
 ## Exam Announcements
 
