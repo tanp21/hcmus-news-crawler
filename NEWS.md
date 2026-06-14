@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-14 at 07:11 +07***
+*Last updated: **2026-06-14 at 12:52 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **14-6-2026**: [Đăng ký tham gia Seminar on Legal AI Beyond the Demo: Building systems that work in practice](Default.aspx?tabid=292&newsid=17436)
+
 • **9-6-2026**: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2023](Default.aspx?tabid=292&newsid=17433)
 
 • **8-6-2026**: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 6/6](Default.aspx?tabid=292&newsid=17432)
@@ -113,8 +115,6 @@
 • **29-5-2026**: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](Default.aspx?tabid=292&newsid=17420)
 
 • **29-5-2026**: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 23/5](Default.aspx?tabid=292&newsid=17419)
-
-• **28-5-2026**: [Đăng ký tham quan công ty KMS Technology ngày 10/6](Default.aspx?tabid=292&newsid=17418)
 
 ## Student Information
 
