@@ -1,12 +1,14 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-16 at 11:46 +07***
+*Last updated: **2026-06-16 at 17:11 +07***
 
 ---
 
 ## APCS
 
 ### Academic Planning
+
+• **16/06/2026**: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
 
 • **19/09/2025**: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
 
@@ -26,9 +28,9 @@
 
 • **09/05/2023**: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2023-2024/)
 
-• **30/09/2022**: [[CTĐA] Kế hoạch mở học phần năm học 2022-2023 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2022-2023-du-kien/)
-
 ### Academic Affairs
+
+• **16/06/2026**: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
 
 • **28/05/2026**: [Thông báo phúc khảo HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/05/thong-bao-phuc-khao-hk2-2526/)
 
@@ -47,8 +49,6 @@
 • **21/03/2026**: [[Quan trọng] Thông báo thay đổi thời gian tổ chức thi cuối kỳ HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/03/quan-trong-thong-bao-thay-doi-thoi-gian-to-chuc-thi-cuoi-ky-hk2-2526/)
 
 • **19/03/2026**: [Chương trình thực tập thực tế học kỳ 3 năm học 2025-2026 dành cho sinh viên CTĐA](https://www.ctda.hcmus.edu.vn/vi/2026/03/chuong-trinh-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2025-2026-danh-cho-sinh-vien-ctda/)
-
-• **19/03/2026**: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/03/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2025-2026/)
 
 ### Student Support
 
@@ -118,6 +118,8 @@
 
 ## Student Information
 
+• **16/06/2026**: [KÊU GỌI ĐỀ XUẤT Ý TƯỞNG PHÁT TRIỂN CÔNG NGHỆ CHIẾN LƯỢC TỪ BỘ KHOA HỌC VÀ CÔNG NGHỆ](https://hcmus.edu.vn/keu-goi-de-xuat-y-tuong-phat-trien-cong-nghe-chien-luoc-tu-bo-khoa-hoc-va-cong-nghe/)
+
 • **16/06/2026**: [[THÔNG BÁO] Đăng ký tham dự Masterclass – Assoc. Prof. Theodor Cojoianu – Singapore Management University (SMU)](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-masterclass-assoc-prof-theodor-cojoianu-singapore-management-university-smu/)
 
 • **15/06/2026**: [Thông báo kết quả dự kiến HBKK HK1/2025-2026 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2025-2026-khoa-cong-nghe-thong-tin-ctda/)
@@ -135,8 +137,6 @@
 • **02/06/2026**: [Thông báo kết quả dự kiến HBKK HK1/2025-2026 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học&CNVL, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2025-2026-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
 
 • **02/06/2026**: [Thông báo Chương trình học bổng Vallet 2026 (Dành cho Sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-vallet-2026-danh-cho-sinh-vien-dai-hoc/)
-
-• **01/06/2026**: [Thông tin về Chương trình Học bổng Synopsys IC Design Scholarship 2026](https://hcmus.edu.vn/thong-tin-ve-chuong-trinh-hoc-bong-synopsys-ic-design-scholarship-2026/)
 
 ## Exam Announcements
 
