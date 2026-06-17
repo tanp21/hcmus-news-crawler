@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-17 at 13:16 +07***
+*Last updated: **2026-06-17 at 18:51 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **17-6-2026**: [[CQ] Thời khóa biểu học kỳ 3 năm học 2025-2026](Default.aspx?tabid=292&newsid=17446)
+
 • **16-6-2026**: [Thông báo đăng ký chương trình thực tập ngắn hạn tại trường Kyoto Institute of Technology (KIT), Nhật Bản năm 2026](Default.aspx?tabid=292&newsid=17445)
 
 • **15-6-2026**: [Chung kết HCMUS-CTF 2026: Khép lại mùa giải đầy kịch tính và ấn tượng](Default.aspx?tabid=292&newsid=17442)
@@ -114,9 +116,11 @@
 
 • **31-5-2026**: [Danh sách sinh viên tham dự hội thảo Hội thảo Interview Mindset: Làm chủ buổi phỏng vấn công nghệ.](Default.aspx?tabid=292&newsid=17421)
 
-• **29-5-2026**: [Thông báo về việc tổ chức Lễ tốt nghiệp Thạc sĩ, Tiến sĩ năm 2026](Default.aspx?tabid=292&newsid=17430)
-
 ## Student Information
+
+• **17/06/2026**: [Thông báo tuyển tình nguyện viên tham gia chương trình AUN Summer Program 2026 tại Đại học Quốc gia Thành phố Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-tuyen-tinh-nguyen-vien-tham-gia-chuong-trinh-aun-summer-program-2026-tai-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/)
+
+• **17/06/2026**: [Thông báo tuyển sinh viên tham gia chương trình AUN Summer Program 2026 tại Đại học Quốc gia Thành phố Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-tuyen-sinh-vien-tham-gia-chuong-trinh-aun-summer-program-2026-tai-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/)
 
 • **17/06/2026**: [Thông báo nộp học phí HK3/2025-2026 – Chương trình Tiên tiến, CLC, TCTA và Việt-Pháp](https://hcmus.edu.vn/67968-2/)
 
@@ -133,10 +137,6 @@
 • **12/06/2026**: [Thông báo nhận bằng tốt nghiệp bậc Đại học/Liên thông đại học hệ Chính quy, bậc Cao đẳng ngành Công nghệ thông tin và hệ Đào tạo từ xa cho các đợt xét tốt nghiệp tháng 3 và tháng 4 năm 2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-lien-thong-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-va-he-dao-tao-tu-xa-cho-cac-dot-xet-tot-nghiep-thang-3-va-thang-4-nam-2026/)
 
 • **11/06/2026**: [Thông báo đăng ký học phần học kỳ 3 năm học 2025-2026 cho sinh viên Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy/)
-
-• **05/06/2026**: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK1/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk1-2025-2026-chuong-trinh-chuan/)
-
-• **04/06/2026**: [Thông báo tổ chức Workshop: “Hội chứng Dunning – Kruger, nhận thức đúng về năng lực bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-workshop-hoi-chung-dunning-kruger-nhan-thuc-dung-ve-nang-luc-ban-than/)
 
 ## Exam Announcements
 
