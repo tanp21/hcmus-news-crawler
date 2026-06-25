@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-25 at 17:45 +07***
+*Last updated: **2026-06-25 at 20:22 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **25-6-2026**: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Nguyễn Ngọc Trung (8g00, 29/6, F205b)](Default.aspx?tabid=292&newsid=17449)
+
 • **17-6-2026**: [[CQ] Thời khóa biểu học kỳ 3 năm học 2025-2026](Default.aspx?tabid=292&newsid=17446)
 
 • **16-6-2026**: [Thông báo đăng ký chương trình thực tập ngắn hạn tại trường Kyoto Institute of Technology (KIT), Nhật Bản năm 2026](Default.aspx?tabid=292&newsid=17445)
@@ -113,8 +115,6 @@
 • **1-6-2026**: [Danh sách tham quan KMS Technology ngày 10/6](Default.aspx?tabid=292&newsid=17426)
 
 • **1-6-2026**: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Trần Thống](Default.aspx?tabid=292&newsid=17422)
-
-• **31-5-2026**: [Danh sách sinh viên tham dự hội thảo Hội thảo Interview Mindset: Làm chủ buổi phỏng vấn công nghệ.](Default.aspx?tabid=292&newsid=17421)
 
 ## Student Information
 
