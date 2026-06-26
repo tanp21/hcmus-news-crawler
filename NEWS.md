@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-26 at 06:21 +07***
+*Last updated: **2026-06-26 at 11:02 +07***
 
 ---
 
@@ -118,6 +118,10 @@
 
 ## Student Information
 
+• **26/06/2026**: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đại trà](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-dai-tra/)
+
+• **26/06/2026**: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đề án](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-de-an/)
+
 • **22/06/2026**: [THÔNG BÁO Triển khai Giải thưởng Khoa học và Công nghệ của Bộ Giáo dục và Đào tạo dành cho sinh viên năm 2026](https://hcmus.edu.vn/thong-bao-trien-khai-giai-thuong-khoa-hoc-va-cong-nghe-cua-bo-giao-duc-va-dao-tao-danh-cho-sinh-vien-nam-2026/)
 
 • **22/06/2026**: [Thông báo Chương trình Học bổng Đinh Thiện Lý năm học 2026-2027 (Dành cho sinh viên khóa 2023)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dinh-thien-ly-nam-hoc-2026-2027-danh-cho-sinh-vien-khoa-2023/)
@@ -133,10 +137,6 @@
 • **16/06/2026**: [KÊU GỌI ĐỀ XUẤT Ý TƯỞNG PHÁT TRIỂN CÔNG NGHỆ CHIẾN LƯỢC TỪ BỘ KHOA HỌC VÀ CÔNG NGHỆ](https://hcmus.edu.vn/keu-goi-de-xuat-y-tuong-phat-trien-cong-nghe-chien-luoc-tu-bo-khoa-hoc-va-cong-nghe/)
 
 • **16/06/2026**: [[THÔNG BÁO] Đăng ký tham dự Masterclass – Assoc. Prof. Theodor Cojoianu – Singapore Management University (SMU)](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-masterclass-assoc-prof-theodor-cojoianu-singapore-management-university-smu/)
-
-• **15/06/2026**: [Thông báo kết quả dự kiến HBKK HK1/2025-2026 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2025-2026-khoa-cong-nghe-thong-tin-ctda/)
-
-• **15/06/2026**: [Thông báo kết quả chính thức HBKK HK1/2025-2026 Khoa Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-2025-2026-khoa-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
 
 ## Exam Announcements
 
