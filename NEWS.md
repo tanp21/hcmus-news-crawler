@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-06-30 at 12:06 +07***
+*Last updated: **2026-06-30 at 16:43 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **30-6-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 1 năm 2026](Default.aspx?tabid=292&newsid=17457)
+
 • **29-6-2026**: [Tổng kết Seminar on Legal AI Beyond the Demo: Building systems that work in practice](Default.aspx?tabid=292&newsid=17454)
 
 • **25-6-2026**: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Nguyễn Ngọc Trung (8g00, 29/6, F205b)](Default.aspx?tabid=292&newsid=17449)
@@ -113,8 +115,6 @@
 • **8-6-2026**: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 6/6](Default.aspx?tabid=292&newsid=17432)
 
 • **3-6-2026**: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2025](Default.aspx?tabid=292&newsid=17427)
-
-• **1-6-2026**: [Danh sách tham quan KMS Technology ngày 10/6](Default.aspx?tabid=292&newsid=17426)
 
 ## Student Information
 
