@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-01 at 12:24 +07***
+*Last updated: **2026-07-01 at 16:54 +07***
 
 ---
 
@@ -96,6 +96,8 @@
 
 ## FIT
 
+• **1-7-2026**: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 03-04/2027](Default.aspx?tabid=292&newsid=17458)
+
 • **30-6-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 1 năm 2026](Default.aspx?tabid=292&newsid=17457)
 
 • **29-6-2026**: [Tổng kết Seminar on Legal AI Beyond the Demo: Building systems that work in practice](Default.aspx?tabid=292&newsid=17454)
@@ -114,9 +116,9 @@
 
 • **8-6-2026**: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 6/6](Default.aspx?tabid=292&newsid=17432)
 
-• **3-6-2026**: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2025](Default.aspx?tabid=292&newsid=17427)
-
 ## Student Information
+
+• **01/07/2026**: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2026](https://hcmus.edu.vn/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2026/)
 
 • **01/07/2026**: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI NĂM 2026](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-nam-2026/)
 
@@ -135,8 +137,6 @@
 • **17/06/2026**: [Thông báo tuyển sinh viên tham gia chương trình AUN Summer Program 2026 tại Đại học Quốc gia Thành phố Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-tuyen-sinh-vien-tham-gia-chuong-trinh-aun-summer-program-2026-tai-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/)
 
 • **17/06/2026**: [Thông báo nộp học phí HK3/2025-2026 – Chương trình Tiên tiến, CLC, TCTA và Việt-Pháp](https://hcmus.edu.vn/67968-2/)
-
-• **17/06/2026**: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2025-2026 đối với sinh viên Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien-chuong-trinh-de-an/)
 
 ## Exam Announcements
 
