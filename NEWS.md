@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-06 at 15:24 +07***
+*Last updated: **2026-07-06 at 19:51 +07***
 
 ---
 
@@ -100,6 +100,10 @@
 
 ## FIT
 
+• **6-7-2026**: [[Góc Sẻ Chia - We talk 2026] KHOA CNTT x LUMOS: Vững tâm lý, Sáng tương lai](Default.aspx?tabid=292&newsid=17474)
+
+• **6-7-2026**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 2 (tháng 7,8/2026)](Default.aspx?tabid=292&newsid=17468)
+
 • **6-7-2026**: [Cập nhật thành tích sinh viên khoa CNTT HK2/ 2025 - 2026](Default.aspx?tabid=292&newsid=17465)
 
 • **1-7-2026**: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 03-04/2027](Default.aspx?tabid=292&newsid=17458)
@@ -116,11 +120,11 @@
 
 • **15-6-2026**: [Chung kết HCMUS-CTF 2026: Khép lại mùa giải đầy kịch tính và ấn tượng](Default.aspx?tabid=292&newsid=17442)
 
-• **14-6-2026**: [Đăng ký tham gia Seminar on Legal AI Beyond the Demo: Building systems that work in practice](Default.aspx?tabid=292&newsid=17436)
-
-• **9-6-2026**: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2023](Default.aspx?tabid=292&newsid=17433)
-
 ## Student Information
+
+• **06/07/2026**: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2026/)
+
+• **06/07/2026**: [Thông báo chương trình học bổng Sau Đại học do Ngân hàng LPBank tài trợ năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-sau-dai-hoc-do-ngan-hang-lpbank-tai-tro-nam-2026/)
 
 • **06/07/2026**: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
 
@@ -137,10 +141,6 @@
 • **26/06/2026**: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đề án](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-de-an/)
 
 • **22/06/2026**: [THÔNG BÁO Triển khai Giải thưởng Khoa học và Công nghệ của Bộ Giáo dục và Đào tạo dành cho sinh viên năm 2026](https://hcmus.edu.vn/thong-bao-trien-khai-giai-thuong-khoa-hoc-va-cong-nghe-cua-bo-giao-duc-va-dao-tao-danh-cho-sinh-vien-nam-2026/)
-
-• **22/06/2026**: [Thông báo Chương trình Học bổng Đinh Thiện Lý năm học 2026-2027 (Dành cho sinh viên khóa 2023)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dinh-thien-ly-nam-hoc-2026-2027-danh-cho-sinh-vien-khoa-2023/)
-
-• **17/06/2026**: [Thông báo tuyển tình nguyện viên tham gia chương trình AUN Summer Program 2026 tại Đại học Quốc gia Thành phố Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-tuyen-tinh-nguyen-vien-tham-gia-chuong-trinh-aun-summer-program-2026-tai-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/)
 
 ## Exam Announcements
 
