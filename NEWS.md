@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-08 at 10:13 +07***
+*Last updated: **2026-07-08 at 13:30 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **8-7-2026**: [Lịch thi kết thúc học phần 2 các lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17477)
+
 • **6-7-2026**: [[Góc Sẻ Chia - We talk 2026] KHOA CNTT x LUMOS: Vững tâm lý, Sáng tương lai](Default.aspx?tabid=292&newsid=17474)
 
 • **6-7-2026**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 2 (tháng 7,8/2026)](Default.aspx?tabid=292&newsid=17468)
@@ -117,8 +119,6 @@
 • **17-6-2026**: [[CQ] Thời khóa biểu học kỳ 3 năm học 2025-2026](Default.aspx?tabid=292&newsid=17446)
 
 • **16-6-2026**: [Thông báo đăng ký chương trình thực tập ngắn hạn tại trường Kyoto Institute of Technology (KIT), Nhật Bản năm 2026](Default.aspx?tabid=292&newsid=17445)
-
-• **15-6-2026**: [Chung kết HCMUS-CTF 2026: Khép lại mùa giải đầy kịch tính và ấn tượng](Default.aspx?tabid=292&newsid=17442)
 
 ## Student Information
 
