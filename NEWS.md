@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-10 at 11:54 +07***
+*Last updated: **2026-07-10 at 15:25 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **10-7-2026**: [Đăng ký tham gia Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](Default.aspx?tabid=292&newsid=17484)
+
 • **8-7-2026**: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](Default.aspx?tabid=292&newsid=17464)
 
 • **8-7-2026**: [Lịch thi kết thúc học phần 2 các lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17477)
@@ -117,8 +119,6 @@
 • **29-6-2026**: [Tổng kết Seminar on Legal AI Beyond the Demo: Building systems that work in practice](Default.aspx?tabid=292&newsid=17454)
 
 • **25-6-2026**: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Nguyễn Ngọc Trung (8g00, 29/6, F205b)](Default.aspx?tabid=292&newsid=17449)
-
-• **17-6-2026**: [[CQ] Thời khóa biểu học kỳ 3 năm học 2025-2026](Default.aspx?tabid=292&newsid=17446)
 
 ## Student Information
 
