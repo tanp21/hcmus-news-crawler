@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-13 at 06:58 +07***
+*Last updated: **2026-07-13 at 10:48 +07***
 
 ---
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **13/07/2026**: [TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN THỰC HIỆN NV KHCN NĂM 2026 LẦN 2 SỞ KHCN TP. HCM](https://hcmus.edu.vn/tuyen-chon-to-chuc-ca-nhan-thuc-hien-nv-khcn-nam-2026-lan-2-so-khcn-tp-hcm/)
+
 • **09/07/2026**: [Thông báo tổ chức cho sinh viên bậc đại học hệ chính quy khóa 2025 học môn Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/thong-bao-to-chuc-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-khoa-2025-hoc-mon-giao-duc-quoc-phong-an-ninh/)
 
 • **06/07/2026**: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2026/)
@@ -139,8 +141,6 @@
 • **01/07/2026**: [Thông báo kết quả chính thức HBKK HK1/2025-2026 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-2025-2026-khoa-cong-nghe-thong-tin-ctda/)
 
 • **26/06/2026**: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đại trà](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-dai-tra/)
-
-• **26/06/2026**: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đề án](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-de-an/)
 
 ## Exam Announcements
 
