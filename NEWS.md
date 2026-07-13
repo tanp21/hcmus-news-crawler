@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-13 at 10:48 +07***
+*Last updated: **2026-07-13 at 13:57 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **13-7-2026**: [[Media support] ICAMM'26_Call for Abstracts - The 2nd International Conference on Advanced and Multifunctional Materials](Default.aspx?tabid=292&newsid=17487)
+
 • **10-7-2026**: [Đăng ký tham gia Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](Default.aspx?tabid=292&newsid=17484)
 
 • **8-7-2026**: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](Default.aspx?tabid=292&newsid=17464)
@@ -117,8 +119,6 @@
 • **30-6-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 1 năm 2026](Default.aspx?tabid=292&newsid=17457)
 
 • **29-6-2026**: [Tổng kết Seminar on Legal AI Beyond the Demo: Building systems that work in practice](Default.aspx?tabid=292&newsid=17454)
-
-• **25-6-2026**: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Nguyễn Ngọc Trung (8g00, 29/6, F205b)](Default.aspx?tabid=292&newsid=17449)
 
 ## Student Information
 
