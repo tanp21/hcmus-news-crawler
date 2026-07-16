@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-16 at 14:23 +07***
+*Last updated: **2026-07-16 at 17:12 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **16-7-2026**: [Đăng ký tham gia Trường hè "FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](Default.aspx?tabid=292&newsid=17496)
+
 • **13-7-2026**: [[Media support] ICAMM'26_Call for Abstracts - The 2nd International Conference on Advanced and Multifunctional Materials](Default.aspx?tabid=292&newsid=17487)
 
 • **13-7-2026**: [Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17495)
@@ -117,8 +119,6 @@
 • **6-7-2026**: [Cập nhật thành tích sinh viên khoa CNTT HK2/ 2025 - 2026](Default.aspx?tabid=292&newsid=17465)
 
 • **1-7-2026**: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 03-04/2027](Default.aspx?tabid=292&newsid=17458)
-
-• **30-6-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 1 năm 2026](Default.aspx?tabid=292&newsid=17457)
 
 ## Student Information
 
