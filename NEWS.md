@@ -1,12 +1,11 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-18 at 09:46 +07***
+*Last updated: **2026-07-18 at 12:30 +07***
 
 ---
 
 ## ⚠️ Errors
 
-• Student Information: Failed to load HCMUS news
 • Exam Announcements: Failed to load exam announcements
 
 ## APCS
@@ -123,7 +122,25 @@
 
 ## Student Information
 
-*Failed to load HCMUS news*
+• **17/07/2026**: [Thông báo nhận bằng tốt nghiệp đợt tháng 6/2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dot-thang-6-2026/)
+
+• **15/07/2026**: [THƯ MỜI THAM GIA VIẾT BÀI HỘI NGHỊ QUỐC TẾ THƯỜNG NIÊN KHU CÔNG NGHỆ CAO LẦN THỨ 8 NĂM 2026](https://hcmus.edu.vn/thu-moi-tham-gia-viet-bai-hoi-nghi-quoc-te-thuong-nien-khu-cong-nghe-cao-lan-thu-8-nam-2026/)
+
+• **15/07/2026**: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
+
+• **13/07/2026**: [TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN THỰC HIỆN NV KHCN NĂM 2026 LẦN 2 SỞ KHCN TP. HCM](https://hcmus.edu.vn/tuyen-chon-to-chuc-ca-nhan-thuc-hien-nv-khcn-nam-2026-lan-2-so-khcn-tp-hcm/)
+
+• **09/07/2026**: [Thông báo tổ chức cho sinh viên bậc đại học hệ chính quy khóa 2025 học môn Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/thong-bao-to-chuc-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-khoa-2025-hoc-mon-giao-duc-quoc-phong-an-ninh/)
+
+• **06/07/2026**: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2026/)
+
+• **06/07/2026**: [Thông báo chương trình học bổng Sau Đại học do Ngân hàng LPBank tài trợ năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-sau-dai-hoc-do-ngan-hang-lpbank-tai-tro-nam-2026/)
+
+• **06/07/2026**: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
+
+• **03/07/2026**: [Thông báo kết quả xét Hoàn tất chương trình đợt tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-6-nam-2026/)
+
+• **01/07/2026**: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2026](https://hcmus.edu.vn/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2026/)
 
 ## Exam Announcements
 
