@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-20 at 11:37 +07***
+*Last updated: **2026-07-20 at 15:07 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **20-7-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2026](Default.aspx?tabid=292&newsid=17501)
+
 • **19-7-2026**: [[CQ-CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 2 (T7,8/2026)](Default.aspx?tabid=292&newsid=17500)
 
 • **17-7-2026**: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2024, chương trình Chuẩn ĐHCQ](Default.aspx?tabid=292&newsid=17499)
@@ -117,8 +119,6 @@
 • **8-7-2026**: [Lịch thi kết thúc học phần 2 các lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17477)
 
 • **6-7-2026**: [[Góc Sẻ Chia - We talk 2026] KHOA CNTT x LUMOS: Vững tâm lý, Sáng tương lai](Default.aspx?tabid=292&newsid=17474)
-
-• **6-7-2026**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 2 (tháng 7,8/2026)](Default.aspx?tabid=292&newsid=17468)
 
 ## Student Information
 
