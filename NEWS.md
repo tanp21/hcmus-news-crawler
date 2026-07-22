@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-22 at 07:01 +07***
+*Last updated: **2026-07-22 at 11:19 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **22-7-2026**: [Lịch trực cố vấn học tập học kỳ 3 năm học 2025-2026](Default.aspx?tabid=292&newsid=17506)
+
 • **20-7-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2026](Default.aspx?tabid=292&newsid=17501)
 
 • **19-7-2026**: [[CQ-CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 2 (T7,8/2026)](Default.aspx?tabid=292&newsid=17500)
@@ -118,9 +120,11 @@
 
 • **8-7-2026**: [Lịch thi kết thúc học phần 2 các lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17477)
 
-• **6-7-2026**: [[Góc Sẻ Chia - We talk 2026] KHOA CNTT x LUMOS: Vững tâm lý, Sáng tương lai](Default.aspx?tabid=292&newsid=17474)
-
 ## Student Information
+
+• **22/07/2026**: [Thông báo nghỉ học sáng Thứ sáu, ngày 24/7/2026 tại cơ sở 2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-sau-ngay-24-7-2026-tai-co-so-2-do-cup-dien/)
+
+• **22/07/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-chuong-trinh-de-an/)
 
 • **17/07/2026**: [Thông báo nhận bằng tốt nghiệp đợt tháng 6/2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dot-thang-6-2026/)
 
@@ -137,10 +141,6 @@
 • **06/07/2026**: [Thông báo chương trình học bổng Sau Đại học do Ngân hàng LPBank tài trợ năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-sau-dai-hoc-do-ngan-hang-lpbank-tai-tro-nam-2026/)
 
 • **06/07/2026**: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
-
-• **03/07/2026**: [Thông báo kết quả xét Hoàn tất chương trình đợt tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-6-nam-2026/)
-
-• **01/07/2026**: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2026](https://hcmus.edu.vn/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2026/)
 
 ## Exam Announcements
 
