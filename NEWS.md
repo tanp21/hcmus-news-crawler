@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-24 at 11:17 +07***
+*Last updated: **2026-07-24 at 14:33 +07***
 
 ---
 
@@ -139,8 +139,6 @@
 • **06/07/2026**: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2026/)
 
 • **06/07/2026**: [Thông báo chương trình học bổng Sau Đại học do Ngân hàng LPBank tài trợ năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-sau-dai-hoc-do-ngan-hang-lpbank-tai-tro-nam-2026/)
-
-• **06/07/2026**: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
 
 ## Exam Announcements
 
