@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-24 at 21:58 +07***
+*Last updated: **2026-07-24 at 23:49 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **24-7-2026**: [Tổng kết Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](Default.aspx?tabid=292&newsid=17507)
+
 • **22-7-2026**: [Lịch trực cố vấn học tập học kỳ 3 năm học 2025-2026](Default.aspx?tabid=292&newsid=17506)
 
 • **20-7-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2026](Default.aspx?tabid=292&newsid=17501)
@@ -117,8 +119,6 @@
 • **10-7-2026**: [Đăng ký tham gia Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](Default.aspx?tabid=292&newsid=17484)
 
 • **8-7-2026**: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](Default.aspx?tabid=292&newsid=17464)
-
-• **8-7-2026**: [Lịch thi kết thúc học phần 2 các lớp cao học khóa 35/2025](Default.aspx?tabid=292&newsid=17477)
 
 ## Student Information
 
