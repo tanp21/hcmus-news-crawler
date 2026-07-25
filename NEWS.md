@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-25 at 14:20 +07***
+*Last updated: **2026-07-25 at 16:51 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **25-7-2026**: [[CQ-CNTN] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 2 (27/7 - 17/8/2026)](Default.aspx?tabid=292&newsid=17508)
+
 • **24-7-2026**: [Tổng kết Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](Default.aspx?tabid=292&newsid=17507)
 
 • **22-7-2026**: [Lịch trực cố vấn học tập học kỳ 3 năm học 2025-2026](Default.aspx?tabid=292&newsid=17506)
@@ -117,8 +119,6 @@
 • **13-7-2026**: [Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17495)
 
 • **10-7-2026**: [Đăng ký tham gia Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](Default.aspx?tabid=292&newsid=17484)
-
-• **8-7-2026**: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](Default.aspx?tabid=292&newsid=17464)
 
 ## Student Information
 
