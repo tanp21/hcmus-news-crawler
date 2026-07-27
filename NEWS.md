@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-27 at 14:35 +07***
+*Last updated: **2026-07-27 at 18:27 +07***
 
 ---
 
@@ -34,6 +34,8 @@
 
 ### Academic Affairs
 
+• **24/07/2026**: [[CLC/TCTA] – Thông báo đăng ký nguyện vọng chuyên ngành năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/clc-tcta-thong-bao-dang-ky-nguyen-vong-chuyen-nganh-nam-hoc-2025-2026/)
+
 • **17/07/2026**: [Thông báo SV đánh giá môn học – GV HK3/2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-sv-danh-gia-mon-hoc-gv-hk3-2025-2026/)
 
 • **13/07/2026**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt tháng 8/2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-nop-don-dang-ky-bao-ve-huy-bao-ve-de-tai-tot-nghiep-khoa-2022-dot-thang-8-2026/)
@@ -51,8 +53,6 @@
 • **13/05/2026**: [[CTĐA] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/05/ctda-thong-bao-nop-bao-cao-tien-do-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-thang-08-2026/)
 
 • **24/04/2026**: [[CTĐA] Lịch thi chi tiết cuối kỳ HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-lich-thi-chi-tiet-cuoi-ky-hk2-2526/)
-
-• **20/04/2026**: [[CTĐA] DSSV nộp đề cương đề tài tốt nghiệp K2022 đợt 1 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-dssv-nop-de-cuong-de-tai-tot-nghiep-k2022-dot-1-bao-ve-thang-08-2026/)
 
 ### Student Support
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **27/07/2026**: [Thông báo chương trình DiscoverNUS của Đại học Quốc gia Singapore](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-cua-dai-hoc-quoc-gia-singapore/)
+
 • **22/07/2026**: [Thông báo nghỉ học sáng Thứ sáu, ngày 24/7/2026 tại cơ sở 2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-sau-ngay-24-7-2026-tai-co-so-2-do-cup-dien/)
 
 • **22/07/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-chuong-trinh-de-an/)
@@ -137,8 +139,6 @@
 • **09/07/2026**: [Thông báo tổ chức cho sinh viên bậc đại học hệ chính quy khóa 2025 học môn Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/thong-bao-to-chuc-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-khoa-2025-hoc-mon-giao-duc-quoc-phong-an-ninh/)
 
 • **06/07/2026**: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2026/)
-
-• **06/07/2026**: [Thông báo chương trình học bổng Sau Đại học do Ngân hàng LPBank tài trợ năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-sau-dai-hoc-do-ngan-hang-lpbank-tai-tro-nam-2026/)
 
 ## Exam Announcements
 
