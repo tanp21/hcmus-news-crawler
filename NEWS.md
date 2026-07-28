@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-28 at 14:40 +07***
+*Last updated: **2026-07-28 at 17:38 +07***
 
 ---
 
@@ -122,9 +122,17 @@
 
 ## Student Information
 
+• **28/07/2026**: [THÔNG BÁO Về việc cung cấp thông tin cư trú năm học 2026-2027](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-cu-tru-nam-hoc-2026-2027/)
+
+• **28/07/2026**: [Thông báo thu học phí học kỳ 3 năm học 2025-2026 đối với sinh viên đại học hệ chính quy – chương trình đại trà](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-3-nam-hoc-2025-2026-doi-voi-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
+
+• **28/07/2026**: [Thông báo cập nhật thông tin ngành/chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2023 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-nganh-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2023-tro-ve-truoc/)
+
 • **27/07/2026**: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2026 do Trường tổ chức ngày 18/7 và 23/7/2026](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-1-nam-2026-do-truong-to-chuc-ngay-18-7-va-23-7-2026/)
 
 • **27/07/2026**: [Thông báo chương trình DiscoverNUS của Đại học Quốc gia Singapore](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-cua-dai-hoc-quoc-gia-singapore/)
+
+• **24/07/2026**: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 3 và đợt 4 năm 2026 đối với sinh viên đại học hệ chính quy các chương trình](https://hcmus.edu.vn/69210-2/)
 
 • **22/07/2026**: [Thông báo nghỉ học sáng Thứ sáu, ngày 24/7/2026 tại cơ sở 2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-sau-ngay-24-7-2026-tai-co-so-2-do-cup-dien/)
 
@@ -133,12 +141,6 @@
 • **17/07/2026**: [Thông báo nhận bằng tốt nghiệp đợt tháng 6/2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dot-thang-6-2026/)
 
 • **15/07/2026**: [THƯ MỜI THAM GIA VIẾT BÀI HỘI NGHỊ QUỐC TẾ THƯỜNG NIÊN KHU CÔNG NGHỆ CAO LẦN THỨ 8 NĂM 2026](https://hcmus.edu.vn/thu-moi-tham-gia-viet-bai-hoi-nghi-quoc-te-thuong-nien-khu-cong-nghe-cao-lan-thu-8-nam-2026/)
-
-• **15/07/2026**: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
-
-• **13/07/2026**: [TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN THỰC HIỆN NV KHCN NĂM 2026 LẦN 2 SỞ KHCN TP. HCM](https://hcmus.edu.vn/tuyen-chon-to-chuc-ca-nhan-thuc-hien-nv-khcn-nam-2026-lan-2-so-khcn-tp-hcm/)
-
-• **09/07/2026**: [Thông báo tổ chức cho sinh viên bậc đại học hệ chính quy khóa 2025 học môn Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/thong-bao-to-chuc-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-khoa-2025-hoc-mon-giao-duc-quoc-phong-an-ninh/)
 
 ## Exam Announcements
 
