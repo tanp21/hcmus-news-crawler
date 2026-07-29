@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-29 at 09:53 +07***
+*Last updated: **2026-07-29 at 12:55 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **29-7-2026**: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](Default.aspx?tabid=292&newsid=17515)
+
 • **27-7-2026**: [Thông tin học bổng MEXT 2026](Default.aspx?tabid=292&newsid=17513)
 
 • **25-7-2026**: [[CQ-CNTN] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 2 (27/7 - 17/8/2026)](Default.aspx?tabid=292&newsid=17508)
@@ -117,8 +119,6 @@
 • **17-7-2026**: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2024, chương trình Chuẩn ĐHCQ](Default.aspx?tabid=292&newsid=17499)
 
 • **16-7-2026**: [Đăng ký tham gia Trường hè "FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](Default.aspx?tabid=292&newsid=17496)
-
-• **13-7-2026**: [[Media support] ICAMM'26_Call for Abstracts - The 2nd International Conference on Advanced and Multifunctional Materials](Default.aspx?tabid=292&newsid=17487)
 
 ## Student Information
 
