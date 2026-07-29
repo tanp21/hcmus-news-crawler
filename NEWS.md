@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-29 at 15:45 +07***
+*Last updated: **2026-07-29 at 18:28 +07***
 
 ---
 
@@ -11,6 +11,8 @@
 ## APCS
 
 ### Academic Planning
+
+• **29/07/2026**: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
 
 • **16/06/2026**: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
 
@@ -29,8 +31,6 @@
 • **22/09/2023**: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
 
 • **07/08/2023**: [[CTĐA] Kế hoạch năm học 2023 – 2024](https://www.ctda.hcmus.edu.vn/vi/2023/08/ctda-ke-hoach-nam-hoc-2023-2024/)
-
-• **09/05/2023**: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2023-2024/)
 
 ### Academic Affairs
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **29-7-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](Default.aspx?tabid=292&newsid=17517)
+
 • **29-7-2026**: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](Default.aspx?tabid=292&newsid=17515)
 
 • **27-7-2026**: [Thông tin học bổng MEXT 2026](Default.aspx?tabid=292&newsid=17513)
@@ -117,8 +119,6 @@
 • **19-7-2026**: [[CQ-CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 2 (T7,8/2026)](Default.aspx?tabid=292&newsid=17500)
 
 • **17-7-2026**: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2024, chương trình Chuẩn ĐHCQ](Default.aspx?tabid=292&newsid=17499)
-
-• **16-7-2026**: [Đăng ký tham gia Trường hè "FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](Default.aspx?tabid=292&newsid=17496)
 
 ## Student Information
 
