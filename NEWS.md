@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-07-30 at 11:07 +07***
+*Last updated: **2026-07-30 at 14:35 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **30-7-2026**: [Talkshow Innovate Your Future – Đối mới tư duy, Kiến tạo giá trị, Dẫn lỗi tương lai](Default.aspx?tabid=292&newsid=17519)
+
 • **29-7-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](Default.aspx?tabid=292&newsid=17517)
 
 • **29-7-2026**: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](Default.aspx?tabid=292&newsid=17515)
@@ -117,8 +119,6 @@
 • **20-7-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2026](Default.aspx?tabid=292&newsid=17501)
 
 • **19-7-2026**: [[CQ-CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 2 (T7,8/2026)](Default.aspx?tabid=292&newsid=17500)
-
-• **17-7-2026**: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2024, chương trình Chuẩn ĐHCQ](Default.aspx?tabid=292&newsid=17499)
 
 ## Student Information
 
