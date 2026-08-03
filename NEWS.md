@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-03 at 15:32 +07***
+*Last updated: **2026-08-03 at 19:27 +07***
 
 ---
 
@@ -102,7 +102,7 @@
 
 • **3-8-2026**: [Sinh viên Khoa Công nghệ thông tin tham dự Diễn đàn Văn hóa Thanh niên ASEAN và ASEAN+3 năm 2026](Default.aspx?tabid=292&newsid=17520)
 
-• **30-7-2026**: [Talkshow Innovate Your Future – Đối mới tư duy, Kiến tạo giá trị, Dẫn lỗi tương lai](Default.aspx?tabid=292&newsid=17519)
+• **30-7-2026**: [Talkshow Innovate Your Future – Đối mới tư duy, Kiến tạo giá trị, Dẫn lối tương lai](Default.aspx?tabid=292&newsid=17519)
 
 • **29-7-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](Default.aspx?tabid=292&newsid=17517)
 
