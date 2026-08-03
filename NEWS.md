@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-03 at 11:32 +07***
+*Last updated: **2026-08-03 at 15:32 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **3-8-2026**: [Sinh viên Khoa Công nghệ thông tin tham dự Diễn đàn Văn hóa Thanh niên ASEAN và ASEAN+3 năm 2026](Default.aspx?tabid=292&newsid=17520)
+
 • **30-7-2026**: [Talkshow Innovate Your Future – Đối mới tư duy, Kiến tạo giá trị, Dẫn lỗi tương lai](Default.aspx?tabid=292&newsid=17519)
 
 • **29-7-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](Default.aspx?tabid=292&newsid=17517)
@@ -117,8 +119,6 @@
 • **22-7-2026**: [Lịch trực cố vấn học tập học kỳ 3 năm học 2025-2026](Default.aspx?tabid=292&newsid=17506)
 
 • **20-7-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2026](Default.aspx?tabid=292&newsid=17501)
-
-• **19-7-2026**: [[CQ-CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 2 (T7,8/2026)](Default.aspx?tabid=292&newsid=17500)
 
 ## Student Information
 
