@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-03 at 22:44 +07***
+*Last updated: **2026-08-04 at 00:53 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **4-8-2026**: [Tổng kết Trường hè “FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](Default.aspx?tabid=292&newsid=17521)
+
 • **3-8-2026**: [Sinh viên Khoa Công nghệ thông tin tham dự Diễn đàn Văn hóa Thanh niên ASEAN và ASEAN+3 năm 2026](Default.aspx?tabid=292&newsid=17520)
 
 • **30-7-2026**: [Talkshow Innovate Your Future – Đối mới tư duy, Kiến tạo giá trị, Dẫn lối tương lai](Default.aspx?tabid=292&newsid=17519)
@@ -117,8 +119,6 @@
 • **23-7-2026**: [Mời tham gia khảo sát tình trạng học tập, việc làm và chương trình đào tạo đối với chương trình thạc sĩ năm 2026](Default.aspx?tabid=292&newsid=17512)
 
 • **22-7-2026**: [Lịch trực cố vấn học tập học kỳ 3 năm học 2025-2026](Default.aspx?tabid=292&newsid=17506)
-
-• **20-7-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2026](Default.aspx?tabid=292&newsid=17501)
 
 ## Student Information
 
