@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-04 at 06:04 +07***
+*Last updated: **2026-08-04 at 09:48 +07***
 
 ---
 
@@ -104,6 +104,8 @@
 
 • **3-8-2026**: [Sinh viên Khoa Công nghệ thông tin tham dự Diễn đàn Văn hóa Thanh niên ASEAN và ASEAN+3 năm 2026](Default.aspx?tabid=292&newsid=17520)
 
+• **31-7-2026**: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 35/2025 - bắt đầu học 03/8/2026](Default.aspx?tabid=292&newsid=17522)
+
 • **30-7-2026**: [Talkshow Innovate Your Future – Đối mới tư duy, Kiến tạo giá trị, Dẫn lối tương lai](Default.aspx?tabid=292&newsid=17519)
 
 • **29-7-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](Default.aspx?tabid=292&newsid=17517)
@@ -117,8 +119,6 @@
 • **24-7-2026**: [Tổng kết Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](Default.aspx?tabid=292&newsid=17507)
 
 • **23-7-2026**: [Mời tham gia khảo sát tình trạng học tập, việc làm và chương trình đào tạo đối với chương trình thạc sĩ năm 2026](Default.aspx?tabid=292&newsid=17512)
-
-• **22-7-2026**: [Lịch trực cố vấn học tập học kỳ 3 năm học 2025-2026](Default.aspx?tabid=292&newsid=17506)
 
 ## Student Information
 
