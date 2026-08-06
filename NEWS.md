@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-06 at 06:02 +07***
+*Last updated: **2026-08-06 at 09:49 +07***
 
 ---
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **06/08/2026**: [Thông báo đăng ký học phần Học kỳ 1 /2026-2027, chương trình đại trà và tài năng](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-2026-2027-chuong-trinh-dai-tra-va-tai-nang/)
+
 • **30/07/2026**: [Chương trình tuyển chọn sinh viên ký hợp đồng thực hiện nhiệm vụ Chuyển đổi số và Phát triển Khoa học Công nghệ tại Văn phòng Đảng ủy Phường An Nhơn](https://hcmus.edu.vn/chuong-trinh-tuyen-chon-sinh-vien-ky-hop-dong-thuc-hien-nhiem-vu-chuyen-doi-so-va-phat-trien-khoa-hoc-cong-nghe-tai-van-phong-dang-uy-phuong-an-nhon/)
 
 • **28/07/2026**: [THÔNG BÁO Về việc cung cấp thông tin cư trú năm học 2026-2027](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-cu-tru-nam-hoc-2026-2027/)
@@ -139,8 +141,6 @@
 • **22/07/2026**: [Thông báo nghỉ học sáng Thứ sáu, ngày 24/7/2026 tại cơ sở 2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-sau-ngay-24-7-2026-tai-co-so-2-do-cup-dien/)
 
 • **22/07/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-chuong-trinh-de-an/)
-
-• **17/07/2026**: [Thông báo nhận bằng tốt nghiệp đợt tháng 6/2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dot-thang-6-2026/)
 
 ## Exam Announcements
 
