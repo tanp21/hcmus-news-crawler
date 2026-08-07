@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-07 at 14:20 +07***
+*Last updated: **2026-08-07 at 16:02 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **7-8-2026**: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Tấn Công](Default.aspx?tabid=292&newsid=17527)
+
 • **4-8-2026**: [Tổng kết Trường hè “FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](Default.aspx?tabid=292&newsid=17521)
 
 • **3-8-2026**: [Sinh viên Khoa Công nghệ thông tin tham dự Diễn đàn Văn hóa Thanh niên ASEAN và ASEAN+3 năm 2026](Default.aspx?tabid=292&newsid=17520)
@@ -117,8 +119,6 @@
 • **25-7-2026**: [[CQ-CNTN] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 2 (27/7 - 17/8/2026)](Default.aspx?tabid=292&newsid=17508)
 
 • **24-7-2026**: [Tổng kết Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](Default.aspx?tabid=292&newsid=17507)
-
-• **23-7-2026**: [Mời tham gia khảo sát tình trạng học tập, việc làm và chương trình đào tạo đối với chương trình thạc sĩ năm 2026](Default.aspx?tabid=292&newsid=17512)
 
 ## Student Information
 
