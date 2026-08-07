@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-07 at 12:42 +07***
+*Last updated: **2026-08-07 at 14:20 +07***
 
 ---
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **07/08/2026**: [Thông báo thời gian nhập học môn Giáo dục Quốc phòng – An ninh và thông tin đăng ký ngoại trú đối với sinh viên Khóa 2025](https://hcmus.edu.vn/thong-bao-thoi-gian-nhap-hoc-mon-giao-duc-quoc-phong-an-ninh-va-thong-tin-dang-ky-ngoai-tru-doi-voi-sinh-vien-khoa-2025/)
+
 • **06/08/2026**: [Quy định học bổng Khuyến khích (sửa đổi, bổ sung)](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich-sua-doi-bo-sung/)
 
 • **06/08/2026**: [Thông báo đăng ký học phần Học kỳ 1 /2026-2027, chương trình đại trà và tài năng](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-2026-2027-chuong-trinh-dai-tra-va-tai-nang/)
@@ -139,8 +141,6 @@
 • **27/07/2026**: [Thông báo chương trình DiscoverNUS của Đại học Quốc gia Singapore](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-cua-dai-hoc-quoc-gia-singapore/)
 
 • **24/07/2026**: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 3 và đợt 4 năm 2026 đối với sinh viên đại học hệ chính quy các chương trình](https://hcmus.edu.vn/69210-2/)
-
-• **22/07/2026**: [Thông báo nghỉ học sáng Thứ sáu, ngày 24/7/2026 tại cơ sở 2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-sau-ngay-24-7-2026-tai-co-so-2-do-cup-dien/)
 
 ## Exam Announcements
 
