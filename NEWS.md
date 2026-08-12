@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-12 at 09:10 +07***
+*Last updated: **2026-08-12 at 11:49 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **12-8-2026**: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 2 (bảo vệ tháng 7,8/2026)](Default.aspx?tabid=292&newsid=17530)
+
 • **10-8-2026**: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 2](Default.aspx?tabid=292&newsid=17529)
 
 • **7-8-2026**: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Tấn Công](Default.aspx?tabid=292&newsid=17527)
@@ -117,8 +119,6 @@
 • **29-7-2026**: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](Default.aspx?tabid=292&newsid=17515)
 
 • **27-7-2026**: [Thông tin học bổng MEXT 2026](Default.aspx?tabid=292&newsid=17513)
-
-• **25-7-2026**: [[CQ-CNTN] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 2 (27/7 - 17/8/2026)](Default.aspx?tabid=292&newsid=17508)
 
 ## Student Information
 
