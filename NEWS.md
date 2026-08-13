@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-13 at 09:12 +07***
+*Last updated: **2026-08-13 at 11:53 +07***
 
 ---
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **13/08/2026**: [Thông báo Đăng ký học phần HK1/2026-2027 đối với sinh viên chương trình CLC, TCTA và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2026-2027-doi-voi-sinh-vien-chuong-trinh-clc-tcta-va-viet-phap/)
+
 • **11/08/2026**: [THÔNG BÁO triển khai thử nghiệm website Phòng Công tác Sinh viên](https://hcmus.edu.vn/thong-bao-trien-khai-thu-nghiem-website-phong-cong-tac-sinh-vien/)
 
 • **07/08/2026**: [Thông báo thời gian nhập học môn Giáo dục Quốc phòng – An ninh và thông tin đăng ký ngoại trú đối với sinh viên Khóa 2025](https://hcmus.edu.vn/thong-bao-thoi-gian-nhap-hoc-mon-giao-duc-quoc-phong-an-ninh-va-thong-tin-dang-ky-ngoai-tru-doi-voi-sinh-vien-khoa-2025/)
@@ -139,8 +141,6 @@
 • **28/07/2026**: [Thông báo cập nhật thông tin ngành/chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2023 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-nganh-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2023-tro-ve-truoc/)
 
 • **27/07/2026**: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2026 do Trường tổ chức ngày 18/7 và 23/7/2026](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-1-nam-2026-do-truong-to-chuc-ngay-18-7-va-23-7-2026/)
-
-• **27/07/2026**: [Thông báo chương trình DiscoverNUS của Đại học Quốc gia Singapore](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-cua-dai-hoc-quoc-gia-singapore/)
 
 ## Exam Announcements
 
