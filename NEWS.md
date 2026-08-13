@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-13 at 13:18 +07***
+*Last updated: **2026-08-13 at 15:23 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **13-8-2026**: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 9/2026](Default.aspx?tabid=292&newsid=17532)
+
 • **12-8-2026**: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 2 (bảo vệ tháng 7,8/2026)](Default.aspx?tabid=292&newsid=17530)
 
 • **10-8-2026**: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 2](Default.aspx?tabid=292&newsid=17529)
@@ -117,8 +119,6 @@
 • **29-7-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](Default.aspx?tabid=292&newsid=17517)
 
 • **29-7-2026**: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](Default.aspx?tabid=292&newsid=17515)
-
-• **27-7-2026**: [Thông tin học bổng MEXT 2026](Default.aspx?tabid=292&newsid=17513)
 
 ## Student Information
 
