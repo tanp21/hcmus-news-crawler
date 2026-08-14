@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-14 at 13:16 +07***
+*Last updated: **2026-08-14 at 15:18 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **14-8-2026**: [Đăng ký tham gia Seminar The Composer’s Dilemma: Between Familiarity and Novelty](Default.aspx?tabid=292&newsid=17533)
+
 • **13-8-2026**: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 9/2026](Default.aspx?tabid=292&newsid=17532)
 
 • **12-8-2026**: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 2 (bảo vệ tháng 7,8/2026)](Default.aspx?tabid=292&newsid=17530)
@@ -118,9 +120,9 @@
 
 • **29-7-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](Default.aspx?tabid=292&newsid=17517)
 
-• **29-7-2026**: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](Default.aspx?tabid=292&newsid=17515)
-
 ## Student Information
+
+• **14/08/2026**: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần HK1/2026-2027 tại cơ sở 2 – Khóa 2025, khóa 2026 và môn chung khóa 2024 về trước, chương trình đại trà/tài năng](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-hk1-2026-2027-tai-co-so-2-hoa-2025-khoa-2026-va-mon-chung-khoa-2024-ve-truoc-chuong-trinh-dai-tra-tai-nang/)
 
 • **13/08/2026**: [Thông báo Đăng ký học phần HK1/2026-2027 đối với sinh viên chương trình CLC, TCTA và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2026-2027-doi-voi-sinh-vien-chuong-trinh-clc-tcta-va-viet-phap/)
 
@@ -139,8 +141,6 @@
 • **28/07/2026**: [Thông báo thu học phí học kỳ 3 năm học 2025-2026 đối với sinh viên đại học hệ chính quy – chương trình đại trà](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-3-nam-hoc-2025-2026-doi-voi-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
 
 • **28/07/2026**: [Thông báo cập nhật thông tin ngành/chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2023 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-nganh-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2023-tro-ve-truoc/)
-
-• **27/07/2026**: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2026 do Trường tổ chức ngày 18/7 và 23/7/2026](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-1-nam-2026-do-truong-to-chuc-ngay-18-7-va-23-7-2026/)
 
 ## Exam Announcements
 
