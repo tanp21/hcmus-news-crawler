@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-15 at 09:54 +07***
+*Last updated: **2026-08-15 at 10:41 +07***
 
 ---
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **15/08/2026**: [Thư chúc mừng Tân Sinh viên khóa tuyển 2026 của Hiệu trưởng](https://hcmus.edu.vn/thu-chuc-mung-tan-sinh-vien-khoa-tuyen-2026-cua-hieu-truong/)
+
 • **14/08/2026**: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần HK1/2026-2027 tại cơ sở 2 – Khóa 2025, khóa 2026 và môn chung khóa 2024 về trước, chương trình đại trà/tài năng](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-hk1-2026-2027-tai-co-so-2-hoa-2025-khoa-2026-va-mon-chung-khoa-2024-ve-truoc-chuong-trinh-dai-tra-tai-nang/)
 
 • **13/08/2026**: [Thông báo Đăng ký học phần HK1/2026-2027 đối với sinh viên chương trình CLC, TCTA và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2026-2027-doi-voi-sinh-vien-chuong-trinh-clc-tcta-va-viet-phap/)
@@ -139,8 +141,6 @@
 • **28/07/2026**: [THÔNG BÁO Về việc cung cấp thông tin cư trú năm học 2026-2027](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-cu-tru-nam-hoc-2026-2027/)
 
 • **28/07/2026**: [Thông báo thu học phí học kỳ 3 năm học 2025-2026 đối với sinh viên đại học hệ chính quy – chương trình đại trà](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-3-nam-hoc-2025-2026-doi-voi-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
-
-• **28/07/2026**: [Thông báo cập nhật thông tin ngành/chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2023 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-nganh-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2023-tro-ve-truoc/)
 
 ## Exam Announcements
 
