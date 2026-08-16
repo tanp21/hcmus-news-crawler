@@ -1,12 +1,11 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-17 at 03:26 +07***
+*Last updated: **2026-08-17 at 04:22 +07***
 
 ---
 
 ## ⚠️ Errors
 
-• FIT: Failed to load FIT news
 • Exam Announcements: Failed to load exam announcements
 
 ## APCS
@@ -101,7 +100,25 @@
 
 ## FIT
 
-*Failed to load FIT news*
+• **14-8-2026**: [Đăng ký tham gia Seminar The Composer’s Dilemma: Between Familiarity and Novelty](Default.aspx?tabid=292&newsid=17533)
+
+• **13-8-2026**: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 9/2026](Default.aspx?tabid=292&newsid=17532)
+
+• **12-8-2026**: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 2 (bảo vệ tháng 7,8/2026)](Default.aspx?tabid=292&newsid=17530)
+
+• **10-8-2026**: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 2](Default.aspx?tabid=292&newsid=17529)
+
+• **7-8-2026**: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Tấn Công](Default.aspx?tabid=292&newsid=17527)
+
+• **4-8-2026**: [Tổng kết Trường hè “FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](Default.aspx?tabid=292&newsid=17521)
+
+• **3-8-2026**: [Sinh viên Khoa Công nghệ thông tin tham dự Diễn đàn Văn hóa Thanh niên ASEAN và ASEAN+3 năm 2026](Default.aspx?tabid=292&newsid=17520)
+
+• **31-7-2026**: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 35/2025 - bắt đầu học 03/8/2026](Default.aspx?tabid=292&newsid=17522)
+
+• **30-7-2026**: [Talkshow Innovate Your Future – Đối mới tư duy, Kiến tạo giá trị, Dẫn lối tương lai](Default.aspx?tabid=292&newsid=17519)
+
+• **29-7-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](Default.aspx?tabid=292&newsid=17517)
 
 ## Student Information
 
