@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-17 at 14:00 +07***
+*Last updated: **2026-08-17 at 15:46 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **17-8-2026**: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2026-2027](Default.aspx?tabid=292&newsid=17535)
+
 • **14-8-2026**: [Đăng ký tham gia Seminar The Composer’s Dilemma: Between Familiarity and Novelty](Default.aspx?tabid=292&newsid=17533)
 
 • **13-8-2026**: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 9/2026](Default.aspx?tabid=292&newsid=17532)
@@ -117,8 +119,6 @@
 • **31-7-2026**: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 35/2025 - bắt đầu học 03/8/2026](Default.aspx?tabid=292&newsid=17522)
 
 • **30-7-2026**: [Talkshow Innovate Your Future – Đối mới tư duy, Kiến tạo giá trị, Dẫn lối tương lai](Default.aspx?tabid=292&newsid=17519)
-
-• **29-7-2026**: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](Default.aspx?tabid=292&newsid=17517)
 
 ## Student Information
 
