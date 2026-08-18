@@ -1,11 +1,12 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-18 at 10:50 +07***
+*Last updated: **2026-08-18 at 11:39 +07***
 
 ---
 
 ## ⚠️ Errors
 
+• Student Information: Failed to load HCMUS news
 • Exam Announcements: Failed to load exam announcements
 
 ## APCS
@@ -122,25 +123,7 @@
 
 ## Student Information
 
-• **15/08/2026**: [Thư chúc mừng Tân Sinh viên khóa tuyển 2026 của Hiệu trưởng](https://hcmus.edu.vn/thu-chuc-mung-tan-sinh-vien-khoa-tuyen-2026-cua-hieu-truong/)
-
-• **14/08/2026**: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần HK1/2026-2027 tại cơ sở 2 – Khóa 2025, khóa 2026 và môn chung khóa 2024 về trước, chương trình đại trà/tài năng](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-hk1-2026-2027-tai-co-so-2-hoa-2025-khoa-2026-va-mon-chung-khoa-2024-ve-truoc-chuong-trinh-dai-tra-tai-nang/)
-
-• **13/08/2026**: [Thông báo Đăng ký học phần HK1/2026-2027 đối với sinh viên chương trình CLC, TCTA và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2026-2027-doi-voi-sinh-vien-chuong-trinh-clc-tcta-va-viet-phap/)
-
-• **11/08/2026**: [THÔNG BÁO triển khai thử nghiệm website Phòng Công tác Sinh viên](https://hcmus.edu.vn/thong-bao-trien-khai-thu-nghiem-website-phong-cong-tac-sinh-vien/)
-
-• **07/08/2026**: [Thông báo thời gian nhập học môn Giáo dục Quốc phòng – An ninh và thông tin đăng ký ngoại trú đối với sinh viên Khóa 2025](https://hcmus.edu.vn/thong-bao-thoi-gian-nhap-hoc-mon-giao-duc-quoc-phong-an-ninh-va-thong-tin-dang-ky-ngoai-tru-doi-voi-sinh-vien-khoa-2025/)
-
-• **06/08/2026**: [Quy định học bổng Khuyến khích (sửa đổi, bổ sung)](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich-sua-doi-bo-sung/)
-
-• **06/08/2026**: [Thông báo đăng ký học phần Học kỳ 1 /2026-2027, chương trình đại trà và tài năng](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-2026-2027-chuong-trinh-dai-tra-va-tai-nang/)
-
-• **30/07/2026**: [Chương trình tuyển chọn sinh viên ký hợp đồng thực hiện nhiệm vụ Chuyển đổi số và Phát triển Khoa học Công nghệ tại Văn phòng Đảng ủy Phường An Nhơn](https://hcmus.edu.vn/chuong-trinh-tuyen-chon-sinh-vien-ky-hop-dong-thuc-hien-nhiem-vu-chuyen-doi-so-va-phat-trien-khoa-hoc-cong-nghe-tai-van-phong-dang-uy-phuong-an-nhon/)
-
-• **28/07/2026**: [THÔNG BÁO Về việc cung cấp thông tin cư trú năm học 2026-2027](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-cu-tru-nam-hoc-2026-2027/)
-
-• **28/07/2026**: [Thông báo thu học phí học kỳ 3 năm học 2025-2026 đối với sinh viên đại học hệ chính quy – chương trình đại trà](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-3-nam-hoc-2025-2026-doi-voi-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
+*Failed to load HCMUS news*
 
 ## Exam Announcements
 
