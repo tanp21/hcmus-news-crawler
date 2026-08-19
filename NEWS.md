@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-19 at 13:49 +07***
+*Last updated: **2026-08-19 at 14:40 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **19-8-2026**: [V/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2026](Default.aspx?tabid=292&newsid=17536)
+
 • **19-8-2026**: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2026](Default.aspx?tabid=292&newsid=17538)
 
 • **19-8-2026**: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2024, ĐHCQ chương trình Chuẩn](Default.aspx?tabid=292&newsid=17537)
@@ -117,8 +119,6 @@
 • **7-8-2026**: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Tấn Công](Default.aspx?tabid=292&newsid=17527)
 
 • **4-8-2026**: [Tổng kết Trường hè “FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](Default.aspx?tabid=292&newsid=17521)
-
-• **3-8-2026**: [Sinh viên Khoa Công nghệ thông tin tham dự Diễn đàn Văn hóa Thanh niên ASEAN và ASEAN+3 năm 2026](Default.aspx?tabid=292&newsid=17520)
 
 ## Student Information
 
