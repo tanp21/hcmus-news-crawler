@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-19 at 10:53 +07***
+*Last updated: **2026-08-19 at 11:39 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **19-8-2026**: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2026](Default.aspx?tabid=292&newsid=17538)
+
 • **19-8-2026**: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2024, ĐHCQ chương trình Chuẩn](Default.aspx?tabid=292&newsid=17537)
 
 • **17-8-2026**: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2026-2027](Default.aspx?tabid=292&newsid=17535)
@@ -118,9 +120,9 @@
 
 • **3-8-2026**: [Sinh viên Khoa Công nghệ thông tin tham dự Diễn đàn Văn hóa Thanh niên ASEAN và ASEAN+3 năm 2026](Default.aspx?tabid=292&newsid=17520)
 
-• **31-7-2026**: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 35/2025 - bắt đầu học 03/8/2026](Default.aspx?tabid=292&newsid=17522)
-
 ## Student Information
+
+• **19/08/2026**: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn ngoại ngữ đầu ra đối với sinh viên khóa 2026](https://hcmus.edu.vn/70115-2/)
 
 • **15/08/2026**: [Thư chúc mừng Tân Sinh viên khóa tuyển 2026 của Hiệu trưởng](https://hcmus.edu.vn/thu-chuc-mung-tan-sinh-vien-khoa-tuyen-2026-cua-hieu-truong/)
 
@@ -139,8 +141,6 @@
 • **30/07/2026**: [Chương trình tuyển chọn sinh viên ký hợp đồng thực hiện nhiệm vụ Chuyển đổi số và Phát triển Khoa học Công nghệ tại Văn phòng Đảng ủy Phường An Nhơn](https://hcmus.edu.vn/chuong-trinh-tuyen-chon-sinh-vien-ky-hop-dong-thuc-hien-nhiem-vu-chuyen-doi-so-va-phat-trien-khoa-hoc-cong-nghe-tai-van-phong-dang-uy-phuong-an-nhon/)
 
 • **28/07/2026**: [THÔNG BÁO Về việc cung cấp thông tin cư trú năm học 2026-2027](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-cu-tru-nam-hoc-2026-2027/)
-
-• **28/07/2026**: [Thông báo thu học phí học kỳ 3 năm học 2025-2026 đối với sinh viên đại học hệ chính quy – chương trình đại trà](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-3-nam-hoc-2025-2026-doi-voi-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
 
 ## Exam Announcements
 
