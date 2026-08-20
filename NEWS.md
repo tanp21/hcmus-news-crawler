@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-20 at 15:41 +07***
+*Last updated: **2026-08-20 at 16:37 +07***
 
 ---
 
@@ -122,7 +122,7 @@
 
 ## Student Information
 
-• **19/08/2026**: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn ngoại ngữ đầu ra đối với sinh viên khóa 2026](https://hcmus.edu.vn/70115-2/)
+• **19/08/2026**: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn ngoại ngữ đầu ra đối với sinh viên khóa 2026](https://hcmus.edu.vn/thong-bao-ve-viec-kiem-tra-anh-van-dau-khoa-quy-dinh-hoc-tieng-anh-va-chuan-ngoai-ngu-dau-ra-doi-voi-sinh-vien-khoa-2026/)
 
 • **15/08/2026**: [Thư chúc mừng Tân Sinh viên khóa tuyển 2026 của Hiệu trưởng](https://hcmus.edu.vn/thu-chuc-mung-tan-sinh-vien-khoa-tuyen-2026-cua-hieu-truong/)
 
