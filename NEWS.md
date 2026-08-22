@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-22 at 13:44 +07***
+*Last updated: **2026-08-22 at 14:33 +07***
 
 ---
 
@@ -34,6 +34,8 @@
 
 ### Academic Affairs
 
+• **22/08/2026**: [[CTĐA] Thông báo nộp file đề tài tốt nghiệp TTDATN SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-thong-bao-nop-file-de-tai-tot-nghiep-ttdatn-sau-bao-ve-khoa-2022-dot-1-bao-ve-thang-08-2026/)
+
 • **21/08/2026**: [[CTĐA] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (đợt bảo vệ 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-dang-ky-nguyen-vong-ho-tro-de-tai-tot-nghiep-dot-bao-ve-04-2027/)
 
 • **19/08/2026**: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-lich-thi-chi-tiet-cuoi-ky-hk3-2526/)
@@ -51,8 +53,6 @@
 • **05/07/2026**: [[Chương trình TCTA] – Mời tham gia sinh hoạt phổ biến quy định về việc chia chuyên ngành – Đợt tháng 9 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/chuong-trinh-tcta-moi-tham-gia-sinh-hoat-pho-bien-quy-dinh-ve-viec-chia-chuyen-nganh-dot-thang-9-nam-hoc-2025-2026/)
 
 • **16/06/2026**: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
-
-• **28/05/2026**: [Thông báo phúc khảo HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/05/thong-bao-phuc-khao-hk2-2526/)
 
 ### Student Support
 
