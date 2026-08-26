@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-26 at 16:45 +07***
+*Last updated: **2026-08-26 at 17:37 +07***
 
 ---
 
@@ -100,6 +100,10 @@
 
 ## FIT
 
+• **26-8-2026**: [Tổng kết Seminar The Composer’s Dilemma: Between Familiarity and Novelty](Default.aspx?tabid=292&newsid=17544)
+
+• **26-8-2026**: [Thông báo lịch kiểm tra trình độ Anh văn đầu khóa – ngành Trí tuệ nhân tạo khóa tuyển 2026](Default.aspx?tabid=292&newsid=17543)
+
 • **22-8-2026**: [Thông báo các hoạt động sắp tới dành cho tân sinh viên Khóa tuyển 2026](Default.aspx?tabid=292&newsid=17541)
 
 • **21-8-2026**: [[SĐH] Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Phạm Minh Hoàng (9g00, 26/8/2026, phòng C24)](Default.aspx?tabid=292&newsid=17542)
@@ -115,10 +119,6 @@
 • **17-8-2026**: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2026-2027](Default.aspx?tabid=292&newsid=17535)
 
 • **14-8-2026**: [Đăng ký tham gia Seminar The Composer’s Dilemma: Between Familiarity and Novelty](Default.aspx?tabid=292&newsid=17533)
-
-• **13-8-2026**: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 9/2026](Default.aspx?tabid=292&newsid=17532)
-
-• **12-8-2026**: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 2 (bảo vệ tháng 7,8/2026)](Default.aspx?tabid=292&newsid=17530)
 
 ## Student Information
 
