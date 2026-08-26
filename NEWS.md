@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-26 at 08:28 +07***
+*Last updated: **2026-08-26 at 10:07 +07***
 
 ---
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **26/08/2026**: [Thông báo Danh sách học viên cao học khóa năm 2025 thuộc đối tượng được xét cấp học bổng đợt 1](https://hcmus.edu.vn/thong-bao-danh-sach-hoc-vien-cao-hoc-khoa-nam-2025-thuoc-doi-tuong-duoc-xet-cap-hoc-bong-dot-1/)
+
 • **21/08/2026**: [Thông báo Lịch kiểm tra Anh văn đầu khóa dành cho Tân sinh viên](https://hcmus.edu.vn/thong-bao-lich-kiem-tra-anh-van-dau-khoa-danh-cho-tan-sinh-vien/)
 
 • **19/08/2026**: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn ngoại ngữ đầu ra đối với sinh viên khóa 2026](https://hcmus.edu.vn/thong-bao-ve-viec-kiem-tra-anh-van-dau-khoa-quy-dinh-hoc-tieng-anh-va-chuan-ngoai-ngu-dau-ra-doi-voi-sinh-vien-khoa-2026/)
@@ -139,8 +141,6 @@
 • **06/08/2026**: [Quy định học bổng Khuyến khích (sửa đổi, bổ sung)](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich-sua-doi-bo-sung/)
 
 • **06/08/2026**: [Thông báo đăng ký học phần Học kỳ 1 /2026-2027, chương trình đại trà và tài năng](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-2026-2027-chuong-trinh-dai-tra-va-tai-nang/)
-
-• **30/07/2026**: [Chương trình tuyển chọn sinh viên ký hợp đồng thực hiện nhiệm vụ Chuyển đổi số và Phát triển Khoa học Công nghệ tại Văn phòng Đảng ủy Phường An Nhơn](https://hcmus.edu.vn/chuong-trinh-tuyen-chon-sinh-vien-ky-hop-dong-thuc-hien-nhiem-vu-chuyen-doi-so-va-phat-trien-khoa-hoc-cong-nghe-tai-van-phong-dang-uy-phuong-an-nhon/)
 
 ## Exam Announcements
 
