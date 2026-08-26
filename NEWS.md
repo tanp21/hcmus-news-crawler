@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-26 at 12:36 +07***
+*Last updated: **2026-08-26 at 13:54 +07***
 
 ---
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **26/08/2026**: [Thông báo Phòng thi / Giờ thi kiểm tra trình độ Anh văn đầu khóa đối với Tân sinh viên](https://hcmus.edu.vn/thong-bao-lich-kiem-tra-trinh-do-anh-van-dau-khoa-doi-voi-tan-sinh-vien/)
+
 • **26/08/2026**: [Thông báo Danh sách học viên cao học khóa năm 2025 thuộc đối tượng được xét cấp học bổng đợt 1](https://hcmus.edu.vn/thong-bao-danh-sach-hoc-vien-cao-hoc-khoa-nam-2025-thuoc-doi-tuong-duoc-xet-cap-hoc-bong-dot-1/)
 
 • **21/08/2026**: [Thông báo Lịch kiểm tra Anh văn đầu khóa dành cho Tân sinh viên](https://hcmus.edu.vn/thong-bao-lich-kiem-tra-anh-van-dau-khoa-danh-cho-tan-sinh-vien/)
@@ -139,8 +141,6 @@
 • **07/08/2026**: [Thông báo thời gian nhập học môn Giáo dục Quốc phòng – An ninh và thông tin đăng ký ngoại trú đối với sinh viên Khóa 2025](https://hcmus.edu.vn/thong-bao-thoi-gian-nhap-hoc-mon-giao-duc-quoc-phong-an-ninh-va-thong-tin-dang-ky-ngoai-tru-doi-voi-sinh-vien-khoa-2025/)
 
 • **06/08/2026**: [Quy định học bổng Khuyến khích (sửa đổi, bổ sung)](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich-sua-doi-bo-sung/)
-
-• **06/08/2026**: [Thông báo đăng ký học phần Học kỳ 1 /2026-2027, chương trình đại trà và tài năng](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-2026-2027-chuong-trinh-dai-tra-va-tai-nang/)
 
 ## Exam Announcements
 
