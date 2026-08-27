@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-27 at 05:53 +07***
+*Last updated: **2026-08-27 at 11:24 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **27-8-2026**: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Phạm Minh Hoàng ngày 26/8/2026](Default.aspx?tabid=292&newsid=17545)
+
 • **26-8-2026**: [Tổng kết Seminar The Composer’s Dilemma: Between Familiarity and Novelty](Default.aspx?tabid=292&newsid=17544)
 
 • **26-8-2026**: [Thông báo lịch kiểm tra trình độ Anh văn đầu khóa – ngành Trí tuệ nhân tạo khóa tuyển 2026](Default.aspx?tabid=292&newsid=17543)
@@ -118,9 +120,11 @@
 
 • **17-8-2026**: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2026-2027](Default.aspx?tabid=292&newsid=17535)
 
-• **14-8-2026**: [Đăng ký tham gia Seminar The Composer’s Dilemma: Between Familiarity and Novelty](Default.aspx?tabid=292&newsid=17533)
-
 ## Student Information
+
+• **27/08/2026**: [Kế hoạch tiếp nhận, quản lý sinh viên Khóa 2025 học Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/ke-hoach-tiep-nhan-quan-ly-sinh-vien-khoa-2025-hoc-giao-duc-quoc-phong-an-ninh/)
+
+• **27/08/2026**: [Quy định về việc học ngoại ngữ và chuẩn trình độ ngoại ngữ khi tốt nghiệp đại học](https://hcmus.edu.vn/quy-dinh-ve-viec-hoc-ngoai-ngu-va-chuan-trinh-do-ngoai-ngu-khi-tot-nghiep-dai-hoc/)
 
 • **26/08/2026**: [Thông báo Phòng thi / Giờ thi kiểm tra trình độ Anh văn đầu khóa đối với Tân sinh viên](https://hcmus.edu.vn/thong-bao-lich-kiem-tra-trinh-do-anh-van-dau-khoa-doi-voi-tan-sinh-vien/)
 
@@ -137,10 +141,6 @@
 • **13/08/2026**: [Thông báo Đăng ký học phần HK1/2026-2027 đối với sinh viên chương trình CLC, TCTA và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2026-2027-doi-voi-sinh-vien-chuong-trinh-clc-tcta-va-viet-phap/)
 
 • **11/08/2026**: [THÔNG BÁO triển khai thử nghiệm website Phòng Công tác Sinh viên](https://hcmus.edu.vn/thong-bao-trien-khai-thu-nghiem-website-phong-cong-tac-sinh-vien/)
-
-• **07/08/2026**: [Thông báo thời gian nhập học môn Giáo dục Quốc phòng – An ninh và thông tin đăng ký ngoại trú đối với sinh viên Khóa 2025](https://hcmus.edu.vn/thong-bao-thoi-gian-nhap-hoc-mon-giao-duc-quoc-phong-an-ninh-va-thong-tin-dang-ky-ngoai-tru-doi-voi-sinh-vien-khoa-2025/)
-
-• **06/08/2026**: [Quy định học bổng Khuyến khích (sửa đổi, bổ sung)](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich-sua-doi-bo-sung/)
 
 ## Exam Announcements
 
