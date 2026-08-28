@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-08-28 at 08:21 +07***
+*Last updated: **2026-08-28 at 21:07 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **28-8-2026**: [Thông báo khảo sát Kỹ năng lập trình dành cho Tân sinh viên khóa tuyển 2026](Default.aspx?tabid=292&newsid=17546)
+
 • **27-8-2026**: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Phạm Minh Hoàng ngày 26/8/2026](Default.aspx?tabid=292&newsid=17545)
 
 • **26-8-2026**: [Tổng kết Seminar The Composer’s Dilemma: Between Familiarity and Novelty](Default.aspx?tabid=292&newsid=17544)
@@ -117,8 +119,6 @@
 • **19-8-2026**: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2026](Default.aspx?tabid=292&newsid=17538)
 
 • **19-8-2026**: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2024, ĐHCQ chương trình Chuẩn](Default.aspx?tabid=292&newsid=17537)
-
-• **17-8-2026**: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2026-2027](Default.aspx?tabid=292&newsid=17535)
 
 ## Student Information
 
