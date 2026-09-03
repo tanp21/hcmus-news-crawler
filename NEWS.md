@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-03 at 10:39 +07***
+*Last updated: **2026-09-03 at 15:43 +07***
 
 ---
 
@@ -122,6 +122,10 @@
 
 ## Student Information
 
+• **03/09/2026**: [Thông báo kết quả kiểm tra Anh văn đầu khóa đối với Tân sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-anh-van-dau-khoa-doi-voi-tan-sinh-vien/)
+
+• **03/09/2026**: [Thông báo kết quả dự kiến HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học & CNVL, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoc-cnvl-vat-ly-vlkt-ctda/)
+
 • **27/08/2026**: [Kế hoạch tiếp nhận, quản lý sinh viên Khóa 2025 học Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/ke-hoach-tiep-nhan-quan-ly-sinh-vien-khoa-2025-hoc-giao-duc-quoc-phong-an-ninh/)
 
 • **27/08/2026**: [Quy định về việc học ngoại ngữ và chuẩn trình độ ngoại ngữ khi tốt nghiệp đại học](https://hcmus.edu.vn/quy-dinh-ve-viec-hoc-ngoai-ngu-va-chuan-trinh-do-ngoai-ngu-khi-tot-nghiep-dai-hoc/)
@@ -137,10 +141,6 @@
 • **15/08/2026**: [Thư chúc mừng Tân Sinh viên khóa tuyển 2026 của Hiệu trưởng](https://hcmus.edu.vn/thu-chuc-mung-tan-sinh-vien-khoa-tuyen-2026-cua-hieu-truong/)
 
 • **14/08/2026**: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần HK1/2026-2027 tại cơ sở 2 – Khóa 2025, khóa 2026 và môn chung khóa 2024 về trước, chương trình đại trà/tài năng](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-hk1-2026-2027-tai-co-so-2-hoa-2025-khoa-2026-va-mon-chung-khoa-2024-ve-truoc-chuong-trinh-dai-tra-tai-nang/)
-
-• **13/08/2026**: [Thông báo Đăng ký học phần HK1/2026-2027 đối với sinh viên chương trình CLC, TCTA và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2026-2027-doi-voi-sinh-vien-chuong-trinh-clc-tcta-va-viet-phap/)
-
-• **11/08/2026**: [THÔNG BÁO triển khai thử nghiệm website Phòng Công tác Sinh viên](https://hcmus.edu.vn/thong-bao-trien-khai-thu-nghiem-website-phong-cong-tac-sinh-vien/)
 
 ## Exam Announcements
 
