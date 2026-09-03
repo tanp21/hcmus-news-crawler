@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-03 at 06:07 +07***
+*Last updated: **2026-09-03 at 10:39 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **3-9-2026**: [[CQ] Danh sách lớp hủy HK1/26-27 do không đủ số lượng mở lớp](Default.aspx?tabid=292&newsid=17547)
+
 • **28-8-2026**: [Thông báo khảo sát Kỹ năng lập trình dành cho Tân sinh viên khóa tuyển 2026](Default.aspx?tabid=292&newsid=17546)
 
 • **27-8-2026**: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Phạm Minh Hoàng ngày 26/8/2026](Default.aspx?tabid=292&newsid=17545)
@@ -117,8 +119,6 @@
 • **19-8-2026**: [V/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2026](Default.aspx?tabid=292&newsid=17536)
 
 • **19-8-2026**: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2026](Default.aspx?tabid=292&newsid=17538)
-
-• **19-8-2026**: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2024, ĐHCQ chương trình Chuẩn](Default.aspx?tabid=292&newsid=17537)
 
 ## Student Information
 
