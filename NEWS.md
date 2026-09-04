@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-04 at 10:39 +07***
+*Last updated: **2026-09-04 at 15:38 +07***
 
 ---
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **04/09/2026**: [Kế hoạch triển khai công tác chuẩn bị cho hoạt động giảng dạy – học tập HK1/2026-2027 đối với Tân sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/ke-hoach-trien-khai-cong-tac-chuan-bi-cho-hoat-dong-giang-day-hoc-tap-hk1-2026-2027-doi-voi-tan-sinh-vien-chuong-trinh-dai-tra-va-tai-nang/)
+
 • **03/09/2026**: [Thông báo kết quả kiểm tra Anh văn đầu khóa đối với Tân sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-anh-van-dau-khoa-doi-voi-tan-sinh-vien/)
 
 • **03/09/2026**: [Thông báo kết quả dự kiến HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học & CNVL, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoc-cnvl-vat-ly-vlkt-ctda/)
@@ -139,8 +141,6 @@
 • **19/08/2026**: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn ngoại ngữ đầu ra đối với sinh viên khóa 2026](https://hcmus.edu.vn/thong-bao-ve-viec-kiem-tra-anh-van-dau-khoa-quy-dinh-hoc-tieng-anh-va-chuan-ngoai-ngu-dau-ra-doi-voi-sinh-vien-khoa-2026/)
 
 • **15/08/2026**: [Thư chúc mừng Tân Sinh viên khóa tuyển 2026 của Hiệu trưởng](https://hcmus.edu.vn/thu-chuc-mung-tan-sinh-vien-khoa-tuyen-2026-cua-hieu-truong/)
-
-• **14/08/2026**: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần HK1/2026-2027 tại cơ sở 2 – Khóa 2025, khóa 2026 và môn chung khóa 2024 về trước, chương trình đại trà/tài năng](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-hk1-2026-2027-tai-co-so-2-hoa-2025-khoa-2026-va-mon-chung-khoa-2024-ve-truoc-chuong-trinh-dai-tra-tai-nang/)
 
 ## Exam Announcements
 
