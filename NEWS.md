@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-04 at 06:04 +07***
+*Last updated: **2026-09-04 at 10:39 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **4-9-2026**: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2026](Default.aspx?tabid=292&newsid=17548)
+
 • **3-9-2026**: [[CQ] Danh sách lớp hủy HK1/26-27 do không đủ số lượng mở lớp](Default.aspx?tabid=292&newsid=17547)
 
 • **28-8-2026**: [Thông báo khảo sát Kỹ năng lập trình dành cho Tân sinh viên khóa tuyển 2026](Default.aspx?tabid=292&newsid=17546)
@@ -117,8 +119,6 @@
 • **20-8-2026**: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp ( đợt bảo vệ 03 và 04/2027)](Default.aspx?tabid=292&newsid=17539)
 
 • **19-8-2026**: [V/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2026](Default.aspx?tabid=292&newsid=17536)
-
-• **19-8-2026**: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2026](Default.aspx?tabid=292&newsid=17538)
 
 ## Student Information
 
