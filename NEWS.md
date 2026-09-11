@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-11 at 07:58 +07***
+*Last updated: **2026-09-11 at 12:48 +07***
 
 ---
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **11/09/2026**: [Á khoa 29,75 điểm khối A00 toàn quốc chọn Thiết kế vi mạch tại Trường ĐH Khoa học tự nhiên](https://hcmus.edu.vn/a-khoa-2975-diem-khoi-a00-toan-quoc-chon-thiet-ke-vi-mach-tai-truong-dh-khoa-hoc-tu-nhien/)
+
 • **09/09/2026**: [Khảo sát mức độ sẵn sàng của tân sinh viên đối với ngành học, trường học và kênh tư vấn hướng nghiệp – tuyển sinh năm 2026](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2026/)
 
 • **08/09/2026**: [Thông báo nghỉ học sáng thứ Hai ngày 14/9 đối với sinh viên Khóa 2026 để dự Lễ chào mừng năm học mới](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-hai-ngay-14-9-doi-voi-sinh-vien-khoa-2026-de-du-le-chao-mung-nam-hoc-moi/)
@@ -139,8 +141,6 @@
 • **27/08/2026**: [Quy định về việc học ngoại ngữ và chuẩn trình độ ngoại ngữ khi tốt nghiệp đại học](https://hcmus.edu.vn/quy-dinh-ve-viec-hoc-ngoai-ngu-va-chuan-trinh-do-ngoai-ngu-khi-tot-nghiep-dai-hoc/)
 
 • **26/08/2026**: [Thông báo Phòng thi / Giờ thi kiểm tra trình độ Anh văn đầu khóa đối với Tân sinh viên](https://hcmus.edu.vn/thong-bao-lich-kiem-tra-trinh-do-anh-van-dau-khoa-doi-voi-tan-sinh-vien/)
-
-• **26/08/2026**: [Thông báo Danh sách học viên cao học khóa năm 2025 thuộc đối tượng được xét cấp học bổng đợt 1](https://hcmus.edu.vn/thong-bao-danh-sach-hoc-vien-cao-hoc-khoa-nam-2025-thuoc-doi-tuong-duoc-xet-cap-hoc-bong-dot-1/)
 
 ## Exam Announcements
 
