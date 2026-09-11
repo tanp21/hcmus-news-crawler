@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-11 at 12:48 +07***
+*Last updated: **2026-09-11 at 17:52 +07***
 
 ---
 
@@ -36,7 +36,7 @@
 
 • **08/09/2026**: [[CTĐA] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-thong-bao-nop-don-dang-ky-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-thang-04-2027/)
 
-• **08/09/2026**: [[CTĐA] Thông báo nộp file đề tài tốt nghiệp KLTN/ TTTN SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-thong-bao-nop-file-de-tai-tot-nghiep-sau-bao-ve-khoa-2022-dot-1-bao-ve-thang-08-2026/)
+• **08/09/2026**: [[CTĐA] Thông báo nộp file đề tài tốt nghiệp KLTN/ TTTN SAU bảo vệ khóa 2022 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-thong-bao-nop-file-de-tai-tot-nghiep-sau-bao-ve-khoa-2022-dot-1-bao-ve-thang-08-2026/)
 
 • **22/08/2026**: [[CTĐA] Thông báo nộp file đề tài tốt nghiệp TTDATN SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-thong-bao-nop-file-de-tai-tot-nghiep-ttdatn-sau-bao-ve-khoa-2022-dot-1-bao-ve-thang-08-2026/)
 
