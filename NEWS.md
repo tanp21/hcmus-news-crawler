@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-13 at 18:21 +07***
+*Last updated: **2026-09-13 at 22:51 +07***
 
 ---
 
@@ -100,6 +100,10 @@
 
 ## FIT
 
+• **13-9-2026**: [[CQ] TKB lý thuyết có phòng học kỳ 1, năm học 2026-2027](Default.aspx?tabid=292&newsid=17553)
+
+• **13-9-2026**: [[CQ] Danh sách lớp HK1/26-27 nghỉ học tuần 14/9/2026](Default.aspx?tabid=292&newsid=17551)
+
 • **8-9-2026**: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2023- Đợt 1 (bảo vệ tháng 3/2027)](Default.aspx?tabid=292&newsid=17550)
 
 • **4-9-2026**: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2026](Default.aspx?tabid=292&newsid=17548)
@@ -115,10 +119,6 @@
 • **26-8-2026**: [Thông báo lịch kiểm tra trình độ Anh văn đầu khóa – ngành Trí tuệ nhân tạo khóa tuyển 2026](Default.aspx?tabid=292&newsid=17543)
 
 • **22-8-2026**: [Thông báo các hoạt động sắp tới dành cho tân sinh viên Khóa tuyển 2026](Default.aspx?tabid=292&newsid=17541)
-
-• **21-8-2026**: [[SĐH] Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Phạm Minh Hoàng (9g00, 26/8/2026, phòng C24)](Default.aspx?tabid=292&newsid=17542)
-
-• **20-8-2026**: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp ( đợt bảo vệ 03 và 04/2027)](Default.aspx?tabid=292&newsid=17539)
 
 ## Student Information
 
