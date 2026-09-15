@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-15 at 06:44 +07***
+*Last updated: **2026-09-15 at 11:04 +07***
 
 ---
 
@@ -126,7 +126,7 @@
 
 • **13/09/2026**: [Thời khóa biểu chính thức môn giai đoạn đại cương, chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-giai-doan-dai-cuong-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
 
-• **13/09/2026**: [Thông tin kế hoạch học tập môn Hóa đại cương 1 và 2, HK1/2026-2027](https://hcmus.edu.vn/thong-tin-ke-hoach-hoc-tap-mon-hoa-dai-cuong-1-va-2-hk1-2026-2027/)
+• **13/09/2026**: [Thông tin kế hoạch học thực tập môn Hóa đại cương 1 và 2, HK1/2026-2027, chương trình đại trà và tài năng](https://hcmus.edu.vn/thong-tin-ke-hoach-hoc-tap-mon-hoa-dai-cuong-1-va-2-hk1-2026-2027/)
 
 • **13/09/2026**: [Thời khóa biểu chính thức môn THỂ DỤC 1 khóa tuyển 2026 chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-the-duc-1-khoa-tuyen-2026-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
 
