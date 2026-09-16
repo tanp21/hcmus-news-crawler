@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-16 at 12:45 +07***
+*Last updated: **2026-09-16 at 18:06 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **16-9-2026**: [82 Tân sinh viên Khoa Công nghệ thông tin nhận Học bổng Tinh hoa khoa học năm 2026](Default.aspx?tabid=292&newsid=17556)
+
 • **16-9-2026**: [Chúc mừng Sinh viên Trí tuệ nhân tạo của #FITHCMUS công bố bài báo trên Hội nghị uy tín quốc tế rank A*](Default.aspx?tabid=292&newsid=17555)
 
 • **15-9-2026**: [Thông báo đăng ký tham dự ICPC-HCMUS 2026](Default.aspx?tabid=292&newsid=17554)
@@ -117,8 +119,6 @@
 • **28-8-2026**: [Thông báo khảo sát Kỹ năng lập trình dành cho Tân sinh viên khóa tuyển 2026](Default.aspx?tabid=292&newsid=17546)
 
 • **27-8-2026**: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Phạm Minh Hoàng ngày 26/8/2026](Default.aspx?tabid=292&newsid=17545)
-
-• **26-8-2026**: [Tổng kết Seminar The Composer’s Dilemma: Between Familiarity and Novelty](Default.aspx?tabid=292&newsid=17544)
 
 ## Student Information
 
