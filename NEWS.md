@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-16 at 07:08 +07***
+*Last updated: **2026-09-16 at 12:45 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **16-9-2026**: [Chúc mừng Sinh viên Trí tuệ nhân tạo của #FITHCMUS công bố bài báo trên Hội nghị uy tín quốc tế rank A*](Default.aspx?tabid=292&newsid=17555)
+
 • **15-9-2026**: [Thông báo đăng ký tham dự ICPC-HCMUS 2026](Default.aspx?tabid=292&newsid=17554)
 
 • **13-9-2026**: [[CQ] TKB lý thuyết có phòng học kỳ 1, năm học 2026-2027](Default.aspx?tabid=292&newsid=17553)
@@ -118,8 +120,6 @@
 
 • **26-8-2026**: [Tổng kết Seminar The Composer’s Dilemma: Between Familiarity and Novelty](Default.aspx?tabid=292&newsid=17544)
 
-• **26-8-2026**: [Thông báo lịch kiểm tra trình độ Anh văn đầu khóa – ngành Trí tuệ nhân tạo khóa tuyển 2026](Default.aspx?tabid=292&newsid=17543)
-
 ## Student Information
 
 • **14/09/2026**: [SINH HOẠT CÔNG DÂN ĐẦU KHÓA 2026](https://hcmus.edu.vn/sinh-hoat-cong-dan-dau-khoa-2026/)
@@ -130,8 +130,6 @@
 
 • **13/09/2026**: [Thời khóa biểu chính thức môn THỂ DỤC 1 khóa tuyển 2026 chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-the-duc-1-khoa-tuyen-2026-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
 
-• **11/09/2026**: [Á khoa 29,75 điểm khối A00 toàn quốc chọn Thiết kế vi mạch tại Trường ĐH Khoa học tự nhiên](https://hcmus.edu.vn/a-khoa-2975-diem-khoi-a00-toan-quoc-chon-thiet-ke-vi-mach-tai-truong-dh-khoa-hoc-tu-nhien/)
-
 • **09/09/2026**: [Khảo sát mức độ sẵn sàng của tân sinh viên đối với ngành học, trường học và kênh tư vấn hướng nghiệp – tuyển sinh năm 2026](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2026/)
 
 • **08/09/2026**: [Thông báo nghỉ học sáng thứ Hai ngày 14/9 đối với sinh viên Khóa 2026 để dự Lễ chào mừng năm học mới](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-hai-ngay-14-9-doi-voi-sinh-vien-khoa-2026-de-du-le-chao-mung-nam-hoc-moi/)
@@ -141,6 +139,8 @@
 • **04/09/2026**: [Kế hoạch triển khai công tác chuẩn bị cho hoạt động giảng dạy – học tập HK1/2026-2027 đối với Tân sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/ke-hoach-trien-khai-cong-tac-chuan-bi-cho-hoat-dong-giang-day-hoc-tap-hk1-2026-2027-doi-voi-tan-sinh-vien-chuong-trinh-dai-tra-va-tai-nang/)
 
 • **03/09/2026**: [Thông báo kết quả kiểm tra Anh văn đầu khóa đối với Tân sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-anh-van-dau-khoa-doi-voi-tan-sinh-vien/)
+
+• **03/09/2026**: [Thông báo kết quả dự kiến HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học & CNVL, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoc-cnvl-vat-ly-vlkt-ctda/)
 
 ## Exam Announcements
 
