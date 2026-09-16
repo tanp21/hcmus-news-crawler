@@ -1,11 +1,12 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-17 at 02:53 +07***
+*Last updated: **2026-09-17 at 05:45 +07***
 
 ---
 
 ## ⚠️ Errors
 
+• Student Information: Failed to load HCMUS news
 • Exam Announcements: Failed to load exam announcements
 
 ## APCS
@@ -122,25 +123,7 @@
 
 ## Student Information
 
-• **14/09/2026**: [SINH HOẠT CÔNG DÂN ĐẦU KHÓA 2026](https://hcmus.edu.vn/sinh-hoat-cong-dan-dau-khoa-2026/)
-
-• **13/09/2026**: [Thời khóa biểu chính thức môn giai đoạn đại cương, chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-giai-doan-dai-cuong-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
-
-• **13/09/2026**: [Thông tin kế hoạch học thực tập môn Hóa đại cương 1 và 2, HK1/2026-2027, chương trình đại trà và tài năng](https://hcmus.edu.vn/thong-tin-ke-hoach-hoc-tap-mon-hoa-dai-cuong-1-va-2-hk1-2026-2027/)
-
-• **13/09/2026**: [Thời khóa biểu chính thức môn THỂ DỤC 1 khóa tuyển 2026 chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-the-duc-1-khoa-tuyen-2026-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
-
-• **09/09/2026**: [Khảo sát mức độ sẵn sàng của tân sinh viên đối với ngành học, trường học và kênh tư vấn hướng nghiệp – tuyển sinh năm 2026](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2026/)
-
-• **08/09/2026**: [Thông báo nghỉ học sáng thứ Hai ngày 14/9 đối với sinh viên Khóa 2026 để dự Lễ chào mừng năm học mới](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-hai-ngay-14-9-doi-voi-sinh-vien-khoa-2026-de-du-le-chao-mung-nam-hoc-moi/)
-
-• **07/09/2026**: [HƯỚNG DẪN ĐĂNG KÝ HỌC PHẦN DÀNH TÂN CHO SINH VIÊN](https://hcmus.edu.vn/huong-dan-dang-ky-hoc-phan-danh-tan-cho-sinh-vien/)
-
-• **04/09/2026**: [Kế hoạch triển khai công tác chuẩn bị cho hoạt động giảng dạy – học tập HK1/2026-2027 đối với Tân sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/ke-hoach-trien-khai-cong-tac-chuan-bi-cho-hoat-dong-giang-day-hoc-tap-hk1-2026-2027-doi-voi-tan-sinh-vien-chuong-trinh-dai-tra-va-tai-nang/)
-
-• **03/09/2026**: [Thông báo kết quả kiểm tra Anh văn đầu khóa đối với Tân sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-anh-van-dau-khoa-doi-voi-tan-sinh-vien/)
-
-• **03/09/2026**: [Thông báo kết quả dự kiến HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học & CNVL, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoc-cnvl-vat-ly-vlkt-ctda/)
+*Failed to load HCMUS news*
 
 ## Exam Announcements
 
