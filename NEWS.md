@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-18 at 12:38 +07***
+*Last updated: **2026-09-18 at 17:49 +07***
 
 ---
 
@@ -100,6 +100,10 @@
 
 ## FIT
 
+• **18-9-2026**: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học tự nhiên năm 2026](Default.aspx?tabid=292&newsid=17560)
+
+• **18-9-2026**: [Chúc mừng nhóm Sinh viên Cử nhân tài năng của FIT@HCMUS đã có các công bố tại Tạp chí uy tín quốc tế Q1](Default.aspx?tabid=292&newsid=17558)
+
 • **18-9-2026**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 8/10](Default.aspx?tabid=292&newsid=17557)
 
 • **16-9-2026**: [82 Tân sinh viên Khoa Công nghệ thông tin nhận Học bổng Tinh hoa khoa học năm 2026](Default.aspx?tabid=292&newsid=17556)
@@ -115,10 +119,6 @@
 • **8-9-2026**: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2023- Đợt 1 (bảo vệ tháng 3/2027)](Default.aspx?tabid=292&newsid=17550)
 
 • **4-9-2026**: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2026](Default.aspx?tabid=292&newsid=17548)
-
-• **3-9-2026**: [[CQ] Danh sách lớp hủy HK1/26-27 do không đủ số lượng mở lớp](Default.aspx?tabid=292&newsid=17547)
-
-• **28-8-2026**: [Thông báo khảo sát Kỹ năng lập trình dành cho Tân sinh viên khóa tuyển 2026](Default.aspx?tabid=292&newsid=17546)
 
 ## Student Information
 
