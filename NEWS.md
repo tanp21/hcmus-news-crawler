@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-18 at 07:04 +07***
+*Last updated: **2026-09-18 at 12:38 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **18-9-2026**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 8/10](Default.aspx?tabid=292&newsid=17557)
+
 • **16-9-2026**: [82 Tân sinh viên Khoa Công nghệ thông tin nhận Học bổng Tinh hoa khoa học năm 2026](Default.aspx?tabid=292&newsid=17556)
 
 • **16-9-2026**: [Chúc mừng Sinh viên Trí tuệ nhân tạo của #FITHCMUS công bố bài báo trên Hội nghị uy tín quốc tế rank A*](Default.aspx?tabid=292&newsid=17555)
@@ -118,9 +120,9 @@
 
 • **28-8-2026**: [Thông báo khảo sát Kỹ năng lập trình dành cho Tân sinh viên khóa tuyển 2026](Default.aspx?tabid=292&newsid=17546)
 
-• **27-8-2026**: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Phạm Minh Hoàng ngày 26/8/2026](Default.aspx?tabid=292&newsid=17545)
-
 ## Student Information
+
+• **18/09/2026**: [Thông báo kết quả chính thức HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
 
 • **17/09/2026**: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2025-2026 (CT Chuẩn) và HK3/2025-2026 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2025-2026-ct-chuan-va-hk3-2025-2026-ct-de-an/)
 
@@ -139,8 +141,6 @@
 • **07/09/2026**: [HƯỚNG DẪN ĐĂNG KÝ HỌC PHẦN DÀNH TÂN CHO SINH VIÊN](https://hcmus.edu.vn/huong-dan-dang-ky-hoc-phan-danh-tan-cho-sinh-vien/)
 
 • **04/09/2026**: [Kế hoạch triển khai công tác chuẩn bị cho hoạt động giảng dạy – học tập HK1/2026-2027 đối với Tân sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/ke-hoach-trien-khai-cong-tac-chuan-bi-cho-hoat-dong-giang-day-hoc-tap-hk1-2026-2027-doi-voi-tan-sinh-vien-chuong-trinh-dai-tra-va-tai-nang/)
-
-• **03/09/2026**: [Thông báo kết quả kiểm tra Anh văn đầu khóa đối với Tân sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-anh-van-dau-khoa-doi-voi-tan-sinh-vien/)
 
 ## Exam Announcements
 
