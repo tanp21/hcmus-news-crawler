@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-21 at 11:42 +07***
+*Last updated: **2026-09-21 at 17:29 +07***
 
 ---
 
@@ -100,6 +100,14 @@
 
 ## FIT
 
+• **21-9-2026**: [Thông báo lịch cố vấn học tập học kỳ 1, năm học 2026-2027](Default.aspx?tabid=292&newsid=17565)
+
+• **21-9-2026**: [Chúc mừng nhóm Sinh viên Cử nhân tài năng và Trí tuệ nhân tạo của FIT@HCMUS đã có các công bố trên Hội nghị uy tín quốc tế rank A](Default.aspx?tabid=292&newsid=17564)
+
+• **21-9-2026**: [Đăng ký tham quan công ty AXON ngày 1/10](Default.aspx?tabid=292&newsid=17563)
+
+• **21-9-2026**: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 8/10](Default.aspx?tabid=292&newsid=17562)
+
 • **18-9-2026**: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học tự nhiên năm 2026](Default.aspx?tabid=292&newsid=17560)
 
 • **18-9-2026**: [Chúc mừng nhóm Sinh viên Cử nhân tài năng của FIT@HCMUS đã có các công bố tại Tạp chí uy tín quốc tế Q1](Default.aspx?tabid=292&newsid=17558)
@@ -111,14 +119,6 @@
 • **16-9-2026**: [Chúc mừng Sinh viên Trí tuệ nhân tạo của #FITHCMUS công bố bài báo trên Hội nghị uy tín quốc tế rank A*](Default.aspx?tabid=292&newsid=17555)
 
 • **15-9-2026**: [Thông báo đăng ký tham dự ICPC-HCMUS 2026](Default.aspx?tabid=292&newsid=17554)
-
-• **13-9-2026**: [[CQ] TKB lý thuyết có phòng học kỳ 1, năm học 2026-2027](Default.aspx?tabid=292&newsid=17553)
-
-• **13-9-2026**: [[CQ] Danh sách lớp HK1/26-27 nghỉ học tuần 14/9/2026](Default.aspx?tabid=292&newsid=17551)
-
-• **8-9-2026**: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2023- Đợt 1 (bảo vệ tháng 3/2027)](Default.aspx?tabid=292&newsid=17550)
-
-• **4-9-2026**: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2026](Default.aspx?tabid=292&newsid=17548)
 
 ## Student Information
 
