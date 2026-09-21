@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-21 at 17:29 +07***
+*Last updated: **2026-09-21 at 23:51 +07***
 
 ---
 
@@ -56,6 +56,8 @@
 
 ### Student Support
 
+• **21/09/2026**: [Hướng dẫn truy cập email fitus dành cho sinh viên Chương trình đào tạo theo Đề án – khóa 2026](https://www.ctda.hcmus.edu.vn/vi/2026/09/huong-dan-truy-cap-email-fitus-danh-cho-sinh-vien-chuong-trinh-dao-tao-theo-de-an-khoa-2026/)
+
 • **04/12/2025**: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://www.ctda.hcmus.edu.vn/vi/2025/12/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
 
 • **18/09/2025**: [Thông báo danh sách khảo sát trình độ tiếng Anh khoá 2025 – CTDA](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-danh-sach-khao-sat-trinh-do-tieng-anh-khoa-2025-ctda/)
@@ -73,8 +75,6 @@
 • **23/09/2024**: [[TLSV]_Thông báo lịch cố vấn học tập học kỳ 1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/09/tlsv_thong-bao-lich-co-van-hoc-tap-hoc-ky-1-2024-2025/)
 
 • **13/09/2024**: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
-
-• **07/09/2024**: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
 
 ### Accounting & Finance
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **21-9-2026**: [THƯ NGỎ QUỸ HỌC BỔNG CỰU SINH VIÊN KHOA CÔNG NGHỆ THÔNG TIN NĂM HỌC 2026 - 2027](Default.aspx?tabid=292&newsid=17566)
+
 • **21-9-2026**: [Thông báo lịch cố vấn học tập học kỳ 1, năm học 2026-2027](Default.aspx?tabid=292&newsid=17565)
 
 • **21-9-2026**: [Chúc mừng nhóm Sinh viên Cử nhân tài năng và Trí tuệ nhân tạo của FIT@HCMUS đã có các công bố trên Hội nghị uy tín quốc tế rank A](Default.aspx?tabid=292&newsid=17564)
@@ -117,8 +119,6 @@
 • **16-9-2026**: [82 Tân sinh viên Khoa Công nghệ thông tin nhận Học bổng Tinh hoa khoa học năm 2026](Default.aspx?tabid=292&newsid=17556)
 
 • **16-9-2026**: [Chúc mừng Sinh viên Trí tuệ nhân tạo của #FITHCMUS công bố bài báo trên Hội nghị uy tín quốc tế rank A*](Default.aspx?tabid=292&newsid=17555)
-
-• **15-9-2026**: [Thông báo đăng ký tham dự ICPC-HCMUS 2026](Default.aspx?tabid=292&newsid=17554)
 
 ## Student Information
 
