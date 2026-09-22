@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-22 at 11:04 +07***
+*Last updated: **2026-09-22 at 16:41 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **22-9-2026**: [Danh sách tham quan công ty AXON ngày 1/10](Default.aspx?tabid=292&newsid=17567)
+
 • **21-9-2026**: [THƯ NGỎ QUỸ HỌC BỔNG CỰU SINH VIÊN KHOA CÔNG NGHỆ THÔNG TIN NĂM HỌC 2026 - 2027](Default.aspx?tabid=292&newsid=17566)
 
 • **21-9-2026**: [Thông báo lịch cố vấn học tập học kỳ 1, năm học 2026-2027](Default.aspx?tabid=292&newsid=17565)
@@ -118,9 +120,9 @@
 
 • **16-9-2026**: [82 Tân sinh viên Khoa Công nghệ thông tin nhận Học bổng Tinh hoa khoa học năm 2026](Default.aspx?tabid=292&newsid=17556)
 
-• **16-9-2026**: [Chúc mừng Sinh viên Trí tuệ nhân tạo của #FITHCMUS công bố bài báo trên Hội nghị uy tín quốc tế rank A*](Default.aspx?tabid=292&newsid=17555)
-
 ## Student Information
+
+• **22/09/2026**: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
 
 • **22/09/2026**: [Thư mời đăng ký tham dự Chương trình InnovaConnect năm 2026, với chủ đề “Catalyzing Innovation in Chemistry and Drug Discovery” 01/10/2026](https://hcmus.edu.vn/thu-moi-dang-ky-tham-du-chuong-trinh-innovaconnect-nam-2026-voi-chu-de-catalyzing-innovation-in-chemistry-and-drug-discovery-01-10-2026/)
 
@@ -139,8 +141,6 @@
 • **09/09/2026**: [Khảo sát mức độ sẵn sàng của tân sinh viên đối với ngành học, trường học và kênh tư vấn hướng nghiệp – tuyển sinh năm 2026](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2026/)
 
 • **08/09/2026**: [Thông báo nghỉ học sáng thứ Hai ngày 14/9 đối với sinh viên Khóa 2026 để dự Lễ chào mừng năm học mới](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-hai-ngay-14-9-doi-voi-sinh-vien-khoa-2026-de-du-le-chao-mung-nam-hoc-moi/)
-
-• **07/09/2026**: [HƯỚNG DẪN ĐĂNG KÝ HỌC PHẦN DÀNH TÂN CHO SINH VIÊN](https://hcmus.edu.vn/huong-dan-dang-ky-hoc-phan-danh-tan-cho-sinh-vien/)
 
 ## Exam Announcements
 
