@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-23 at 07:08 +07***
+*Last updated: **2026-09-23 at 12:38 +07***
 
 ---
 
@@ -100,6 +100,12 @@
 
 ## FIT
 
+• **23-9-2026**: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 9/10](Default.aspx?tabid=292&newsid=17571)
+
+• **23-9-2026**: [Mời tham dự buổi bảo vệ đề tài tốt nghiệp thạc sĩ đợt tháng 9, 10/2026](Default.aspx?tabid=292&newsid=17572)
+
+• **23-9-2026**: [Chúc mừng nhóm Sinh viên chương trình Chính quy của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với các công bố trên Hội nghị uy tín quốc tế rank B](Default.aspx?tabid=292&newsid=17570)
+
 • **22-9-2026**: [Danh sách tham quan công ty AXON ngày 1/10](Default.aspx?tabid=292&newsid=17567)
 
 • **21-9-2026**: [THƯ NGỎ QUỸ HỌC BỔNG CỰU SINH VIÊN KHOA CÔNG NGHỆ THÔNG TIN NĂM HỌC 2026 - 2027](Default.aspx?tabid=292&newsid=17566)
@@ -113,12 +119,6 @@
 • **21-9-2026**: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 8/10](Default.aspx?tabid=292&newsid=17562)
 
 • **18-9-2026**: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học tự nhiên năm 2026](Default.aspx?tabid=292&newsid=17560)
-
-• **18-9-2026**: [Chúc mừng nhóm Sinh viên Cử nhân tài năng của FIT@HCMUS đã có các công bố tại Tạp chí uy tín quốc tế Q1](Default.aspx?tabid=292&newsid=17558)
-
-• **18-9-2026**: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 8/10](Default.aspx?tabid=292&newsid=17557)
-
-• **16-9-2026**: [82 Tân sinh viên Khoa Công nghệ thông tin nhận Học bổng Tinh hoa khoa học năm 2026](Default.aspx?tabid=292&newsid=17556)
 
 ## Student Information
 
