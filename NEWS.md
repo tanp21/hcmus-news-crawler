@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-24 at 06:28 +07***
+*Last updated: **2026-09-24 at 10:52 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **24-9-2026**: [Đăng ký tham quan TMA Tech Group ngày 14/10](Default.aspx?tabid=292&newsid=17574)
+
 • **23-9-2026**: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 9/10](Default.aspx?tabid=292&newsid=17571)
 
 • **23-9-2026**: [Mời tham dự buổi bảo vệ đề tài tốt nghiệp thạc sĩ đợt tháng 9, 10/2026](Default.aspx?tabid=292&newsid=17572)
@@ -117,8 +119,6 @@
 • **21-9-2026**: [Đăng ký tham quan công ty AXON ngày 1/10](Default.aspx?tabid=292&newsid=17563)
 
 • **21-9-2026**: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 8/10](Default.aspx?tabid=292&newsid=17562)
-
-• **18-9-2026**: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học tự nhiên năm 2026](Default.aspx?tabid=292&newsid=17560)
 
 ## Student Information
 
