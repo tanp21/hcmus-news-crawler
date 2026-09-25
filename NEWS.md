@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-25 at 14:20 +07***
+*Last updated: **2026-09-25 at 20:24 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **25-9-2026**: [Chúc mừng nhóm Sinh viên Chương trình Trí tuệ nhân tạo của FIT@HCMUS đã có các công bố được chấp nhận đăng trên Hội nghị uy tín quốc tế rank A* xếp hạng #1 trong lĩnh vực Trí tuệ nhân tạo 2026](Default.aspx?tabid=292&newsid=17576)
+
 • **24-9-2026**: [[CQ] TKB lý thuyết và thực hành chính thức HK1/26-27](Default.aspx?tabid=292&newsid=17575)
 
 • **24-9-2026**: [Đăng ký tham quan TMA Tech Group ngày 14/10](Default.aspx?tabid=292&newsid=17574)
@@ -117,8 +119,6 @@
 • **21-9-2026**: [Thông báo lịch cố vấn học tập học kỳ 1, năm học 2026-2027](Default.aspx?tabid=292&newsid=17565)
 
 • **21-9-2026**: [Chúc mừng nhóm Sinh viên Cử nhân tài năng và Trí tuệ nhân tạo của FIT@HCMUS đã có các công bố trên Hội nghị uy tín quốc tế rank A](Default.aspx?tabid=292&newsid=17564)
-
-• **21-9-2026**: [Đăng ký tham quan công ty AXON ngày 1/10](Default.aspx?tabid=292&newsid=17563)
 
 ## Student Information
 
