@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-25 at 08:15 +07***
+*Last updated: **2026-09-25 at 14:20 +07***
 
 ---
 
@@ -34,6 +34,8 @@
 
 ### Academic Affairs
 
+• **25/09/2026**: [Thông báo phúc khảo HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/09/thong-bao-phuc-khao-hk3-2526/)
+
 • **15/09/2026**: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
 
 • **08/09/2026**: [[CTĐA] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-thong-bao-nop-don-dang-ky-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-thang-04-2027/)
@@ -51,8 +53,6 @@
 • **24/07/2026**: [[CLC/TCTA] – Thông báo đăng ký nguyện vọng chuyên ngành năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/clc-tcta-thong-bao-dang-ky-nguyen-vong-chuyen-nganh-nam-hoc-2025-2026/)
 
 • **17/07/2026**: [Thông báo SV đánh giá môn học – GV HK3/2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-sv-danh-gia-mon-hoc-gv-hk3-2025-2026/)
-
-• **13/07/2026**: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt tháng 8/2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-nop-don-dang-ky-bao-ve-huy-bao-ve-de-tai-tot-nghiep-khoa-2022-dot-thang-8-2026/)
 
 ### Student Support
 
