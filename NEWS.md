@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-28 at 13:27 +07***
+*Last updated: **2026-09-28 at 22:06 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **28-9-2026**: [[SĐH] Kế hoạch bảo vệ đề tài tốt nghiệp dành cho học viên cao học đợt tháng 12/2026](Default.aspx?tabid=292&newsid=17580)
+
 • **28-9-2026**: [Chúc mừng nhóm Sinh viên Chương trình Chất lượng cao của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với công bố trên Hội nghị uy tín quốc tế](Default.aspx?tabid=292&newsid=17579)
 
 • **28-9-2026**: [Chúc mừng nhóm Sinh viên Chương trình Tiên tiến của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với công bố trên Hội nghị uy tín quốc tế rank B](Default.aspx?tabid=292&newsid=17578)
@@ -117,8 +119,6 @@
 • **23-9-2026**: [Mời tham dự buổi bảo vệ đề tài tốt nghiệp thạc sĩ đợt tháng 9, 10/2026](Default.aspx?tabid=292&newsid=17572)
 
 • **23-9-2026**: [Chúc mừng nhóm Sinh viên chương trình Chính quy của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với các công bố trên Hội nghị uy tín quốc tế rank B](Default.aspx?tabid=292&newsid=17570)
-
-• **22-9-2026**: [Danh sách tham quan công ty AXON ngày 1/10](Default.aspx?tabid=292&newsid=17567)
 
 ## Student Information
 
