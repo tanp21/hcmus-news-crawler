@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-28 at 07:24 +07***
+*Last updated: **2026-09-28 at 13:27 +07***
 
 ---
 
@@ -34,6 +34,8 @@
 
 ### Academic Affairs
 
+• **28/09/2026**: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-04-2027/)
+
 • **25/09/2026**: [Thông báo phúc khảo HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/09/thong-bao-phuc-khao-hk3-2526/)
 
 • **15/09/2026**: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -51,8 +53,6 @@
 • **31/07/2026**: [Thông báo đăng ký đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp trên hệ thống Khoa đợt tháng 04/2027](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-dang-ky-de-tai-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-tren-he-thong-khoa-dot-thang-04-2027/)
 
 • **24/07/2026**: [[CLC/TCTA] – Thông báo đăng ký nguyện vọng chuyên ngành năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/clc-tcta-thong-bao-dang-ky-nguyen-vong-chuyen-nganh-nam-hoc-2025-2026/)
-
-• **17/07/2026**: [Thông báo SV đánh giá môn học – GV HK3/2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-sv-danh-gia-mon-hoc-gv-hk3-2025-2026/)
 
 ### Student Support
 
@@ -100,6 +100,12 @@
 
 ## FIT
 
+• **28-9-2026**: [Chúc mừng nhóm Sinh viên Chương trình Chất lượng cao của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với công bố trên Hội nghị uy tín quốc tế](Default.aspx?tabid=292&newsid=17579)
+
+• **28-9-2026**: [Chúc mừng nhóm Sinh viên Chương trình Tiên tiến của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với công bố trên Hội nghị uy tín quốc tế rank B](Default.aspx?tabid=292&newsid=17578)
+
+• **28-9-2026**: [Danh sách sinh viên tham quan công ty Axon Active Việt Nam ngày 9/10](Default.aspx?tabid=292&newsid=17577)
+
 • **25-9-2026**: [Chúc mừng nhóm Sinh viên Chương trình Trí tuệ nhân tạo của FIT@HCMUS đã có các công bố được chấp nhận đăng trên Hội nghị uy tín quốc tế rank A* xếp hạng #1 trong lĩnh vực Trí tuệ nhân tạo 2026](Default.aspx?tabid=292&newsid=17576)
 
 • **24-9-2026**: [[CQ] TKB lý thuyết và thực hành chính thức HK1/26-27](Default.aspx?tabid=292&newsid=17575)
@@ -113,12 +119,6 @@
 • **23-9-2026**: [Chúc mừng nhóm Sinh viên chương trình Chính quy của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với các công bố trên Hội nghị uy tín quốc tế rank B](Default.aspx?tabid=292&newsid=17570)
 
 • **22-9-2026**: [Danh sách tham quan công ty AXON ngày 1/10](Default.aspx?tabid=292&newsid=17567)
-
-• **21-9-2026**: [THƯ NGỎ QUỸ HỌC BỔNG CỰU SINH VIÊN KHOA CÔNG NGHỆ THÔNG TIN NĂM HỌC 2026 - 2027](Default.aspx?tabid=292&newsid=17566)
-
-• **21-9-2026**: [Thông báo lịch cố vấn học tập học kỳ 1, năm học 2026-2027](Default.aspx?tabid=292&newsid=17565)
-
-• **21-9-2026**: [Chúc mừng nhóm Sinh viên Cử nhân tài năng và Trí tuệ nhân tạo của FIT@HCMUS đã có các công bố trên Hội nghị uy tín quốc tế rank A](Default.aspx?tabid=292&newsid=17564)
 
 ## Student Information
 
