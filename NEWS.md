@@ -1,146 +1,27 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-29 at 04:40 +07***
+*Last updated: **2026-09-29 at 08:42 +07***
 
 ---
 
 ## ⚠️ Errors
 
+• APCS: Failed to load APCS news
+• FIT: Failed to load FIT news
+• Student Information: Failed to load HCMUS news
 • Exam Announcements: Failed to load exam announcements
 
 ## APCS
 
-### Academic Planning
-
-• **15/09/2026**: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
-
-• **29/07/2026**: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
-
-• **16/06/2026**: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
-
-• **19/09/2025**: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
-
-• **13/08/2025**: [[CTĐA] Kế hoạch năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda-ke-hoach-nam-hoc-2025-2026/)
-
-• **30/05/2025**: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2025-2026/)
-
-• **19/09/2024**: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
-
-• **21/08/2024**: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
-
-• **17/06/2024**: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
-
-• **22/09/2023**: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
-
-### Academic Affairs
-
-• **28/09/2026**: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-04-2027/)
-
-• **25/09/2026**: [Thông báo phúc khảo HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/09/thong-bao-phuc-khao-hk3-2526/)
-
-• **15/09/2026**: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
-
-• **08/09/2026**: [[CTĐA] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-thong-bao-nop-don-dang-ky-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-thang-04-2027/)
-
-• **08/09/2026**: [[CTĐA] Thông báo nộp file đề tài tốt nghiệp KLTN/ TTTN SAU bảo vệ khóa 2022 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-thong-bao-nop-file-de-tai-tot-nghiep-sau-bao-ve-khoa-2022-dot-1-bao-ve-thang-08-2026/)
-
-• **22/08/2026**: [[CTĐA] Thông báo nộp file đề tài tốt nghiệp TTDATN SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-thong-bao-nop-file-de-tai-tot-nghiep-ttdatn-sau-bao-ve-khoa-2022-dot-1-bao-ve-thang-08-2026/)
-
-• **21/08/2026**: [[CTĐA] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (đợt bảo vệ 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-dang-ky-nguyen-vong-ho-tro-de-tai-tot-nghiep-dot-bao-ve-04-2027/)
-
-• **19/08/2026**: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-lich-thi-chi-tiet-cuoi-ky-hk3-2526/)
-
-• **31/07/2026**: [Thông báo đăng ký đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp trên hệ thống Khoa đợt tháng 04/2027](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-dang-ky-de-tai-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-tren-he-thong-khoa-dot-thang-04-2027/)
-
-• **24/07/2026**: [[CLC/TCTA] – Thông báo đăng ký nguyện vọng chuyên ngành năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/clc-tcta-thong-bao-dang-ky-nguyen-vong-chuyen-nganh-nam-hoc-2025-2026/)
-
-### Student Support
-
-• **21/09/2026**: [Hướng dẫn truy cập email fitus dành cho sinh viên Chương trình đào tạo theo Đề án – khóa 2026](https://www.ctda.hcmus.edu.vn/vi/2026/09/huong-dan-truy-cap-email-fitus-danh-cho-sinh-vien-chuong-trinh-dao-tao-theo-de-an-khoa-2026/)
-
-• **04/12/2025**: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://www.ctda.hcmus.edu.vn/vi/2025/12/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
-
-• **18/09/2025**: [Thông báo danh sách khảo sát trình độ tiếng Anh khoá 2025 – CTDA](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-danh-sach-khao-sat-trinh-do-tieng-anh-khoa-2025-ctda/)
-
-• **13/09/2025**: [Thông báo về việc cấp email đối với sinh viên chương trình đề án khoa Công nghệ thông tin khóa 2025](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ve-viec-cap-email-doi-voi-sinh-vien-chuong-trinh-de-an-khoa-cong-nghe-thong-tin-khoa-2025/)
-
-• **22/05/2025**: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2024 – 2025 (cập nhật)](https://www.ctda.hcmus.edu.vn/vi/2025/05/danh-sach-sinh-vien-da-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2024-2025-cap-nhat/)
-
-• **28/04/2025**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/04/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk1-2024-2025/)
-
-• **24/02/2025**: [Thông báo lịch trực Cố vấn học tập học kỳ 2/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/02/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-2-2024-2025/)
-
-• **27/11/2024**: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
-
-• **23/09/2024**: [[TLSV]_Thông báo lịch cố vấn học tập học kỳ 1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/09/tlsv_thong-bao-lich-co-van-hoc-tap-hoc-ky-1-2024-2025/)
-
-• **13/09/2024**: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
-
-### Accounting & Finance
-
-• **14/05/2026**: [CTĐA – Hỗ trợ về nghiên cứu khoa học 2026](https://www.ctda.hcmus.edu.vn/vi/2026/05/ctda-ho-tro-ve-nghien-cuu-khoa-hoc-2026/)
-
-• **07/11/2025**: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/11/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2025-2026/)
-
-• **21/02/2025**: [Thông báo về quy định đóng học phí học kỳ 2 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/02/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-2-nam-hoc-2024-2025/)
-
-• **16/10/2024**: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
-
-• **31/05/2024**: [Thông báo về quy định đóng học phí học kỳ 3 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-3-nam-hoc-2023-2024/)
-
-• **31/01/2024**: [Thông báo về quy định đóng học phí học kỳ 2 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/01/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-2-nam-hoc-2023-2024/)
-
-• **23/11/2023**: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2023-2024/)
-
-• **07/11/2023**: [Thông báo học phí học kỳ 1 năm học 2023-2024 và Quy định thời gian gia hạn nộp học phí](https://www.ctda.hcmus.edu.vn/vi/2023/11/thong-bao-hoc-phi-hoc-ky-1-nam-hoc-2023-2024-va-quy-dinh-thoi-gian-gia-han-nop-hoc-phi/)
-
-• **29/10/2021**: [CTĐA – Về việc gia hạn học phí](https://www.ctda.hcmus.edu.vn/vi/2021/10/ctda-ve-viec-gia-han-hoc-phi/)
-
-• **06/09/2021**: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
+*Failed to load APCS news*
 
 ## FIT
 
-• **28-9-2026**: [[SĐH] Kế hoạch bảo vệ đề tài tốt nghiệp dành cho học viên cao học đợt tháng 12/2026](Default.aspx?tabid=292&newsid=17580)
-
-• **28-9-2026**: [Chúc mừng nhóm Sinh viên Chương trình Chất lượng cao của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với công bố trên Hội nghị uy tín quốc tế](Default.aspx?tabid=292&newsid=17579)
-
-• **28-9-2026**: [Chúc mừng nhóm Sinh viên Chương trình Tiên tiến của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với công bố trên Hội nghị uy tín quốc tế rank B](Default.aspx?tabid=292&newsid=17578)
-
-• **28-9-2026**: [Danh sách sinh viên tham quan công ty Axon Active Việt Nam ngày 9/10](Default.aspx?tabid=292&newsid=17577)
-
-• **25-9-2026**: [Chúc mừng nhóm Sinh viên Chương trình Trí tuệ nhân tạo của FIT@HCMUS đã có các công bố được chấp nhận đăng trên Hội nghị uy tín quốc tế rank A* xếp hạng #1 trong lĩnh vực Trí tuệ nhân tạo 2026](Default.aspx?tabid=292&newsid=17576)
-
-• **24-9-2026**: [[CQ] TKB lý thuyết và thực hành chính thức HK1/26-27](Default.aspx?tabid=292&newsid=17575)
-
-• **24-9-2026**: [Đăng ký tham quan TMA Tech Group ngày 14/10](Default.aspx?tabid=292&newsid=17574)
-
-• **23-9-2026**: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 9/10](Default.aspx?tabid=292&newsid=17571)
-
-• **23-9-2026**: [Mời tham dự buổi bảo vệ đề tài tốt nghiệp thạc sĩ đợt tháng 9, 10/2026](Default.aspx?tabid=292&newsid=17572)
-
-• **23-9-2026**: [Chúc mừng nhóm Sinh viên chương trình Chính quy của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với các công bố trên Hội nghị uy tín quốc tế rank B](Default.aspx?tabid=292&newsid=17570)
+*Failed to load FIT news*
 
 ## Student Information
 
-• **22/09/2026**: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
-
-• **22/09/2026**: [Thư mời đăng ký tham dự Chương trình InnovaConnect năm 2026, với chủ đề “Catalyzing Innovation in Chemistry and Drug Discovery” 01/10/2026](https://hcmus.edu.vn/thu-moi-dang-ky-tham-du-chuong-trinh-innovaconnect-nam-2026-voi-chu-de-catalyzing-innovation-in-chemistry-and-drug-discovery-01-10-2026/)
-
-• **18/09/2026**: [Thông báo kết quả chính thức HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
-
-• **17/09/2026**: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2025-2026 (CT Chuẩn) và HK3/2025-2026 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2025-2026-ct-chuan-va-hk3-2025-2026-ct-de-an/)
-
-• **14/09/2026**: [SINH HOẠT CÔNG DÂN ĐẦU KHÓA 2026](https://hcmus.edu.vn/sinh-hoat-cong-dan-dau-khoa-2026/)
-
-• **13/09/2026**: [Thời khóa biểu chính thức môn giai đoạn đại cương, chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-giai-doan-dai-cuong-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
-
-• **13/09/2026**: [Thông tin kế hoạch học thực tập môn Hóa đại cương 1 và 2, HK1/2026-2027, chương trình đại trà và tài năng](https://hcmus.edu.vn/thong-tin-ke-hoach-hoc-tap-mon-hoa-dai-cuong-1-va-2-hk1-2026-2027/)
-
-• **13/09/2026**: [Thời khóa biểu chính thức môn THỂ DỤC 1 khóa tuyển 2026 chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-the-duc-1-khoa-tuyen-2026-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
-
-• **09/09/2026**: [Khảo sát mức độ sẵn sàng của tân sinh viên đối với ngành học, trường học và kênh tư vấn hướng nghiệp – tuyển sinh năm 2026](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2026/)
-
-• **08/09/2026**: [Thông báo nghỉ học sáng thứ Hai ngày 14/9 đối với sinh viên Khóa 2026 để dự Lễ chào mừng năm học mới](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-hai-ngay-14-9-doi-voi-sinh-vien-khoa-2026-de-du-le-chao-mung-nam-hoc-moi/)
+*Failed to load HCMUS news*
 
 ## Exam Announcements
 
