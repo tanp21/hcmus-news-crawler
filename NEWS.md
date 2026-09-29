@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-09-29 at 15:05 +07***
+*Last updated: **2026-09-29 at 22:30 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **29-9-2026**: [Danh sách sinh viên tham quan TMA Tech Group ngày 14/10](Default.aspx?tabid=292&newsid=17583)
+
 • **29-9-2026**: [Đăng ký tham quan công ty Netcompany ngày 23/10](Default.aspx?tabid=292&newsid=17582)
 
 • **29-9-2026**: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2023-đợt 1 (bảo vệ T3/2027)](Default.aspx?tabid=292&newsid=17581)
@@ -117,8 +119,6 @@
 • **24-9-2026**: [[CQ] TKB lý thuyết và thực hành chính thức HK1/26-27](Default.aspx?tabid=292&newsid=17575)
 
 • **24-9-2026**: [Đăng ký tham quan TMA Tech Group ngày 14/10](Default.aspx?tabid=292&newsid=17574)
-
-• **23-9-2026**: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 9/10](Default.aspx?tabid=292&newsid=17571)
 
 ## Student Information
 
