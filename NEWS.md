@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-02 at 08:24 +07***
+*Last updated: **2026-10-02 at 15:08 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **2-10-2026**: [Danh sách sinh viên tham quan công ty Netcompany ngày 23/10](Default.aspx?tabid=292&newsid=17588)
+
 • **1-10-2026**: [Thông báo về việc tổ chức Chuỗi Hội thảo kỹ năng - Công nghệ năm 2026 (Chương trình Cử nhân tài năng và ngành Trí tuệ nhân tạo)](Default.aspx?tabid=292&newsid=17586)
 
 • **30-9-2026**: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế nằm trong Top 20 các công bố khoa học hàng đầu thế giới của nhóm ngành Computer Vision & Pattern Recognition](Default.aspx?tabid=292&newsid=17585)
@@ -117,8 +119,6 @@
 • **28-9-2026**: [Chúc mừng nhóm Sinh viên Chương trình Chất lượng cao của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với công bố trên Hội nghị uy tín quốc tế](Default.aspx?tabid=292&newsid=17579)
 
 • **28-9-2026**: [Chúc mừng nhóm Sinh viên Chương trình Tiên tiến của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với công bố trên Hội nghị uy tín quốc tế rank B](Default.aspx?tabid=292&newsid=17578)
-
-• **28-9-2026**: [Danh sách sinh viên tham quan công ty Axon Active Việt Nam ngày 9/10](Default.aspx?tabid=292&newsid=17577)
 
 ## Student Information
 
