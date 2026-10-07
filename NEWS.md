@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-07 at 13:59 +07***
+*Last updated: **2026-10-07 at 21:25 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **7-10-2026**: [Đăng ký tham quan công ty Bosch ngày 3/11](Default.aspx?tabid=292&newsid=17596)
+
 • **7-10-2026**: [Danh sách sinh viên tham dự SAP Open House](Default.aspx?tabid=292&newsid=17595)
 
 • **5-10-2026**: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9-10/2026](Default.aspx?tabid=292&newsid=17591)
@@ -117,8 +119,6 @@
 • **30-9-2026**: [V/v thực hiện khảo sát các môn mở trong Học phần 4 - lớp cao học Khóa 35/2025](Default.aspx?tabid=292&newsid=17584)
 
 • **29-9-2026**: [Danh sách sinh viên tham quan TMA Tech Group ngày 14/10](Default.aspx?tabid=292&newsid=17583)
-
-• **29-9-2026**: [Đăng ký tham quan công ty Netcompany ngày 23/10](Default.aspx?tabid=292&newsid=17582)
 
 ## Student Information
 
