@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-07 at 07:29 +07***
+*Last updated: **2026-10-07 at 13:59 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **7-10-2026**: [Danh sách sinh viên tham dự SAP Open House](Default.aspx?tabid=292&newsid=17595)
+
 • **5-10-2026**: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9-10/2026](Default.aspx?tabid=292&newsid=17591)
 
 • **3-10-2026**: [Đăng ký đội thi Olympic AI HCMUS 2026](Default.aspx?tabid=292&newsid=17590)
@@ -117,8 +119,6 @@
 • **29-9-2026**: [Danh sách sinh viên tham quan TMA Tech Group ngày 14/10](Default.aspx?tabid=292&newsid=17583)
 
 • **29-9-2026**: [Đăng ký tham quan công ty Netcompany ngày 23/10](Default.aspx?tabid=292&newsid=17582)
-
-• **29-9-2026**: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2023-đợt 1 (bảo vệ T3/2027)](Default.aspx?tabid=292&newsid=17581)
 
 ## Student Information
 
