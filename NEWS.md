@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-09 at 04:09 +07***
+*Last updated: **2026-10-09 at 08:49 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **9-10-2026**: [Chương trình thực tập quốc tế - Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2027](Default.aspx?tabid=292&newsid=17600)
+
 • **7-10-2026**: [Đăng ký tham quan công ty Bosch ngày 3/11](Default.aspx?tabid=292&newsid=17596)
 
 • **7-10-2026**: [Danh sách sinh viên tham dự SAP Open House](Default.aspx?tabid=292&newsid=17595)
@@ -117,8 +119,6 @@
 • **30-9-2026**: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế nằm trong Top 20 các công bố khoa học hàng đầu thế giới của nhóm ngành Computer Vision & Pattern Recognition](Default.aspx?tabid=292&newsid=17585)
 
 • **30-9-2026**: [V/v thực hiện khảo sát các môn mở trong Học phần 4 - lớp cao học Khóa 35/2025](Default.aspx?tabid=292&newsid=17584)
-
-• **29-9-2026**: [Danh sách sinh viên tham quan TMA Tech Group ngày 14/10](Default.aspx?tabid=292&newsid=17583)
 
 ## Student Information
 
