@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-12 at 14:04 +07***
+*Last updated: **2026-10-13 at 00:32 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **12-10-2026**: [Danh sách sinh viên tham quan công ty Bosch ngày 3/11](Default.aspx?tabid=292&newsid=17603)
+
 • **9-10-2026**: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế uy tín rank B và nhận được giải thưởng Women in Technology & Innovation Award (WITI) từ Australia-Vietnam Strategic Technology Centre (AVSTC)](Default.aspx?tabid=292&newsid=17602)
 
 • **9-10-2026**: [Chương trình thực tập quốc tế - Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2027](Default.aspx?tabid=292&newsid=17600)
@@ -117,8 +119,6 @@
 • **2-10-2026**: [Danh sách sinh viên tham quan công ty Netcompany ngày 23/10](Default.aspx?tabid=292&newsid=17588)
 
 • **1-10-2026**: [Thông báo về việc tổ chức Chuỗi Hội thảo kỹ năng - Công nghệ năm 2026 (Chương trình Cử nhân tài năng và ngành Trí tuệ nhân tạo)](Default.aspx?tabid=292&newsid=17586)
-
-• **30-9-2026**: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế nằm trong Top 20 các công bố khoa học hàng đầu thế giới của nhóm ngành Computer Vision & Pattern Recognition](Default.aspx?tabid=292&newsid=17585)
 
 ## Student Information
 
