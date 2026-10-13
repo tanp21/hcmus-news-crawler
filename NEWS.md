@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-13 at 07:20 +07***
+*Last updated: **2026-10-13 at 14:28 +07***
 
 ---
 
@@ -100,6 +100,12 @@
 
 ## FIT
 
+• **13-10-2026**: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Nguyễn Ngọc Trung (9g00, 17/10/2026, Phòng I23)](Default.aspx?tabid=292&newsid=17606)
+
+• **13-10-2026**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 35/2025 (đợt tháng 10/2026)](Default.aspx?tabid=292&newsid=17605)
+
+• **13-10-2026**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 2 (tháng 10/2026)](Default.aspx?tabid=292&newsid=17604)
+
 • **12-10-2026**: [Danh sách sinh viên tham quan công ty Bosch ngày 3/11](Default.aspx?tabid=292&newsid=17603)
 
 • **9-10-2026**: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế uy tín rank B và nhận được giải thưởng Women in Technology & Innovation Award (WITI) từ Australia-Vietnam Strategic Technology Centre (AVSTC)](Default.aspx?tabid=292&newsid=17602)
@@ -113,12 +119,6 @@
 • **5-10-2026**: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9-10/2026](Default.aspx?tabid=292&newsid=17591)
 
 • **3-10-2026**: [Đăng ký đội thi Olympic AI HCMUS 2026](Default.aspx?tabid=292&newsid=17590)
-
-• **2-10-2026**: [Đăng ký tham gia SAP Open House](Default.aspx?tabid=292&newsid=17589)
-
-• **2-10-2026**: [Danh sách sinh viên tham quan công ty Netcompany ngày 23/10](Default.aspx?tabid=292&newsid=17588)
-
-• **1-10-2026**: [Thông báo về việc tổ chức Chuỗi Hội thảo kỹ năng - Công nghệ năm 2026 (Chương trình Cử nhân tài năng và ngành Trí tuệ nhân tạo)](Default.aspx?tabid=292&newsid=17586)
 
 ## Student Information
 
