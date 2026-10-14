@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-14 at 13:00 +07***
+*Last updated: **2026-10-14 at 18:41 +07***
 
 ---
 
@@ -100,6 +100,10 @@
 
 ## FIT
 
+• **14-10-2026**: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 10 năm 2026](Default.aspx?tabid=292&newsid=17611)
+
+• **14-10-2026**: [Khảo sát về chủ đề hội thảo sinh viên Khoa Công nhệ thông tin quan tâm](Default.aspx?tabid=292&newsid=17610)
+
 • **13-10-2026**: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Nguyễn Ngọc Trung (9g00, 17/10/2026, Phòng I23)](Default.aspx?tabid=292&newsid=17606)
 
 • **13-10-2026**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 35/2025 (đợt tháng 10/2026)](Default.aspx?tabid=292&newsid=17605)
@@ -115,10 +119,6 @@
 • **7-10-2026**: [Đăng ký tham quan công ty Bosch ngày 3/11](Default.aspx?tabid=292&newsid=17596)
 
 • **7-10-2026**: [Danh sách sinh viên tham dự SAP Open House](Default.aspx?tabid=292&newsid=17595)
-
-• **5-10-2026**: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9-10/2026](Default.aspx?tabid=292&newsid=17591)
-
-• **3-10-2026**: [Đăng ký đội thi Olympic AI HCMUS 2026](Default.aspx?tabid=292&newsid=17590)
 
 ## Student Information
 
