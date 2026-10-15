@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-15 at 16:00 +07***
+*Last updated: **2026-10-15 at 21:07 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **15-10-2026**: [Giới thiệu sách mới của Thư viện Khoa Công nghệ thông tin FIT.HCMUS](Default.aspx?tabid=292&newsid=17614)
+
 • **15-10-2026**: [Đăng ký tham quan công ty Fujinet Systems ngày 10/11](Default.aspx?tabid=292&newsid=17613)
 
 • **14-10-2026**: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 10 năm 2026](Default.aspx?tabid=292&newsid=17611)
@@ -117,8 +119,6 @@
 • **9-10-2026**: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế uy tín rank B và nhận được giải thưởng Women in Technology & Innovation Award (WITI) từ Australia-Vietnam Strategic Technology Centre (AVSTC)](Default.aspx?tabid=292&newsid=17602)
 
 • **9-10-2026**: [Chương trình thực tập quốc tế - Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2027](Default.aspx?tabid=292&newsid=17600)
-
-• **7-10-2026**: [Đăng ký tham quan công ty Bosch ngày 3/11](Default.aspx?tabid=292&newsid=17596)
 
 ## Student Information
 
