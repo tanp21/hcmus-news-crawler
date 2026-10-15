@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-15 at 10:51 +07***
+*Last updated: **2026-10-15 at 16:00 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **15-10-2026**: [Đăng ký tham quan công ty Fujinet Systems ngày 10/11](Default.aspx?tabid=292&newsid=17613)
+
 • **14-10-2026**: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 10 năm 2026](Default.aspx?tabid=292&newsid=17611)
 
 • **14-10-2026**: [Khảo sát về chủ đề hội thảo sinh viên Khoa Công nhệ thông tin quan tâm](Default.aspx?tabid=292&newsid=17610)
@@ -117,8 +119,6 @@
 • **9-10-2026**: [Chương trình thực tập quốc tế - Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2027](Default.aspx?tabid=292&newsid=17600)
 
 • **7-10-2026**: [Đăng ký tham quan công ty Bosch ngày 3/11](Default.aspx?tabid=292&newsid=17596)
-
-• **7-10-2026**: [Danh sách sinh viên tham dự SAP Open House](Default.aspx?tabid=292&newsid=17595)
 
 ## Student Information
 
