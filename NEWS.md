@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-16 at 13:51 +07***
+*Last updated: **2026-10-16 at 19:10 +07***
 
 ---
 
@@ -34,6 +34,8 @@
 
 ### Academic Affairs
 
+• **16/10/2026**: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp (bảo vệ 07-08/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-dot-2-nam-2026-bao-ve-07-08-2027/)
+
 • **28/09/2026**: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-04-2027/)
 
 • **25/09/2026**: [Thông báo phúc khảo HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/09/thong-bao-phuc-khao-hk3-2526/)
@@ -51,8 +53,6 @@
 • **19/08/2026**: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-lich-thi-chi-tiet-cuoi-ky-hk3-2526/)
 
 • **31/07/2026**: [Thông báo đăng ký đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp trên hệ thống Khoa đợt tháng 04/2027](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-dang-ky-de-tai-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-tren-he-thong-khoa-dot-thang-04-2027/)
-
-• **24/07/2026**: [[CLC/TCTA] – Thông báo đăng ký nguyện vọng chuyên ngành năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/clc-tcta-thong-bao-dang-ky-nguyen-vong-chuyen-nganh-nam-hoc-2025-2026/)
 
 ### Student Support
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **16-10-2026**: [Mời nộp bài và trình bày tại Tiểu ban Công nghệ Thông tin và Truyền thông, Hội nghị khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2026](Default.aspx?tabid=292&newsid=17617)
+
 • **16-10-2026**: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 07-08/2027](Default.aspx?tabid=292&newsid=17615)
 
 • **15-10-2026**: [Giới thiệu sách mới của Thư viện Khoa Công nghệ thông tin FIT.HCMUS](Default.aspx?tabid=292&newsid=17614)
@@ -117,8 +119,6 @@
 • **13-10-2026**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 2 (tháng 10/2026)](Default.aspx?tabid=292&newsid=17604)
 
 • **12-10-2026**: [Danh sách sinh viên tham quan công ty Bosch ngày 3/11](Default.aspx?tabid=292&newsid=17603)
-
-• **9-10-2026**: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế uy tín rank B và nhận được giải thưởng Women in Technology & Innovation Award (WITI) từ Australia-Vietnam Strategic Technology Centre (AVSTC)](Default.aspx?tabid=292&newsid=17602)
 
 ## Student Information
 
