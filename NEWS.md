@@ -1,11 +1,12 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-18 at 12:32 +07***
+*Last updated: **2026-10-18 at 17:38 +07***
 
 ---
 
 ## ⚠️ Errors
 
+• Student Information: Failed to load HCMUS news
 • Exam Announcements: Failed to load exam announcements
 
 ## APCS
@@ -122,25 +123,7 @@
 
 ## Student Information
 
-• **16/10/2026**: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/71537-2/)
-
-• **16/10/2026**: [Quy chế đào tạo trình độ đại học năm 2026](https://hcmus.edu.vn/quy-che-dao-tao-trinh-do-dai-hoc-nam-2026/)
-
-• **12/10/2026**: [QUY ĐỊNH CHI TIẾT MỘT SỐ NỘI DUNG VÀ BIỆN PHÁP TỔ CHỨC THỰC HIỆN CHÍNH SÁCH HỌC BỔNG ĐỐI VỚI NGƯỜI HỌC CÁC NGÀNH KHOA HỌC CƠ BẢN, KỸ THUẬT THEN CHỐT VÀ CÔNG NGHỆ CHIẾN LƯỢC](https://hcmus.edu.vn/quy-dinh-chi-tiet-mot-so-noi-dung-va-bien-phap-to-chuc-thuc-hien-chinh-sach-hoc-bong-doi-voi-nguoi-hoc-cac-nganh-khoa-hoc-co-ban-ky-thuat-then-chot-va-cong-nghe-chien-luoc/)
-
-• **22/09/2026**: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
-
-• **22/09/2026**: [Thư mời đăng ký tham dự Chương trình InnovaConnect năm 2026, với chủ đề “Catalyzing Innovation in Chemistry and Drug Discovery” 01/10/2026](https://hcmus.edu.vn/thu-moi-dang-ky-tham-du-chuong-trinh-innovaconnect-nam-2026-voi-chu-de-catalyzing-innovation-in-chemistry-and-drug-discovery-01-10-2026/)
-
-• **18/09/2026**: [Thông báo kết quả chính thức HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
-
-• **17/09/2026**: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2025-2026 (CT Chuẩn) và HK3/2025-2026 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2025-2026-ct-chuan-va-hk3-2025-2026-ct-de-an/)
-
-• **14/09/2026**: [SINH HOẠT CÔNG DÂN ĐẦU KHÓA 2026](https://hcmus.edu.vn/sinh-hoat-cong-dan-dau-khoa-2026/)
-
-• **13/09/2026**: [Thời khóa biểu chính thức môn giai đoạn đại cương, chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-giai-doan-dai-cuong-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
-
-• **13/09/2026**: [Thông tin kế hoạch học thực tập môn Hóa đại cương 1 và 2, HK1/2026-2027, chương trình đại trà và tài năng](https://hcmus.edu.vn/thong-tin-ke-hoach-hoc-tap-mon-hoa-dai-cuong-1-va-2-hk1-2026-2027/)
+*Failed to load HCMUS news*
 
 ## Exam Announcements
 
