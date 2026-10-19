@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-19 at 07:56 +07***
+*Last updated: **2026-10-19 at 12:54 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **19-10-2026**: [Sinh viên Khoa Công nghệ thông tin-FITHCMUS ghi dấu ấn tại AI Challenge 2026](Default.aspx?tabid=292&newsid=17619)
+
 • **16-10-2026**: [Mời nộp bài và trình bày tại Tiểu ban Công nghệ Thông tin và Truyền thông, Hội nghị khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2026](Default.aspx?tabid=292&newsid=17617)
 
 • **16-10-2026**: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 07-08/2027](Default.aspx?tabid=292&newsid=17615)
@@ -110,15 +112,13 @@
 
 • **14-10-2026**: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 10 năm 2026](Default.aspx?tabid=292&newsid=17611)
 
-• **14-10-2026**: [Khảo sát về chủ đề hội thảo sinh viên Khoa Công nhệ thông tin quan tâm](Default.aspx?tabid=292&newsid=17610)
+• **14-10-2026**: [Khảo sát về chủ đề hội thảo sinh viên Khoa Công nghệ thông tin quan tâm](Default.aspx?tabid=292&newsid=17610)
 
 • **13-10-2026**: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Nguyễn Ngọc Trung (9g00, 17/10/2026, Phòng I23)](Default.aspx?tabid=292&newsid=17606)
 
 • **13-10-2026**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 35/2025 (đợt tháng 10/2026)](Default.aspx?tabid=292&newsid=17605)
 
 • **13-10-2026**: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 2 (tháng 10/2026)](Default.aspx?tabid=292&newsid=17604)
-
-• **12-10-2026**: [Danh sách sinh viên tham quan công ty Bosch ngày 3/11](Default.aspx?tabid=292&newsid=17603)
 
 ## Student Information
 
