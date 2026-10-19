@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-19 at 12:54 +07***
+*Last updated: **2026-10-19 at 19:34 +07***
 
 ---
 
@@ -34,6 +34,10 @@
 
 ### Academic Affairs
 
+• **19/10/2026**: [Thông báo về việc thay đổi địa chỉ email tiếp nhận và hỗ trợ các vấn đề liên quan đến đề tài tốt nghiệp](https://www.ctda.hcmus.edu.vn/vi/2026/10/thong-bao-ve-viec-thay-doi-dia-chi-email-tiep-nhan-va-ho-tro-cac-van-de-lien-quan-den-de-tai-tot-nghiep/)
+
+• **19/10/2026**: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 03/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/10/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2023-bao-ve-thang-03-2027/)
+
 • **16/10/2026**: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp (bảo vệ 07-08/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-dot-2-nam-2026-bao-ve-07-08-2027/)
 
 • **28/09/2026**: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-04-2027/)
@@ -49,10 +53,6 @@
 • **22/08/2026**: [[CTĐA] Thông báo nộp file đề tài tốt nghiệp TTDATN SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-thong-bao-nop-file-de-tai-tot-nghiep-ttdatn-sau-bao-ve-khoa-2022-dot-1-bao-ve-thang-08-2026/)
 
 • **21/08/2026**: [[CTĐA] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (đợt bảo vệ 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-dang-ky-nguyen-vong-ho-tro-de-tai-tot-nghiep-dot-bao-ve-04-2027/)
-
-• **19/08/2026**: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-lich-thi-chi-tiet-cuoi-ky-hk3-2526/)
-
-• **31/07/2026**: [Thông báo đăng ký đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp trên hệ thống Khoa đợt tháng 04/2027](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-dang-ky-de-tai-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-tren-he-thong-khoa-dot-thang-04-2027/)
 
 ### Student Support
 
