@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-21 at 10:54 +07***
+*Last updated: **2026-10-21 at 16:13 +07***
 
 ---
 
@@ -104,6 +104,8 @@
 
 • **19-10-2026**: [Sinh viên Khoa Công nghệ thông tin-FITHCMUS ghi dấu ấn tại AI Challenge 2026](Default.aspx?tabid=292&newsid=17619)
 
+• **18-10-2026**: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Nguyễn Ngọc Trung ngày 17/10/2026](Default.aspx?tabid=292&newsid=17621)
+
 • **16-10-2026**: [Mời nộp bài và trình bày tại Tiểu ban Công nghệ Thông tin và Truyền thông, Hội nghị khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2026](Default.aspx?tabid=292&newsid=17617)
 
 • **16-10-2026**: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 07-08/2027](Default.aspx?tabid=292&newsid=17615)
@@ -117,8 +119,6 @@
 • **14-10-2026**: [Khảo sát về chủ đề hội thảo sinh viên Khoa Công nghệ thông tin quan tâm](Default.aspx?tabid=292&newsid=17610)
 
 • **13-10-2026**: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Nguyễn Ngọc Trung (9g00, 17/10/2026, Phòng I23)](Default.aspx?tabid=292&newsid=17606)
-
-• **13-10-2026**: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 35/2025 (đợt tháng 10/2026)](Default.aspx?tabid=292&newsid=17605)
 
 ## Student Information
 
