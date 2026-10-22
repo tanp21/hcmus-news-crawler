@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-22 at 10:54 +07***
+*Last updated: **2026-10-22 at 21:56 +07***
 
 ---
 
@@ -122,8 +122,6 @@
 
 ## Student Information
 
-• **22/10/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 (CT Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-ct-dai-tra-va-hk3-2025-2026-ct-de-an/)
-
 • **21/10/2026**: [Thông báo nộp học phí học kỳ 1/2026-2027, chương trình đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2026-2027-chuong-trinh-de-an/)
 
 • **20/10/2026**: [Thông báo nộp học phí học kỳ 1/2026-2027, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2026-2027-chuong-trinh-dai-tra/)
@@ -141,6 +139,8 @@
 • **18/09/2026**: [Thông báo kết quả chính thức HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
 
 • **17/09/2026**: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2025-2026 (CT Chuẩn) và HK3/2025-2026 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2025-2026-ct-chuan-va-hk3-2025-2026-ct-de-an/)
+
+• **14/09/2026**: [SINH HOẠT CÔNG DÂN ĐẦU KHÓA 2026](https://hcmus.edu.vn/sinh-hoat-cong-dan-dau-khoa-2026/)
 
 ## Exam Announcements
 
