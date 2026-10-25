@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-25 at 08:00 +07***
+*Last updated: **2026-10-25 at 14:24 +07***
 
 ---
 
@@ -100,6 +100,12 @@
 
 ## FIT
 
+• **25-10-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2026](Default.aspx?tabid=292&newsid=17624)
+
+• **24-10-2026**: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17626)
+
+• **23-10-2026**: [Thông báo kết quả xét hồ sơ trình độ thạc sĩ năm 2026 - Đợt 2 (phương thức xét tuyển)](Default.aspx?tabid=292&newsid=17625)
+
 • **20-10-2026**: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 10/11](Default.aspx?tabid=292&newsid=17620)
 
 • **19-10-2026**: [Sinh viên Khoa Công nghệ thông tin-FITHCMUS ghi dấu ấn tại AI Challenge 2026](Default.aspx?tabid=292&newsid=17619)
@@ -113,12 +119,6 @@
 • **15-10-2026**: [Giới thiệu sách mới của Thư viện Khoa Công nghệ thông tin FIT.HCMUS](Default.aspx?tabid=292&newsid=17614)
 
 • **15-10-2026**: [Đăng ký tham quan công ty Fujinet Systems ngày 10/11](Default.aspx?tabid=292&newsid=17613)
-
-• **14-10-2026**: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 10 năm 2026](Default.aspx?tabid=292&newsid=17611)
-
-• **14-10-2026**: [Khảo sát về chủ đề hội thảo sinh viên Khoa Công nghệ thông tin quan tâm](Default.aspx?tabid=292&newsid=17610)
-
-• **13-10-2026**: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Nguyễn Ngọc Trung (9g00, 17/10/2026, Phòng I23)](Default.aspx?tabid=292&newsid=17606)
 
 ## Student Information
 
