@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-28 at 11:47 +07***
+*Last updated: **2026-10-28 at 18:06 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **28-10-2026**: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 7/2027)](Default.aspx?tabid=292&newsid=17631)
+
 • **28-10-2026**: [Đăng ký tham quan công ty OPSWAT ngày 12/11](Default.aspx?tabid=292&newsid=17629)
 
 • **25-10-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2026](Default.aspx?tabid=292&newsid=17624)
@@ -117,8 +119,6 @@
 • **16-10-2026**: [Mời nộp bài và trình bày tại Tiểu ban Công nghệ Thông tin và Truyền thông, Hội nghị khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2026](Default.aspx?tabid=292&newsid=17617)
 
 • **16-10-2026**: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 07-08/2027](Default.aspx?tabid=292&newsid=17615)
-
-• **15-10-2026**: [Giới thiệu sách mới của Thư viện Khoa Công nghệ thông tin FIT.HCMUS](Default.aspx?tabid=292&newsid=17614)
 
 ## Student Information
 
