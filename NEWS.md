@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-30 at 08:42 +07***
+*Last updated: **2026-10-30 at 15:18 +07***
 
 ---
 
@@ -56,6 +56,8 @@
 
 ### Student Support
 
+• **30/10/2026**: [Thông báo lịch cố vấn học tập học kỳ 1, năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/10/thong-bao-lich-co-van-hoc-tap-hoc-ky-1-nam-hoc-2026-2027/)
+
 • **21/09/2026**: [Hướng dẫn truy cập email fitus dành cho sinh viên Chương trình đào tạo theo Đề án – khóa 2026](https://www.ctda.hcmus.edu.vn/vi/2026/09/huong-dan-truy-cap-email-fitus-danh-cho-sinh-vien-chuong-trinh-dao-tao-theo-de-an-khoa-2026/)
 
 • **04/12/2025**: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://www.ctda.hcmus.edu.vn/vi/2025/12/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
@@ -73,8 +75,6 @@
 • **27/11/2024**: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
 
 • **23/09/2024**: [[TLSV]_Thông báo lịch cố vấn học tập học kỳ 1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/09/tlsv_thong-bao-lich-co-van-hoc-tap-hoc-ky-1-2024-2025/)
-
-• **13/09/2024**: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
 
 ### Accounting & Finance
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **30-10-2026**: [Từ mong muốn AI phục vụ con người đến giải pháp mô phỏng khiển máy bay không người lái của nhóm nghiên cứu Khoa Công nghệ thông tin](Default.aspx?tabid=292&newsid=17635)
+
 • **29-10-2026**: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2026](Default.aspx?tabid=292&newsid=17634)
 
 • **29-10-2026**: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Hồ Thị Hoàng Vy (13g30, 05/11/2026, Phòng F102)](Default.aspx?tabid=292&newsid=17633)
@@ -117,8 +119,6 @@
 • **20-10-2026**: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 10/11](Default.aspx?tabid=292&newsid=17620)
 
 • **19-10-2026**: [Sinh viên Khoa Công nghệ thông tin-FITHCMUS ghi dấu ấn tại AI Challenge 2026](Default.aspx?tabid=292&newsid=17619)
-
-• **18-10-2026**: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Nguyễn Ngọc Trung ngày 17/10/2026](Default.aspx?tabid=292&newsid=17621)
 
 ## Student Information
 
