@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-10-30 at 15:18 +07***
+*Last updated: **2026-10-30 at 22:42 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **30-10-2026**: [Mời đăng ký tham gia Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XV năm 2026 - Tiểu ban Công nghệ Thông tin và Truyền thông](Default.aspx?tabid=292&newsid=17637)
+
 • **30-10-2026**: [Từ mong muốn AI phục vụ con người đến giải pháp mô phỏng khiển máy bay không người lái của nhóm nghiên cứu Khoa Công nghệ thông tin](Default.aspx?tabid=292&newsid=17635)
 
 • **29-10-2026**: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2026](Default.aspx?tabid=292&newsid=17634)
@@ -117,8 +119,6 @@
 • **23-10-2026**: [Thông báo kết quả xét hồ sơ trình độ thạc sĩ năm 2026 - Đợt 2 (phương thức xét tuyển)](Default.aspx?tabid=292&newsid=17625)
 
 • **20-10-2026**: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 10/11](Default.aspx?tabid=292&newsid=17620)
-
-• **19-10-2026**: [Sinh viên Khoa Công nghệ thông tin-FITHCMUS ghi dấu ấn tại AI Challenge 2026](Default.aspx?tabid=292&newsid=17619)
 
 ## Student Information
 
