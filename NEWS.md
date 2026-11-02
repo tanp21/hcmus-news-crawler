@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-02 at 14:28 +07***
+*Last updated: **2026-11-03 at 00:59 +07***
 
 ---
 
@@ -100,6 +100,10 @@
 
 ## FIT
 
+• **2-11-2026**: [QUỸ HỌC BỔNG CỰU SINH VIÊN – TIẾP NỐI HÀNH TRÌNH, LAN TỎA GIÁ TRỊ SẺ CHIA](Default.aspx?tabid=292&newsid=17639)
+
+• **2-11-2026**: [LỄ TRAO HỌC BỔNG CỰU SINH VIÊN VÀ TRAO TẶNG MÁY TÍNH NĂM 2026](Default.aspx?tabid=292&newsid=17638)
+
 • **30-10-2026**: [Mời đăng ký tham gia Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XV năm 2026 - Tiểu ban Công nghệ Thông tin và Truyền thông](Default.aspx?tabid=292&newsid=17637)
 
 • **30-10-2026**: [Từ mong muốn AI phục vụ con người đến giải pháp mô phỏng khiển máy bay không người lái của nhóm nghiên cứu Khoa Công nghệ thông tin](Default.aspx?tabid=292&newsid=17635)
@@ -115,10 +119,6 @@
 • **25-10-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2026](Default.aspx?tabid=292&newsid=17624)
 
 • **24-10-2026**: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17626)
-
-• **23-10-2026**: [Thông báo kết quả xét hồ sơ trình độ thạc sĩ năm 2026 - Đợt 2 (phương thức xét tuyển)](Default.aspx?tabid=292&newsid=17625)
-
-• **20-10-2026**: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 10/11](Default.aspx?tabid=292&newsid=17620)
 
 ## Student Information
 
