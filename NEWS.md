@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-03 at 07:53 +07***
+*Last updated: **2026-11-03 at 14:42 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **3-11-2026**: [Danh sách sinh viên tham quan công ty OPSWAT ngày 12/11](Default.aspx?tabid=292&newsid=17641)
+
 • **2-11-2026**: [QUỸ HỌC BỔNG CỰU SINH VIÊN – TIẾP NỐI HÀNH TRÌNH, LAN TỎA GIÁ TRỊ SẺ CHIA](Default.aspx?tabid=292&newsid=17639)
 
 • **2-11-2026**: [LỄ TRAO HỌC BỔNG CỰU SINH VIÊN VÀ TRAO TẶNG MÁY TÍNH NĂM 2026](Default.aspx?tabid=292&newsid=17638)
@@ -116,9 +118,7 @@
 
 • **28-10-2026**: [Đăng ký tham quan công ty OPSWAT ngày 12/11](Default.aspx?tabid=292&newsid=17629)
 
-• **25-10-2026**: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2026](Default.aspx?tabid=292&newsid=17624)
-
-• **24-10-2026**: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 35/2025](Default.aspx?tabid=292&newsid=17626)
+• **26-10-2026**: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 35/2025 đối với sinh viên liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17640)
 
 ## Student Information
 
