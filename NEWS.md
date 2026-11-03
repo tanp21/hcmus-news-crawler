@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-03 at 14:42 +07***
+*Last updated: **2026-11-03 at 22:58 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **3-11-2026**: [Đăng ký tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật](Default.aspx?tabid=292&newsid=17642)
+
 • **3-11-2026**: [Danh sách sinh viên tham quan công ty OPSWAT ngày 12/11](Default.aspx?tabid=292&newsid=17641)
 
 • **2-11-2026**: [QUỸ HỌC BỔNG CỰU SINH VIÊN – TIẾP NỐI HÀNH TRÌNH, LAN TỎA GIÁ TRỊ SẺ CHIA](Default.aspx?tabid=292&newsid=17639)
@@ -117,8 +119,6 @@
 • **28-10-2026**: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 7/2027)](Default.aspx?tabid=292&newsid=17631)
 
 • **28-10-2026**: [Đăng ký tham quan công ty OPSWAT ngày 12/11](Default.aspx?tabid=292&newsid=17629)
-
-• **26-10-2026**: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 35/2025 đối với sinh viên liên thông ĐH-ThS](Default.aspx?tabid=292&newsid=17640)
 
 ## Student Information
 
