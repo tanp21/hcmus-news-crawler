@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-05 at 06:24 +07***
+*Last updated: **2026-11-05 at 12:49 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **5-11-2026**: [Danh sách sinh viên tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật](Default.aspx?tabid=292&newsid=17643)
+
 • **3-11-2026**: [Đăng ký tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật](Default.aspx?tabid=292&newsid=17642)
 
 • **3-11-2026**: [Danh sách sinh viên tham quan công ty OPSWAT ngày 12/11](Default.aspx?tabid=292&newsid=17641)
@@ -117,8 +119,6 @@
 • **29-10-2026**: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Hồ Thị Hoàng Vy (13g30, 05/11/2026, Phòng F102)](Default.aspx?tabid=292&newsid=17633)
 
 • **28-10-2026**: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 7/2027)](Default.aspx?tabid=292&newsid=17631)
-
-• **28-10-2026**: [Đăng ký tham quan công ty OPSWAT ngày 12/11](Default.aspx?tabid=292&newsid=17629)
 
 ## Student Information
 
