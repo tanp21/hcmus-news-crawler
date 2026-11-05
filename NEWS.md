@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-05 at 12:49 +07***
+*Last updated: **2026-11-05 at 21:18 +07***
 
 ---
 
@@ -100,6 +100,14 @@
 
 ## FIT
 
+• **5-11-2026**: [Đăng ký tham quan công ty VNG ngày 26/11](Default.aspx?tabid=292&newsid=17648)
+
+• **5-11-2026**: [Đăng ký tham quan công ty VNG ngày 26/11](Default.aspx?tabid=292&newsid=17647)
+
+• **5-11-2026**: [Đăng ký tham dự Hội thảo "AI trong doanh nghiệp: Từ xu hướng đến thực tế"](Default.aspx?tabid=292&newsid=17646)
+
+• **5-11-2026**: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 12/2026](Default.aspx?tabid=292&newsid=17644)
+
 • **5-11-2026**: [Danh sách sinh viên tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật](Default.aspx?tabid=292&newsid=17643)
 
 • **3-11-2026**: [Đăng ký tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật](Default.aspx?tabid=292&newsid=17642)
@@ -111,14 +119,6 @@
 • **2-11-2026**: [LỄ TRAO HỌC BỔNG CỰU SINH VIÊN VÀ TRAO TẶNG MÁY TÍNH NĂM 2026](Default.aspx?tabid=292&newsid=17638)
 
 • **30-10-2026**: [Mời đăng ký tham gia Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XV năm 2026 - Tiểu ban Công nghệ Thông tin và Truyền thông](Default.aspx?tabid=292&newsid=17637)
-
-• **30-10-2026**: [Từ mong muốn AI phục vụ con người đến giải pháp mô phỏng khiển máy bay không người lái của nhóm nghiên cứu Khoa Công nghệ thông tin](Default.aspx?tabid=292&newsid=17635)
-
-• **29-10-2026**: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2026](Default.aspx?tabid=292&newsid=17634)
-
-• **29-10-2026**: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Hồ Thị Hoàng Vy (13g30, 05/11/2026, Phòng F102)](Default.aspx?tabid=292&newsid=17633)
-
-• **28-10-2026**: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 7/2027)](Default.aspx?tabid=292&newsid=17631)
 
 ## Student Information
 
