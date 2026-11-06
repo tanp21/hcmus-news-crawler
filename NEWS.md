@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-06 at 09:03 +07***
+*Last updated: **2026-11-06 at 17:33 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **6-11-2026**: [Chúc mừng Nghiên cứu sinh Hồ Thị Hoàng Vy hoàn thành bảo vệ luận án Tiến sĩ cấp Cơ sở đào tạo](Default.aspx?tabid=292&newsid=17651)
+
 • **5-11-2026**: [Đăng ký tham quan công ty VNG ngày 26/11](Default.aspx?tabid=292&newsid=17648)
 
 • **5-11-2026**: [Đăng ký tham quan công ty VNG ngày 26/11](Default.aspx?tabid=292&newsid=17647)
@@ -118,9 +120,9 @@
 
 • **2-11-2026**: [LỄ TRAO HỌC BỔNG CỰU SINH VIÊN VÀ TRAO TẶNG MÁY TÍNH NĂM 2026](Default.aspx?tabid=292&newsid=17638)
 
-• **30-10-2026**: [Mời đăng ký tham gia Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XV năm 2026 - Tiểu ban Công nghệ Thông tin và Truyền thông](Default.aspx?tabid=292&newsid=17637)
-
 ## Student Information
+
+• **06/11/2026**: [Thông báo nhận bằng tốt nghiệp trình độ đại học hệ chính quy, từ xa và liên thông đã được công bố danh sách tốt nghiệp tháng 9 năm 2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-trinh-do-dai-hoc-he-chinh-quy-tu-xa-va-lien-thong-da-duoc-cong-bo-danh-sach-tot-nghiep-thang-9-nam-2026/)
 
 • **29/10/2026**: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2025-2026-chuong-trinh-chuan/)
 
@@ -139,8 +141,6 @@
 • **12/10/2026**: [QUY ĐỊNH CHI TIẾT MỘT SỐ NỘI DUNG VÀ BIỆN PHÁP TỔ CHỨC THỰC HIỆN CHÍNH SÁCH HỌC BỔNG ĐỐI VỚI NGƯỜI HỌC CÁC NGÀNH KHOA HỌC CƠ BẢN, KỸ THUẬT THEN CHỐT VÀ CÔNG NGHỆ CHIẾN LƯỢC](https://hcmus.edu.vn/quy-dinh-chi-tiet-mot-so-noi-dung-va-bien-phap-to-chuc-thuc-hien-chinh-sach-hoc-bong-doi-voi-nguoi-hoc-cac-nganh-khoa-hoc-co-ban-ky-thuat-then-chot-va-cong-nghe-chien-luoc/)
 
 • **22/09/2026**: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
-
-• **22/09/2026**: [Thư mời đăng ký tham dự Chương trình InnovaConnect năm 2026, với chủ đề “Catalyzing Innovation in Chemistry and Drug Discovery” 01/10/2026](https://hcmus.edu.vn/thu-moi-dang-ky-tham-du-chuong-trinh-innovaconnect-nam-2026-voi-chu-de-catalyzing-innovation-in-chemistry-and-drug-discovery-01-10-2026/)
 
 ## Exam Announcements
 
