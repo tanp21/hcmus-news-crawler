@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-06 at 17:33 +07***
+*Last updated: **2026-11-07 at 00:51 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **6-11-2026**: [Cập nhật lịch trình bày Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XV năm 2026 - Tiểu ban Công nghệ Thông tin và Truyền thông](Default.aspx?tabid=292&newsid=17652)
+
 • **6-11-2026**: [Chúc mừng Nghiên cứu sinh Hồ Thị Hoàng Vy hoàn thành bảo vệ luận án Tiến sĩ cấp Cơ sở đào tạo](Default.aspx?tabid=292&newsid=17651)
 
 • **5-11-2026**: [Đăng ký tham quan công ty VNG ngày 26/11](Default.aspx?tabid=292&newsid=17648)
@@ -117,8 +119,6 @@
 • **3-11-2026**: [Danh sách sinh viên tham quan công ty OPSWAT ngày 12/11](Default.aspx?tabid=292&newsid=17641)
 
 • **2-11-2026**: [QUỸ HỌC BỔNG CỰU SINH VIÊN – TIẾP NỐI HÀNH TRÌNH, LAN TỎA GIÁ TRỊ SẺ CHIA](Default.aspx?tabid=292&newsid=17639)
-
-• **2-11-2026**: [LỄ TRAO HỌC BỔNG CỰU SINH VIÊN VÀ TRAO TẶNG MÁY TÍNH NĂM 2026](Default.aspx?tabid=292&newsid=17638)
 
 ## Student Information
 
