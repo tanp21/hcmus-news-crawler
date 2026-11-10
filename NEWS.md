@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-10 at 07:00 +07***
+*Last updated: **2026-11-10 at 14:05 +07***
 
 ---
 
@@ -100,7 +100,13 @@
 
 ## FIT
 
+• **10-11-2026**: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 2/12](Default.aspx?tabid=292&newsid=17655)
+
+• **10-11-2026**: [Sự kiện "PostGraduate PhD Pathways in Singapore": Cơ hội tìm hiểu chương trình Tiến sĩ và Thạc sĩ nghiên cứu tại Singapore](Default.aspx?tabid=292&newsid=17654)
+
 • **9-11-2026**: [Danh sách tham dự Hội thảo "AI trong doanh nghiệp: Từ xu hướng đến thực tế"](Default.aspx?tabid=292&newsid=17653)
+
+• **9-11-2026**: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 35/2025 - bắt đầu học 09/11/2026](Default.aspx?tabid=292&newsid=17656)
 
 • **6-11-2026**: [Cập nhật lịch trình bày Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XV năm 2026 - Tiểu ban Công nghệ Thông tin và Truyền thông](Default.aspx?tabid=292&newsid=17652)
 
@@ -113,12 +119,6 @@
 • **5-11-2026**: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 12/2026](Default.aspx?tabid=292&newsid=17644)
 
 • **5-11-2026**: [Danh sách sinh viên tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật](Default.aspx?tabid=292&newsid=17643)
-
-• **3-11-2026**: [Đăng ký tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật](Default.aspx?tabid=292&newsid=17642)
-
-• **3-11-2026**: [Danh sách sinh viên tham quan công ty OPSWAT ngày 12/11](Default.aspx?tabid=292&newsid=17641)
-
-• **2-11-2026**: [QUỸ HỌC BỔNG CỰU SINH VIÊN – TIẾP NỐI HÀNH TRÌNH, LAN TỎA GIÁ TRỊ SẺ CHIA](Default.aspx?tabid=292&newsid=17639)
 
 ## Student Information
 
@@ -138,9 +138,9 @@
 
 • **16/10/2026**: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/71537-2/)
 
-• **16/10/2026**: [Quy chế đào tạo trình độ đại học năm 2026](https://hcmus.edu.vn/quy-che-dao-tao-trinh-do-dai-hoc-nam-2026/)
-
 • **12/10/2026**: [QUY ĐỊNH CHI TIẾT MỘT SỐ NỘI DUNG VÀ BIỆN PHÁP TỔ CHỨC THỰC HIỆN CHÍNH SÁCH HỌC BỔNG ĐỐI VỚI NGƯỜI HỌC CÁC NGÀNH KHOA HỌC CƠ BẢN, KỸ THUẬT THEN CHỐT VÀ CÔNG NGHỆ CHIẾN LƯỢC](https://hcmus.edu.vn/quy-dinh-chi-tiet-mot-so-noi-dung-va-bien-phap-to-chuc-thuc-hien-chinh-sach-hoc-bong-doi-voi-nguoi-hoc-cac-nganh-khoa-hoc-co-ban-ky-thuat-then-chot-va-cong-nghe-chien-luoc/)
+
+• **22/09/2026**: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
 
 ## Exam Announcements
 
