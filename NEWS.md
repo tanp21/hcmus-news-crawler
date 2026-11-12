@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-12 at 08:22 +07***
+*Last updated: **2026-11-12 at 16:29 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **12-11-2026**: [Đăng ký tham gia Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17663)
+
 • **11-11-2026**: [Đăng ký tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật ngày 18/11](Default.aspx?tabid=292&newsid=17661)
 
 • **11-11-2026**: [Thông báo đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 7/2027)](Default.aspx?tabid=292&newsid=17660)
@@ -118,9 +120,11 @@
 
 • **6-11-2026**: [Cập nhật lịch trình bày Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XV năm 2026 - Tiểu ban Công nghệ Thông tin và Truyền thông](Default.aspx?tabid=292&newsid=17652)
 
-• **6-11-2026**: [Chúc mừng Nghiên cứu sinh Hồ Thị Hoàng Vy hoàn thành bảo vệ luận án Tiến sĩ cấp Cơ sở đào tạo](Default.aspx?tabid=292&newsid=17651)
-
 ## Student Information
+
+• **12/11/2026**: [Thông báo nghỉ học ngày văn hóa Việt Nam 24/11/2026](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-van-hoa-viet-nam-24-11-2026/)
+
+• **12/11/2026**: [Quyết định 50/2026/QĐ-TTg của Thủ tướng về tín dụng đối với học sinh, sinh viên](https://hcmus.edu.vn/quyet-dinh-50-2026-qd-ttg-cua-thu-tuong-ve-tin-dung-doi-voi-hoc-sinh-sinh-vien/)
 
 • **11/11/2026**: [Quy chế đào tạo trình độ đại học năm 2026](https://hcmus.edu.vn/quy-che-dao-tao-trinh-do-dai-hoc-nam-2026/)
 
@@ -137,10 +141,6 @@
 • **22/10/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 (CT Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-ct-dai-tra-va-hk3-2025-2026-ct-de-an/)
 
 • **21/10/2026**: [Thông báo nộp học phí học kỳ 1/2026-2027, chương trình đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2026-2027-chuong-trinh-de-an/)
-
-• **20/10/2026**: [Thông báo nộp học phí học kỳ 1/2026-2027, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2026-2027-chuong-trinh-dai-tra/)
-
-• **16/10/2026**: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/71537-2/)
 
 ## Exam Announcements
 
