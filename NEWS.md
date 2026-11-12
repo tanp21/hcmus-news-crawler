@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-12 at 16:29 +07***
+*Last updated: **2026-11-13 at 00:58 +07***
 
 ---
 
@@ -100,6 +100,10 @@
 
 ## FIT
 
+• **12-11-2026**: [Tổng kết Tiểu ban Công nghệ Thông tin và Truyền thông – Hội nghị Khoa học lần thứ XV năm 2026](Default.aspx?tabid=292&newsid=17665)
+
+• **12-11-2026**: [Đăng ký tham gia Seminar Facility Location Games, from Origin to Recent Development](Default.aspx?tabid=292&newsid=17664)
+
 • **12-11-2026**: [Đăng ký tham gia Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17663)
 
 • **11-11-2026**: [Đăng ký tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật ngày 18/11](Default.aspx?tabid=292&newsid=17661)
@@ -115,10 +119,6 @@
 • **10-11-2026**: [Sự kiện "PostGraduate PhD Pathways in Singapore": Cơ hội tìm hiểu chương trình Tiến sĩ và Thạc sĩ nghiên cứu tại Singapore](Default.aspx?tabid=292&newsid=17654)
 
 • **9-11-2026**: [Danh sách tham dự Hội thảo "AI trong doanh nghiệp: Từ xu hướng đến thực tế"](Default.aspx?tabid=292&newsid=17653)
-
-• **9-11-2026**: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 35/2025 - bắt đầu học 09/11/2026](Default.aspx?tabid=292&newsid=17656)
-
-• **6-11-2026**: [Cập nhật lịch trình bày Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XV năm 2026 - Tiểu ban Công nghệ Thông tin và Truyền thông](Default.aspx?tabid=292&newsid=17652)
 
 ## Student Information
 
