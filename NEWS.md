@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-13 at 12:46 +07***
+*Last updated: **2026-11-13 at 21:13 +07***
 
 ---
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **13/11/2026**: [Thông báo kiểm tra và cập nhật thông tin Căn cước công dân đối với sinh viên đã được công bố danh sách tốt nghiệp tháng 9 năm 2026](https://hcmus.edu.vn/thong-bao-kiem-tra-va-cap-nhat-thong-tin-can-cuoc-cong-dan-doi-voi-sinh-vien-da-duoc-cong-bo-danh-sach-tot-nghiep-thang-9-nam-2026/)
+
 • **12/11/2026**: [Thông báo nghỉ học ngày văn hóa Việt Nam 24/11/2026](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-van-hoa-viet-nam-24-11-2026/)
 
 • **12/11/2026**: [Quyết định 50/2026/QĐ-TTg của Thủ tướng về tín dụng đối với học sinh, sinh viên](https://hcmus.edu.vn/quyet-dinh-50-2026-qd-ttg-cua-thu-tuong-ve-tin-dung-doi-voi-hoc-sinh-sinh-vien/)
@@ -139,8 +141,6 @@
 • **23/10/2026**: [Pháp luật với sinh viên thời đại số: Cư trú, sở hữu trí tuệ và sử dụng AI có trách nhiệm.](https://hcmus.edu.vn/phap-luat-voi-sinh-vien-thoi-dai-so-cu-tru-so-huu-tri-tue-va-su-dung-ai-co-trach-nhiem/)
 
 • **22/10/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 (CT Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-ct-dai-tra-va-hk3-2025-2026-ct-de-an/)
-
-• **21/10/2026**: [Thông báo nộp học phí học kỳ 1/2026-2027, chương trình đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2026-2027-chuong-trinh-de-an/)
 
 ## Exam Announcements
 
