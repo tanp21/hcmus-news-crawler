@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-16 at 08:39 +07***
+*Last updated: **2026-11-16 at 16:10 +07***
 
 ---
 
@@ -100,6 +100,10 @@
 
 ## FIT
 
+• **16-11-2026**: [Đăng ký tham quan công ty GeoComply ngày 3/12](Default.aspx?tabid=292&newsid=17668)
+
+• **16-11-2026**: [Danh sách sinh viên tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật ngày 18/11](Default.aspx?tabid=292&newsid=17667)
+
 • **12-11-2026**: [Tổng kết Tiểu ban Công nghệ Thông tin và Truyền thông – Hội nghị Khoa học lần thứ XV năm 2026](Default.aspx?tabid=292&newsid=17665)
 
 • **12-11-2026**: [Đăng ký tham gia Seminar Facility Location Games, from Origin to Recent Development](Default.aspx?tabid=292&newsid=17664)
@@ -115,10 +119,6 @@
 • **10-11-2026**: [Ngày đầu tiên của Tiểu ban Công nghệ Thông tin và Truyền thông – Hội nghị Khoa học lần thứ XV năm 2026](Default.aspx?tabid=292&newsid=17657)
 
 • **10-11-2026**: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 2/12](Default.aspx?tabid=292&newsid=17655)
-
-• **10-11-2026**: [Sự kiện "PostGraduate PhD Pathways in Singapore": Cơ hội tìm hiểu chương trình Tiến sĩ và Thạc sĩ nghiên cứu tại Singapore](Default.aspx?tabid=292&newsid=17654)
-
-• **9-11-2026**: [Danh sách tham dự Hội thảo "AI trong doanh nghiệp: Từ xu hướng đến thực tế"](Default.aspx?tabid=292&newsid=17653)
 
 ## Student Information
 
