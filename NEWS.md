@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-17 at 03:05 +07***
+*Last updated: **2026-11-17 at 10:30 +07***
 
 ---
 
@@ -104,6 +104,8 @@
 
 • **16-11-2026**: [Danh sách sinh viên tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật ngày 18/11](Default.aspx?tabid=292&newsid=17667)
 
+• **16-11-2026**: [Thông tin buổi giới thiệu trực tuyến chương trình Thạc sĩ Khoa học Máy tính tại Bishop’s University (Canada) ngày 19/11/2026](Default.aspx?tabid=292&newsid=17669)
+
 • **12-11-2026**: [Tổng kết Tiểu ban Công nghệ Thông tin và Truyền thông – Hội nghị Khoa học lần thứ XV năm 2026](Default.aspx?tabid=292&newsid=17665)
 
 • **12-11-2026**: [Đăng ký tham gia Seminar Facility Location Games, from Origin to Recent Development](Default.aspx?tabid=292&newsid=17664)
@@ -117,8 +119,6 @@
 • **11-11-2026**: [Danh sách sinh viên tham quan công ty VNG ngày 26/11](Default.aspx?tabid=292&newsid=17659)
 
 • **10-11-2026**: [Ngày đầu tiên của Tiểu ban Công nghệ Thông tin và Truyền thông – Hội nghị Khoa học lần thứ XV năm 2026](Default.aspx?tabid=292&newsid=17657)
-
-• **10-11-2026**: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 2/12](Default.aspx?tabid=292&newsid=17655)
 
 ## Student Information
 
