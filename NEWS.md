@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-17 at 10:30 +07***
+*Last updated: **2026-11-17 at 19:53 +07***
 
 ---
 
@@ -122,6 +122,8 @@
 
 ## Student Information
 
+• **17/11/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK3/2025-2026 (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk3-2025-2026-ctda/)
+
 • **13/11/2026**: [Thông báo kiểm tra và cập nhật thông tin Căn cước công dân đối với sinh viên đã được công bố danh sách tốt nghiệp tháng 9 năm 2026](https://hcmus.edu.vn/thong-bao-kiem-tra-va-cap-nhat-thong-tin-can-cuoc-cong-dan-doi-voi-sinh-vien-da-duoc-cong-bo-danh-sach-tot-nghiep-thang-9-nam-2026/)
 
 • **12/11/2026**: [Thông báo nghỉ học ngày văn hóa Việt Nam 24/11/2026](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-van-hoa-viet-nam-24-11-2026/)
@@ -139,8 +141,6 @@
 • **29/10/2026**: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2025-2026-chuong-trinh-chuan/)
 
 • **23/10/2026**: [Pháp luật với sinh viên thời đại số: Cư trú, sở hữu trí tuệ và sử dụng AI có trách nhiệm.](https://hcmus.edu.vn/phap-luat-voi-sinh-vien-thoi-dai-so-cu-tru-so-huu-tri-tue-va-su-dung-ai-co-trach-nhiem/)
-
-• **22/10/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 (CT Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-ct-dai-tra-va-hk3-2025-2026-ct-de-an/)
 
 ## Exam Announcements
 
