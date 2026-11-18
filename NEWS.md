@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-18 at 04:34 +07***
+*Last updated: **2026-11-18 at 10:24 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **18-11-2026**: [Tổng kết Seminar Facility Location Games, from Origin to Recent Development](Default.aspx?tabid=292&newsid=17670)
+
 • **16-11-2026**: [Đăng ký tham quan công ty GeoComply ngày 3/12](Default.aspx?tabid=292&newsid=17668)
 
 • **16-11-2026**: [Danh sách sinh viên tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật ngày 18/11](Default.aspx?tabid=292&newsid=17667)
@@ -117,8 +119,6 @@
 • **11-11-2026**: [Thông báo đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 7/2027)](Default.aspx?tabid=292&newsid=17660)
 
 • **11-11-2026**: [Danh sách sinh viên tham quan công ty VNG ngày 26/11](Default.aspx?tabid=292&newsid=17659)
-
-• **10-11-2026**: [Ngày đầu tiên của Tiểu ban Công nghệ Thông tin và Truyền thông – Hội nghị Khoa học lần thứ XV năm 2026](Default.aspx?tabid=292&newsid=17657)
 
 ## Student Information
 
