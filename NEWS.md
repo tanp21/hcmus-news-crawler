@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-18 at 10:24 +07***
+*Last updated: **2026-11-18 at 19:46 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **18-11-2026**: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 2/12](Default.aspx?tabid=292&newsid=17671)
+
 • **18-11-2026**: [Tổng kết Seminar Facility Location Games, from Origin to Recent Development](Default.aspx?tabid=292&newsid=17670)
 
 • **16-11-2026**: [Đăng ký tham quan công ty GeoComply ngày 3/12](Default.aspx?tabid=292&newsid=17668)
@@ -118,9 +120,9 @@
 
 • **11-11-2026**: [Thông báo đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 7/2027)](Default.aspx?tabid=292&newsid=17660)
 
-• **11-11-2026**: [Danh sách sinh viên tham quan công ty VNG ngày 26/11](Default.aspx?tabid=292&newsid=17659)
-
 ## Student Information
+
+• **18/11/2026**: [Thông báo đánh giá môn học dành cho sinh viên chương trình đề án](https://hcmus.edu.vn/thong-bao-danh-gia-mon-hoc-danh-cho-sinh-vien-chuong-trinh-de-an/)
 
 • **17/11/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK3/2025-2026 (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk3-2025-2026-ctda/)
 
@@ -139,8 +141,6 @@
 • **06/11/2026**: [Thông báo nhận bằng tốt nghiệp trình độ đại học hệ chính quy, từ xa và liên thông đã được công bố danh sách tốt nghiệp tháng 9 năm 2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-trinh-do-dai-hoc-he-chinh-quy-tu-xa-va-lien-thong-da-duoc-cong-bo-danh-sach-tot-nghiep-thang-9-nam-2026/)
 
 • **29/10/2026**: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2025-2026-chuong-trinh-chuan/)
-
-• **23/10/2026**: [Pháp luật với sinh viên thời đại số: Cư trú, sở hữu trí tuệ và sử dụng AI có trách nhiệm.](https://hcmus.edu.vn/phap-luat-voi-sinh-vien-thoi-dai-so-cu-tru-so-huu-tri-tue-va-su-dung-ai-co-trach-nhiem/)
 
 ## Exam Announcements
 
