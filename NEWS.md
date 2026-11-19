@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-19 at 18:27 +07***
+*Last updated: **2026-11-20 at 03:13 +07***
 
 ---
 
@@ -100,6 +100,12 @@
 
 ## FIT
 
+• **19-11-2026**: [Đăng ký tham gia Seminar How do classifiers interact? Exact attribution for plurality-voting ensembles](Default.aspx?tabid=292&newsid=17680)
+
+• **19-11-2026**: [Chúc mừng nhóm Sinh viên APCS có công bố trên Hội nghị uy tín rank B và nhận được giải thưởng Best Paper Runner-up Award của PRICAI năm 2026](Default.aspx?tabid=292&newsid=17679)
+
+• **19-11-2026**: [Đào tạo AI: Xây dựng tư duy để làm chủ công nghệ](Default.aspx?tabid=292&newsid=17677)
+
 • **19-11-2026**: [Tổng kết Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17676)
 
 • **19-11-2026**: [Chương trình tham quan VNG dành cho sinh viên Cử nhân tài năng ngày 1/12](Default.aspx?tabid=292&newsid=17675)
@@ -113,12 +119,6 @@
 • **18-11-2026**: [Tổng kết Seminar Facility Location Games, from Origin to Recent Development](Default.aspx?tabid=292&newsid=17670)
 
 • **16-11-2026**: [Đăng ký tham quan công ty GeoComply ngày 3/12](Default.aspx?tabid=292&newsid=17668)
-
-• **16-11-2026**: [Danh sách sinh viên tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật ngày 18/11](Default.aspx?tabid=292&newsid=17667)
-
-• **16-11-2026**: [Thông tin buổi giới thiệu trực tuyến chương trình Thạc sĩ Khoa học Máy tính tại Bishop’s University (Canada) ngày 19/11/2026](Default.aspx?tabid=292&newsid=17669)
-
-• **12-11-2026**: [Tổng kết Tiểu ban Công nghệ Thông tin và Truyền thông – Hội nghị Khoa học lần thứ XV năm 2026](Default.aspx?tabid=292&newsid=17665)
 
 ## Student Information
 
