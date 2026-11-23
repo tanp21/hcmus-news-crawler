@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-23 at 07:03 +07***
+*Last updated: **2026-11-23 at 15:43 +07***
 
 ---
 
@@ -100,6 +100,8 @@
 
 ## FIT
 
+• **23-11-2026**: [Đăng ký tham dự Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](Default.aspx?tabid=292&newsid=17683)
+
 • **19-11-2026**: [Đăng ký tham gia Seminar How do classifiers interact? Exact attribution for plurality-voting ensembles](Default.aspx?tabid=292&newsid=17680)
 
 • **19-11-2026**: [Chúc mừng nhóm Sinh viên APCS có công bố trên Hội nghị uy tín rank B và nhận được giải thưởng Best Paper Runner-up Award của PRICAI năm 2026](Default.aspx?tabid=292&newsid=17679)
@@ -117,8 +119,6 @@
 • **18-11-2026**: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 2/12](Default.aspx?tabid=292&newsid=17671)
 
 • **18-11-2026**: [Tổng kết Seminar Facility Location Games, from Origin to Recent Development](Default.aspx?tabid=292&newsid=17670)
-
-• **16-11-2026**: [Đăng ký tham quan công ty GeoComply ngày 3/12](Default.aspx?tabid=292&newsid=17668)
 
 ## Student Information
 
