@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-25 at 09:00 +07***
+*Last updated: **2026-11-25 at 19:18 +07***
 
 ---
 
@@ -100,7 +100,11 @@
 
 ## FIT
 
+• **25-11-2026**: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2028 - 2029](Default.aspx?tabid=292&newsid=17685)
+
 • **23-11-2026**: [Đăng ký tham dự Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](Default.aspx?tabid=292&newsid=17683)
+
+• **20-11-2026**: [Thông báo lịch thi lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2026](Default.aspx?tabid=292&newsid=17686)
 
 • **19-11-2026**: [Đăng ký tham gia Seminar How do classifiers interact? Exact attribution for plurality-voting ensembles](Default.aspx?tabid=292&newsid=17680)
 
@@ -115,10 +119,6 @@
 • **19-11-2026**: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2026](Default.aspx?tabid=292&newsid=17674)
 
 • **19-11-2026**: [Danh sách tham quan công ty GeoComply ngày 3/12](Default.aspx?tabid=292&newsid=17673)
-
-• **18-11-2026**: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 2/12](Default.aspx?tabid=292&newsid=17671)
-
-• **18-11-2026**: [Tổng kết Seminar Facility Location Games, from Origin to Recent Development](Default.aspx?tabid=292&newsid=17670)
 
 ## Student Information
 
