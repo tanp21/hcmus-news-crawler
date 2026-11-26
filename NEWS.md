@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-26 at 11:45 +07***
+*Last updated: **2026-11-26 at 21:48 +07***
 
 ---
 
@@ -100,6 +100,10 @@
 
 ## FIT
 
+• **26-11-2026**: [Tổng kết Seminar How do classifiers interact? Exact attribution for plurality-voting ensembles](Default.aspx?tabid=292&newsid=17695)
+
+• **26-11-2026**: [Danh sách sinh viên tham gia Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](Default.aspx?tabid=292&newsid=17694)
+
 • **25-11-2026**: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2028 - 2029](Default.aspx?tabid=292&newsid=17685)
 
 • **23-11-2026**: [Đăng ký tham dự Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](Default.aspx?tabid=292&newsid=17683)
@@ -116,11 +120,9 @@
 
 • **19-11-2026**: [Chương trình tham quan VNG dành cho sinh viên Cử nhân tài năng ngày 1/12](Default.aspx?tabid=292&newsid=17675)
 
-• **19-11-2026**: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2026](Default.aspx?tabid=292&newsid=17674)
-
-• **19-11-2026**: [Danh sách tham quan công ty GeoComply ngày 3/12](Default.aspx?tabid=292&newsid=17673)
-
 ## Student Information
+
+• **26/11/2026**: [Thông báo đăng ký học phần học kỳ 2 năm học 2026-2027 – Chương trình Chất lượng cao, Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2026-2027-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
 
 • **19/11/2026**: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk2-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
 
@@ -139,8 +141,6 @@
 • **10/11/2026**: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2025-2026-chuong-trinh-chuan/)
 
 • **08/11/2026**: [KHAI MẠC CHUỖI HOẠT ĐỘNG HỘI NGHỊ KHOA HỌC LẦN THỨ 15](https://hcmus.edu.vn/khai-mac-chuoi-hoat-dong-hoi-nghi-khoa-hoc-lan-thu-15/)
-
-• **06/11/2026**: [Thông báo nhận bằng tốt nghiệp trình độ đại học hệ chính quy, từ xa và liên thông đã được công bố danh sách tốt nghiệp tháng 9 năm 2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-trinh-do-dai-hoc-he-chinh-quy-tu-xa-va-lien-thong-da-duoc-cong-bo-danh-sach-tot-nghiep-thang-9-nam-2026/)
 
 ## Exam Announcements
 
