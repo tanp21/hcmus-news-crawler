@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-27 at 06:33 +07***
+*Last updated: **2026-11-27 at 14:28 +07***
 
 ---
 
@@ -100,11 +100,13 @@
 
 ## FIT
 
+• **27-11-2026**: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Hồ Thị Thanh Tuyến (14g00, 07/12/2026, Phòng F102)](Default.aspx?tabid=292&newsid=17696)
+
 • **26-11-2026**: [Tổng kết Seminar How do classifiers interact? Exact attribution for plurality-voting ensembles](Default.aspx?tabid=292&newsid=17695)
 
 • **26-11-2026**: [Danh sách sinh viên tham gia Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](Default.aspx?tabid=292&newsid=17694)
 
-• **25-11-2026**: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2028 - 2029](Default.aspx?tabid=292&newsid=17685)
+• **25-11-2026**: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc sỹ và Nghiên cứu sinh Fulbright năm học 2028-2029](Default.aspx?tabid=292&newsid=17685)
 
 • **23-11-2026**: [Đăng ký tham dự Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](Default.aspx?tabid=292&newsid=17683)
 
@@ -117,8 +119,6 @@
 • **19-11-2026**: [Đào tạo AI: Xây dựng tư duy để làm chủ công nghệ](Default.aspx?tabid=292&newsid=17677)
 
 • **19-11-2026**: [Tổng kết Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](Default.aspx?tabid=292&newsid=17676)
-
-• **19-11-2026**: [Chương trình tham quan VNG dành cho sinh viên Cử nhân tài năng ngày 1/12](Default.aspx?tabid=292&newsid=17675)
 
 ## Student Information
 
