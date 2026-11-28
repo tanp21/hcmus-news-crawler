@@ -1,12 +1,11 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2026-11-28 at 08:17 +07***
+*Last updated: **2026-11-28 at 16:56 +07***
 
 ---
 
 ## ⚠️ Errors
 
-• Student Information: Failed to load HCMUS news
 • Exam Announcements: Failed to load exam announcements
 
 ## APCS
@@ -123,7 +122,25 @@
 
 ## Student Information
 
-*Failed to load HCMUS news*
+• **26/11/2026**: [Thông báo đăng ký học phần học kỳ 2 năm học 2026-2027 – Chương trình Chất lượng cao, Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2026-2027-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
+
+• **19/11/2026**: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk2-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
+
+• **18/11/2026**: [Thông báo đánh giá môn học dành cho sinh viên chương trình đề án](https://hcmus.edu.vn/thong-bao-danh-gia-mon-hoc-danh-cho-sinh-vien-chuong-trinh-de-an/)
+
+• **17/11/2026**: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK3/2025-2026 (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk3-2025-2026-ctda/)
+
+• **13/11/2026**: [Thông báo kiểm tra và cập nhật thông tin Căn cước công dân đối với sinh viên đã được công bố danh sách tốt nghiệp tháng 9 năm 2026](https://hcmus.edu.vn/thong-bao-kiem-tra-va-cap-nhat-thong-tin-can-cuoc-cong-dan-doi-voi-sinh-vien-da-duoc-cong-bo-danh-sach-tot-nghiep-thang-9-nam-2026/)
+
+• **12/11/2026**: [Thông báo nghỉ học ngày văn hóa Việt Nam 24/11/2026](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-van-hoa-viet-nam-24-11-2026/)
+
+• **12/11/2026**: [Quyết định 50/2026/QĐ-TTg của Thủ tướng về tín dụng đối với học sinh, sinh viên](https://hcmus.edu.vn/quyet-dinh-50-2026-qd-ttg-cua-thu-tuong-ve-tin-dung-doi-voi-hoc-sinh-sinh-vien/)
+
+• **11/11/2026**: [Quy chế đào tạo trình độ đại học năm 2026](https://hcmus.edu.vn/quy-che-dao-tao-trinh-do-dai-hoc-nam-2026/)
+
+• **10/11/2026**: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2025-2026-chuong-trinh-chuan/)
+
+• **08/11/2026**: [KHAI MẠC CHUỖI HOẠT ĐỘNG HỘI NGHỊ KHOA HỌC LẦN THỨ 15](https://hcmus.edu.vn/khai-mac-chuoi-hoat-dong-hoi-nghi-khoa-hoc-lan-thu-15/)
 
 ## Exam Announcements
 
